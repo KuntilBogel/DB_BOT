@@ -1,0 +1,282 @@
+[
+  {
+    "pertanyaan": "Udara, Ketinggian, Pesawat, Terbang",
+    "jawaban": "AVIATOR"
+  },
+  {
+    "pertanyaan": "Matahari, Cahaya, Panas, Panel",
+    "jawaban": "SURYA"
+  },
+  {
+    "pertanyaan": "Senyawa, Atom, Molekul, Reaksi",
+    "jawaban": "KIMIA"
+  },
+  {
+    "pertanyaan": "Tanaman, Pertumbuhan, Fotosintesis, Klorofil",
+    "jawaban": "BOTANI"
+  },
+  {
+    "pertanyaan": "Kesehatan, Olahraga, Kebugaran, Diet",
+    "jawaban": "NUTRISI"
+  },
+  {
+    "pertanyaan": "Hutan, Tumbuhan, Fauna, Konservasi",
+    "jawaban": "EKOLOGI"
+  },
+  {
+    "pertanyaan": "Hukum, Peraturan, Pengadilan, Hakim",
+    "jawaban": "LEGAL"
+  },
+  {
+    "pertanyaan": "Teks, Data, Basis, Informasi",
+    "jawaban": "DATABASE"
+  },
+  {
+    "pertanyaan": "Pesawat, Kendali, Terbang, Navigasi",
+    "jawaban": "PILOT"
+  },
+  {
+    "pertanyaan": "Film, Aktor, Skenario, Produksi",
+    "jawaban": "SINEMATOGRAFI"
+  },
+  {
+    "pertanyaan": "Buku, Pustaka, Referensi, Pengetahuan",
+    "jawaban": "LITERATUR"
+  },
+  {
+    "pertanyaan": "Komputer, Internet, Data, Sistem",
+    "jawaban": "TEKNOLOGI"
+  },
+  {
+    "pertanyaan": "Energi, Tenaga, Listrik, Generator",
+    "jawaban": "ENERGI"
+  },
+  {
+    "pertanyaan": "Bakteri, Virus, Infeksi, Obat",
+    "jawaban": "MIKROBIOLOGI"
+  },
+  {
+    "pertanyaan": "Jaringan, Komputer, Keamanan, Internet",
+    "jawaban": "SIBER"
+  },
+  {
+    "pertanyaan": "Pasar, Produk, Iklan, Strategi",
+    "jawaban": "MARKETING"
+  },
+  {
+    "pertanyaan": "Gen, Kromosom, DNA, Sel",
+    "jawaban": "GENETIKA"
+  },
+  {
+    "pertanyaan": "Budaya, Sejarah, Tradisi, Seni",
+    "jawaban": "ANTROPOLOGI"
+  },
+  {
+    "pertanyaan": "Desain, Grafik, Kreatif, Visual",
+    "jawaban": "DESAIN"
+  },
+  {
+    "pertanyaan": "Hujan, Cuaca, Suhu, Prediksi",
+    "jawaban": "METEOROLOGI"
+  },
+  {
+    "pertanyaan": "Musik, Nada, Lagu, Melodi",
+    "jawaban": "MUSIK"
+  },
+  {
+    "pertanyaan": "Gigi, Kesehatan, Perawatan, Mulut",
+    "jawaban": "DENTAL"
+  },
+  {
+    "pertanyaan": "Otot, Tulang, Gerakan, Sendi",
+    "jawaban": "ANATOMI"
+  },
+  {
+    "pertanyaan": "Transportasi, Kereta, Mobil, Jalan",
+    "jawaban": "OTOMOTIF"
+  },
+  {
+    "pertanyaan": "Kode, Program, Komputer, Algoritma",
+    "jawaban": "SOFTWARE"
+  },
+  {
+    "pertanyaan": "Planet, Bintang, Galaksi, Tata Surya",
+    "jawaban": "ASTRONOMI"
+  },
+  {
+    "pertanyaan": "Pesan, Komunikasi, Media, Berita",
+    "jawaban": "JURNALIS"
+  },
+  {
+    "pertanyaan": "Sinyal, Frekuensi, Radio, Komunikasi",
+    "jawaban": "TELEKOMUNIKASI"
+  },
+  {
+    "pertanyaan": "Riset, Data, Analisis, Kesimpulan",
+    "jawaban": "PENELITIAN"
+  },
+  {
+    "pertanyaan": "Tanah, Subur, Kebun, Padi",
+    "jawaban": "AGRIKULTUR"
+  },
+  {
+    "pertanyaan": "Protein, Metabolisme, Sel, Genetik",
+    "jawaban": "BIOKIMIA"
+  },
+  {
+    "pertanyaan": "Tumbuhan, Herbivora, Ekosistem, Habitat",
+    "jawaban": "BOTANI"
+  },
+  {
+    "pertanyaan": "Komputer, Server, Jaringan, Internet",
+    "jawaban": "IT"
+  },
+  {
+    "pertanyaan": "Tari, Gerak, Musik, Koreografi",
+    "jawaban": "PENARI"
+  },
+  {
+    "pertanyaan": "Listrik, Tegangan, Arus, Kabel",
+    "jawaban": "ELEKTRIK"
+  },
+  {
+    "pertanyaan": "Manajemen, Organisasi, Efisiensi, Struktur",
+    "jawaban": "MANAJER"
+  },
+  {
+    "pertanyaan": "Gambar, Film, Animasi, Gerak",
+    "jawaban": "ANIMATOR"
+  },
+  {
+    "pertanyaan": "Desain, Rancang, Bangunan, Konstruksi",
+    "jawaban": "ARSITEK"
+  },
+  {
+    "pertanyaan": "Hukum, Pengadilan, Kasus, Peraturan",
+    "jawaban": "PENGACARA"
+  },
+  {
+    "pertanyaan": "Sistem, Komputer, Informasi, Jaringan",
+    "jawaban": "IT"
+  },
+  {
+    "pertanyaan": "Bahasa, Kata, Makna, Terjemah",
+    "jawaban": "LINGUISTIK"
+  },
+  {
+    "pertanyaan": "Protein, Enzim, Metabolisme, Sel",
+    "jawaban": "BIOKIMIA"
+  },
+  {
+    "pertanyaan": "Kesehatan, Obat, Pasien, Terapi",
+    "jawaban": "DOKTER"
+  },
+  {
+    "pertanyaan": "Bank, Tabungan, Pinjaman, Investasi",
+    "jawaban": "BANKIR"
+  },
+  {
+    "pertanyaan": "Desain, Bangunan, Konstruksi, Rancang",
+    "jawaban": "ARSITEK"
+  },
+  {
+    "pertanyaan": "Mikroba, Bakteri, Virus, Patogen",
+    "jawaban": "MIKROBIOLOGI"
+  },
+  {
+    "pertanyaan": "Film, Skenario, Produksi, Aktor",
+    "jawaban": "SINEMATOGRAFI"
+  },
+  {
+    "pertanyaan": "Ekonomi, Pasar, Harga, Permintaan",
+    "jawaban": "EKONOMI"
+  },
+  {
+    "pertanyaan": "Energi, Bahan Bakar, Sumber Daya, Tenaga",
+    "jawaban": "ENERGI"
+  },
+  {
+    "pertanyaan": "Mobil, Mesin, Transportasi, Roda",
+    "jawaban": "OTOMOTIF"
+  },
+  {
+    "pertanyaan": "Jaringan, Keamanan, Internet, Siber",
+    "jawaban": "SIBER"
+  },
+  {
+    "pertanyaan": "Pesawat, Pilot, Kokpit, Bandara",
+    "jawaban": "AVIATOR"
+  },
+  {
+    "pertanyaan": "Gigi, Mulut, Kesehatan, Perawatan",
+    "jawaban": "DENTAL"
+  },
+  {
+    "pertanyaan": "Organisasi, Manajemen, Struktur, Efisiensi",
+    "jawaban": "MANAJER"
+  },
+  {
+    "pertanyaan": "Satelit, Orbit, Sinyal, Komunikasi",
+    "jawaban": "ANTENA"
+  },
+  {
+    "pertanyaan": "Buku, Pengetahuan, Referensi, Perpustakaan",
+    "jawaban": "LITERATUR"
+  },
+  {
+    "pertanyaan": "Laut, Samudra, Pantai, Kapal",
+    "jawaban": "MARITIM"
+  },
+  {
+    "pertanyaan": "Dokter, Pasien, Kesehatan, Diagnosa",
+    "jawaban": "MEDIS"
+  },
+  {
+    "pertanyaan": "Bahasa, Kata, Makna, Terjemah",
+    "jawaban": "PENERJEMAH"
+  },
+  {
+    "pertanyaan": "Hewan, Tumbuhan, Ekosistem, Habitat",
+    "jawaban": "EKOLOGI"
+  },
+  {
+    "pertanyaan": "Cerita, Novel, Karakter, Narasi",
+    "jawaban": "FIKSI"
+  },
+  {
+    "pertanyaan": "Desain, Grafik, Kreatif, Visual",
+    "jawaban": "DESAINER"
+  },
+  {
+    "pertanyaan": "Anatomi, Otot, Tulang, Sendi",
+    "jawaban": "ANATOMI"
+  },
+  {
+    "pertanyaan": "Bakteri, Virus, Infeksi, Imun",
+    "jawaban": "MIKROBIOLOGI"
+  },
+  {
+    "pertanyaan": "Film, Kamera, Skenario, Produksi",
+    "jawaban": "FILM MAKER"
+  },
+  {
+    "pertanyaan": "Teks, Data, Basis, Informasi",
+    "jawaban": "DATABASE"
+  },
+  {
+    "pertanyaan": "Kesehatan, Olahraga, Kebugaran, Diet",
+    "jawaban": "GIZI"
+  },
+  {
+    "pertanyaan": "Hukum, Peraturan, Pengadilan, Hakim",
+    "jawaban": "LEGAL"
+  },
+  {
+    "pertanyaan": "Kerajinan, Bahan, Produk, Desain",
+    "jawaban": "PENGRAJIN"
+  },
+  {
+    "pertanyaan": "Planet, Bintang, Galaksi, Tata Surya",
+    "jawaban": "ASTRONOMI"
+  }
+]
