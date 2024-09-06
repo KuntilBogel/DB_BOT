@@ -5,12 +5,12 @@ import { dirname, join } from 'path';
 import axios from 'axios';
 const m = []
 
-for (let i = 0; i < 3; i++) {
+for (let i = 0; i < 5; i++) {
     console.log("getting " + (i+1))
     const response = await axios.post(
         'https://graphql.anilist.co/',
         {
-            'query': '\n    {\n      Page(page:' + (i + 1) + ', perPage: 500){\n        media (sort:POPULARITY_DESC, isAdult: false){      \n          title {\n            english\n           \tromaji            \n          }\n          id\n          characters(sort:FAVOURITES_DESC, perPage: 5){\n            nodes{\n              id\n              name {\n                full\n              }\n              image{\n                large\n              }\n            }\n          }      \n        }\t\n      }\n  }',
+            'query': '\n    {\n      Page(page:' + (i + 1) + ', perPage: 50){\n        media (sort:POPULARITY_DESC, isAdult: false){      \n          title {\n            english\n           \tromaji            \n          }\n          id\n          characters(sort:FAVOURITES_DESC, perPage: 5){\n            nodes{\n              id\n              name {\n                full\n              }\n              image{\n                large\n              }\n            }\n          }      \n        }\t\n      }\n  }',
             'variables': {}
         },
         {
@@ -31,6 +31,7 @@ for (let i = 0; i < 3; i++) {
             }
         }
     );
+    console.log("length " + response.data.data.Page.media.length)
     m.push(...response.data.data.Page.media)
 
 }
