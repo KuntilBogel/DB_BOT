@@ -5,7 +5,7 @@ import { dirname, join } from 'path';
 import axios from 'axios';
 const m = []
 
-for (let i = 0; i < 5; i++) {
+for (let i = 0; i < 2; i++) {
     console.log("getting " + (i+1))
     const response = await axios.post(
         'https://graphql.anilist.co/',
