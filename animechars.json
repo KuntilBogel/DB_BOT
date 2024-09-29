@@ -2788,12 +2788,12 @@
           }
         },
         {
-          "id": 88683,
+          "id": 88780,
           "name": {
-            "full": "Ginti"
+            "full": "Clavis"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88683-S0xJzL8QY3gI.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88780-76uJe60Gkw70.png"
           }
         }
       ]
@@ -3193,62 +3193,6 @@
   },
   {
     "title": {
-      "english": "One-Punch Man Season 2",
-      "romaji": "One Punch Man 2"
-    },
-    "id": 97668,
-    "characters": {
-      "nodes": [
-        {
-          "id": 73935,
-          "name": {
-            "full": "Saitama"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73935-bBEu127IYhci.jpg"
-          }
-        },
-        {
-          "id": 81929,
-          "name": {
-            "full": "Tatsumaki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b81929-WPVp2LQoWgkc.png"
-          }
-        },
-        {
-          "id": 89277,
-          "name": {
-            "full": "Garou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89277-xBGb4B5YISXg.png"
-          }
-        },
-        {
-          "id": 73979,
-          "name": {
-            "full": "Genos"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73979-tVi9maPID881.jpg"
-          }
-        },
-        {
-          "id": 81931,
-          "name": {
-            "full": "Fubuki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b81931-fmouMoprPVbV.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Bleach",
       "romaji": "BLEACH"
     },
@@ -3298,6 +3242,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1086-qR9218BjZTC0.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "One-Punch Man Season 2",
+      "romaji": "One Punch Man 2"
+    },
+    "id": 97668,
+    "characters": {
+      "nodes": [
+        {
+          "id": 73935,
+          "name": {
+            "full": "Saitama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73935-bBEu127IYhci.jpg"
+          }
+        },
+        {
+          "id": 81929,
+          "name": {
+            "full": "Tatsumaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b81929-WPVp2LQoWgkc.png"
+          }
+        },
+        {
+          "id": 89277,
+          "name": {
+            "full": "Garou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89277-xBGb4B5YISXg.png"
+          }
+        },
+        {
+          "id": 73979,
+          "name": {
+            "full": "Genos"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73979-tVi9maPID881.jpg"
+          }
+        },
+        {
+          "id": 81931,
+          "name": {
+            "full": "Fubuki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b81931-fmouMoprPVbV.png"
           }
         }
       ]
@@ -3787,21 +3787,21 @@
           }
         },
         {
-          "id": 128040,
-          "name": {
-            "full": "Shuna"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b128040-QOhtFHgfOT5O.png"
-          }
-        },
-        {
           "id": 128034,
           "name": {
             "full": "Veldora Tempest"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b128034-Gg5MrpTFNSv8.png"
+          }
+        },
+        {
+          "id": 128040,
+          "name": {
+            "full": "Shuna"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b128040-QOhtFHgfOT5O.png"
           }
         }
       ]
