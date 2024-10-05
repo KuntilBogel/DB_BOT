@@ -1,11 +1,13 @@
 {
   "dependencies": {
+    "@aws-sdk/client-s3": "^3.665.0",
     "@faker-js/faker": "^9.0.3",
     "@types/node": "^22.1.0",
     "axios": "^1.7.7",
     "dotenv": "^16.4.5",
     "i": "^0.3.7",
     "npm": "^10.8.3",
+    "p-limit": "^6.1.0",
     "useragent": "^2.3.0"
   },
   "name": "db_bot",
