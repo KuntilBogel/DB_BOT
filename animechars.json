@@ -3081,6 +3081,62 @@
   },
   {
     "title": {
+      "english": "Bleach",
+      "romaji": "BLEACH"
+    },
+    "id": 269,
+    "characters": {
+      "nodes": [
+        {
+          "id": 5,
+          "name": {
+            "full": "Ichigo Kurosaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5-RxGEMJZLW4cy.png"
+          }
+        },
+        {
+          "id": 210,
+          "name": {
+            "full": "Kisuke Urahara"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b210-mw01NrQfRjzT.png"
+          }
+        },
+        {
+          "id": 908,
+          "name": {
+            "full": "Yoruichi Shihouin"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b908-JSYUkJLCw1f0.png"
+          }
+        },
+        {
+          "id": 6,
+          "name": {
+            "full": "Rukia Kuchiki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b6-25WoBeWMZXBc.png"
+          }
+        },
+        {
+          "id": 1086,
+          "name": {
+            "full": "Sousuke Aizen"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1086-qR9218BjZTC0.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
       "english": "Sword Art Online II",
       "romaji": "Sword Art Online II"
     },
@@ -3186,62 +3242,6 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/4.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "english": "Bleach",
-      "romaji": "BLEACH"
-    },
-    "id": 269,
-    "characters": {
-      "nodes": [
-        {
-          "id": 5,
-          "name": {
-            "full": "Ichigo Kurosaki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5-RxGEMJZLW4cy.png"
-          }
-        },
-        {
-          "id": 210,
-          "name": {
-            "full": "Kisuke Urahara"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b210-mw01NrQfRjzT.png"
-          }
-        },
-        {
-          "id": 908,
-          "name": {
-            "full": "Yoruichi Shihouin"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b908-JSYUkJLCw1f0.png"
-          }
-        },
-        {
-          "id": 6,
-          "name": {
-            "full": "Rukia Kuchiki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b6-25WoBeWMZXBc.png"
-          }
-        },
-        {
-          "id": 1086,
-          "name": {
-            "full": "Sousuke Aizen"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1086-qR9218BjZTC0.png"
           }
         }
       ]
@@ -4201,62 +4201,6 @@
   },
   {
     "title": {
-      "english": "The Devil is a Part-Timer!",
-      "romaji": "Hataraku Maou-sama!"
-    },
-    "id": 15809,
-    "characters": {
-      "nodes": [
-        {
-          "id": 70733,
-          "name": {
-            "full": "Satan Jacob"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70733-d564H7iUj7Y2.png"
-          }
-        },
-        {
-          "id": 70735,
-          "name": {
-            "full": "Emilia Justina"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70735-DmmbHRLKpS0E.png"
-          }
-        },
-        {
-          "id": 83103,
-          "name": {
-            "full": "Lucifer"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83103-fksjOXqJCmxd.png"
-          }
-        },
-        {
-          "id": 70737,
-          "name": {
-            "full": "Alciel"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70737-lDeBmECttJCK.png"
-          }
-        },
-        {
-          "id": 70739,
-          "name": {
-            "full": "Chiho Sasaki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70739-rJpfVU2YH5nS.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Classroom of the Elite",
       "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
     },
@@ -4306,6 +4250,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124691-S9GyfwMAkkJ9.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "The Devil is a Part-Timer!",
+      "romaji": "Hataraku Maou-sama!"
+    },
+    "id": 15809,
+    "characters": {
+      "nodes": [
+        {
+          "id": 70733,
+          "name": {
+            "full": "Satan Jacob"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70733-d564H7iUj7Y2.png"
+          }
+        },
+        {
+          "id": 70735,
+          "name": {
+            "full": "Emilia Justina"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70735-DmmbHRLKpS0E.png"
+          }
+        },
+        {
+          "id": 83103,
+          "name": {
+            "full": "Lucifer"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83103-fksjOXqJCmxd.png"
+          }
+        },
+        {
+          "id": 70737,
+          "name": {
+            "full": "Alciel"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70737-lDeBmECttJCK.png"
+          }
+        },
+        {
+          "id": 70739,
+          "name": {
+            "full": "Chiho Sasaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70739-rJpfVU2YH5nS.png"
           }
         }
       ]
