@@ -4537,62 +4537,6 @@
   },
   {
     "title": {
-      "english": "Another",
-      "romaji": "Another"
-    },
-    "id": 11111,
-    "characters": {
-      "nodes": [
-        {
-          "id": 41402,
-          "name": {
-            "full": "Mei Misaki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b41402-3clBclsDhTSG.png"
-          }
-        },
-        {
-          "id": 41400,
-          "name": {
-            "full": "Kouichi Sakakibara"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b41400-v3WD2Tz5cXo8.png"
-          }
-        },
-        {
-          "id": 51585,
-          "name": {
-            "full": "Izumi Akazawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b51585-Sp3l5TRdrULa.jpg"
-          }
-        },
-        {
-          "id": 51587,
-          "name": {
-            "full": "Naoya Teshigawara"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b51587-Pw1kxIJNb6Sm.png"
-          }
-        },
-        {
-          "id": 51595,
-          "name": {
-            "full": "Yuuya Mochizuki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b51595-WONJEojLs7jf.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
       "romaji": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
     },
@@ -4642,6 +4586,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88897-2xey5UG7Qr2S.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Another",
+      "romaji": "Another"
+    },
+    "id": 11111,
+    "characters": {
+      "nodes": [
+        {
+          "id": 41402,
+          "name": {
+            "full": "Mei Misaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b41402-3clBclsDhTSG.png"
+          }
+        },
+        {
+          "id": 41400,
+          "name": {
+            "full": "Kouichi Sakakibara"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b41400-v3WD2Tz5cXo8.png"
+          }
+        },
+        {
+          "id": 51585,
+          "name": {
+            "full": "Izumi Akazawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b51585-Sp3l5TRdrULa.jpg"
+          }
+        },
+        {
+          "id": 51587,
+          "name": {
+            "full": "Naoya Teshigawara"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b51587-Pw1kxIJNb6Sm.png"
+          }
+        },
+        {
+          "id": 51595,
+          "name": {
+            "full": "Yuuya Mochizuki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b51595-WONJEojLs7jf.png"
           }
         }
       ]
@@ -4705,62 +4705,6 @@
   },
   {
     "title": {
-      "english": "Fairy Tail",
-      "romaji": "FAIRY TAIL"
-    },
-    "id": 6702,
-    "characters": {
-      "nodes": [
-        {
-          "id": 5189,
-          "name": {
-            "full": "Erza Scarlet"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5189-GR1xdok9SFsN.jpg"
-          }
-        },
-        {
-          "id": 5187,
-          "name": {
-            "full": "Natsu Dragneel"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5187-y1OEdRu9sPN2.png"
-          }
-        },
-        {
-          "id": 5186,
-          "name": {
-            "full": "Lucy Heartfilia"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5186-izgXf2S86K9u.png"
-          }
-        },
-        {
-          "id": 4839,
-          "name": {
-            "full": "Gray Fullbuster"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4839-p2SBgjdTxHxk.png"
-          }
-        },
-        {
-          "id": 9719,
-          "name": {
-            "full": "Juvia Lockser"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b9719-xh4xqTV6byNl.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "JUJUTSU KAISEN Season 2",
       "romaji": "Jujutsu Kaisen 2nd Season"
     },
@@ -4810,6 +4754,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133704-8wLTGjc234q2.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Fairy Tail",
+      "romaji": "FAIRY TAIL"
+    },
+    "id": 6702,
+    "characters": {
+      "nodes": [
+        {
+          "id": 5189,
+          "name": {
+            "full": "Erza Scarlet"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5189-GR1xdok9SFsN.jpg"
+          }
+        },
+        {
+          "id": 5187,
+          "name": {
+            "full": "Natsu Dragneel"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5187-y1OEdRu9sPN2.png"
+          }
+        },
+        {
+          "id": 5186,
+          "name": {
+            "full": "Lucy Heartfilia"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5186-izgXf2S86K9u.png"
+          }
+        },
+        {
+          "id": 4839,
+          "name": {
+            "full": "Gray Fullbuster"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4839-p2SBgjdTxHxk.png"
+          }
+        },
+        {
+          "id": 9719,
+          "name": {
+            "full": "Juvia Lockser"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b9719-xh4xqTV6byNl.png"
           }
         }
       ]
@@ -5097,62 +5097,6 @@
   },
   {
     "title": {
-      "english": "Dororo",
-      "romaji": "Dororo"
-    },
-    "id": 101347,
-    "characters": {
-      "nodes": [
-        {
-          "id": 14864,
-          "name": {
-            "full": "Hyakkimaru"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b14864-MMntDWi2EkyR.png"
-          }
-        },
-        {
-          "id": 36309,
-          "name": {
-            "full": "Narrator"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-yRLEQYd2dDI5.jpg"
-          }
-        },
-        {
-          "id": 18130,
-          "name": {
-            "full": "Dororo"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b18130-qD7dREeDAkLE.png"
-          }
-        },
-        {
-          "id": 133825,
-          "name": {
-            "full": "Mio"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133825-zCFpsLLRJnPm.jpg"
-          }
-        },
-        {
-          "id": 24843,
-          "name": {
-            "full": "Biwamaru"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n24843-aemlGiDa6lk8.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "JUJUTSU KAISEN 0",
       "romaji": "Jujutsu Kaisen 0"
     },
@@ -5202,6 +5146,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157115-kdhRYQdVhH95.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Dororo",
+      "romaji": "Dororo"
+    },
+    "id": 101347,
+    "characters": {
+      "nodes": [
+        {
+          "id": 14864,
+          "name": {
+            "full": "Hyakkimaru"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b14864-MMntDWi2EkyR.png"
+          }
+        },
+        {
+          "id": 36309,
+          "name": {
+            "full": "Narrator"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-yRLEQYd2dDI5.jpg"
+          }
+        },
+        {
+          "id": 18130,
+          "name": {
+            "full": "Dororo"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b18130-qD7dREeDAkLE.png"
+          }
+        },
+        {
+          "id": 133825,
+          "name": {
+            "full": "Mio"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133825-zCFpsLLRJnPm.jpg"
+          }
+        },
+        {
+          "id": 24843,
+          "name": {
+            "full": "Biwamaru"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n24843-aemlGiDa6lk8.png"
           }
         }
       ]
