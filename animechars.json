@@ -353,15 +353,6 @@
           }
         },
         {
-          "id": 81929,
-          "name": {
-            "full": "Tatsumaki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b81929-WPVp2LQoWgkc.png"
-          }
-        },
-        {
           "id": 89277,
           "name": {
             "full": "Garou"
@@ -377,6 +368,15 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73979-tVi9maPID881.jpg"
+          }
+        },
+        {
+          "id": 81929,
+          "name": {
+            "full": "Tatsumaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b81929-WPVp2LQoWgkc.png"
           }
         },
         {
@@ -436,12 +436,12 @@
           }
         },
         {
-          "id": 88293,
+          "id": 88414,
           "name": {
-            "full": "Hinami Fueguchi"
+            "full": "Uta"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88293-4J36uyflNWvb.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88414-r2Xd7jJeMrvR.jpg"
           }
         }
       ]
@@ -810,21 +810,21 @@
           }
         },
         {
-          "id": 124026,
-          "name": {
-            "full": "Naoka Ueno"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/124026-KcQmX7heg7im.jpg"
-          }
-        },
-        {
           "id": 89335,
           "name": {
             "full": "Yuzuru Nishimiya"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89335-3fy5a7Qa9h9J.jpg"
+          }
+        },
+        {
+          "id": 124026,
+          "name": {
+            "full": "Naoka Ueno"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/124026-KcQmX7heg7im.jpg"
           }
         },
         {
@@ -1099,21 +1099,21 @@
           }
         },
         {
-          "id": 125659,
-          "name": {
-            "full": "Gabi Braun"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b125659-O37MZQWibV7g.png"
-          }
-        },
-        {
           "id": 46494,
           "name": {
             "full": "Armin Arlert"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b46494-g7xYYuBtYPnO.png"
+          }
+        },
+        {
+          "id": 71121,
+          "name": {
+            "full": "Hange Zoe"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71121-7R7CnQd3lHgt.png"
           }
         }
       ]
@@ -1240,21 +1240,21 @@
     "characters": {
       "nodes": [
         {
-          "id": 69409,
-          "name": {
-            "full": "Tsubaki Sawabe"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/69409-lq7MFPFTwmBu.png"
-          }
-        },
-        {
           "id": 69411,
           "name": {
             "full": "Kaori Miyazono"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b69411-lxM0FRvWHqlv.png"
+          }
+        },
+        {
+          "id": 69409,
+          "name": {
+            "full": "Tsubaki Sawabe"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/69409-lq7MFPFTwmBu.png"
           }
         },
         {
@@ -1762,21 +1762,21 @@
           }
         },
         {
-          "id": 127840,
-          "name": {
-            "full": "Tomoe Koga"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127840-z2LUox2R2Ivg.jpg"
-          }
-        },
-        {
           "id": 127633,
           "name": {
             "full": "Rio Futaba"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127633-FcCwWK5sQRhK.png"
+          }
+        },
+        {
+          "id": 127840,
+          "name": {
+            "full": "Tomoe Koga"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127840-z2LUox2R2Ivg.jpg"
           }
         },
         {
@@ -1883,21 +1883,21 @@
           }
         },
         {
-          "id": 125886,
-          "name": {
-            "full": "Miko Iino"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b125886-TQbmqAaSgBLS.png"
-          }
-        },
-        {
           "id": 121104,
           "name": {
             "full": "Ai Hayasaka"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121104-7TYRl3EEsDYU.png"
+          }
+        },
+        {
+          "id": 121101,
+          "name": {
+            "full": "Miyuki Shirogane"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121101-Q8HzKP15At2d.png"
           }
         }
       ]
@@ -2248,15 +2248,6 @@
     "characters": {
       "nodes": [
         {
-          "id": 137080,
-          "name": {
-            "full": "Makima"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137080-UHcynYNjb5ZU.png"
-          }
-        },
-        {
           "id": 137079,
           "name": {
             "full": "Power"
@@ -2272,6 +2263,15 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130102-IZUR5uu2Kl1M.png"
+          }
+        },
+        {
+          "id": 137080,
+          "name": {
+            "full": "Makima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137080-UHcynYNjb5ZU.png"
           }
         },
         {
@@ -2313,21 +2313,21 @@
           }
         },
         {
-          "id": 89362,
-          "name": {
-            "full": "Aqua"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89362-ibkc0eoECaW1.png"
-          }
-        },
-        {
           "id": 89364,
           "name": {
             "full": "Kazuma Satou"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89364-7Th8Tv1XKJtt.png"
+          }
+        },
+        {
+          "id": 89362,
+          "name": {
+            "full": "Aqua"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89362-ibkc0eoECaW1.png"
           }
         },
         {
@@ -2472,21 +2472,21 @@
     "characters": {
       "nodes": [
         {
-          "id": 124382,
-          "name": {
-            "full": "Ichigo"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124382-bSBkjtYjJQtr.png"
-          }
-        },
-        {
           "id": 124381,
           "name": {
             "full": "Zero Two"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124381-pkTKi6HHNuVR.png"
+          }
+        },
+        {
+          "id": 124382,
+          "name": {
+            "full": "Ichigo"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124382-bSBkjtYjJQtr.png"
           }
         },
         {
@@ -2826,15 +2826,6 @@
           }
         },
         {
-          "id": 1120,
-          "name": {
-            "full": "Shirley Fenette"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1120-hjOjinw5j4FE.png"
-          }
-        },
-        {
           "id": 558,
           "name": {
             "full": "Kallen Stadtfeld"
@@ -2850,6 +2841,15 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b559-KRvTdc6zdCuU.jpg"
+          }
+        },
+        {
+          "id": 1120,
+          "name": {
+            "full": "Shirley Fenette"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1120-hjOjinw5j4FE.png"
           }
         }
       ]
@@ -3193,6 +3193,62 @@
   },
   {
     "title": {
+      "english": "One-Punch Man Season 2",
+      "romaji": "One Punch Man 2"
+    },
+    "id": 97668,
+    "characters": {
+      "nodes": [
+        {
+          "id": 73935,
+          "name": {
+            "full": "Saitama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73935-bBEu127IYhci.jpg"
+          }
+        },
+        {
+          "id": 89277,
+          "name": {
+            "full": "Garou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89277-xBGb4B5YISXg.png"
+          }
+        },
+        {
+          "id": 73979,
+          "name": {
+            "full": "Genos"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73979-tVi9maPID881.jpg"
+          }
+        },
+        {
+          "id": 81929,
+          "name": {
+            "full": "Tatsumaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b81929-WPVp2LQoWgkc.png"
+          }
+        },
+        {
+          "id": 81931,
+          "name": {
+            "full": "Fubuki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b81931-fmouMoprPVbV.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
       "english": "Cowboy Bebop",
       "romaji": "Cowboy Bebop"
     },
@@ -3249,62 +3305,6 @@
   },
   {
     "title": {
-      "english": "One-Punch Man Season 2",
-      "romaji": "One Punch Man 2"
-    },
-    "id": 97668,
-    "characters": {
-      "nodes": [
-        {
-          "id": 73935,
-          "name": {
-            "full": "Saitama"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73935-bBEu127IYhci.jpg"
-          }
-        },
-        {
-          "id": 81929,
-          "name": {
-            "full": "Tatsumaki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b81929-WPVp2LQoWgkc.png"
-          }
-        },
-        {
-          "id": 89277,
-          "name": {
-            "full": "Garou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89277-xBGb4B5YISXg.png"
-          }
-        },
-        {
-          "id": 73979,
-          "name": {
-            "full": "Genos"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73979-tVi9maPID881.jpg"
-          }
-        },
-        {
-          "id": 81931,
-          "name": {
-            "full": "Fubuki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b81931-fmouMoprPVbV.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Angel Beats!",
       "romaji": "Angel Beats!"
     },
@@ -3312,21 +3312,21 @@
     "characters": {
       "nodes": [
         {
-          "id": 22370,
-          "name": {
-            "full": "Yuri Nakamura"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22370-pNQxFEv1K7lS.jpg"
-          }
-        },
-        {
           "id": 22369,
           "name": {
             "full": "Kanade Tachibana"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22369-zC7OgGbfO7b6.jpg"
+          }
+        },
+        {
+          "id": 22370,
+          "name": {
+            "full": "Yuri Nakamura"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22370-pNQxFEv1K7lS.jpg"
           }
         },
         {
@@ -3377,15 +3377,6 @@
           }
         },
         {
-          "id": 130716,
-          "name": {
-            "full": "Iris"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n130716-5564jUgQxK9a.png"
-          }
-        },
-        {
           "id": 120462,
           "name": {
             "full": "Shinra Kusakabe"
@@ -3410,6 +3401,15 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130713-TgLx8rgtGpXV.png"
+          }
+        },
+        {
+          "id": 130751,
+          "name": {
+            "full": "Tamaki Kotatsu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130751-J8rhd4d3TxF4.png"
           }
         }
       ]
@@ -3507,21 +3507,21 @@
           }
         },
         {
-          "id": 136796,
-          "name": {
-            "full": "Glass"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136796-V3uZcLtu2IWo.jpg"
-          }
-        },
-        {
           "id": 129813,
           "name": {
             "full": "Melty Q Melromarc"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129813-quaY4dr807yx.png"
+          }
+        },
+        {
+          "id": 135198,
+          "name": {
+            "full": "Mirellia Q Melromarc"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135198-ImEXzNG3srwI.png"
           }
         }
       ]
@@ -3675,21 +3675,21 @@
           }
         },
         {
-          "id": 125886,
-          "name": {
-            "full": "Miko Iino"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b125886-TQbmqAaSgBLS.png"
-          }
-        },
-        {
           "id": 121104,
           "name": {
             "full": "Ai Hayasaka"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121104-7TYRl3EEsDYU.png"
+          }
+        },
+        {
+          "id": 121101,
+          "name": {
+            "full": "Miyuki Shirogane"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121101-Q8HzKP15At2d.png"
           }
         }
       ]
@@ -4188,12 +4188,12 @@
           }
         },
         {
-          "id": 88293,
+          "id": 88414,
           "name": {
-            "full": "Hinami Fueguchi"
+            "full": "Uta"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88293-4J36uyflNWvb.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88414-r2Xd7jJeMrvR.jpg"
           }
         }
       ]
@@ -4459,21 +4459,21 @@
           }
         },
         {
-          "id": 125659,
-          "name": {
-            "full": "Gabi Braun"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b125659-O37MZQWibV7g.png"
-          }
-        },
-        {
           "id": 46494,
           "name": {
             "full": "Armin Arlert"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b46494-g7xYYuBtYPnO.png"
+          }
+        },
+        {
+          "id": 71121,
+          "name": {
+            "full": "Hange Zoe"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71121-7R7CnQd3lHgt.png"
           }
         }
       ]
@@ -4833,21 +4833,21 @@
           }
         },
         {
-          "id": 89362,
-          "name": {
-            "full": "Aqua"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89362-ibkc0eoECaW1.png"
-          }
-        },
-        {
           "id": 89364,
           "name": {
             "full": "Kazuma Satou"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89364-7Th8Tv1XKJtt.png"
+          }
+        },
+        {
+          "id": 89362,
+          "name": {
+            "full": "Aqua"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89362-ibkc0eoECaW1.png"
           }
         },
         {
@@ -5346,15 +5346,6 @@
           }
         },
         {
-          "id": 1120,
-          "name": {
-            "full": "Shirley Fenette"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1120-hjOjinw5j4FE.png"
-          }
-        },
-        {
           "id": 558,
           "name": {
             "full": "Kallen Stadtfeld"
@@ -5370,6 +5361,15 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b559-KRvTdc6zdCuU.jpg"
+          }
+        },
+        {
+          "id": 1120,
+          "name": {
+            "full": "Shirley Fenette"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1120-hjOjinw5j4FE.png"
           }
         }
       ]
@@ -5440,15 +5440,6 @@
     "characters": {
       "nodes": [
         {
-          "id": 500,
-          "name": {
-            "full": "Sakura Matou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b500-5p55QWEoMou0.png"
-          }
-        },
-        {
           "id": 498,
           "name": {
             "full": "Rin Tohsaka"
@@ -5464,6 +5455,15 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b497-t5ugW1trntCB.png"
+          }
+        },
+        {
+          "id": 500,
+          "name": {
+            "full": "Sakura Matou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b500-5p55QWEoMou0.png"
           }
         },
         {
