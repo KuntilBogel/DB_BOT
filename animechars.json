@@ -1233,62 +1233,6 @@
   },
   {
     "title": {
-      "english": "Your lie in April",
-      "romaji": "Shigatsu wa Kimi no Uso"
-    },
-    "id": 20665,
-    "characters": {
-      "nodes": [
-        {
-          "id": 69411,
-          "name": {
-            "full": "Kaori Miyazono"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b69411-lxM0FRvWHqlv.png"
-          }
-        },
-        {
-          "id": 69409,
-          "name": {
-            "full": "Tsubaki Sawabe"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/69409-lq7MFPFTwmBu.png"
-          }
-        },
-        {
-          "id": 69407,
-          "name": {
-            "full": "Kousei Arima"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b69407-eyIvpsFPeARS.png"
-          }
-        },
-        {
-          "id": 69405,
-          "name": {
-            "full": "Ryouta Watari"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/69405-IpsjziJkHrHj.png"
-          }
-        },
-        {
-          "id": 85841,
-          "name": {
-            "full": "Emi Igawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/85841-sC6FmFW77DD3.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "ERASED",
       "romaji": "Boku dake ga Inai Machi"
     },
@@ -1338,6 +1282,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89355-w1xEKGHisGWE.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Your lie in April",
+      "romaji": "Shigatsu wa Kimi no Uso"
+    },
+    "id": 20665,
+    "characters": {
+      "nodes": [
+        {
+          "id": 69411,
+          "name": {
+            "full": "Kaori Miyazono"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b69411-lxM0FRvWHqlv.png"
+          }
+        },
+        {
+          "id": 69409,
+          "name": {
+            "full": "Tsubaki Sawabe"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/69409-lq7MFPFTwmBu.png"
+          }
+        },
+        {
+          "id": 69407,
+          "name": {
+            "full": "Kousei Arima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b69407-eyIvpsFPeARS.png"
+          }
+        },
+        {
+          "id": 69405,
+          "name": {
+            "full": "Ryouta Watari"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/69405-IpsjziJkHrHj.png"
+          }
+        },
+        {
+          "id": 85841,
+          "name": {
+            "full": "Emi Igawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/85841-sC6FmFW77DD3.png"
           }
         }
       ]
@@ -2297,62 +2297,6 @@
   },
   {
     "title": {
-      "english": "KONOSUBA -God's blessing on this wonderful world!",
-      "romaji": "Kono Subarashii Sekai ni Shukufuku wo!"
-    },
-    "id": 21202,
-    "characters": {
-      "nodes": [
-        {
-          "id": 89361,
-          "name": {
-            "full": "Megumin"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89361-tq8PQQ4MmF0M.png"
-          }
-        },
-        {
-          "id": 89364,
-          "name": {
-            "full": "Kazuma Satou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89364-7Th8Tv1XKJtt.png"
-          }
-        },
-        {
-          "id": 89362,
-          "name": {
-            "full": "Aqua"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89362-ibkc0eoECaW1.png"
-          }
-        },
-        {
-          "id": 89363,
-          "name": {
-            "full": "Darkness"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89363-mm21Ll4NegUD.png"
-          }
-        },
-        {
-          "id": 120652,
-          "name": {
-            "full": "Yunyun"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b120652-YxrBBPbmJno2.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "SPY x FAMILY",
       "romaji": "SPY×FAMILY"
     },
@@ -2402,6 +2346,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169679-EFPubVtZFYom.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "KONOSUBA -God's blessing on this wonderful world!",
+      "romaji": "Kono Subarashii Sekai ni Shukufuku wo!"
+    },
+    "id": 21202,
+    "characters": {
+      "nodes": [
+        {
+          "id": 89361,
+          "name": {
+            "full": "Megumin"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89361-tq8PQQ4MmF0M.png"
+          }
+        },
+        {
+          "id": 89364,
+          "name": {
+            "full": "Kazuma Satou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89364-7Th8Tv1XKJtt.png"
+          }
+        },
+        {
+          "id": 89362,
+          "name": {
+            "full": "Aqua"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89362-ibkc0eoECaW1.png"
+          }
+        },
+        {
+          "id": 89363,
+          "name": {
+            "full": "Darkness"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89363-mm21Ll4NegUD.png"
+          }
+        },
+        {
+          "id": 120652,
+          "name": {
+            "full": "Yunyun"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b120652-YxrBBPbmJno2.png"
           }
         }
       ]
@@ -3137,62 +3137,6 @@
   },
   {
     "title": {
-      "english": "Sword Art Online II",
-      "romaji": "Sword Art Online II"
-    },
-    "id": 20594,
-    "characters": {
-      "nodes": [
-        {
-          "id": 36828,
-          "name": {
-            "full": "Asuna Yuuki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36828-j5ib0adAzGMx.png"
-          }
-        },
-        {
-          "id": 36765,
-          "name": {
-            "full": "Kazuto Kirigaya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36765-BnLbXg0Tzzh9.png"
-          }
-        },
-        {
-          "id": 55147,
-          "name": {
-            "full": "Shino Asada"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b55147-1fCU8lONEuZQ.png"
-          }
-        },
-        {
-          "id": 64523,
-          "name": {
-            "full": "Yuuki Konno"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64523-LPeAiw8Yx517.jpg"
-          }
-        },
-        {
-          "id": 36831,
-          "name": {
-            "full": "Suguha Kirigaya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36831-JfyFU7gPPVmr.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "One-Punch Man Season 2",
       "romaji": "One Punch Man 2"
     },
@@ -3242,6 +3186,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b81931-fmouMoprPVbV.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Sword Art Online II",
+      "romaji": "Sword Art Online II"
+    },
+    "id": 20594,
+    "characters": {
+      "nodes": [
+        {
+          "id": 36828,
+          "name": {
+            "full": "Asuna Yuuki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36828-j5ib0adAzGMx.png"
+          }
+        },
+        {
+          "id": 36765,
+          "name": {
+            "full": "Kazuto Kirigaya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36765-BnLbXg0Tzzh9.png"
+          }
+        },
+        {
+          "id": 55147,
+          "name": {
+            "full": "Shino Asada"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b55147-1fCU8lONEuZQ.png"
+          }
+        },
+        {
+          "id": 64523,
+          "name": {
+            "full": "Yuuki Konno"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64523-LPeAiw8Yx517.jpg"
+          }
+        },
+        {
+          "id": 36831,
+          "name": {
+            "full": "Suguha Kirigaya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36831-JfyFU7gPPVmr.png"
           }
         }
       ]
@@ -4145,62 +4145,6 @@
   },
   {
     "title": {
-      "english": "Tokyo Ghoul √A",
-      "romaji": "Tokyo Ghoul √A"
-    },
-    "id": 20850,
-    "characters": {
-      "nodes": [
-        {
-          "id": 87275,
-          "name": {
-            "full": "Ken Kaneki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87275-mb13EWZBdbh3.png"
-          }
-        },
-        {
-          "id": 87277,
-          "name": {
-            "full": "Touka Kirishima"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87277-oUaqrI1iBzu6.png"
-          }
-        },
-        {
-          "id": 88412,
-          "name": {
-            "full": "Juuzou Suzuya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88412-sIOJUnIkyFRe.png"
-          }
-        },
-        {
-          "id": 88421,
-          "name": {
-            "full": "Hideyoshi Nagachika"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88421-F8yaeVfHjwYn.png"
-          }
-        },
-        {
-          "id": 88414,
-          "name": {
-            "full": "Uta"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88414-r2Xd7jJeMrvR.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Classroom of the Elite",
       "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
     },
@@ -4250,6 +4194,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124691-S9GyfwMAkkJ9.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Tokyo Ghoul √A",
+      "romaji": "Tokyo Ghoul √A"
+    },
+    "id": 20850,
+    "characters": {
+      "nodes": [
+        {
+          "id": 87275,
+          "name": {
+            "full": "Ken Kaneki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87275-mb13EWZBdbh3.png"
+          }
+        },
+        {
+          "id": 87277,
+          "name": {
+            "full": "Touka Kirishima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87277-oUaqrI1iBzu6.png"
+          }
+        },
+        {
+          "id": 88412,
+          "name": {
+            "full": "Juuzou Suzuya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88412-sIOJUnIkyFRe.png"
+          }
+        },
+        {
+          "id": 88421,
+          "name": {
+            "full": "Hideyoshi Nagachika"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88421-F8yaeVfHjwYn.png"
+          }
+        },
+        {
+          "id": 88414,
+          "name": {
+            "full": "Uta"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88414-r2Xd7jJeMrvR.jpg"
           }
         }
       ]
@@ -5545,55 +5545,55 @@
   },
   {
     "title": {
-      "english": "Devilman Crybaby",
-      "romaji": "DEVILMAN crybaby"
+      "english": "My Dress-Up Darling",
+      "romaji": "Sono Bisque Doll wa Koi wo Suru"
     },
-    "id": 98460,
+    "id": 132405,
     "characters": {
       "nodes": [
         {
-          "id": 2456,
+          "id": 133676,
           "name": {
-            "full": "Akira Fudou"
+            "full": "Marin Kitagawa"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2456-rTjIXMLPHTu2.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133676-kV2czE3C8Qls.png"
           }
         },
         {
-          "id": 4092,
+          "id": 133678,
           "name": {
-            "full": "Ryo Asuka"
+            "full": "Wakana Gojou"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4092-63yxC7cCrWke.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133678-IitCgjDxQGgu.png"
           }
         },
         {
-          "id": 7968,
+          "id": 36309,
           "name": {
-            "full": "Miki Makimura"
+            "full": "Narrator"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b7968-te8U6niaAoKk.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-yRLEQYd2dDI5.jpg"
           }
         },
         {
-          "id": 7971,
+          "id": 133677,
           "name": {
-            "full": "Miki Kuroda"
+            "full": "Sajuna Inui"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b7971-mjwR42qPcQ5N.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133677-PqshvUeVFB7u.jpg"
           }
         },
         {
-          "id": 124949,
+          "id": 207937,
           "name": {
-            "full": "Wamu"
+            "full": "Shinju Inui"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/124949-dpKhGAqD3h0A.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b207937-ytYjcNtNX77K.png"
           }
         }
       ]
