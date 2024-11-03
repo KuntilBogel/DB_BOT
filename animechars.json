@@ -2913,62 +2913,6 @@
   },
   {
     "title": {
-      "english": "JoJo's Bizarre Adventure (TV)",
-      "romaji": "JoJo no Kimyou na Bouken (TV)"
-    },
-    "id": 14719,
-    "characters": {
-      "nodes": [
-        {
-          "id": 6356,
-          "name": {
-            "full": "Joseph Joestar"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b6356-RImEfUfHpC58.png"
-          }
-        },
-        {
-          "id": 4003,
-          "name": {
-            "full": "Joutarou Kuujou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4003-gWDSEGbeOAll.png"
-          }
-        },
-        {
-          "id": 4004,
-          "name": {
-            "full": "Dio Brando"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4004-nPubXwI7zvZo.png"
-          }
-        },
-        {
-          "id": 8087,
-          "name": {
-            "full": "Jonathan Joestar"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8087-GTrObHQvujB5.png"
-          }
-        },
-        {
-          "id": 21959,
-          "name": {
-            "full": "Caesar Zeppeli"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b21959-Cm9Rlh0EFAQw.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Neon Genesis Evangelion",
       "romaji": "Shin Seiki Evangelion"
     },
@@ -3018,6 +2962,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1261-HYRv3HpsSL92.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "JoJo's Bizarre Adventure (TV)",
+      "romaji": "JoJo no Kimyou na Bouken (TV)"
+    },
+    "id": 14719,
+    "characters": {
+      "nodes": [
+        {
+          "id": 6356,
+          "name": {
+            "full": "Joseph Joestar"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b6356-RImEfUfHpC58.png"
+          }
+        },
+        {
+          "id": 4003,
+          "name": {
+            "full": "Joutarou Kuujou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4003-gWDSEGbeOAll.png"
+          }
+        },
+        {
+          "id": 4004,
+          "name": {
+            "full": "Dio Brando"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4004-nPubXwI7zvZo.png"
+          }
+        },
+        {
+          "id": 8087,
+          "name": {
+            "full": "Jonathan Joestar"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8087-GTrObHQvujB5.png"
+          }
+        },
+        {
+          "id": 21959,
+          "name": {
+            "full": "Caesar Zeppeli"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b21959-Cm9Rlh0EFAQw.png"
           }
         }
       ]
@@ -3137,6 +3137,62 @@
   },
   {
     "title": {
+      "english": "Cowboy Bebop",
+      "romaji": "Cowboy Bebop"
+    },
+    "id": 1,
+    "characters": {
+      "nodes": [
+        {
+          "id": 1,
+          "name": {
+            "full": "Spike Spiegel"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1-ChxaldmieFlQ.png"
+          }
+        },
+        {
+          "id": 2,
+          "name": {
+            "full": "Faye Valentine"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2-0Iszg6Izgt4p.png"
+          }
+        },
+        {
+          "id": 16,
+          "name": {
+            "full": "Edward Wong Hau Pepelu Tivrusky IV"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b16-80wd87nl1Rue.png"
+          }
+        },
+        {
+          "id": 3,
+          "name": {
+            "full": "Jet Black"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3-JjH9Si9UM1NZ.png"
+          }
+        },
+        {
+          "id": 4,
+          "name": {
+            "full": "Ein"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/4.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
       "english": "One-Punch Man Season 2",
       "romaji": "One Punch Man 2"
     },
@@ -3242,62 +3298,6 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36831-JfyFU7gPPVmr.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "english": "Cowboy Bebop",
-      "romaji": "Cowboy Bebop"
-    },
-    "id": 1,
-    "characters": {
-      "nodes": [
-        {
-          "id": 1,
-          "name": {
-            "full": "Spike Spiegel"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1-ChxaldmieFlQ.png"
-          }
-        },
-        {
-          "id": 2,
-          "name": {
-            "full": "Faye Valentine"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2-0Iszg6Izgt4p.png"
-          }
-        },
-        {
-          "id": 16,
-          "name": {
-            "full": "Edward Wong Hau Pepelu Tivrusky IV"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b16-80wd87nl1Rue.png"
-          }
-        },
-        {
-          "id": 3,
-          "name": {
-            "full": "Jet Black"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3-JjH9Si9UM1NZ.png"
-          }
-        },
-        {
-          "id": 4,
-          "name": {
-            "full": "Ein"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/4.jpg"
           }
         }
       ]
