@@ -2017,62 +2017,6 @@
   },
   {
     "title": {
-      "english": "The Seven Deadly Sins",
-      "romaji": "Nanatsu no Taizai"
-    },
-    "id": 20789,
-    "characters": {
-      "nodes": [
-        {
-          "id": 77605,
-          "name": {
-            "full": "Ban"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b77605-NrjhQwZwgJ3l.png"
-          }
-        },
-        {
-          "id": 72921,
-          "name": {
-            "full": "Meliodas"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b72921-XDHNd1wflN6P.png"
-          }
-        },
-        {
-          "id": 36309,
-          "name": {
-            "full": "Narrator"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-yRLEQYd2dDI5.jpg"
-          }
-        },
-        {
-          "id": 83801,
-          "name": {
-            "full": "King"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83801-52RnDXQDZ1I7.png"
-          }
-        },
-        {
-          "id": 74653,
-          "name": {
-            "full": "Diane"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b74653-XpMcsLVZBnkZ.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Akame ga Kill!",
       "romaji": "Akame ga Kill!"
     },
@@ -2122,6 +2066,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/64749-a2ZdRWW1D5TR.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "The Seven Deadly Sins",
+      "romaji": "Nanatsu no Taizai"
+    },
+    "id": 20789,
+    "characters": {
+      "nodes": [
+        {
+          "id": 77605,
+          "name": {
+            "full": "Ban"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b77605-NrjhQwZwgJ3l.png"
+          }
+        },
+        {
+          "id": 72921,
+          "name": {
+            "full": "Meliodas"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b72921-XDHNd1wflN6P.png"
+          }
+        },
+        {
+          "id": 36309,
+          "name": {
+            "full": "Narrator"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-yRLEQYd2dDI5.jpg"
+          }
+        },
+        {
+          "id": 83801,
+          "name": {
+            "full": "King"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83801-52RnDXQDZ1I7.png"
+          }
+        },
+        {
+          "id": 74653,
+          "name": {
+            "full": "Diane"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b74653-XpMcsLVZBnkZ.jpg"
           }
         }
       ]
@@ -3025,62 +3025,6 @@
   },
   {
     "title": {
-      "english": "Kakegurui",
-      "romaji": "Kakegurui"
-    },
-    "id": 98314,
-    "characters": {
-      "nodes": [
-        {
-          "id": 121889,
-          "name": {
-            "full": "Yumeko Jabami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121889-ABsurpy5SjOW.png"
-          }
-        },
-        {
-          "id": 122687,
-          "name": {
-            "full": "Mary Saotome"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122687-jl1wk9rjO57e.png"
-          }
-        },
-        {
-          "id": 122693,
-          "name": {
-            "full": "Kirari Momobami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122693-qg2NIaq5h1VD.png"
-          }
-        },
-        {
-          "id": 122691,
-          "name": {
-            "full": "Midari Ikishima"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122691-ze4qKEiCv2Lz.jpg"
-          }
-        },
-        {
-          "id": 122777,
-          "name": {
-            "full": "Ririka Momobami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122777-pdh3z3WbnvlL.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Bleach",
       "romaji": "BLEACH"
     },
@@ -3130,6 +3074,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1086-qR9218BjZTC0.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Kakegurui",
+      "romaji": "Kakegurui"
+    },
+    "id": 98314,
+    "characters": {
+      "nodes": [
+        {
+          "id": 121889,
+          "name": {
+            "full": "Yumeko Jabami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121889-ABsurpy5SjOW.png"
+          }
+        },
+        {
+          "id": 122687,
+          "name": {
+            "full": "Mary Saotome"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122687-jl1wk9rjO57e.png"
+          }
+        },
+        {
+          "id": 122693,
+          "name": {
+            "full": "Kirari Momobami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122693-qg2NIaq5h1VD.png"
+          }
+        },
+        {
+          "id": 122691,
+          "name": {
+            "full": "Midari Ikishima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122691-ze4qKEiCv2Lz.jpg"
+          }
+        },
+        {
+          "id": 122777,
+          "name": {
+            "full": "Ririka Momobami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122777-pdh3z3WbnvlL.png"
           }
         }
       ]
@@ -3395,21 +3395,21 @@
           }
         },
         {
+          "id": 130716,
+          "name": {
+            "full": "Iris"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n130716-5564jUgQxK9a.png"
+          }
+        },
+        {
           "id": 130713,
           "name": {
             "full": "Maki Oze"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130713-TgLx8rgtGpXV.png"
-          }
-        },
-        {
-          "id": 130751,
-          "name": {
-            "full": "Tamaki Kotatsu"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130751-J8rhd4d3TxF4.png"
           }
         }
       ]
@@ -3809,62 +3809,6 @@
   },
   {
     "title": {
-      "english": "Kill la Kill",
-      "romaji": "Kill la Kill"
-    },
-    "id": 18679,
-    "characters": {
-      "nodes": [
-        {
-          "id": 83797,
-          "name": {
-            "full": "Ryuuko Matoi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83797-0NLCoyOGue6n.png"
-          }
-        },
-        {
-          "id": 87511,
-          "name": {
-            "full": "Mako Mankanshoku"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87511-T8lwlQKd6SoK.png"
-          }
-        },
-        {
-          "id": 83799,
-          "name": {
-            "full": "Satsuki Kiryuuin"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83799-oPxSwMA9XAvu.png"
-          }
-        },
-        {
-          "id": 87606,
-          "name": {
-            "full": "Nonon Jakuzure"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/87606-3A51LUnRuyHf.png"
-          }
-        },
-        {
-          "id": 87510,
-          "name": {
-            "full": "Senketsu"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87510-ZH2qoBYc6XNH.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": null,
       "romaji": "Charlotte"
     },
@@ -3914,6 +3858,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/88954-Mc5TurYknYTn.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Kill la Kill",
+      "romaji": "Kill la Kill"
+    },
+    "id": 18679,
+    "characters": {
+      "nodes": [
+        {
+          "id": 83797,
+          "name": {
+            "full": "Ryuuko Matoi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83797-0NLCoyOGue6n.png"
+          }
+        },
+        {
+          "id": 87511,
+          "name": {
+            "full": "Mako Mankanshoku"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87511-T8lwlQKd6SoK.png"
+          }
+        },
+        {
+          "id": 83799,
+          "name": {
+            "full": "Satsuki Kiryuuin"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83799-oPxSwMA9XAvu.png"
+          }
+        },
+        {
+          "id": 87606,
+          "name": {
+            "full": "Nonon Jakuzure"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/87606-3A51LUnRuyHf.png"
+          }
+        },
+        {
+          "id": 87510,
+          "name": {
+            "full": "Senketsu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87510-ZH2qoBYc6XNH.jpg"
           }
         }
       ]
@@ -5489,62 +5489,6 @@
   },
   {
     "title": {
-      "english": "Love, Chunibyo & Other Delusions",
-      "romaji": "Chuunibyou demo Koi ga Shitai!"
-    },
-    "id": 14741,
-    "characters": {
-      "nodes": [
-        {
-          "id": 65865,
-          "name": {
-            "full": "Rikka Takanashi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65865-AC0ru7cDXUgK.png"
-          }
-        },
-        {
-          "id": 36309,
-          "name": {
-            "full": "Narrator"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-yRLEQYd2dDI5.jpg"
-          }
-        },
-        {
-          "id": 65863,
-          "name": {
-            "full": "Yuuta Togashi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65863-blMgFqD1EnPs.png"
-          }
-        },
-        {
-          "id": 67215,
-          "name": {
-            "full": "Sanae Dekomori"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67215-J87mEugyhVRO.png"
-          }
-        },
-        {
-          "id": 65871,
-          "name": {
-            "full": "Shinka Nibutani"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65871-yuJ1aq2vynvC.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "My Dress-Up Darling",
       "romaji": "Sono Bisque Doll wa Koi wo Suru"
     },
@@ -5594,6 +5538,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b207937-ytYjcNtNX77K.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Love, Chunibyo & Other Delusions",
+      "romaji": "Chuunibyou demo Koi ga Shitai!"
+    },
+    "id": 14741,
+    "characters": {
+      "nodes": [
+        {
+          "id": 65865,
+          "name": {
+            "full": "Rikka Takanashi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65865-AC0ru7cDXUgK.png"
+          }
+        },
+        {
+          "id": 36309,
+          "name": {
+            "full": "Narrator"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-yRLEQYd2dDI5.jpg"
+          }
+        },
+        {
+          "id": 65863,
+          "name": {
+            "full": "Yuuta Togashi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65863-blMgFqD1EnPs.png"
+          }
+        },
+        {
+          "id": 67215,
+          "name": {
+            "full": "Sanae Dekomori"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67215-J87mEugyhVRO.png"
+          }
+        },
+        {
+          "id": 65871,
+          "name": {
+            "full": "Shinka Nibutani"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65871-yuJ1aq2vynvC.png"
           }
         }
       ]
