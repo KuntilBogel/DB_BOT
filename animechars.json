@@ -2073,62 +2073,6 @@
   },
   {
     "title": {
-      "english": "The Seven Deadly Sins",
-      "romaji": "Nanatsu no Taizai"
-    },
-    "id": 20789,
-    "characters": {
-      "nodes": [
-        {
-          "id": 77605,
-          "name": {
-            "full": "Ban"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b77605-NrjhQwZwgJ3l.png"
-          }
-        },
-        {
-          "id": 72921,
-          "name": {
-            "full": "Meliodas"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b72921-XDHNd1wflN6P.png"
-          }
-        },
-        {
-          "id": 36309,
-          "name": {
-            "full": "Narrator"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-yRLEQYd2dDI5.jpg"
-          }
-        },
-        {
-          "id": 83801,
-          "name": {
-            "full": "King"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83801-52RnDXQDZ1I7.png"
-          }
-        },
-        {
-          "id": 74653,
-          "name": {
-            "full": "Diane"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b74653-XpMcsLVZBnkZ.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Violet Evergarden",
       "romaji": "Violet Evergarden"
     },
@@ -2178,6 +2122,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124799-htaqVGZd83GW.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "The Seven Deadly Sins",
+      "romaji": "Nanatsu no Taizai"
+    },
+    "id": 20789,
+    "characters": {
+      "nodes": [
+        {
+          "id": 77605,
+          "name": {
+            "full": "Ban"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b77605-NrjhQwZwgJ3l.png"
+          }
+        },
+        {
+          "id": 72921,
+          "name": {
+            "full": "Meliodas"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b72921-XDHNd1wflN6P.png"
+          }
+        },
+        {
+          "id": 36309,
+          "name": {
+            "full": "Narrator"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-yRLEQYd2dDI5.jpg"
+          }
+        },
+        {
+          "id": 83801,
+          "name": {
+            "full": "King"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83801-52RnDXQDZ1I7.png"
+          }
+        },
+        {
+          "id": 74653,
+          "name": {
+            "full": "Diane"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b74653-XpMcsLVZBnkZ.jpg"
           }
         }
       ]
@@ -4985,62 +4985,6 @@
   },
   {
     "title": {
-      "english": "Assassination Classroom 2",
-      "romaji": "Ansatsu Kyoushitsu 2"
-    },
-    "id": 21170,
-    "characters": {
-      "nodes": [
-        {
-          "id": 90107,
-          "name": {
-            "full": "Kusuo Saiki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90107-ZULW5HlPX1uU.png"
-          }
-        },
-        {
-          "id": 71933,
-          "name": {
-            "full": "Karma Akabane"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71933-HQ1TSjlrJ8Hv.jpg"
-          }
-        },
-        {
-          "id": 65643,
-          "name": {
-            "full": "Koro-sensei"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65643-OuY8lZfAfgxp.png"
-          }
-        },
-        {
-          "id": 65645,
-          "name": {
-            "full": "Nagisa Shiota"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65645-nWH4mBMW5lYw.png"
-          }
-        },
-        {
-          "id": 18769,
-          "name": {
-            "full": "Tetsuya Kuroko"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b18769-7ms6XKt8jCzU.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "JUJUTSU KAISEN 0",
       "romaji": "Jujutsu Kaisen 0"
     },
@@ -5090,6 +5034,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157115-kdhRYQdVhH95.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Assassination Classroom 2",
+      "romaji": "Ansatsu Kyoushitsu 2"
+    },
+    "id": 21170,
+    "characters": {
+      "nodes": [
+        {
+          "id": 90107,
+          "name": {
+            "full": "Kusuo Saiki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90107-ZULW5HlPX1uU.png"
+          }
+        },
+        {
+          "id": 71933,
+          "name": {
+            "full": "Karma Akabane"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71933-HQ1TSjlrJ8Hv.jpg"
+          }
+        },
+        {
+          "id": 65643,
+          "name": {
+            "full": "Koro-sensei"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65643-OuY8lZfAfgxp.png"
+          }
+        },
+        {
+          "id": 65645,
+          "name": {
+            "full": "Nagisa Shiota"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65645-nWH4mBMW5lYw.png"
+          }
+        },
+        {
+          "id": 18769,
+          "name": {
+            "full": "Tetsuya Kuroko"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b18769-7ms6XKt8jCzU.png"
           }
         }
       ]
