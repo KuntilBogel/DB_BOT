@@ -1296,21 +1296,21 @@
     "characters": {
       "nodes": [
         {
-          "id": 69411,
-          "name": {
-            "full": "Kaori Miyazono"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b69411-lxM0FRvWHqlv.png"
-          }
-        },
-        {
           "id": 69409,
           "name": {
             "full": "Tsubaki Sawabe"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/69409-lq7MFPFTwmBu.png"
+          }
+        },
+        {
+          "id": 69411,
+          "name": {
+            "full": "Kaori Miyazono"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b69411-lxM0FRvWHqlv.png"
           }
         },
         {
@@ -3386,21 +3386,21 @@
           }
         },
         {
-          "id": 130715,
-          "name": {
-            "full": "Arthur Boyle"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n130715-IYNBAHBQa14y.png"
-          }
-        },
-        {
           "id": 130716,
           "name": {
             "full": "Iris"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/n130716-5564jUgQxK9a.png"
+          }
+        },
+        {
+          "id": 130715,
+          "name": {
+            "full": "Arthur Boyle"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n130715-IYNBAHBQa14y.png"
           }
         },
         {
@@ -4929,62 +4929,6 @@
   },
   {
     "title": {
-      "english": "Soul Eater",
-      "romaji": "Soul Eater"
-    },
-    "id": 3588,
-    "characters": {
-      "nodes": [
-        {
-          "id": 8455,
-          "name": {
-            "full": "Death the Kid"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8455-N83guS3Uck7T.png"
-          }
-        },
-        {
-          "id": 8439,
-          "name": {
-            "full": "Maka Albarn"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8439-5TIyWlfClnMs.png"
-          }
-        },
-        {
-          "id": 8456,
-          "name": {
-            "full": "Soul Eater Evans"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8456-GtNbISpXhkvd.png"
-          }
-        },
-        {
-          "id": 11919,
-          "name": {
-            "full": "Crona"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b11919-QLbLWxodgvcQ.png"
-          }
-        },
-        {
-          "id": 8464,
-          "name": {
-            "full": "Black☆Star"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8464-oKu98OyJ3eZt.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "JUJUTSU KAISEN 0",
       "romaji": "Jujutsu Kaisen 0"
     },
@@ -5034,6 +4978,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157115-kdhRYQdVhH95.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Soul Eater",
+      "romaji": "Soul Eater"
+    },
+    "id": 3588,
+    "characters": {
+      "nodes": [
+        {
+          "id": 8455,
+          "name": {
+            "full": "Death the Kid"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8455-N83guS3Uck7T.png"
+          }
+        },
+        {
+          "id": 8439,
+          "name": {
+            "full": "Maka Albarn"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8439-5TIyWlfClnMs.png"
+          }
+        },
+        {
+          "id": 8456,
+          "name": {
+            "full": "Soul Eater Evans"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8456-GtNbISpXhkvd.png"
+          }
+        },
+        {
+          "id": 11919,
+          "name": {
+            "full": "Crona"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b11919-QLbLWxodgvcQ.png"
+          }
+        },
+        {
+          "id": 8464,
+          "name": {
+            "full": "Black☆Star"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8464-oKu98OyJ3eZt.png"
           }
         }
       ]
@@ -5449,21 +5449,21 @@
           }
         },
         {
-          "id": 497,
-          "name": {
-            "full": "Artoria Pendragon"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b497-t5ugW1trntCB.png"
-          }
-        },
-        {
           "id": 500,
           "name": {
             "full": "Sakura Matou"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b500-5p55QWEoMou0.png"
+          }
+        },
+        {
+          "id": 497,
+          "name": {
+            "full": "Artoria Pendragon"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b497-t5ugW1trntCB.png"
           }
         },
         {
@@ -5545,55 +5545,55 @@
   },
   {
     "title": {
-      "english": "Love, Chunibyo & Other Delusions",
-      "romaji": "Chuunibyou demo Koi ga Shitai!"
+      "english": "Re:ZERO -Starting Life in Another World- Season 2",
+      "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season"
     },
-    "id": 14741,
+    "id": 108632,
     "characters": {
       "nodes": [
         {
-          "id": 65865,
+          "id": 88572,
           "name": {
-            "full": "Rikka Takanashi"
+            "full": "Emilia"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65865-AC0ru7cDXUgK.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88572-v2KimyNuU4XZ.jpg"
           }
         },
         {
-          "id": 36309,
+          "id": 88575,
           "name": {
-            "full": "Narrator"
+            "full": "Rem"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-yRLEQYd2dDI5.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88575-BtMfPu364LlP.png"
           }
         },
         {
-          "id": 65863,
+          "id": 88573,
           "name": {
-            "full": "Yuuta Togashi"
+            "full": "Subaru Natsuki"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65863-blMgFqD1EnPs.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88573-OLEMxaBLC9rk.png"
           }
         },
         {
-          "id": 67215,
+          "id": 129330,
           "name": {
-            "full": "Sanae Dekomori"
+            "full": "Echidna"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67215-J87mEugyhVRO.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129330-ZUtYw4n7N0uH.png"
           }
         },
         {
-          "id": 65871,
+          "id": 88576,
           "name": {
-            "full": "Shinka Nibutani"
+            "full": "Ram"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65871-yuJ1aq2vynvC.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88576-mYPixjKwEPOi.png"
           }
         }
       ]
