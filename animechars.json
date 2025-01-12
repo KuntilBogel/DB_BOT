@@ -156,12 +156,12 @@
           }
         },
         {
-          "id": 464,
+          "id": 36309,
           "name": {
-            "full": "Nate River"
+            "full": "Narrator"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n464-6KeJpU6g7Hwj.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-yRLEQYd2dDI5.jpg"
           }
         }
       ]
@@ -2073,62 +2073,6 @@
   },
   {
     "title": {
-      "english": "Akame ga Kill!",
-      "romaji": "Akame ga Kill!"
-    },
-    "id": 20613,
-    "characters": {
-      "nodes": [
-        {
-          "id": 63351,
-          "name": {
-            "full": "Akame"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b63351-0WmsDENpiscp.png"
-          }
-        },
-        {
-          "id": 65239,
-          "name": {
-            "full": "Esdeath"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65239-2S3t2vSyUew9.png"
-          }
-        },
-        {
-          "id": 65229,
-          "name": {
-            "full": "Mine"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65229-hYOZtUlIpd5G.png"
-          }
-        },
-        {
-          "id": 65227,
-          "name": {
-            "full": "Leone"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65227-PWmfiEVJbCwQ.png"
-          }
-        },
-        {
-          "id": 64749,
-          "name": {
-            "full": "Tatsumi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/64749-a2ZdRWW1D5TR.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Dr. STONE",
       "romaji": "Dr. STONE"
     },
@@ -2178,6 +2122,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-yRLEQYd2dDI5.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Akame ga Kill!",
+      "romaji": "Akame ga Kill!"
+    },
+    "id": 20613,
+    "characters": {
+      "nodes": [
+        {
+          "id": 63351,
+          "name": {
+            "full": "Akame"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b63351-0WmsDENpiscp.png"
+          }
+        },
+        {
+          "id": 65239,
+          "name": {
+            "full": "Esdeath"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65239-2S3t2vSyUew9.png"
+          }
+        },
+        {
+          "id": 65229,
+          "name": {
+            "full": "Mine"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65229-hYOZtUlIpd5G.png"
+          }
+        },
+        {
+          "id": 65227,
+          "name": {
+            "full": "Leone"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65227-PWmfiEVJbCwQ.png"
+          }
+        },
+        {
+          "id": 64749,
+          "name": {
+            "full": "Tatsumi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/64749-a2ZdRWW1D5TR.jpg"
           }
         }
       ]
@@ -4873,62 +4873,6 @@
   },
   {
     "title": {
-      "english": "HAIKYU!! 3rd Season",
-      "romaji": "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou"
-    },
-    "id": 21698,
-    "characters": {
-      "nodes": [
-        {
-          "id": 64769,
-          "name": {
-            "full": "Shouyou Hinata"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64769-WoWlCMLLgJ14.png"
-          }
-        },
-        {
-          "id": 64771,
-          "name": {
-            "full": "Tobio Kageyama"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64771-BuCVs7B8bBdh.png"
-          }
-        },
-        {
-          "id": 67327,
-          "name": {
-            "full": "Yuu Nishinoya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67327-zQb1dlC7joPb.jpg"
-          }
-        },
-        {
-          "id": 71611,
-          "name": {
-            "full": "Tooru Oikawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71611-cUZwVfzeNXD9.png"
-          }
-        },
-        {
-          "id": 67329,
-          "name": {
-            "full": "Kei Tsukishima"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67329-k7mDdqQ6rJ4w.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "JUJUTSU KAISEN 0",
       "romaji": "Jujutsu Kaisen 0"
     },
@@ -4978,6 +4922,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157115-kdhRYQdVhH95.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "HAIKYU!! 3rd Season",
+      "romaji": "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou"
+    },
+    "id": 21698,
+    "characters": {
+      "nodes": [
+        {
+          "id": 64769,
+          "name": {
+            "full": "Shouyou Hinata"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64769-WoWlCMLLgJ14.png"
+          }
+        },
+        {
+          "id": 64771,
+          "name": {
+            "full": "Tobio Kageyama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64771-BuCVs7B8bBdh.png"
+          }
+        },
+        {
+          "id": 67327,
+          "name": {
+            "full": "Yuu Nishinoya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67327-zQb1dlC7joPb.jpg"
+          }
+        },
+        {
+          "id": 71611,
+          "name": {
+            "full": "Tooru Oikawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71611-cUZwVfzeNXD9.png"
+          }
+        },
+        {
+          "id": 67329,
+          "name": {
+            "full": "Kei Tsukishima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67329-k7mDdqQ6rJ4w.png"
           }
         }
       ]
