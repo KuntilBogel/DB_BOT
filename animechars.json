@@ -100,12 +100,12 @@
           }
         },
         {
-          "id": 130050,
+          "id": 129133,
           "name": {
-            "full": "Giyuu Tomioka"
+            "full": "Kyoujurou Rengoku"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130050-qsLThJs5VIbz.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129133-VlTPowwt68rJ.png"
           }
         }
       ]
@@ -1681,62 +1681,6 @@
   },
   {
     "title": {
-      "english": "No Game, No Life",
-      "romaji": "No Game No Life"
-    },
-    "id": 19815,
-    "characters": {
-      "nodes": [
-        {
-          "id": 82525,
-          "name": {
-            "full": "Shiro"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82525-sKk2FGRKN4aK.png"
-          }
-        },
-        {
-          "id": 82523,
-          "name": {
-            "full": "Sora"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82523-JB9oevKyXWfc.png"
-          }
-        },
-        {
-          "id": 87887,
-          "name": {
-            "full": "Jibril"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87887-3QKmvQM5LTwY.png"
-          }
-        },
-        {
-          "id": 82527,
-          "name": {
-            "full": "Stephanie Dola"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82527-uwdWwl1qhzqC.png"
-          }
-        },
-        {
-          "id": 88003,
-          "name": {
-            "full": "Izuna Hatsuse"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88003-tZKsjjzDWV8e.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Rascal Does Not Dream of Bunny Girl Senpai",
       "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"
     },
@@ -1786,6 +1730,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127613-LBtFkMJfUWpg.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "No Game, No Life",
+      "romaji": "No Game No Life"
+    },
+    "id": 19815,
+    "characters": {
+      "nodes": [
+        {
+          "id": 82525,
+          "name": {
+            "full": "Shiro"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82525-sKk2FGRKN4aK.png"
+          }
+        },
+        {
+          "id": 82523,
+          "name": {
+            "full": "Sora"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82523-JB9oevKyXWfc.png"
+          }
+        },
+        {
+          "id": 87887,
+          "name": {
+            "full": "Jibril"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87887-3QKmvQM5LTwY.png"
+          }
+        },
+        {
+          "id": 82527,
+          "name": {
+            "full": "Stephanie Dola"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82527-uwdWwl1qhzqC.png"
+          }
+        },
+        {
+          "id": 88003,
+          "name": {
+            "full": "Izuna Hatsuse"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88003-tZKsjjzDWV8e.png"
           }
         }
       ]
@@ -2564,12 +2564,12 @@
           }
         },
         {
-          "id": 130050,
+          "id": 129133,
           "name": {
-            "full": "Giyuu Tomioka"
+            "full": "Kyoujurou Rengoku"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130050-qsLThJs5VIbz.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129133-VlTPowwt68rJ.png"
           }
         }
       ]
@@ -2873,21 +2873,21 @@
           }
         },
         {
-          "id": 8298,
-          "name": {
-            "full": "Kaonashi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8298-07C1RV5lvy7m.png"
-          }
-        },
-        {
           "id": 384,
           "name": {
             "full": "Chihiro Ogino"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b384-AoWCsQyG0WI7.png"
+          }
+        },
+        {
+          "id": 8298,
+          "name": {
+            "full": "Kaonashi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8298-07C1RV5lvy7m.png"
           }
         },
         {
@@ -2906,62 +2906,6 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5465-ZWJpBoYKPbAY.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "english": "Neon Genesis Evangelion",
-      "romaji": "Shin Seiki Evangelion"
-    },
-    "id": 30,
-    "characters": {
-      "nodes": [
-        {
-          "id": 94,
-          "name": {
-            "full": "Asuka Langley Souryuu"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b94-8hwISjwwB8zR.png"
-          }
-        },
-        {
-          "id": 1259,
-          "name": {
-            "full": "Misato Katsuragi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1259-afTQkZ5SVMOn.png"
-          }
-        },
-        {
-          "id": 89,
-          "name": {
-            "full": "Shinji Ikari"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89-ZtZhXkh1rITn.png"
-          }
-        },
-        {
-          "id": 86,
-          "name": {
-            "full": "Rei Ayanami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/86-cA1zL7fyls8E.jpg"
-          }
-        },
-        {
-          "id": 1261,
-          "name": {
-            "full": "Kaworu Nagisa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1261-HYRv3HpsSL92.jpg"
           }
         }
       ]
@@ -3018,6 +2962,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1086-qR9218BjZTC0.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Neon Genesis Evangelion",
+      "romaji": "Shin Seiki Evangelion"
+    },
+    "id": 30,
+    "characters": {
+      "nodes": [
+        {
+          "id": 94,
+          "name": {
+            "full": "Asuka Langley Souryuu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b94-8hwISjwwB8zR.png"
+          }
+        },
+        {
+          "id": 1259,
+          "name": {
+            "full": "Misato Katsuragi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1259-afTQkZ5SVMOn.png"
+          }
+        },
+        {
+          "id": 89,
+          "name": {
+            "full": "Shinji Ikari"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89-ZtZhXkh1rITn.png"
+          }
+        },
+        {
+          "id": 86,
+          "name": {
+            "full": "Rei Ayanami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/86-cA1zL7fyls8E.jpg"
+          }
+        },
+        {
+          "id": 1261,
+          "name": {
+            "full": "Kaworu Nagisa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1261-HYRv3HpsSL92.jpg"
           }
         }
       ]
@@ -3684,12 +3684,12 @@
           }
         },
         {
-          "id": 130050,
+          "id": 129133,
           "name": {
-            "full": "Giyuu Tomioka"
+            "full": "Kyoujurou Rengoku"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130050-qsLThJs5VIbz.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129133-VlTPowwt68rJ.png"
           }
         }
       ]
@@ -4537,62 +4537,6 @@
   },
   {
     "title": {
-      "english": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
-      "romaji": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
-    },
-    "id": 20920,
-    "characters": {
-      "nodes": [
-        {
-          "id": 87655,
-          "name": {
-            "full": "Ais Wallenstein"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87655-7QjpIyyZuqyp.png"
-          }
-        },
-        {
-          "id": 88860,
-          "name": {
-            "full": "Bell Cranel"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88860-catfcwlvUYst.jpg"
-          }
-        },
-        {
-          "id": 87654,
-          "name": {
-            "full": "Hestia"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87654-UmmuLPwSK2Hd.jpg"
-          }
-        },
-        {
-          "id": 88890,
-          "name": {
-            "full": "Ryuu  Lion"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88890-lJFKK5czkH9E.jpg"
-          }
-        },
-        {
-          "id": 88897,
-          "name": {
-            "full": "Liliruca Arde"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88897-2xey5UG7Qr2S.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "JUJUTSU KAISEN Season 2",
       "romaji": "Jujutsu Kaisen 2nd Season"
     },
@@ -4642,6 +4586,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133704-8wLTGjc234q2.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+      "romaji": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
+    },
+    "id": 20920,
+    "characters": {
+      "nodes": [
+        {
+          "id": 87655,
+          "name": {
+            "full": "Ais Wallenstein"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87655-7QjpIyyZuqyp.png"
+          }
+        },
+        {
+          "id": 88860,
+          "name": {
+            "full": "Bell Cranel"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88860-catfcwlvUYst.jpg"
+          }
+        },
+        {
+          "id": 87654,
+          "name": {
+            "full": "Hestia"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87654-UmmuLPwSK2Hd.jpg"
+          }
+        },
+        {
+          "id": 88890,
+          "name": {
+            "full": "Ryuu  Lion"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88890-lJFKK5czkH9E.jpg"
+          }
+        },
+        {
+          "id": 88897,
+          "name": {
+            "full": "Liliruca Arde"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88897-2xey5UG7Qr2S.png"
           }
         }
       ]
@@ -5433,62 +5433,6 @@
   },
   {
     "title": {
-      "english": "Fate/Zero",
-      "romaji": "Fate/Zero"
-    },
-    "id": 10087,
-    "characters": {
-      "nodes": [
-        {
-          "id": 500,
-          "name": {
-            "full": "Sakura Matou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b500-5p55QWEoMou0.png"
-          }
-        },
-        {
-          "id": 498,
-          "name": {
-            "full": "Rin Tohsaka"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b498-n8WPZtU8l0Cz.png"
-          }
-        },
-        {
-          "id": 497,
-          "name": {
-            "full": "Artoria Pendragon"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b497-t5ugW1trntCB.png"
-          }
-        },
-        {
-          "id": 2514,
-          "name": {
-            "full": "Gilgamesh"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2514-hnE6LEdqm7Su.png"
-          }
-        },
-        {
-          "id": 10010,
-          "name": {
-            "full": "Kiritsugu Emiya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b10010-fNspzan5MzNk.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "My Dress-Up Darling",
       "romaji": "Sono Bisque Doll wa Koi wo Suru"
     },
@@ -5538,6 +5482,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b207937-ytYjcNtNX77K.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Fate/Zero",
+      "romaji": "Fate/Zero"
+    },
+    "id": 10087,
+    "characters": {
+      "nodes": [
+        {
+          "id": 500,
+          "name": {
+            "full": "Sakura Matou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b500-5p55QWEoMou0.png"
+          }
+        },
+        {
+          "id": 498,
+          "name": {
+            "full": "Rin Tohsaka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b498-n8WPZtU8l0Cz.png"
+          }
+        },
+        {
+          "id": 497,
+          "name": {
+            "full": "Artoria Pendragon"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b497-t5ugW1trntCB.png"
+          }
+        },
+        {
+          "id": 2514,
+          "name": {
+            "full": "Gilgamesh"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2514-hnE6LEdqm7Su.png"
+          }
+        },
+        {
+          "id": 10010,
+          "name": {
+            "full": "Kiritsugu Emiya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b10010-fNspzan5MzNk.png"
           }
         }
       ]
