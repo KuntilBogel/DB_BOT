@@ -278,5 +278,205 @@
   {
     "pertanyaan": "Planet, Bintang, Galaksi, Tata Surya",
     "jawaban": "ASTRONOMI"
+  },
+  {
+    "pertanyaan": "Awan, Angin, Atmosfer, Iklim",
+    "jawaban": "METEOROLOG"
+  },
+  {
+    "pertanyaan": "Rumus, Angka, Kalkulasi, Perhitungan",
+    "jawaban": "MATEMATIKA"
+  },
+  {
+    "pertanyaan": "Kamera, Foto, Cahaya, Lensa",
+    "jawaban": "FOTOGRAFER"
+  },
+  {
+    "pertanyaan": "Darah, Jantung, Vena, Arteri",
+    "jawaban": "KARDIOLOGI"
+  },
+  {
+    "pertanyaan": "Investasi, Saham, Modal, Bursa",
+    "jawaban": "INVESTOR"
+  },
+  {
+    "pertanyaan": "Robot, Mesin, Otomasi, Kontrol",
+    "jawaban": "ROBOTIKA"
+  },
+  {
+    "pertanyaan": "Otak, Saraf, Memori, Kognisi",
+    "jawaban": "NEUROLOGI"
+  },
+  {
+    "pertanyaan": "Warna, Lukis, Kanvas, Sketsa",
+    "jawaban": "SENIMAN"
+  },
+  {
+    "pertanyaan": "Nutrisi, Vitamin, Mineral, Diet",
+    "jawaban": "NUTRISIONIS"
+  },
+  {
+    "pertanyaan": "Suara, Nada, Harmoni, Irama",
+    "jawaban": "MUSISI"
+  },
+  {
+    "pertanyaan": "Arsip, Dokumen, Berkas, Catatan",
+    "jawaban": "ARSIPARIS"
+  },
+  {
+    "pertanyaan": "Ikan, Laut, Terumbu, Nelayan",
+    "jawaban": "NELAYAN"
+  },
+  {
+    "pertanyaan": "Tanah, Mineral, Batuan, Fosil",
+    "jawaban": "GEOLOGI"
+  },
+  {
+    "pertanyaan": "Peta, Koordinat, Lokasi, Arah",
+    "jawaban": "KARTOGRAFI"
+  },
+  {
+    "pertanyaan": "Sensor, Kontrol, Sistem, Mesin",
+    "jawaban": "MEKATRONIKA"
+  },
+  {
+    "pertanyaan": "Bisnis, Modal, Profit, Manajemen",
+    "jawaban": "ENTREPRENEUR"
+  },
+  {
+    "pertanyaan": "Hutan, Pohon, Flora, Fauna",
+    "jawaban": "KEHUTANAN"
+  },
+  {
+    "pertanyaan": "Logam, Tambang, Mineral, Bijih",
+    "jawaban": "METALURGI"
+  },
+  {
+    "pertanyaan": "Mata, Lensa, Retina, Optik",
+    "jawaban": "OFTALMOLOGI"
+  },
+  {
+    "pertanyaan": "Radio, Siaran, Frekuensi, Audio",
+    "jawaban": "PENYIAR"
+  },
+  {
+    "pertanyaan": "Gizi, Makanan, Diet, Nutrisi",
+    "jawaban": "AHLI GIZI"
+  },
+  {
+    "pertanyaan": "Psikologi, Mental, Perilaku, Emosi",
+    "jawaban": "PSIKOLOG"
+  },
+  {
+    "pertanyaan": "Keuangan, Modal, Investasi, Aset",
+    "jawaban": "FINANSIAL"
+  },
+  {
+    "pertanyaan": "Gunung, Vulkanik, Magma, Lava",
+    "jawaban": "VULKANOLOGI"
+  },
+  {
+    "pertanyaan": "Ruang, Dimensi, Geometri, Sudut",
+    "jawaban": "GEOMETRI"
+  },
+  {
+    "pertanyaan": "Sejarah, Artefak, Fosil, Situs",
+    "jawaban": "ARKEOLOGI"
+  },
+  {
+    "pertanyaan": "Logika, Analisis, Sistem, Metode",
+    "jawaban": "FILOSOFI"
+  },
+  {
+    "pertanyaan": "Hormon, Kelenjar, Metabolisme, Tubuh",
+    "jawaban": "ENDOKRINOLOGI"
+  },
+  {
+    "pertanyaan": "Gerak, Gaya, Energi, Massa",
+    "jawaban": "FISIKA"
+  },
+  {
+    "pertanyaan": "Optik, Cahaya, Lensa, Spektrum",
+    "jawaban": "OPTIKA"
+  },
+  {
+    "pertanyaan": "Kimia, Reaksi, Molekul, Senyawa",
+    "jawaban": "KIMIAWAN"
+  },
+  {
+    "pertanyaan": "Hewan, Spesies, Habitat, Evolusi",
+    "jawaban": "ZOOLOGI"
+  },
+  {
+    "pertanyaan": "Kosmos, Orbit, Satelit, Roket",
+    "jawaban": "KOSMONOT"
+  },
+  {
+    "pertanyaan": "Olahraga, Latihan, Fisik, Stamina",
+    "jawaban": "ATLET"
+  },
+  {
+    "pertanyaan": "Bahasa, Tata, Kalimat, Kata",
+    "jawaban": "LINGUIS"
+  },
+  {
+    "pertanyaan": "Sel, Jaringan, Organ, Sistem",
+    "jawaban": "HISTOLOGI"
+  },
+  {
+    "pertanyaan": "Suhu, Tekanan, Volume, Gas",
+    "jawaban": "TERMODINAMIKA"
+  },
+  {
+    "pertanyaan": "Sinyal, Transmisi, Data, Komunikasi",
+    "jawaban": "TELEKOMUNI"
+  },
+  {
+    "pertanyaan": "Protein, Karbohidrat, Lemak, Enzim",
+    "jawaban": "BIOKIMIA"
+  },
+  {
+    "pertanyaan": "Statistik, Data, Analisis, Probabilitas",
+    "jawaban": "STATISTIKA"
+  },
+  {
+    "pertanyaan": "Politik, Negara, Diplomasi, Kebijakan",
+    "jawaban": "DIPLOMAT"
+  },
+  {
+    "pertanyaan": "Keamanan, Sistem, Jaringan, Data",
+    "jawaban": "SEKURITI"
+  },
+  {
+    "pertanyaan": "Sosial, Budaya, Masyarakat, Adat",
+    "jawaban": "SOSIOLOGI"
+  },
+  {
+    "pertanyaan": "Tanaman, Kultur, Sel, Jaringan",
+    "jawaban": "BOTANIS"
+  },
+  {
+    "pertanyaan": "Gambar, Grafik, Layout, Desain",
+    "jawaban": "DESAINER"
+  },
+  {
+    "pertanyaan": "Bintang, Galaxy, Nebula, Komet",
+    "jawaban": "ASTRONOM"
+  },
+  {
+    "pertanyaan": "Pasar, Konsumen, Produk, Brand",
+    "jawaban": "MARKETER"
+  },
+  {
+    "pertanyaan": "Industri, Produksi, Proses, Kontrol",
+    "jawaban": "INDUSTRIAL"
+  },
+  {
+    "pertanyaan": "Suara, Akustik, Getaran, Frekuensi",
+    "jawaban": "AKUSTIKA"
+  },
+  {
+    "pertanyaan": "Mikroskop, Sel, Bakteri, Virus",
+    "jawaban": "MIKROBIOLOGI"
   }
 ]

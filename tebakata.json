@@ -1,1758 +1,482 @@
 [
     {
-        "pertanyaan": "Tempat, Tiket, PopCorn, Film, Gedung.",
-        "jawaban": "BIOSKOP"
+      "pertanyaan": "Udara, Ketinggian, Pesawat, Terbang",
+      "jawaban": "AVIATOR"
     },
     {
-        "pertanyaan": "Profesi, Laut, Jaring, Ikan, Perahu.",
-        "jawaban": "NELAYAN"
+      "pertanyaan": "Matahari, Cahaya, Panas, Panel",
+      "jawaban": "SURYA"
     },
     {
-        "pertanyaan": "Sepatu, Net, Raket, Kok",
-        "jawaban": "BULUTANGKIS"
+      "pertanyaan": "Senyawa, Atom, Molekul, Reaksi",
+      "jawaban": "KIMIA"
     },
     {
-        "pertanyaan": "Botol, Buah-buahan, Sayuran, Dingin.",
-        "jawaban": "KULKAS"
+      "pertanyaan": "Tanaman, Pertumbuhan, Fotosintesis, Klorofil",
+      "jawaban": "BOTANI"
     },
     {
-        "pertanyaan": "Rusa, Hutan, Senapan, Target.",
-        "jawaban": "TARGET"
+      "pertanyaan": "Kesehatan, Olahraga, Kebugaran, Diet",
+      "jawaban": "NUTRISI"
     },
     {
-        "pertanyaan": "Malam, Kasur, Bantal, Merem.",
-        "jawaban": "TIDUR"
+      "pertanyaan": "Hutan, Tumbuhan, Fauna, Konservasi",
+      "jawaban": "EKOLOGI"
     },
     {
-        "pertanyaan": "Listrik, Antena, Siaran, Remot.",
-        "jawaban": "TELEVISI"
+      "pertanyaan": "Hukum, Peraturan, Pengadilan, Hakim",
+      "jawaban": "LEGAL"
     },
     {
-        "pertanyaan": "Jalan, Sirine, Orang Sakit, Cepat.",
-        "jawaban": "AMBULAN"
+      "pertanyaan": "Teks, Data, Basis, Informasi",
+      "jawaban": "DATABASE"
     },
     {
-        "pertanyaan": "Keju, Sapi, Gelas, Bayi.",
-        "jawaban": "SUSU"
+      "pertanyaan": "Pesawat, Kendali, Terbang, Navigasi",
+      "jawaban": "PILOT"
     },
     {
-        "pertanyaan": "Uang, Bayar, Saku, Kartu ATM",
-        "jawaban": "DOMPET"
+      "pertanyaan": "Film, Aktor, Skenario, Produksi",
+      "jawaban": "SINEMATOGRAFI"
     },
     {
-        "pertanyaan": "Benda, Maling, Tangan, Polisi, Kunci",
-        "jawaban": "BORGOL"
+      "pertanyaan": "Buku, Pustaka, Referensi, Pengetahuan",
+      "jawaban": "LITERATUR"
     },
     {
-        "pertanyaan": "Profesi, Kaca pembesar, Misteri.",
-        "jawaban": "DETEKTIF"
+      "pertanyaan": "Komputer, Internet, Data, Sistem",
+      "jawaban": "TEKNOLOGI"
     },
     {
-        "pertanyaan": "Benda, Tajam, Potong Buah.",
-        "jawaban": "PISAU"
+      "pertanyaan": "Energi, Tenaga, Listrik, Generator",
+      "jawaban": "ENERGI"
     },
     {
-        "pertanyaan": "Tempat, Lapar, Makan, Koki, Daftar Harga.",
-        "jawaban": "RESTORAN"
+      "pertanyaan": "Bakteri, Virus, Infeksi, Obat",
+      "jawaban": "MIKROBIOLOGI"
     },
     {
-        "pertanyaan": "Benda, Sepasang, Kanan, Kiri, Lari.",
-        "jawaban": "SEPATU"
+      "pertanyaan": "Jaringan, Komputer, Keamanan, Internet",
+      "jawaban": "SIBER"
     },
     {
-        "pertanyaan": "Makhluk Hidup, Matador, Tanduk.",
-        "jawaban": "BANTENG"
+      "pertanyaan": "Pasar, Produk, Iklan, Strategi",
+      "jawaban": "MARKETING"
     },
     {
-        "pertanyaan": "Tempat, Gedung, Tidur, Kunci, Resepsionis.",
-        "jawaban": "HOTEL"
+      "pertanyaan": "Gen, Kromosom, DNA, Sel",
+      "jawaban": "GENETIKA"
     },
     {
-        "pertanyaan": "Ring, Kejuaraan, Tangan, Olahraga.",
-        "jawaban": "TINJU"
+      "pertanyaan": "Budaya, Sejarah, Tradisi, Seni",
+      "jawaban": "ANTROPOLOGI"
     },
     {
-        "pertanyaan": "Angka, Tanggal, Bulan, Tahun, Hari.",
-        "jawaban": "KALENDER"
+      "pertanyaan": "Desain, Grafik, Kreatif, Visual",
+      "jawaban": "DESAIN"
     },
     {
-        "pertanyaan": "Kegiatan, Air, Sabun, Handuk.",
-        "jawaban": "MANDI"
+      "pertanyaan": "Hujan, Cuaca, Suhu, Prediksi",
+      "jawaban": "METEOROLOGI"
     },
     {
-        "pertanyaan": "Benda, Wangi, Busa, Mandi.",
-        "jawaban": "SABUN"
+      "pertanyaan": "Musik, Nada, Lagu, Melodi",
+      "jawaban": "MUSIK"
     },
     {
-        "pertanyaan": "Benda, Tidur, Kasur, Panjang, Empuk.",
-        "jawaban": "GULING"
+      "pertanyaan": "Gigi, Kesehatan, Perawatan, Mulut",
+      "jawaban": "DENTAL"
     },
     {
-        "pertanyaan": "Benda, Listrik, Nyala, Saklar.",
-        "jawaban": "LAMPU"
+      "pertanyaan": "Otot, Tulang, Gerakan, Sendi",
+      "jawaban": "ANATOMI"
     },
     {
-        "pertanyaan": "Benda, Minum, Sakit, Dokter, Apotek.",
-        "jawaban": "OBAT"
+      "pertanyaan": "Transportasi, Kereta, Mobil, Jalan",
+      "jawaban": "OTOMOTIF"
     },
     {
-        "pertanyaan": "Benda, Sakit, Dokter, Ketiak, Derajat.",
-        "jawaban": "TERMOMETER"
+      "pertanyaan": "Kode, Program, Komputer, Algoritma",
+      "jawaban": "SOFTWARE"
     },
     {
-        "pertanyaan": "Darah, Malam, Gatal, Makhluk Hidup.",
-        "jawaban": "NYAMUK"
+      "pertanyaan": "Planet, Bintang, Galaksi, Tata Surya",
+      "jawaban": "ASTRONOMI"
     },
     {
-        "pertanyaan": "Negara, Seni, Bola, Pizza, Pisa.",
-        "jawaban": "ITALIA"
+      "pertanyaan": "Pesan, Komunikasi, Media, Berita",
+      "jawaban": "JURNALIS"
     },
     {
-        "pertanyaan": "Gua, Malam, Gelap, Makhuk Hidup.",
-        "jawaban": "KELELAWAR"
+      "pertanyaan": "Sinyal, Frekuensi, Radio, Komunikasi",
+      "jawaban": "TELEKOMUNIKASI"
     },
     {
-        "pertanyaan": "Kelapa, Pasir, Laut, Tempat.",
-        "jawaban": "PANTAI"
+      "pertanyaan": "Riset, Data, Analisis, Kesimpulan",
+      "jawaban": "PENELITIAN"
     },
     {
-        "pertanyaan": "Benda, Badut, Anak-Anak, Ulang Tahun, Meledak.",
-        "jawaban": "BALON"
+      "pertanyaan": "Tanah, Subur, Kebun, Padi",
+      "jawaban": "AGRIKULTUR"
     },
     {
-        "pertanyaan": "Benda, Nenek Sihir, Office Boy.",
-        "jawaban": "SAPU"
+      "pertanyaan": "Protein, Metabolisme, Sel, Genetik",
+      "jawaban": "BIOKIMIA"
     },
     {
-        "pertanyaan": "Origami, Sakura, Sumo, Sushi.",
-        "jawaban": "JEPANG"
+      "pertanyaan": "Tumbuhan, Herbivora, Ekosistem, Habitat",
+      "jawaban": "BOTANI"
     },
     {
-        "pertanyaan": "Perempuan, Bibir, Merah, Kecantikan",
-        "jawaban": "LIPSTIK"
+      "pertanyaan": "Komputer, Server, Jaringan, Internet",
+      "jawaban": "IT"
     },
     {
-        "pertanyaan": "Raja, Daging, Hutan, Taring.",
-        "jawaban": "SINGA"
+      "pertanyaan": "Tari, Gerak, Musik, Koreografi",
+      "jawaban": "PENARI"
     },
     {
-        "pertanyaan": "Dompet, ATM, Bank.",
-        "jawaban": "UANG"
+      "pertanyaan": "Listrik, Tegangan, Arus, Kabel",
+      "jawaban": "ELEKTRIK"
     },
     {
-        "pertanyaan": "Angka, Waktu, Jarum, Tangan.",
-        "jawaban": "ARLOJI"
+      "pertanyaan": "Manajemen, Organisasi, Efisiensi, Struktur",
+      "jawaban": "MANAJER"
     },
     {
-        "pertanyaan": "Masak, Koki, Api.",
-        "jawaban": "KOMPOR"
+      "pertanyaan": "Gambar, Film, Animasi, Gerak",
+      "jawaban": "ANIMATOR"
     },
     {
-        "pertanyaan": "Sapi, Domba, Hijau, Lapangan.",
-        "jawaban": "RUMPUT"
+      "pertanyaan": "Desain, Rancang, Bangunan, Konstruksi",
+      "jawaban": "ARSITEK"
     },
     {
-        "pertanyaan": "Ayam Goreng, Arab, SPBU, Katel.",
-        "jawaban": "MINYAK"
+      "pertanyaan": "Hukum, Pengadilan, Kasus, Peraturan",
+      "jawaban": "PENGACARA"
     },
     {
-        "pertanyaan": "Pintu, Lemari, Mobil, Gembok.",
-        "jawaban": "KUNCI"
+      "pertanyaan": "Sistem, Komputer, Informasi, Jaringan",
+      "jawaban": "IT"
     },
     {
-        "pertanyaan": "Ulat, Bunga, Hewan.",
-        "jawaban": "KUPU KUPU"
+      "pertanyaan": "Bahasa, Kata, Makna, Terjemah",
+      "jawaban": "LINGUISTIK"
     },
     {
-        "pertanyaan": "Mobil, Motor, Bising, Polusi.",
-        "jawaban": "KNALPOT"
+      "pertanyaan": "Protein, Enzim, Metabolisme, Sel",
+      "jawaban": "BIOKIMIA"
     },
     {
-        "pertanyaan": "Hakim, Paku.",
-        "jawaban": "PALU"
+      "pertanyaan": "Kesehatan, Obat, Pasien, Terapi",
+      "jawaban": "DOKTER"
     },
     {
-        "pertanyaan": "Jari, Hadiah, Pernikahan, Pasangan.",
-        "jawaban": "CINCIN"
+      "pertanyaan": "Bank, Tabungan, Pinjaman, Investasi",
+      "jawaban": "BANKIR"
     },
     {
-        "pertanyaan": "Nasi, Daging, Sumpit, Jepang.",
-        "jawaban": "SUSHI"
+      "pertanyaan": "Desain, Bangunan, Konstruksi, Rancang",
+      "jawaban": "ARSITEK"
     },
     {
-        "pertanyaan": "Buku, Jangan Berisik, Ruangan, Membaca.",
-        "jawaban": "PERPUSTAKAAN"
+      "pertanyaan": "Mikroba, Bakteri, Virus, Patogen",
+      "jawaban": "MIKROBIOLOGI"
     },
     {
-        "pertanyaan": "Televisi, Battre, Halilintar, Tengangan.",
-        "jawaban": "LISTRIK"
+      "pertanyaan": "Film, Skenario, Produksi, Aktor",
+      "jawaban": "SINEMATOGRAFI"
     },
     {
-        "pertanyaan": "Supir, Jalanan, Tujuan, Bayar.",
-        "jawaban": "TAKSI"
+      "pertanyaan": "Ekonomi, Pasar, Harga, Permintaan",
+      "jawaban": "EKONOMI"
     },
     {
-        "pertanyaan": "Kedelai, Lezat, Memasak.",
-        "jawaban": "KECAP"
+      "pertanyaan": "Energi, Bahan Bakar, Sumber Daya, Tenaga",
+      "jawaban": "ENERGI"
     },
     {
-        "pertanyaan": "Bau, Buang Air, Pria, Wanita.",
-        "jawaban": "TOILET"
+      "pertanyaan": "Mobil, Mesin, Transportasi, Roda",
+      "jawaban": "OTOMOTIF"
     },
     {
-        "pertanyaan": "Bambu, China, Hitam, Putih, Llucu.",
-        "jawaban": "PANDA"
+      "pertanyaan": "Jaringan, Keamanan, Internet, Siber",
+      "jawaban": "SIBER"
     },
     {
-        "pertanyaan": "Pagi, Roti, Susu.",
-        "jawaban": "SARAPAN"
+      "pertanyaan": "Pesawat, Pilot, Kokpit, Bandara",
+      "jawaban": "AVIATOR"
     },
     {
-        "pertanyaan": "Laba-laba, Jaring, Merah, Biru.",
-        "jawaban": "SPIDERMAN"
+      "pertanyaan": "Gigi, Mulut, Kesehatan, Perawatan",
+      "jawaban": "DENTAL"
     },
     {
-        "pertanyaan": "Diatas, Hormat, Negara.",
-        "jawaban": "BENDERA"
+      "pertanyaan": "Organisasi, Manajemen, Struktur, Efisiensi",
+      "jawaban": "MANAJER"
     },
     {
-        "pertanyaan": "Mata, Pembesar, Bakteri, Peneliti.",
-        "jawaban": "MIKROSKOP"
+      "pertanyaan": "Satelit, Orbit, Sinyal, Komunikasi",
+      "jawaban": "ANTENA"
     },
     {
-        "pertanyaan": "Apolo, Bulan.",
-        "jawaban": "ASTRONOT"
+      "pertanyaan": "Buku, Pengetahuan, Referensi, Perpustakaan",
+      "jawaban": "LITERATUR"
     },
     {
-        "pertanyaan": "Perkakas, Kendaraan, Perbaikan.",
-        "jawaban": "MONTIR"
+      "pertanyaan": "Laut, Samudra, Pantai, Kapal",
+      "jawaban": "MARITIM"
     },
     {
-        "pertanyaan": "Handphone, Remot, Plus, Minus, Mainan.",
-        "jawaban": "BATTRE"
+      "pertanyaan": "Dokter, Pasien, Kesehatan, Diagnosa",
+      "jawaban": "MEDIS"
     },
     {
-        "pertanyaan": "Beruang, Lebah, Bunga.",
-        "jawaban": "MADU"
+      "pertanyaan": "Bahasa, Kata, Makna, Terjemah",
+      "jawaban": "PENERJEMAH"
     },
     {
-        "pertanyaan": "Tikus, Ikan, Lonceng.",
-        "jawaban": "KUCING"
+      "pertanyaan": "Hewan, Tumbuhan, Ekosistem, Habitat",
+      "jawaban": "EKOLOGI"
     },
     {
-        "pertanyaan": "Mendali, Piala, No.1, Menang.",
-        "jawaban": "JUARA"
+      "pertanyaan": "Cerita, Novel, Karakter, Narasi",
+      "jawaban": "FIKSI"
     },
     {
-        "pertanyaan": "Panas, Pakaian, Listrik, Rapi.",
-        "jawaban": "SETRIKA"
+      "pertanyaan": "Desain, Grafik, Kreatif, Visual",
+      "jawaban": "DESAINER"
     },
     {
-        "pertanyaan": "Balon, Kue, Hadiah, Lilin.",
-        "jawaban": "ULANG TAHUN"
+      "pertanyaan": "Anatomi, Otot, Tulang, Sendi",
+      "jawaban": "ANATOMI"
     },
     {
-        "pertanyaan": "Motor, Kepala, Pengendara.",
-        "jawaban": "HELM"
+      "pertanyaan": "Bakteri, Virus, Infeksi, Imun",
+      "jawaban": "MIKROBIOLOGI"
     },
     {
-        "pertanyaan": "Pesawat, Perempuan, Ramah.",
-        "jawaban": "PRAMUGARI"
+      "pertanyaan": "Film, Kamera, Skenario, Produksi",
+      "jawaban": "FILM MAKER"
     },
     {
-        "pertanyaan": "Bau, Sakit Perut, Bunyi.",
-        "jawaban": "KENTUT"
+      "pertanyaan": "Teks, Data, Basis, Informasi",
+      "jawaban": "DATABASE"
     },
     {
-        "pertanyaan": "Setrika, Matahari, Api, Neraka.",
-        "jawaban": "PANAS"
+      "pertanyaan": "Kesehatan, Olahraga, Kebugaran, Diet",
+      "jawaban": "GIZI"
     },
     {
-        "pertanyaan": "Enam, Titik, Kotak, Di Kocok.",
-        "jawaban": "DADU"
+      "pertanyaan": "Hukum, Peraturan, Pengadilan, Hakim",
+      "jawaban": "LEGAL"
     },
     {
-        "pertanyaan": "Warna Warni, Hujan.",
-        "jawaban": "PELANGI"
+      "pertanyaan": "Kerajinan, Bahan, Produk, Desain",
+      "jawaban": "PENGRAJIN"
     },
     {
-        "pertanyaan": "Manis, Semut, Sakit Gigi, Anak-Anak.",
-        "jawaban": "PERMEN"
+      "pertanyaan": "Planet, Bintang, Galaksi, Tata Surya",
+      "jawaban": "ASTRONOMI"
     },
     {
-        "pertanyaan": "Mobil, Motor, Brisik, Bunyi.",
-        "jawaban": "KLAKSON"
+      "pertanyaan": "Awan, Angin, Atmosfer, Iklim",
+      "jawaban": "METEOROLOG"
     },
     {
-        "pertanyaan": "Loncat, Kantung, Australia.",
-        "jawaban": "KANGGURU"
+      "pertanyaan": "Rumus, Angka, Kalkulasi, Perhitungan",
+      "jawaban": "MATEMATIKA"
     },
     {
-        "pertanyaan": "Berlian, Emas, Peta, Rahasaia.",
-        "jawaban": "HARTA KARUN"
+      "pertanyaan": "Kamera, Foto, Cahaya, Lensa",
+      "jawaban": "FOTOGRAFER"
     },
     {
-        "pertanyaan": "Mata, Sup, Orange, Kelinci.",
-        "jawaban": "WORTEL"
+      "pertanyaan": "Darah, Jantung, Vena, Arteri",
+      "jawaban": "KARDIOLOGI"
     },
     {
-        "pertanyaan": "Suntik, Jarum, Merah, Nyamuk.",
-        "jawaban": "DARAH"
+      "pertanyaan": "Investasi, Saham, Modal, Bursa",
+      "jawaban": "INVESTOR"
     },
     {
-        "pertanyaan": "Asin, Laut, Putih, Memasak.",
-        "jawaban": "GARAM"
+      "pertanyaan": "Robot, Mesin, Otomasi, Kontrol",
+      "jawaban": "ROBOTIKA"
     },
     {
-        "pertanyaan": "Hidung, Oksigen, Dada, Nafas.",
-        "jawaban": "PARU PARU"
+      "pertanyaan": "Otak, Saraf, Memori, Kognisi",
+      "jawaban": "NEUROLOGI"
     },
     {
-        "pertanyaan": "Pinggang, Panjang.",
-        "jawaban": "SABUK"
+      "pertanyaan": "Warna, Lukis, Kanvas, Sketsa",
+      "jawaban": "SENIMAN"
     },
     {
-        "pertanyaan": "Kepala, Obat.",
-        "jawaban": "PUSING"
+      "pertanyaan": "Nutrisi, Vitamin, Mineral, Diet",
+      "jawaban": "NUTRISIONIS"
     },
     {
-        "pertanyaan": "Sampah, Kuman, Terbang, Sakit Perut.",
-        "jawaban": "LALAT"
+      "pertanyaan": "Suara, Nada, Harmoni, Irama",
+      "jawaban": "MUSISI"
     },
     {
-        "pertanyaan": "Robot, Kucing. Jepang.",
-        "jawaban": "DORAEMON"
+      "pertanyaan": "Arsip, Dokumen, Berkas, Catatan",
+      "jawaban": "ARSIPARIS"
     },
     {
-        "pertanyaan": "12, Bulan, Tahun Baru, Natal.",
-        "jawaban": "DESEMBER"
+      "pertanyaan": "Ikan, Laut, Terumbu, Nelayan",
+      "jawaban": "NELAYAN"
     },
     {
-        "pertanyaan": "Hijau, Loncat, Air, Darat.",
-        "jawaban": "KATAK"
+      "pertanyaan": "Tanah, Mineral, Batuan, Fosil",
+      "jawaban": "GEOLOGI"
     },
     {
-        "pertanyaan": "Punggung, Seleting, Buku.",
-        "jawaban": "TAS"
+      "pertanyaan": "Peta, Koordinat, Lokasi, Arah",
+      "jawaban": "KARTOGRAFI"
     },
     {
-        "pertanyaan": "Unta, Piramid, Kaktus, Kering.",
-        "jawaban": "GURUN PASIR"
+      "pertanyaan": "Sensor, Kontrol, Sistem, Mesin",
+      "jawaban": "MEKATRONIKA"
     },
     {
-        "pertanyaan": "Putih, Tipis, Lap, Toilet.",
-        "jawaban": "TISU"
+      "pertanyaan": "Bisnis, Modal, Profit, Manajemen",
+      "jawaban": "ENTREPRENEUR"
     },
     {
-        "pertanyaan": "Naik Turun, Jaket, Celana, Tas.",
-        "jawaban": "RESLETING"
+      "pertanyaan": "Hutan, Pohon, Flora, Fauna",
+      "jawaban": "KEHUTANAN"
     },
     {
-        "pertanyaan": "Menyelam, Minum, Siram, Ikan.",
-        "jawaban": "AIR"
+      "pertanyaan": "Logam, Tambang, Mineral, Bijih",
+      "jawaban": "METALURGI"
     },
     {
-        "pertanyaan": "Sepasang, Mendengar.",
-        "jawaban": "TELINGA"
+      "pertanyaan": "Mata, Lensa, Retina, Optik",
+      "jawaban": "OFTALMOLOGI"
     },
     {
-        "pertanyaan": "Susu, Gigi, Kertas.",
-        "jawaban": "PUTIH"
+      "pertanyaan": "Radio, Siaran, Frekuensi, Audio",
+      "jawaban": "PENYIAR"
     },
     {
-        "pertanyaan": "Hidung, Panjang, Bohong, Kayu.",
-        "jawaban": "PINOKIO"
+      "pertanyaan": "Gizi, Makanan, Diet, Nutrisi",
+      "jawaban": "AHLI GIZI"
     },
     {
-        "pertanyaan": "UFO, Planet.",
-        "jawaban": "ALIEN"
+      "pertanyaan": "Psikologi, Mental, Perilaku, Emosi",
+      "jawaban": "PSIKOLOG"
     },
     {
-        "pertanyaan": "Mendengar, Suara, Jarak Jauh.",
-        "jawaban": "TELEPON"
+      "pertanyaan": "Keuangan, Modal, Investasi, Aset",
+      "jawaban": "FINANSIAL"
     },
     {
-        "pertanyaan": "Naik, Turun, Kaki.",
-        "jawaban": "TANGGA"
+      "pertanyaan": "Gunung, Vulkanik, Magma, Lava",
+      "jawaban": "VULKANOLOGI"
     },
     {
-        "pertanyaan": "Kepala, Terik, Pantai.",
-        "jawaban": "TOPI"
+      "pertanyaan": "Ruang, Dimensi, Geometri, Sudut",
+      "jawaban": "GEOMETRI"
     },
     {
-        "pertanyaan": "Burung, Pesawat, Nyamuk, Superman.",
-        "jawaban": "TERBANG"
+      "pertanyaan": "Sejarah, Artefak, Fosil, Situs",
+      "jawaban": "ARKEOLOGI"
     },
     {
-        "pertanyaan": "Tidur, Brisik.",
-        "jawaban": "NGOROK"
+      "pertanyaan": "Logika, Analisis, Sistem, Metode",
+      "jawaban": "FILOSOFI"
     },
     {
-        "pertanyaan": "Utara, Selatan, Kompas, Menempel.",
-        "jawaban": "MAGNET"
+      "pertanyaan": "Hormon, Kelenjar, Metabolisme, Tubuh",
+      "jawaban": "ENDOKRINOLOGI"
     },
     {
-        "pertanyaan": "Masinis, Pluit, Tiket, Rel.",
-        "jawaban": "KERETA API"
+      "pertanyaan": "Gerak, Gaya, Energi, Massa",
+      "jawaban": "FISIKA"
     },
     {
-        "pertanyaan": "Membaca, Mata, Huruf.",
-        "jawaban": "KACAMATA"
+      "pertanyaan": "Optik, Cahaya, Lensa, Spektrum",
+      "jawaban": "OPTIKA"
     },
     {
-        "pertanyaan": "Bola, Tangan, Gawang.",
-        "jawaban": "KIPER"
+      "pertanyaan": "Kimia, Reaksi, Molekul, Senyawa",
+      "jawaban": "KIMIAWAN"
     },
     {
-        "pertanyaan": "Taj Mahal, Bajaj, Ular, Gajah.",
-        "jawaban": "INDIA"
+      "pertanyaan": "Hewan, Spesies, Habitat, Evolusi",
+      "jawaban": "ZOOLOGI"
     },
     {
-        "pertanyaan": "Kartu, Tongkat, Kelinci, Burung.",
-        "jawaban": "SULAP"
+      "pertanyaan": "Kosmos, Orbit, Satelit, Roket",
+      "jawaban": "KOSMONOT"
     },
     {
-        "pertanyaan": "Kertas, Burung, Kampak, Oksigen.",
-        "jawaban": "POHON"
+      "pertanyaan": "Olahraga, Latihan, Fisik, Stamina",
+      "jawaban": "ATLET"
     },
     {
-        "pertanyaan": "Tajam, Ikan, Berbahaya.",
-        "jawaban": "PIRANHA"
+      "pertanyaan": "Bahasa, Tata, Kalimat, Kata",
+      "jawaban": "LINGUIS"
     },
     {
-        "pertanyaan": "Ketik, Jari, Komputer, Huruf.",
-        "jawaban": "KEYBOARD"
+      "pertanyaan": "Sel, Jaringan, Organ, Sistem",
+      "jawaban": "HISTOLOGI"
     },
     {
-        "pertanyaan": "Mulut, Plastik, Panjang, Minuman.",
-        "jawaban": "SEDOTAN"
+      "pertanyaan": "Suhu, Tekanan, Volume, Gas",
+      "jawaban": "TERMODINAMIKA"
     },
     {
-        "pertanyaan": "Stir, Roda, Donat.",
-        "jawaban": "LINGKARAN"
+      "pertanyaan": "Sinyal, Transmisi, Data, Komunikasi",
+      "jawaban": "TELEKOMUNI"
     },
     {
-        "pertanyaan": "Kuning, Monyet.",
-        "jawaban": "PISANG"
+      "pertanyaan": "Protein, Karbohidrat, Lemak, Enzim",
+      "jawaban": "BIOKIMIA"
     },
     {
-        "pertanyaan": "Api, Tiup, Kue.",
-        "jawaban": "LILIN"
+      "pertanyaan": "Statistik, Data, Analisis, Probabilitas",
+      "jawaban": "STATISTIKA"
     },
     {
-        "pertanyaan": "Baling-baling, Pilot, Awan.",
-        "jawaban": "PESAWAT"
+      "pertanyaan": "Politik, Negara, Diplomasi, Kebijakan",
+      "jawaban": "DIPLOMAT"
     },
     {
-        "pertanyaan": "Koboi, Tapal, Rumput.",
-        "jawaban": "KUDA"
+      "pertanyaan": "Keamanan, Sistem, Jaringan, Data",
+      "jawaban": "SEKURITI"
     },
     {
-        "pertanyaan": "Makanan, Italia, Bulat, Panggang.",
-        "jawaban": "PIZZA"
+      "pertanyaan": "Sosial, Budaya, Masyarakat, Adat",
+      "jawaban": "SOSIOLOGI"
     },
     {
-        "pertanyaan": "Keju, Kincir Angin, Tulip.",
-        "jawaban": "BELANDA"
+      "pertanyaan": "Tanaman, Kultur, Sel, Jaringan",
+      "jawaban": "BOTANIS"
     },
     {
-        "pertanyaan": "Bebek, Ayam, Bulat.",
-        "jawaban": "TELUR"
+      "pertanyaan": "Gambar, Grafik, Layout, Desain",
+      "jawaban": "DESAINER"
     },
     {
-        "pertanyaan": "Air, Keran, Panjang.",
-        "jawaban": "PIPA"
+      "pertanyaan": "Bintang, Galaxy, Nebula, Komet",
+      "jawaban": "ASTRONOM"
     },
     {
-        "pertanyaan": "Lendir, Hidung, Mampet, Tisu.",
-        "jawaban": "PILEK"
+      "pertanyaan": "Pasar, Konsumen, Produk, Brand",
+      "jawaban": "MARKETER"
     },
     {
-        "pertanyaan": "Pucuk, Gula, Minuman.",
-        "jawaban": "TEH"
+      "pertanyaan": "Industri, Produksi, Proses, Kontrol",
+      "jawaban": "INDUSTRIAL"
     },
     {
-        "pertanyaan": "Dompet, Identitas, Alamat, Telepon.",
-        "jawaban": "KARTU NAMA"
+      "pertanyaan": "Suara, Akustik, Getaran, Frekuensi",
+      "jawaban": "AKUSTIKA"
     },
     {
-        "pertanyaan": "Bayi, Kencing, Lembut.",
-        "jawaban": "POPOK"
-    },
-    {
-        "pertanyaan": "Lampu kilat, Photo, Lensa.",
-        "jawaban": "KAMERA"
-    },
-    {
-        "pertanyaan": "Tipis, Halus, Jarum.",
-        "jawaban": "BENANG"
-    },
-    {
-        "pertanyaan": "Benda, Senar, Petik.",
-        "jawaban": "GITAR"
-    },
-    {
-        "pertanyaan": "Baju, Celana, Jaket.",
-        "jawaban": "PAKAIAN"
-    },
-    {
-        "pertanyaan": "Benda, Bergerak, Mesin.",
-        "jawaban": "ROBOT"
-    },
-    {
-        "pertanyaan": "Kendaraan, Roda 3, Mobil.",
-        "jawaban": "BAJAJ"
-    },
-    {
-        "pertanyaan": "Sarjana, Haji, Master.",
-        "jawaban": "GELAR"
-    },
-    {
-        "pertanyaan": "Seni, Dipajang, Dinding, Estetika.",
-        "jawaban": "LUKISAN"
-    },
-    {
-        "pertanyaan": "Raksasa, Hewan, Kadal, Indonesia.",
-        "jawaban": "KOMODO"
-    },
-    {
-        "pertanyaan": "Transportasi darat, Roda, Kayu, Kuda.",
-        "jawaban": "ANDONG"
-    },
-    {
-        "pertanyaan": "Sekolah, Papan, Tulis, Putih.",
-        "jawaban": "KAPUR"
-    },
-    {
-        "pertanyaan": "Kendaraan, Transportasi, Darat, Aspal.",
-        "jawaban": "JALANAN"
-    },
-    {
-        "pertanyaan": "Elektronik, Kotak, Frekuensi, Suara.",
-        "jawaban": "RADIO"
-    },
-    {
-        "pertanyaan": "Tanah liat, Benda, Atap, Rumah.",
-        "jawaban": "GENTENG"
-    },
-    {
-        "pertanyaan": "Malam hari, Sayap, Hitam, Darah.",
-        "jawaban": "KELELAWAR"
-    },
-    {
-        "pertanyaan": "Segitiga, Mesir, Firaun",
-        "jawaban": "PIRAMIDA"
-    },
-    {
-        "pertanyaan": "Butiran, Pasir, Manis.",
-        "jawaban": "GULA"
-    },
-    {
-        "pertanyaan": "Alat Musik, Sunda, Bambu, Bunyi.",
-        "jawaban": "ANGKLUNG"
-    },
-    {
-        "pertanyaan": "Padi, Butiran, Kering, Gabah.",
-        "jawaban": "BERAS"
-    },
-    {
-        "pertanyaan": "Rumah, Suku, Pegunungan, Sulawesi",
-        "jawaban": "TORAJA"
-    },
-    {
-        "pertanyaan": "Transportasi, Air, Kayu, Dayung.",
-        "jawaban": "PERAHU"
-    },
-    {
-        "pertanyaan": "Pagi Hari, Pegunungan, Pandangan, Dingin.",
-        "jawaban": "KABUT"
-    },
-    {
-        "pertanyaan": "Alas, Kaki, Tali.",
-        "jawaban": "SEPATU"
-    },
-    {
-        "pertanyaan": "Rumput, Jenggot, Tanduk, Sate.",
-        "jawaban": "KAMBING"
-    },
-    {
-        "pertanyaan": "Memasak, Cair, licin, Goreng.",
-        "jawaban": "MINYAK"
-    },
-    {
-        "pertanyaan": "Bulat, Lempar, Tendang.",
-        "jawaban": "BOLA"
-    },
-    {
-        "pertanyaan": "Roda dua, Kaki, Kayuh, Olahraga.",
-        "jawaban": "SEPEDA"
-    },
-    {
-        "pertanyaan": "Angka, Kecil, Hitung, Alat.",
-        "jawaban": "KALKULATOR"
-    },
-    {
-        "pertanyaan": "Kecil, Kelompok, Sarang, Hewan.",
-        "jawaban": "SEMUT"
-    },
-    {
-        "pertanyaan": "Pantai, Hewan, Invertebrata, Capit.",
-        "jawaban": "KEPITING"
-    },
-    {
-        "pertanyaan": "Menghibur, Sule, Tertawa.",
-        "jawaban": "PELAWAK"
-    },
-    {
-        "pertanyaan": "Mengelap, Kain, Kering, Mandi.",
-        "jawaban": "HANDUK"
-    },
-    {
-        "pertanyaan": "Bulat, Lubang, Tepung.",
-        "jawaban": "DONAT"
-    },
-    {
-        "pertanyaan": "Gerhana, Sinar, Malam.",
-        "jawaban": "BULAN"
-    },
-    {
-        "pertanyaan": "Udara, Kaca, Rumah.",
-        "jawaban": "JENDELA"
-    },
-    {
-        "pertanyaan": "Wadah, Makanan, Pecah.",
-        "jawaban": "PIRING"
-    },
-    {
-        "pertanyaan": "Hewan, Besar, Cula.",
-        "jawaban": "BADAK"
-    },
-    {
-        "pertanyaan": "Bangunan, Tempat, Hunian.",
-        "jawaban": "RUMAH"
-    },
-    {
-        "pertanyaan": "Lubang, Wajah, Hirup, Nafas.",
-        "jawaban": "HIDUNG"
-    },
-    {
-        "pertanyaan": "Pohon, Bagian Bawah.",
-        "jawaban": "AKAR"
-    },
-    {
-        "pertanyaan": "Alat, Makan, Menusuk.",
-        "jawaban": "GARPU"
-    },
-    {
-        "pertanyaan": "Lubang, Air, Timba.",
-        "jawaban": "SUMUR"
-    },
-    {
-        "pertanyaan": "Bagian, Belakang, Hewan.",
-        "jawaban": "EKOR"
-    },
-    {
-        "pertanyaan": "Surya, Bumi, Sumber Terang.",
-        "jawaban": "MATAHARI"
-    },
-    {
-        "pertanyaan": "Kera, Langka, Hutan.",
-        "jawaban": "ORANGUTAN"
-    },
-    {
-        "pertanyaan": "Air, Aliran, Hulu, Hilir.",
-        "jawaban": "SUNGAI"
-    },
-    {
-        "pertanyaan": "Buah, Bulan, Santan.",
-        "jawaban": "KELAPA"
-    },
-    {
-        "pertanyaan": "Kadal, Ubah, Warna.",
-        "jawaban": "BUNGLON"
-    },
-    {
-        "pertanyaan": "Perusahaan, Negara, Minyak.",
-        "jawaban": "PERTAMINA"
-    },
-    {
-        "pertanyaan": "Energi, Radioaktif, Uranium.",
-        "jawaban": "NUKLIR"
-    },
-    {
-        "pertanyaan": "Ilmu, Sifat, Materi",
-        "jawaban": "FISIKA"
-    },
-    {
-        "pertanyaan": "Galaksi, Tata Surya",
-        "jawaban": "BIMASAKTI"
-    },
-    {
-        "pertanyaan": "Musik, Indonesia, Goyang, Gendang",
-        "jawaban": "DANGDUT"
-    },
-    {
-        "pertanyaan": "Burung, Langka, Papua.",
-        "jawaban": "CENDRAWASIH"
-    },
-    {
-        "pertanyaan": "Mentimun, Asam, Asin.",
-        "jawaban": "ACAR"
-    },
-    {
-        "pertanyaan": "Ruang, Tunggu, Bis.",
-        "jawaban": "HALTE"
-    },
-    {
-        "pertanyaan": "Tanah, Petani, Padi.",
-        "jawaban": "SAWAH"
-    },
-    {
-        "pertanyaan": "Bayi, Kencing, Lembut.",
-        "jawaban": "POPOK"
-    },
-    {
-        "pertanyaan": "Benda, Bermain, Duduk, Rantai.",
-        "jawaban": "AYUNAN"
-    },
-    {
-        "pertanyaan": "Tempat, Barang, Ruangan.",
-        "jawaban": "GUDANG"
-    },
-    {
-        "pertanyaan": "Benda, Tempat, Simpan, Pakaian.",
-        "jawaban": "LEMARI"
-    },
-    {
-        "pertanyaan": "Hitam, Putih, Hujan, Melayang.",
-        "jawaban": "AWAN"
-    },
-    {
-        "pertanyaan": "Asap, Knalpot, Lingkungan.",
-        "jawaban": "POLUSI"
-    },
-    {
-        "pertanyaan": "Beras, Gula, Sayur.",
-        "jawaban": "SEMBAKO"
-    },
-    {
-        "pertanyaan": "Minyak Sayur, Santan, Tumbuhan.",
-        "jawaban": "KELAPA"
-    },
-    {
-        "pertanyaan": "Kendaraan, Kayuh, Roda, Tiga.",
-        "jawaban": "BECAK"
-    },
-    {
-        "pertanyaan": "Pelindung Rumah, Besi, Pingir Jalan.",
-        "jawaban": "PAGAR"
-    },
-    {
-        "pertanyaan": "Alat, Debu, Bersih.",
-        "jawaban": "KEMOCENG"
-    },
-    {
-        "pertanyaan": "Benda, Puntung, Sampah.",
-        "jawaban": "ASBAK"
-    },
-    {
-        "pertanyaan": "Tempat, Naik/Turun, Lantai.",
-        "jawaban": "LIFT"
-    },
-    {
-        "pertanyaan": "Benda, Berdiri, Panjang.",
-        "jawaban": "TIANG"
-    },
-    {
-        "pertanyaan": "Asin, Putih, Masakan.",
-        "jawaban": "GARAM"
-    },
-    {
-        "pertanyaan": "Meledak, Panas, Indah, Cahaya.",
-        "jawaban": "KEMBANG API"
-    },
-    {
-        "pertanyaan": "Acara, Peresmian, Sepasang.",
-        "jawaban": "NIKAH"
-    },
-    {
-        "pertanyaan": "Putih, Biru, Menjaga.",
-        "jawaban": "SATPAM"
-    },
-    {
-        "pertanyaan": "Barat, Timur, Utara, Selatan.",
-        "jawaban": "KOMPAS"
-    },
-    {
-        "pertanyaan": "Tempat, Kereta, Tiket.",
-        "jawaban": "STASIUN"
-    },
-    {
-        "pertanyaan": "Transportasi, Roda Tiga, Kayu, Kuda.",
-        "jawaban": "DELMAN"
-    },
-    {
-        "pertanyaan": "Roti, Stroberry, Cair.",
-        "jawaban": "SELAI"
-    },
-    {
-        "pertanyaan": "Pelihara, Lucu, Taring, Lonceng.",
-        "jawaban": "KUCING"
-    },
-    {
-        "pertanyaan": "Tabung, Air, Kaca.",
-        "jawaban": "GELAS"
-    },
-    {
-        "pertanyaan": "Penggalian, Benda, Kuno.",
-        "jawaban": "ARKEOLOGI"
-    },
-    {
-        "pertanyaan": "Telinga, Alat, Musik, Bunyi.",
-        "jawaban": "EARPHONE"
-    },
-    {
-        "pertanyaan": "Duduk, Santai, Kayu, Kaki.",
-        "jawaban": "KURSI"
-    },
-    {
-        "pertanyaan": "Sejarah, Wisata, Yogya.",
-        "jawaban": "BOROBUDUR"
-    },
-    {
-        "pertanyaan": "Runcing, Mulut, Makanan, Mengoyak.",
-        "jawaban": "TARING"
-    },
-    {
-        "pertanyaan": "Riak, Gulung, Air, Pantai.",
-        "jawaban": "OMBAK"
-    },
-    {
-        "pertanyaan": "Udara, Bergerak, Sejuk.",
-        "jawaban": "ANGIN"
-    },
-    {
-        "pertanyaan": "Hewan, Langka, Hutan,Kalimantan.",
-        "jawaban": "ORANG UTAN"
-    },
-    {
-        "pertanyaan": "Alat, Musik, Doremi, Kotak.",
-        "jawaban": "PIANO"
-    },
-    {
-        "pertanyaan": "Wadah, Air, Toilet, Besar.",
-        "jawaban": "EMBER"
-    },
-    {
-        "pertanyaan": "Buah, Oranye, Bulat.",
-        "jawaban": "JERUK"
-    },
-    {
-        "pertanyaan": "Rambut, Rapi, Rapat, Alat.",
-        "jawaban": "SISIR"
-    },
-    {
-        "pertanyaan": "Kotak, Tidur, Empuk.",
-        "jawaban": "KASUR"
-    },
-    {
-        "pertanyaan": "Udara, Ban, Naik/Turun.",
-        "jawaban": "POMPA"
-    },
-    {
-        "pertanyaan": "Tipis, Tajam, Benang.",
-        "jawaban": "JARUM"
-    },
-    {
-        "pertanyaan": "Lap, Kaki, Kain.",
-        "jawaban": "KESET"
-    },
-    {
-        "pertanyaan": "Tv, Alat, Jarak Jauh, Siaran.",
-        "jawaban": "REMOT"
-    },
-    {
-        "pertanyaan": "Madu, Hewan, Terbang.",
-        "jawaban": "LEBAH"
-    },
-    {
-        "pertanyaan": "Hewan, Dinding, Melata, Nempel.",
-        "jawaban": "CICAK"
-    },
-    {
-        "pertanyaan": "Alat, Gesek, Bunyi, Musik.",
-        "jawaban": "BIOLA"
-    },
-    {
-        "pertanyaan": "Panjang, Listrik, Pln.",
-        "jawaban": "KABEL"
-    },
-    {
-        "pertanyaan": "Alat, Makan, Tajam.",
-        "jawaban": "GARPU"
-    },
-    {
-        "pertanyaan": "Alat, Potong, Dapur.",
-        "jawaban": "PISAU"
-    },
-    {
-        "pertanyaan": "Pekerjaan, Pesawat, Mengendarai.",
-        "jawaban": "PILOT"
-    },
-    {
-        "pertanyaan": "Kirim, Barang, Pekerjaan.",
-        "jawaban": "KURIR"
-    },
-    {
-        "pertanyaan": "Pekerjaan, Hitung, Belanja, Toko.",
-        "jawaban": "KASIR"
-    },
-    {
-        "pertanyaan": "Pengobatan, Pekerjaan, Tradisional.",
-        "jawaban": "TABIB"
-    },
-    {
-        "pertanyaan": "Pekerjaan, Mengendarai, Delman.",
-        "jawaban": "KUSIR"
-    },
-    {
-        "pertanyaan": "Pohon, Lembah, Bukit, Lebat.",
-        "jawaban": "HUTAN"
-    },
-    {
-        "pertanyaan": "Anak, Mainan, Lucu.",
-        "jawaban": "BONEKA"
-    },
-    {
-        "pertanyaan": "Leher, Perhiasan, Emas.",
-        "jawaban": "KALUNG"
-    },
-    {
-        "pertanyaan": "Transportasi, Panjang, Rel.",
-        "jawaban": "KERETA"
-    },
-    {
-        "pertanyaan": "Siaran, Sinyal, Tv, Alat.",
-        "jawaban": "ANTENA"
-    },
-    {
-        "pertanyaan": "Tempat, Kendaraan, Penyimpanan, Luas.",
-        "jawaban": "PARKIRAN"
-    },
-    {
-        "pertanyaan": "Tiup, Bunyi, Alat.",
-        "jawaban": "TEROMPET"
-    },
-    {
-        "pertanyaan": "Buah, Bulat, Air, Biji.",
-        "jawaban": "SEMANGKA"
-    },
-    {
-        "pertanyaan": "Tempat, Guru, Murid, Belajar.",
-        "jawaban": "SEKOLAH"
-    },
-    {
-        "pertanyaan": "Seram, Sepi, Tempat, Meninggal.",
-        "jawaban": "KUBURAN"
-    },
-    {
-        "pertanyaan": "Pesawat, Tiket, Penerbangan.",
-        "jawaban": "BANDARA"
-    },
-    {
-        "pertanyaan": "Loreng, Senjata, Perang.",
-        "jawaban": "TENTARA"
-    },
-    {
-        "pertanyaan": "Tajam, Kayu, Potong.",
-        "jawaban": "GERGAJI"
-    },
-    {
-        "pertanyaan": "Alat, Meledak, Lempar, Tentara.",
-        "jawaban": "GERANAT"
-    },
-    {
-        "pertanyaan": "Kotak, Komputer, Layar, Resolusi.",
-        "jawaban": "MONITOR"
-    },
-    {
-        "pertanyaan": "Kotak, Kaca, Rumah, Hordeng.",
-        "jawaban": "JENDELA"
-    },
-    {
-        "pertanyaan": "Sawah, Petani, Tanah, Alat.",
-        "jawaban": "CANGKUL"
-    },
-    {
-        "pertanyaan": "Dorong, Pedagang, Alat, Roda.",
-        "jawaban": "GEROBAK"
-    },
-    {
-        "pertanyaan": "Hewan, Leher, Tinggi, Coklat.",
-        "jawaban": "JERAPAH"
-    },
-    {
-        "pertanyaan": "Bunyi, Kucing, Benda, Leher.",
-        "jawaban": "LONCENG"
-    },
-    {
-        "pertanyaan": "Tajam, Kertas, Potong, Alat.",
-        "jawaban": "GUNTING"
-    },
-    {
-        "pertanyaan": "Hewan, Wortel, Loncat.",
-        "jawaban": "KELINCI"
-    },
-    {
-        "pertanyaan": "Bekerja, Tempat, Karyawan.",
-        "jawaban": "KANTOR"
-    },
-    {
-        "pertanyaan": "Tempat, Obat, Jual, Racikan.",
-        "jawaban": "APOTEK"
-    },
-    {
-        "pertanyaan": "Rumah Sakit, Merawat, Pekerjaan.",
-        "jawaban": "SUSTER"
-    },
-    {
-        "pertanyaan": "Mengayomi, Wanita, Keamanan.",
-        "jawaban": "POLWAN"
-    },
-    {
-        "pertanyaan": "Suntik, Obat, Periksa, Pekerjaan.",
-        "jawaban": "DOKTER"
-    },
-    {
-        "pertanyaan": "Tajam, Kesaktria, Senjata.",
-        "jawaban": "PEDANG"
-    },
-    {
-        "pertanyaan": "Cahaya, Malam, Alat, Batterai.",
-        "jawaban": "SENTER"
-    },
-    {
-        "pertanyaan": "Alas, Makanan, Bulat, Kaca.",
-        "jawaban": "PIRING"
-    },
-    {
-        "pertanyaan": "Serut, Kayu, Menulis, Alat.",
-        "jawaban": "PENSIL"
-    },
-    {
-        "pertanyaan": "Alas, Kaki, Karet.",
-        "jawaban": "SANDAL"
-    },
-    {
-        "pertanyaan": "Kepiting, Hama Sawah, Air Tawar.",
-        "jawaban": "YUYU"
-    },
-    {
-        "pertanyaan": "Burung, Hitam, Peniru.",
-        "jawaban": "BEO"
-    },
-    {
-        "pertanyaan": "Rekening, Keuangan, Pekerjaan.",
-        "jawaban": "AKUNTAN"
-    },
-    {
-        "pertanyaan": "Bergelambir, Tungkai, Panjang, Besar.",
-        "jawaban": "KALKUN"
-    },
-    {
-        "pertanyaan": "ekhnology, Merancang, Pekerjaan.",
-        "jawaban": "INSINYUR"
-    },
-    {
-        "pertanyaan": "Capit, Merah, Kaki 10.",
-        "jawaban": "KEPITING"
-    },
-    {
-        "pertanyaan": "Mercedez Benz, Tembok Berlin, Nazi.",
-        "jawaban": "JERMAN"
-    },
-    {
-        "pertanyaan": "Kapal, Kapten, Perwira.",
-        "jawaban": "NAHKODA"
-    },
-    {
-        "pertanyaan": "Gwyneth Paltrow, Paul Bettany, Johnny Depp.",
-        "jawaban": "MORTDECAI"
-    },
-    {
-        "pertanyaan": "Punggung Melengkung, Dikonsumsi, Hewan Laut.",
-        "jawaban": "UDANG"
-    },
-    {
-        "pertanyaan": "Penyunting, Berita, Naskah.",
-        "jawaban": "EDITOR"
-    },
-    {
-        "pertanyaan": "Daging Merah, Perenang, Handal, Ikan.",
-        "jawaban": "TUNA"
-    },
-    {
-        "pertanyaan": "Berilmu, Pengajar, Sekolah.",
-        "jawaban": "GURU"
-    },
-    {
-        "pertanyaan": "Pekerjaan, Peraga, Produk.",
-        "jawaban": "MODEL"
-    },
-    {
-        "pertanyaan": "Bantuan, Hukum, Terdakwa.",
-        "jawaban": "PENGACARA"
-    },
-    {
-        "pertanyaan": "Leher Panjang, Itik, Putih.",
-        "jawaban": "ANGSA"
-    },
-    {
-        "pertanyaan": "Molusca, Lambat, Bekicot.",
-        "jawaban": "SIPUT"
-    },
-    {
-        "pertanyaan": "Kabupaten, Pns, Pemimpin.",
-        "jawaban": "BUPATI"
-    },
-    {
-        "pertanyaan": "Lipan, Nokturnal, Beracun.",
-        "jawaban": "KELABANG"
-    },
-    {
-        "pertanyaan": "Hitam, Laut, Berduri.",
-        "jawaban": "BABI LAUT"
-    },
-    {
-        "pertanyaan": "Butir, Air, Petir, Langit.",
-        "jawaban": "HUJAN"
-    },
-    {
-        "pertanyaan": "Keyboard, Monitor, Kecil Wifi.",
-        "jawaban": "LAPTOP"
-    },
-    {
-        "pertanyaan": "Orang, Penyakit, Sembuh.",
-        "jawaban": "DOKTER"
-    },
-    {
-        "pertanyaan": "Buah, Hijau, Merah.",
-        "jawaban": "SEMANGKA"
-    },
-    {
-        "pertanyaan": "Olahraga, Bulu, Tangkis.",
-        "jawaban": "BADMINTON"
-    },
-    {
-        "pertanyaan": "Segitiga, Batu, Firaun.",
-        "jawaban": "PIRAMIDA"
-    },
-    {
-        "pertanyaan": "Candi, Megah, Buddha.",
-        "jawaban": "BOROBUDUR"
-    },
-    {
-        "pertanyaan": "Sansekerta, Ideologi Negara.",
-        "jawaban": "PANCASILA"
-    },
-    {
-        "pertanyaan": "Gunung, Jawa, Tertinggi.",
-        "jawaban": "SEMERU"
-    },
-    {
-        "pertanyaan": "Samudera, Terluas, Dunia.",
-        "jawaban": "PASIFIK"
-    },
-    {
-        "pertanyaan": "Burung, Lambang, Negara.",
-        "jawaban": "GARUDA"
-    },
-    {
-        "pertanyaan": "Benda, Atap, Rumah.",
-        "jawaban": "GENTENG"
-    },
-    {
-        "pertanyaan": "Gunung, Tertinggi, Dunia.",
-        "jawaban": "EVEREST"
-    },
-    {
-        "pertanyaan": "Penggalian, Benda, Kuno.",
-        "jawaban": "ARKEOLOGI"
-    },
-    {
-        "pertanyaan": "Kera, Hidung, Besar.",
-        "jawaban": "BEKANTAN"
-    },
-    {
-        "pertanyaan": "Pelabuhan, Pesawat, Terbang.",
-        "jawaban": "BANDARA"
-    },
-    {
-        "pertanyaan": "Kolam, Besar, Buatan.",
-        "jawaban": "WADUK"
-    },
-    {
-        "pertanyaan": "Buah, Kulit, Duri.",
-        "jawaban": "DURIAN"
-    },
-     {
-    "pertanyaan": "Satelit, Orbit, Sinyal, Komunikasi",
-    "jawaban": "ANTENA"
-  },
-  {
-    "pertanyaan": "Tanaman, Bunga, Kebun, Hijau",
-    "jawaban": "HORTIKULTURA"
-  },
-  {
-    "pertanyaan": "Komputer, CPU, Monitor, Mouse",
-    "jawaban": "DESKTOP"
-  },
-  {
-    "pertanyaan": "Tulis, Ketik, Huruf, Kertas",
-    "jawaban": "DOKUMEN"
-  },
-  {
-    "pertanyaan": "Hewan, Kucing, Anjing, Peliharaan",
-    "jawaban": "VETERINER"
-  },
-  {
-    "pertanyaan": "Otot, Tulang, Sendi, Gerakan",
-    "jawaban": "ANATOMI"
-  },
-  {
-    "pertanyaan": "Mobil, Mesin, Bensin, Transportasi",
-    "jawaban": "OTOMOTIF"
-  },
-  {
-    "pertanyaan": "Kata, Teks, Tulis, Artikel",
-    "jawaban": "PENULIS"
-  },
-  {
-    "pertanyaan": "Pasar, Harga, Permintaan, Penawaran",
-    "jawaban": "EKONOMI"
-  },
-  {
-    "pertanyaan": "Laut, Samudra, Pantai, Kapal",
-    "jawaban": "MARITIM"
-  },
-  {
-    "pertanyaan": "Udara, Penerbangan, Bandara, Pesawat",
-    "jawaban": "AERONAUTIKA"
-  },
-  {
-    "pertanyaan": "Kode, Algoritma, Program, Komputer",
-    "jawaban": "SOFTWARE"
-  },
-  {
-    "pertanyaan": "Protein, Genetik, Sel, DNA",
-    "jawaban": "BIOLOGI"
-  },
-  {
-    "pertanyaan": "Gigi, Mulut, Perawatan, Kesehatan",
-    "jawaban": "KEDOKTERAN GIGI"
-  },
-  {
-    "pertanyaan": "Listrik, Arus, Voltase, Kabel",
-    "jawaban": "ELEKTRIK"
-  },
-  {
-    "pertanyaan": "Desain, Gambar, Kreatif, Visual",
-    "jawaban": "GRAFIK"
-  },
-  {
-    "pertanyaan": "Musik, Nada, Lagu, Instrumen",
-    "jawaban": "MUSISI"
-  },
-  {
-    "pertanyaan": "Film, Kamera, Skenario, Aktor",
-    "jawaban": "SINEMATOGRAFI"
-  },
-  {
-    "pertanyaan": "Kebun, Sayuran, Buah, Tanaman",
-    "jawaban": "PERTANIAN"
-  },
-  {
-    "pertanyaan": "Kota, Jalan, Bangunan, Infrastruktur",
-    "jawaban": "URBANISME"
-  },
-  {
-    "pertanyaan": "Sinyal, Frekuensi, Radio, Komunikasi",
-    "jawaban": "TELEKOMUNIKASI"
-  },
-  {
-    "pertanyaan": "Roda, Mesin, Transportasi, Mobil",
-    "jawaban": "OTOMOTIF"
-  },
-  {
-    "pertanyaan": "Data, Informasi, Komputer, Jaringan",
-    "jawaban": "DATABASE"
-  },
-  {
-    "pertanyaan": "Bakteri, Virus, Infeksi, Imun",
-    "jawaban": "MIKROBIOLOGI"
-  },
-  {
-    "pertanyaan": "Geometri, Hitung, Rumus, Ilmu",
-    "jawaban": "MATEMATIKA"
-  },
-  {
-    "pertanyaan": "Cerita, Novel, Karakter, Narasi",
-    "jawaban": "FIKSI"
-  },
-  {
-    "pertanyaan": "Lensa, Kamera, Gambar, Foto",
-    "jawaban": "FOTOGRAFI"
-  },
-  {
-    "pertanyaan": "Rumus, Hitung, Matematika, Angka",
-    "jawaban": "KALKULUS"
-  },
-  {
-    "pertanyaan": "Komunikasi, Media, Berita, Jurnal",
-    "jawaban": "JURNALIS"
-  },
-  {
-    "pertanyaan": "Desain, Arsitektur, Bangunan, Konstruksi",
-    "jawaban": "ARSITEK"
-  },
-  {
-    "pertanyaan": "Kimia, Molekul, Senyawa, Reaksi",
-    "jawaban": "KIMIAWAN"
-  },
-  {
-    "pertanyaan": "Hukum, Pengadilan, Peraturan, Kasus",
-    "jawaban": "PENGACARA"
-  },
-  {
-    "pertanyaan": "Nutrisi, Vitamin, Makanan, Kesehatan",
-    "jawaban": "GIZI"
-  },
-  {
-    "pertanyaan": "Jaringan, Keamanan, Internet, Siber",
-    "jawaban": "CYBERSECURITY"
-  },
-  {
-    "pertanyaan": "Senyawa, Reaksi, Kimia, Laboratorium",
-    "jawaban": "KIMIAWAN"
-  },
-  {
-    "pertanyaan": "Cerita, Mitos, Legenda, Dongeng",
-    "jawaban": "MITOLOGI"
-  },
-  {
-    "pertanyaan": "Kromosom, Gen, DNA, Sel",
-    "jawaban": "GENETIKA"
-  },
-  {
-    "pertanyaan": "Budaya, Tradisi, Warisan, Sejarah",
-    "jawaban": "ANTROPOLOGI"
-  },
-  {
-    "pertanyaan": "Bahasa, Kata, Makna, Terjemah",
-    "jawaban": "LINGUISTIK"
-  },
-  {
-    "pertanyaan": "Protein, Enzim, Metabolisme, Genetik",
-    "jawaban": "BIOKIMIA"
-  },
-  {
-    "pertanyaan": "Hewan, Tumbuhan, Ekosistem, Habitat",
-    "jawaban": "EKOLOGI"
-  },
-  {
-    "pertanyaan": "Iklim, Suhu, Hujan, Prediksi",
-    "jawaban": "METEOROLOGI"
-  },
-  {
-    "pertanyaan": "Kode, Script, Program, Komputer",
-    "jawaban": "PEMROGRAMAN"
-  },
-  {
-    "pertanyaan": "Gerhana, Bulan, Bintang, Tata Surya",
-    "jawaban": "ASTRONOMI"
-  },
-  {
-    "pertanyaan": "Otot, Sendi, Tulang, Gerakan",
-    "jawaban": "ANATOMI"
-  },
-  {
-    "pertanyaan": "Pasar, Produk, Strategi, Iklan",
-    "jawaban": "MARKETING"
-  },
-  {
-    "pertanyaan": "Perusahaan, Karyawan, Pekerjaan, Bisnis",
-    "jawaban": "KORPORASI"
-  },
-  {
-    "pertanyaan": "Analisis, Data, Statistik, Pengolahan",
-    "jawaban": "STATISTIK"
-  },
-  {
-    "pertanyaan": "Kerajinan, Bahan, Produk, Desain",
-    "jawaban": "PENGRAJIN"
-  },
-  {
-    "pertanyaan": "Organisasi, Manajemen, Efisiensi, Struktur",
-    "jawaban": "MANAJER"
-  },
-  {
-    "pertanyaan": "Rumah, Desain, Interior, Dekorasi",
-    "jawaban": "DEKORATOR"
-  },
-  {
-    "pertanyaan": "Energi, Bahan Bakar, Sumber Daya, Tenaga",
-    "jawaban": "ENERGI"
-  },
-  {
-    "pertanyaan": "Lingkungan, Sampah, Recycling, Kebersihan",
-    "jawaban": "LINGKUNGAN"
-  },
-  {
-    "pertanyaan": "Bank, Pinjaman, Investasi, Tabungan",
-    "jawaban": "BANKIR"
-  },
-  {
-    "pertanyaan": "Analisis, Risiko, Keamanan, Kontrol",
-    "jawaban": "MANAJEMEN RISIKO"
-  },
-  {
-    "pertanyaan": "Protein, Genetik, Metabolisme, Sel",
-    "jawaban": "BIOKIMIA"
-  },
-  {
-    "pertanyaan": "Komunikasi, Media, Pesan, Iklan",
-    "jawaban": "KOMUNIKASI"
-  },
-  {
-    "pertanyaan": "Tarian, Gerakan, Musik, Koreografi",
-    "jawaban": "PENARI"
-  },
-  {
-    "pertanyaan": "Seni, Patung, Desain, Lukis",
-    "jawaban": "SENIMAN"
-  },
-  {
-    "pertanyaan": "Dokter, Pasien, Kesehatan, Diagnosa",
-    "jawaban": "MEDIS"
-  },
-  {
-    "pertanyaan": "Investasi, Keuangan, Portofolio, Laba",
-    "jawaban": "FINANSIAL"
-  },
-  {
-    "pertanyaan": "Pesawat, Pilot, Kokpit, Bandara",
-    "jawaban": "AVIATOR"
-  },
-  {
-    "pertanyaan": "Sumber Daya, Manusia, Rekrutmen, Kepegawaian",
-    "jawaban": "HRD"
-  },
-  {
-    "pertanyaan": "Bisnis, Modal, Produk, Kewirausahaan",
-    "jawaban": "ENTREPRENEUR"
-  },
-  {
-    "pertanyaan": "Film, Skenario, Produksi, Aktor",
-    "jawaban": "SINEMATOGRAFI"
-  },
-  {
-    "pertanyaan": "Laut, Samudra, Ekosistem, Terumbu",
-    "jawaban": "OCEANOGRAFI"
-  },
-  {
-    "pertanyaan": "Sejarah, Peristiwa, Masa Lalu, Dokumentasi",
-    "jawaban": "SEJARAH"
-  },
-  {
-    "pertanyaan": "Lingkungan, Sampah, Kebersihan, Recycling",
-    "jawaban": "EKOLOGI"
-  },
-  {
-    "pertanyaan": "Teknik, Mesin, Desain, Proyek",
-    "jawaban": "MEKANIK"
-  },
-  {
-    "pertanyaan": "Teks, Grafik, Audio, Video",
-    "jawaban": "MULTIMEDIA"
-  },
-  {
-    "pertanyaan": "Udara, Ketinggian, Pesawat, Terbang",
-    "jawaban": "AVIATOR"
-  },
-  {
-    "pertanyaan": "Matahari, Cahaya, Panas, Panel",
-    "jawaban": "SURYA"
-  },
-  {
-    "pertanyaan": "Senyawa, Atom, Molekul, Reaksi",
-    "jawaban": "KIMIA"
-  },
-  {
-    "pertanyaan": "Tanaman, Pertumbuhan, Fotosintesis, Klorofil",
-    "jawaban": "BOTANI"
-  },
-  {
-    "pertanyaan": "Kesehatan, Olahraga, Kebugaran, Diet",
-    "jawaban": "NUTRISI"
-  },
-  {
-    "pertanyaan": "Hutan, Tumbuhan, Fauna, Konservasi",
-    "jawaban": "EKOLOGI"
-  },
-  {
-    "pertanyaan": "Hukum, Peraturan, Pengadilan, Hakim",
-    "jawaban": "LEGAL"
-  },
-  {
-    "pertanyaan": "Teks, Data, Basis, Informasi",
-    "jawaban": "DATABASE"
-  },
-  {
-    "pertanyaan": "Pesawat, Kendali, Terbang, Navigasi",
-    "jawaban": "PILOT"
-  },
-  {
-    "pertanyaan": "Film, Aktor, Skenario, Produksi",
-    "jawaban": "SINEMATOGRAFI"
-  },
-  {
-    "pertanyaan": "Buku, Pustaka, Referensi, Pengetahuan",
-    "jawaban": "LITERATUR"
-  },
-  {
-    "pertanyaan": "Komputer, Internet, Data, Sistem",
-    "jawaban": "TEKNOLOGI"
-  },
-  {
-    "pertanyaan": "Energi, Tenaga, Listrik, Generator",
-    "jawaban": "ENERGI"
-  },
-  {
-    "pertanyaan": "Bakteri, Virus, Infeksi, Obat",
-    "jawaban": "MIKROBIOLOGI"
-  },
-  {
-    "pertanyaan": "Jaringan, Komputer, Keamanan, Internet",
-    "jawaban": "SIBER"
-  },
-  {
-    "pertanyaan": "Pasar, Produk, Iklan, Strategi",
-    "jawaban": "MARKETING"
-  },
-  {
-    "pertanyaan": "Gen, Kromosom, DNA, Sel",
-    "jawaban": "GENETIKA"
-  },
-  {
-    "pertanyaan": "Budaya, Sejarah, Tradisi, Seni",
-    "jawaban": "ANTROPOLOGI"
-  },
-  {
-    "pertanyaan": "Desain, Grafik, Kreatif, Visual",
-    "jawaban": "DESAIN"
-  },
-  {
-    "pertanyaan": "Hujan, Cuaca, Suhu, Prediksi",
-    "jawaban": "METEOROLOGI"
-  },
-  {
-    "pertanyaan": "Musik, Nada, Lagu, Melodi",
-    "jawaban": "MUSIK"
-  },
-  {
-    "pertanyaan": "Gigi, Kesehatan, Perawatan, Mulut",
-    "jawaban": "DENTAL"
-  },
-  {
-    "pertanyaan": "Otot, Tulang, Gerakan, Sendi",
-    "jawaban": "ANATOMI"
-  },
-  {
-    "pertanyaan": "Transportasi, Kereta, Mobil, Jalan",
-    "jawaban": "OTOMOTIF"
-  },
-  {
-    "pertanyaan": "Kode, Program, Komputer, Algoritma",
-    "jawaban": "SOFTWARE"
-  },
-  {
-    "pertanyaan": "Planet, Bintang, Galaksi, Tata Surya",
-    "jawaban": "ASTRONOMI"
-  },
-  {
-    "pertanyaan": "Pesan, Komunikasi, Media, Berita",
-    "jawaban": "JURNALIS"
-  },
-  {
-    "pertanyaan": "Sinyal, Frekuensi, Radio, Komunikasi",
-    "jawaban": "TELEKOMUNIKASI"
-  },
-  {
-    "pertanyaan": "Riset, Data, Analisis, Kesimpulan",
-    "jawaban": "PENELITIAN"
-  },
-  {
-    "pertanyaan": "Tanah, Subur, Kebun, Padi",
-    "jawaban": "AGRIKULTUR"
-  },
-  {
-    "pertanyaan": "Protein, Metabolisme, Sel, Genetik",
-    "jawaban": "BIOKIMIA"
-  },
-  {
-    "pertanyaan": "Tumbuhan, Herbivora, Ekosistem, Habitat",
-    "jawaban": "BOTANI"
-  },
-  {
-    "pertanyaan": "Komputer, Server, Jaringan, Internet",
-    "jawaban": "IT"
-  },
-  {
-    "pertanyaan": "Tari, Gerak, Musik, Koreografi",
-    "jawaban": "PENARI"
-  },
-  {
-    "pertanyaan": "Listrik, Tegangan, Arus, Kabel",
-    "jawaban": "ELEKTRIK"
-  },
-  {
-    "pertanyaan": "Manajemen, Organisasi, Efisiensi, Struktur",
-    "jawaban": "MANAJER"
-  },
-  {
-    "pertanyaan": "Gambar, Film, Animasi, Gerak",
-    "jawaban": "ANIMATOR"
-  },
-  {
-    "pertanyaan": "Desain, Rancang, Bangunan, Konstruksi",
-    "jawaban": "ARSITEK"
-  },
-  {
-    "pertanyaan": "Hukum, Pengadilan, Kasus, Peraturan",
-    "jawaban": "PENGACARA"
-  },
-  {
-    "pertanyaan": "Sistem, Komputer, Informasi, Jaringan",
-    "jawaban": "IT"
-  },
-  {
-    "pertanyaan": "Bahasa, Kata, Makna, Terjemah",
-    "jawaban": "LINGUISTIK"
-  },
-  {
-    "pertanyaan": "Protein, Enzim, Metabolisme, Sel",
-    "jawaban": "BIOKIMIA"
-  },
-  {
-    "pertanyaan": "Kesehatan, Obat, Pasien, Terapi",
-    "jawaban": "DOKTER"
-  },
-  {
-    "pertanyaan": "Bank, Tabungan, Pinjaman, Investasi",
-    "jawaban": "BANKIR"
-  },
-  {
-    "pertanyaan": "Desain, Bangunan, Konstruksi, Rancang",
-    "jawaban": "ARSITEK"
-  },
-  {
-    "pertanyaan": "Mikroba, Bakteri, Virus, Patogen",
-    "jawaban": "MIKROBIOLOGI"
-  },
-  {
-    "pertanyaan": "Film, Skenario, Produksi, Aktor",
-    "jawaban": "SINEMATOGRAFI"
-  },
-  {
-    "pertanyaan": "Ekonomi, Pasar, Harga, Permintaan",
-    "jawaban": "EKONOMI"
-  },
-  {
-    "pertanyaan": "Energi, Bahan Bakar, Sumber Daya, Tenaga",
-    "jawaban": "ENERGI"
-  },
-  {
-    "pertanyaan": "Mobil, Mesin, Transportasi, Roda",
-    "jawaban": "OTOMOTIF"
-  },
-  {
-    "pertanyaan": "Jaringan, Keamanan, Internet, Siber",
-    "jawaban": "SIBER"
-  },
-  {
-    "pertanyaan": "Pesawat, Pilot, Kokpit, Bandara",
-    "jawaban": "AVIATOR"
-  },
-  {
-    "pertanyaan": "Gigi, Mulut, Kesehatan, Perawatan",
-    "jawaban": "DENTAL"
-  },
-  {
-    "pertanyaan": "Organisasi, Manajemen, Struktur, Efisiensi",
-    "jawaban": "MANAJER"
-  },
-  {
-    "pertanyaan": "Satelit, Orbit, Sinyal, Komunikasi",
-    "jawaban": "ANTENA"
-  },
-  {
-    "pertanyaan": "Buku, Pengetahuan, Referensi, Perpustakaan",
-    "jawaban": "LITERATUR"
-  },
-  {
-    "pertanyaan": "Laut, Samudra, Pantai, Kapal",
-    "jawaban": "MARITIM"
-  },
-  {
-    "pertanyaan": "Dokter, Pasien, Kesehatan, Diagnosa",
-    "jawaban": "MEDIS"
-  },
-  {
-    "pertanyaan": "Bahasa, Kata, Makna, Terjemah",
-    "jawaban": "PENERJEMAH"
-  },
-  {
-    "pertanyaan": "Hewan, Tumbuhan, Ekosistem, Habitat",
-    "jawaban": "EKOLOGI"
-  },
-  {
-    "pertanyaan": "Cerita, Novel, Karakter, Narasi",
-    "jawaban": "FIKSI"
-  },
-  {
-    "pertanyaan": "Desain, Grafik, Kreatif, Visual",
-    "jawaban": "DESAINER"
-  },
-  {
-    "pertanyaan": "Anatomi, Otot, Tulang, Sendi",
-    "jawaban": "ANATOMI"
-  },
-  {
-    "pertanyaan": "Bakteri, Virus, Infeksi, Imun",
-    "jawaban": "MIKROBIOLOGI"
-  },
-  {
-    "pertanyaan": "Film, Kamera, Skenario, Produksi",
-    "jawaban": "FILM MAKER"
-  },
-  {
-    "pertanyaan": "Teks, Data, Basis, Informasi",
-    "jawaban": "DATABASE"
-  },
-  {
-    "pertanyaan": "Kesehatan, Olahraga, Kebugaran, Diet",
-    "jawaban": "GIZI"
-  },
-  {
-    "pertanyaan": "Hukum, Peraturan, Pengadilan, Hakim",
-    "jawaban": "LEGAL"
-  },
-  {
-    "pertanyaan": "Kerajinan, Bahan, Produk, Desain",
-    "jawaban": "PENGRAJIN"
-  },
-  {
-    "pertanyaan": "Planet, Bintang, Galaksi, Tata Surya",
-    "jawaban": "ASTRONOMI"
-  }
-]
+      "pertanyaan": "Mikroskop, Sel, Bakteri, Virus",
+      "jawaban": "MIKROBIOLOGI"
+    }
+  ]
