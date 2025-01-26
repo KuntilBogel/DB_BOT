@@ -1961,55 +1961,55 @@
   },
   {
     "title": {
-      "english": "My Hero Academia Season 4",
-      "romaji": "Boku no Hero Academia 4"
+      "english": "Dr. STONE",
+      "romaji": "Dr. STONE"
     },
-    "id": 104276,
+    "id": 105333,
     "characters": {
       "nodes": [
         {
-          "id": 89220,
+          "id": 124142,
           "name": {
-            "full": "Shouto Todoroki"
+            "full": "Senkuu Ishigami"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89220-KNBwaVFAR8FD.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124142-fFBZo37G0pao.png"
           }
         },
         {
-          "id": 88892,
+          "id": 127445,
           "name": {
-            "full": "Katsuki Bakugou"
+            "full": "Gen Asagiri"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88892-kYy9l65iW5rx.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127445-oUCyS7Tl8l5D.png"
           }
         },
         {
-          "id": 89028,
+          "id": 124143,
           "name": {
-            "full": "Izuku Midoriya"
+            "full": "Kohaku"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89028-8w1I9o1ISHMg.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124143-DABUFs3cPNrP.png"
           }
         },
         {
-          "id": 89225,
+          "id": 124145,
           "name": {
-            "full": "Shouta Aizawa"
+            "full": "Chrome"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89225-XBgvUhI9naVI.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124145-EEvQmsj8jku4.png"
           }
         },
         {
-          "id": 89243,
+          "id": 36309,
           "name": {
-            "full": "Eijirou Kirishima"
+            "full": "Narrator"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89243-QLmUyyZk5K2l.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-yRLEQYd2dDI5.jpg"
           }
         }
       ]
@@ -2073,55 +2073,55 @@
   },
   {
     "title": {
-      "english": "Dr. STONE",
-      "romaji": "Dr. STONE"
+      "english": "My Hero Academia Season 4",
+      "romaji": "Boku no Hero Academia 4"
     },
-    "id": 105333,
+    "id": 104276,
     "characters": {
       "nodes": [
         {
-          "id": 124142,
+          "id": 89220,
           "name": {
-            "full": "Senkuu Ishigami"
+            "full": "Shouto Todoroki"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124142-fFBZo37G0pao.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89220-KNBwaVFAR8FD.png"
           }
         },
         {
-          "id": 127445,
+          "id": 88892,
           "name": {
-            "full": "Gen Asagiri"
+            "full": "Katsuki Bakugou"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127445-oUCyS7Tl8l5D.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88892-kYy9l65iW5rx.png"
           }
         },
         {
-          "id": 124143,
+          "id": 89028,
           "name": {
-            "full": "Kohaku"
+            "full": "Izuku Midoriya"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124143-DABUFs3cPNrP.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89028-8w1I9o1ISHMg.png"
           }
         },
         {
-          "id": 124145,
+          "id": 89225,
           "name": {
-            "full": "Chrome"
+            "full": "Shouta Aizawa"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124145-EEvQmsj8jku4.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89225-XBgvUhI9naVI.png"
           }
         },
         {
-          "id": 36309,
+          "id": 89243,
           "name": {
-            "full": "Narrator"
+            "full": "Eijirou Kirishima"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-yRLEQYd2dDI5.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89243-QLmUyyZk5K2l.png"
           }
         }
       ]
@@ -2788,12 +2788,12 @@
           }
         },
         {
-          "id": 88780,
+          "id": 88683,
           "name": {
-            "full": "Clavis"
+            "full": "Ginti"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88780-76uJe60Gkw70.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88683-S0xJzL8QY3gI.png"
           }
         }
       ]
@@ -4257,62 +4257,6 @@
   },
   {
     "title": {
-      "english": "The Devil is a Part-Timer!",
-      "romaji": "Hataraku Maou-sama!"
-    },
-    "id": 15809,
-    "characters": {
-      "nodes": [
-        {
-          "id": 70733,
-          "name": {
-            "full": "Satan Jacob"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70733-d564H7iUj7Y2.png"
-          }
-        },
-        {
-          "id": 70735,
-          "name": {
-            "full": "Emilia Justina"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70735-DmmbHRLKpS0E.png"
-          }
-        },
-        {
-          "id": 83103,
-          "name": {
-            "full": "Lucifer"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83103-fksjOXqJCmxd.png"
-          }
-        },
-        {
-          "id": 70737,
-          "name": {
-            "full": "Alciel"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70737-lDeBmECttJCK.png"
-          }
-        },
-        {
-          "id": 70739,
-          "name": {
-            "full": "Chiho Sasaki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70739-rJpfVU2YH5nS.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Mushoku Tensei: Jobless Reincarnation",
       "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu"
     },
@@ -4362,6 +4306,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88351-grqY44xz6bvP.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "The Devil is a Part-Timer!",
+      "romaji": "Hataraku Maou-sama!"
+    },
+    "id": 15809,
+    "characters": {
+      "nodes": [
+        {
+          "id": 70733,
+          "name": {
+            "full": "Satan Jacob"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70733-d564H7iUj7Y2.png"
+          }
+        },
+        {
+          "id": 70735,
+          "name": {
+            "full": "Emilia Justina"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70735-DmmbHRLKpS0E.png"
+          }
+        },
+        {
+          "id": 83103,
+          "name": {
+            "full": "Lucifer"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83103-fksjOXqJCmxd.png"
+          }
+        },
+        {
+          "id": 70737,
+          "name": {
+            "full": "Alciel"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70737-lDeBmECttJCK.png"
+          }
+        },
+        {
+          "id": 70739,
+          "name": {
+            "full": "Chiho Sasaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70739-rJpfVU2YH5nS.png"
           }
         }
       ]
