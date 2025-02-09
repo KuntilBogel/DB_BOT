@@ -2185,62 +2185,6 @@
   },
   {
     "title": {
-      "english": "The Seven Deadly Sins",
-      "romaji": "Nanatsu no Taizai"
-    },
-    "id": 20789,
-    "characters": {
-      "nodes": [
-        {
-          "id": 77605,
-          "name": {
-            "full": "Ban"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b77605-NrjhQwZwgJ3l.png"
-          }
-        },
-        {
-          "id": 72921,
-          "name": {
-            "full": "Meliodas"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b72921-XDHNd1wflN6P.png"
-          }
-        },
-        {
-          "id": 36309,
-          "name": {
-            "full": "Narrator"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-yRLEQYd2dDI5.jpg"
-          }
-        },
-        {
-          "id": 83801,
-          "name": {
-            "full": "King"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83801-52RnDXQDZ1I7.png"
-          }
-        },
-        {
-          "id": 74653,
-          "name": {
-            "full": "Diane"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b74653-XpMcsLVZBnkZ.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Chainsaw Man",
       "romaji": "Chainsaw Man"
     },
@@ -2290,6 +2234,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b148740-ceAibPxLW8rR.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "The Seven Deadly Sins",
+      "romaji": "Nanatsu no Taizai"
+    },
+    "id": 20789,
+    "characters": {
+      "nodes": [
+        {
+          "id": 77605,
+          "name": {
+            "full": "Ban"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b77605-NrjhQwZwgJ3l.png"
+          }
+        },
+        {
+          "id": 72921,
+          "name": {
+            "full": "Meliodas"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b72921-XDHNd1wflN6P.png"
+          }
+        },
+        {
+          "id": 36309,
+          "name": {
+            "full": "Narrator"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-yRLEQYd2dDI5.jpg"
+          }
+        },
+        {
+          "id": 83801,
+          "name": {
+            "full": "King"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83801-52RnDXQDZ1I7.png"
+          }
+        },
+        {
+          "id": 74653,
+          "name": {
+            "full": "Diane"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b74653-XpMcsLVZBnkZ.jpg"
           }
         }
       ]
@@ -2857,62 +2857,6 @@
   },
   {
     "title": {
-      "english": "Spirited Away",
-      "romaji": "Sen to Chihiro no Kamikakushi"
-    },
-    "id": 199,
-    "characters": {
-      "nodes": [
-        {
-          "id": 385,
-          "name": {
-            "full": "Haku"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b385-pKGCy3oYWxRa.png"
-          }
-        },
-        {
-          "id": 8298,
-          "name": {
-            "full": "Kaonashi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8298-07C1RV5lvy7m.png"
-          }
-        },
-        {
-          "id": 384,
-          "name": {
-            "full": "Chihiro Ogino"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b384-AoWCsQyG0WI7.png"
-          }
-        },
-        {
-          "id": 13393,
-          "name": {
-            "full": "Makkuro-Kurosuke"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13393-YggqgLU41aiP.png"
-          }
-        },
-        {
-          "id": 5465,
-          "name": {
-            "full": "Rin"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5465-ZWJpBoYKPbAY.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Bleach",
       "romaji": "BLEACH"
     },
@@ -2962,6 +2906,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1086-qR9218BjZTC0.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Spirited Away",
+      "romaji": "Sen to Chihiro no Kamikakushi"
+    },
+    "id": 199,
+    "characters": {
+      "nodes": [
+        {
+          "id": 385,
+          "name": {
+            "full": "Haku"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b385-pKGCy3oYWxRa.png"
+          }
+        },
+        {
+          "id": 384,
+          "name": {
+            "full": "Chihiro Ogino"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b384-AoWCsQyG0WI7.png"
+          }
+        },
+        {
+          "id": 8298,
+          "name": {
+            "full": "Kaonashi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8298-07C1RV5lvy7m.png"
+          }
+        },
+        {
+          "id": 13393,
+          "name": {
+            "full": "Makkuro-Kurosuke"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13393-YggqgLU41aiP.png"
+          }
+        },
+        {
+          "id": 5465,
+          "name": {
+            "full": "Rin"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5465-ZWJpBoYKPbAY.png"
           }
         }
       ]
@@ -4145,62 +4145,6 @@
   },
   {
     "title": {
-      "english": "HAIKYU!! 2nd Season",
-      "romaji": "Haikyuu!! 2nd Season"
-    },
-    "id": 20992,
-    "characters": {
-      "nodes": [
-        {
-          "id": 64769,
-          "name": {
-            "full": "Shouyou Hinata"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64769-WoWlCMLLgJ14.png"
-          }
-        },
-        {
-          "id": 64771,
-          "name": {
-            "full": "Tobio Kageyama"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64771-BuCVs7B8bBdh.png"
-          }
-        },
-        {
-          "id": 67327,
-          "name": {
-            "full": "Yuu Nishinoya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67327-zQb1dlC7joPb.jpg"
-          }
-        },
-        {
-          "id": 71267,
-          "name": {
-            "full": "Kenma Kozume"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71267-q44J2MXMinXD.jpg"
-          }
-        },
-        {
-          "id": 71611,
-          "name": {
-            "full": "Tooru Oikawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71611-cUZwVfzeNXD9.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Tokyo Ghoul √A",
       "romaji": "Tokyo Ghoul √A"
     },
@@ -4250,6 +4194,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88414-r2Xd7jJeMrvR.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "HAIKYU!! 2nd Season",
+      "romaji": "Haikyuu!! 2nd Season"
+    },
+    "id": 20992,
+    "characters": {
+      "nodes": [
+        {
+          "id": 64769,
+          "name": {
+            "full": "Shouyou Hinata"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64769-WoWlCMLLgJ14.png"
+          }
+        },
+        {
+          "id": 64771,
+          "name": {
+            "full": "Tobio Kageyama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64771-BuCVs7B8bBdh.png"
+          }
+        },
+        {
+          "id": 67327,
+          "name": {
+            "full": "Yuu Nishinoya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67327-zQb1dlC7joPb.jpg"
+          }
+        },
+        {
+          "id": 71267,
+          "name": {
+            "full": "Kenma Kozume"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71267-q44J2MXMinXD.jpg"
+          }
+        },
+        {
+          "id": 71611,
+          "name": {
+            "full": "Tooru Oikawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71611-cUZwVfzeNXD9.png"
           }
         }
       ]
