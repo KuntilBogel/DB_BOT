@@ -1009,62 +1009,6 @@
   },
   {
     "title": {
-      "english": "Assassination Classroom",
-      "romaji": "Ansatsu Kyoushitsu"
-    },
-    "id": 20755,
-    "characters": {
-      "nodes": [
-        {
-          "id": 71933,
-          "name": {
-            "full": "Karma Akabane"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71933-HQ1TSjlrJ8Hv.jpg"
-          }
-        },
-        {
-          "id": 65643,
-          "name": {
-            "full": "Koro-sensei"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65643-OuY8lZfAfgxp.png"
-          }
-        },
-        {
-          "id": 65645,
-          "name": {
-            "full": "Nagisa Shiota"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65645-nWH4mBMW5lYw.png"
-          }
-        },
-        {
-          "id": 73881,
-          "name": {
-            "full": "Tadaomi Karasuma"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/73881-Ukr6cBzK8dsi.png"
-          }
-        },
-        {
-          "id": 73883,
-          "name": {
-            "full": "Irina Jelavic"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73883-ajlj28kkjxlb.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Attack on Titan Final Season",
       "romaji": "Shingeki no Kyojin: The Final Season"
     },
@@ -1114,6 +1058,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71121-7R7CnQd3lHgt.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Assassination Classroom",
+      "romaji": "Ansatsu Kyoushitsu"
+    },
+    "id": 20755,
+    "characters": {
+      "nodes": [
+        {
+          "id": 71933,
+          "name": {
+            "full": "Karma Akabane"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71933-HQ1TSjlrJ8Hv.jpg"
+          }
+        },
+        {
+          "id": 65643,
+          "name": {
+            "full": "Koro-sensei"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65643-OuY8lZfAfgxp.png"
+          }
+        },
+        {
+          "id": 65645,
+          "name": {
+            "full": "Nagisa Shiota"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65645-nWH4mBMW5lYw.png"
+          }
+        },
+        {
+          "id": 73881,
+          "name": {
+            "full": "Tadaomi Karasuma"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/73881-Ukr6cBzK8dsi.png"
+          }
+        },
+        {
+          "id": 73883,
+          "name": {
+            "full": "Irina Jelavic"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73883-ajlj28kkjxlb.jpg"
           }
         }
       ]
@@ -1737,62 +1737,6 @@
   },
   {
     "title": {
-      "english": "No Game, No Life",
-      "romaji": "No Game No Life"
-    },
-    "id": 19815,
-    "characters": {
-      "nodes": [
-        {
-          "id": 82525,
-          "name": {
-            "full": "Shiro"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82525-sKk2FGRKN4aK.png"
-          }
-        },
-        {
-          "id": 82523,
-          "name": {
-            "full": "Sora"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82523-JB9oevKyXWfc.png"
-          }
-        },
-        {
-          "id": 87887,
-          "name": {
-            "full": "Jibril"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87887-3QKmvQM5LTwY.png"
-          }
-        },
-        {
-          "id": 82527,
-          "name": {
-            "full": "Stephanie Dola"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82527-uwdWwl1qhzqC.png"
-          }
-        },
-        {
-          "id": 88003,
-          "name": {
-            "full": "Izuna Hatsuse"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88003-tZKsjjzDWV8e.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Black Clover",
       "romaji": "Black Clover"
     },
@@ -1842,6 +1786,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124435-gXFVXWrCcieK.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "No Game, No Life",
+      "romaji": "No Game No Life"
+    },
+    "id": 19815,
+    "characters": {
+      "nodes": [
+        {
+          "id": 82525,
+          "name": {
+            "full": "Shiro"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82525-sKk2FGRKN4aK.png"
+          }
+        },
+        {
+          "id": 82523,
+          "name": {
+            "full": "Sora"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82523-JB9oevKyXWfc.png"
+          }
+        },
+        {
+          "id": 87887,
+          "name": {
+            "full": "Jibril"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87887-3QKmvQM5LTwY.png"
+          }
+        },
+        {
+          "id": 82527,
+          "name": {
+            "full": "Stephanie Dola"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82527-uwdWwl1qhzqC.png"
+          }
+        },
+        {
+          "id": 88003,
+          "name": {
+            "full": "Izuna Hatsuse"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88003-tZKsjjzDWV8e.png"
           }
         }
       ]
@@ -2017,62 +2017,6 @@
   },
   {
     "title": {
-      "english": "Violet Evergarden",
-      "romaji": "Violet Evergarden"
-    },
-    "id": 21827,
-    "characters": {
-      "nodes": [
-        {
-          "id": 90169,
-          "name": {
-            "full": "Violet Evergarden"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90169-4wr1Zehnsac8.png"
-          }
-        },
-        {
-          "id": 124790,
-          "name": {
-            "full": "Gilbert Bougainvillea"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124790-QR7zyemTK0zq.png"
-          }
-        },
-        {
-          "id": 124788,
-          "name": {
-            "full": "Benedict Blue"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124788-upZ5vtGwndzt.jpg"
-          }
-        },
-        {
-          "id": 124787,
-          "name": {
-            "full": "Cattleya Baudelaire"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124787-1HuZGawvoejp.jpg"
-          }
-        },
-        {
-          "id": 124799,
-          "name": {
-            "full": "Claudia Hodgins"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124799-htaqVGZd83GW.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Chainsaw Man",
       "romaji": "Chainsaw Man"
     },
@@ -2129,55 +2073,55 @@
   },
   {
     "title": {
-      "english": "My Hero Academia Season 4",
-      "romaji": "Boku no Hero Academia 4"
+      "english": "Violet Evergarden",
+      "romaji": "Violet Evergarden"
     },
-    "id": 104276,
+    "id": 21827,
     "characters": {
       "nodes": [
         {
-          "id": 89220,
+          "id": 90169,
           "name": {
-            "full": "Shouto Todoroki"
+            "full": "Violet Evergarden"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89220-KNBwaVFAR8FD.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90169-4wr1Zehnsac8.png"
           }
         },
         {
-          "id": 88892,
+          "id": 124790,
           "name": {
-            "full": "Katsuki Bakugou"
+            "full": "Gilbert Bougainvillea"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88892-kYy9l65iW5rx.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124790-QR7zyemTK0zq.png"
           }
         },
         {
-          "id": 89028,
+          "id": 124788,
           "name": {
-            "full": "Izuku Midoriya"
+            "full": "Benedict Blue"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89028-8w1I9o1ISHMg.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124788-upZ5vtGwndzt.jpg"
           }
         },
         {
-          "id": 89225,
+          "id": 124787,
           "name": {
-            "full": "Shouta Aizawa"
+            "full": "Cattleya Baudelaire"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89225-XBgvUhI9naVI.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124787-1HuZGawvoejp.jpg"
           }
         },
         {
-          "id": 89243,
+          "id": 124799,
           "name": {
-            "full": "Eijirou Kirishima"
+            "full": "Claudia Hodgins"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89243-QLmUyyZk5K2l.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124799-htaqVGZd83GW.jpg"
           }
         }
       ]
@@ -2234,6 +2178,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/64749-a2ZdRWW1D5TR.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "My Hero Academia Season 4",
+      "romaji": "Boku no Hero Academia 4"
+    },
+    "id": 104276,
+    "characters": {
+      "nodes": [
+        {
+          "id": 89220,
+          "name": {
+            "full": "Shouto Todoroki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89220-KNBwaVFAR8FD.png"
+          }
+        },
+        {
+          "id": 88892,
+          "name": {
+            "full": "Katsuki Bakugou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88892-kYy9l65iW5rx.png"
+          }
+        },
+        {
+          "id": 89028,
+          "name": {
+            "full": "Izuku Midoriya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89028-8w1I9o1ISHMg.png"
+          }
+        },
+        {
+          "id": 89225,
+          "name": {
+            "full": "Shouta Aizawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89225-XBgvUhI9naVI.png"
+          }
+        },
+        {
+          "id": 89243,
+          "name": {
+            "full": "Eijirou Kirishima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89243-QLmUyyZk5K2l.png"
           }
         }
       ]
@@ -2465,62 +2465,6 @@
   },
   {
     "title": {
-      "english": "DARLING in the FRANXX",
-      "romaji": "Darling in the Franxx"
-    },
-    "id": 99423,
-    "characters": {
-      "nodes": [
-        {
-          "id": 124381,
-          "name": {
-            "full": "Zero Two"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124381-pkTKi6HHNuVR.png"
-          }
-        },
-        {
-          "id": 124382,
-          "name": {
-            "full": "Ichigo"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124382-bSBkjtYjJQtr.png"
-          }
-        },
-        {
-          "id": 124380,
-          "name": {
-            "full": "Hiro"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124380-ct1wJHIl9BY1.jpg"
-          }
-        },
-        {
-          "id": 124386,
-          "name": {
-            "full": "Kokoro"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124386-vc248g43ap3m.jpg"
-          }
-        },
-        {
-          "id": 124383,
-          "name": {
-            "full": "Goro"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n124383-I6ZsEBQoETj3.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Vinland Saga",
       "romaji": "VINLAND SAGA"
     },
@@ -2577,55 +2521,55 @@
   },
   {
     "title": {
-      "english": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
-      "romaji": "Kimetsu no Yaiba: Mugen Ressha-hen"
+      "english": "DARLING in the FRANXX",
+      "romaji": "Darling in the Franxx"
     },
-    "id": 112151,
+    "id": 99423,
     "characters": {
       "nodes": [
         {
-          "id": 126071,
+          "id": 124381,
           "name": {
-            "full": "Tanjirou Kamado"
+            "full": "Zero Two"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126071-BTNEc1nRIv68.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124381-pkTKi6HHNuVR.png"
           }
         },
         {
-          "id": 127518,
+          "id": 124382,
           "name": {
-            "full": "Nezuko Kamado"
+            "full": "Ichigo"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127518-NRlq1CQ1v1ro.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124382-bSBkjtYjJQtr.png"
           }
         },
         {
-          "id": 129130,
+          "id": 124380,
           "name": {
-            "full": "Inosuke Hashibira"
+            "full": "Hiro"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n129130-SJC0Kn1DU39E.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124380-ct1wJHIl9BY1.jpg"
           }
         },
         {
-          "id": 129131,
+          "id": 124386,
           "name": {
-            "full": "Zenitsu Agatsuma"
+            "full": "Kokoro"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129131-FZrQ7lSlxmEr.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124386-vc248g43ap3m.jpg"
           }
         },
         {
-          "id": 129133,
+          "id": 124383,
           "name": {
-            "full": "Kyoujurou Rengoku"
+            "full": "Goro"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129133-VlTPowwt68rJ.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n124383-I6ZsEBQoETj3.jpg"
           }
         }
       ]
@@ -2682,6 +2626,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89726-NS2ZmYjp1Mnr.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+      "romaji": "Kimetsu no Yaiba: Mugen Ressha-hen"
+    },
+    "id": 112151,
+    "characters": {
+      "nodes": [
+        {
+          "id": 126071,
+          "name": {
+            "full": "Tanjirou Kamado"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126071-BTNEc1nRIv68.png"
+          }
+        },
+        {
+          "id": 127518,
+          "name": {
+            "full": "Nezuko Kamado"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127518-NRlq1CQ1v1ro.png"
+          }
+        },
+        {
+          "id": 129130,
+          "name": {
+            "full": "Inosuke Hashibira"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n129130-SJC0Kn1DU39E.jpg"
+          }
+        },
+        {
+          "id": 129131,
+          "name": {
+            "full": "Zenitsu Agatsuma"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129131-FZrQ7lSlxmEr.png"
+          }
+        },
+        {
+          "id": 129133,
+          "name": {
+            "full": "Kyoujurou Rengoku"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129133-VlTPowwt68rJ.png"
           }
         }
       ]
@@ -2929,21 +2929,21 @@
           }
         },
         {
-          "id": 384,
-          "name": {
-            "full": "Chihiro Ogino"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b384-AoWCsQyG0WI7.png"
-          }
-        },
-        {
           "id": 8298,
           "name": {
             "full": "Kaonashi"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8298-07C1RV5lvy7m.png"
+          }
+        },
+        {
+          "id": 384,
+          "name": {
+            "full": "Chihiro Ogino"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b384-AoWCsQyG0WI7.png"
           }
         },
         {
@@ -3417,62 +3417,6 @@
   },
   {
     "title": {
-      "english": "Mob Psycho 100 II",
-      "romaji": "Mob Psycho 100 II"
-    },
-    "id": 101338,
-    "characters": {
-      "nodes": [
-        {
-          "id": 89334,
-          "name": {
-            "full": "Arataka Reigen"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89334-2H6cQURE8ZuA.png"
-          }
-        },
-        {
-          "id": 89616,
-          "name": {
-            "full": "Shigeo Kageyama"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89616-ICpxoVaB7E7P.png"
-          }
-        },
-        {
-          "id": 89617,
-          "name": {
-            "full": "Ekubo"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89617-HHZ1kziYxc0q.png"
-          }
-        },
-        {
-          "id": 89621,
-          "name": {
-            "full": "Teruki Hanazawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89621-3uLnmhFOGYFv.png"
-          }
-        },
-        {
-          "id": 36309,
-          "name": {
-            "full": "Narrator"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-yRLEQYd2dDI5.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "The Rising of the Shield Hero",
       "romaji": "Tate no Yuusha no Nariagari"
     },
@@ -3522,6 +3466,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135198-ImEXzNG3srwI.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Mob Psycho 100 II",
+      "romaji": "Mob Psycho 100 II"
+    },
+    "id": 101338,
+    "characters": {
+      "nodes": [
+        {
+          "id": 89334,
+          "name": {
+            "full": "Arataka Reigen"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89334-2H6cQURE8ZuA.png"
+          }
+        },
+        {
+          "id": 89616,
+          "name": {
+            "full": "Shigeo Kageyama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89616-ICpxoVaB7E7P.png"
+          }
+        },
+        {
+          "id": 89617,
+          "name": {
+            "full": "Ekubo"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89617-HHZ1kziYxc0q.png"
+          }
+        },
+        {
+          "id": 89621,
+          "name": {
+            "full": "Teruki Hanazawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89621-3uLnmhFOGYFv.png"
+          }
+        },
+        {
+          "id": 36309,
+          "name": {
+            "full": "Narrator"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-yRLEQYd2dDI5.jpg"
           }
         }
       ]
@@ -3796,12 +3796,12 @@
           }
         },
         {
-          "id": 128034,
+          "id": 128040,
           "name": {
-            "full": "Veldora Tempest"
+            "full": "Shuna"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b128034-Gg5MrpTFNSv8.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b128040-QOhtFHgfOT5O.png"
           }
         }
       ]
@@ -4145,6 +4145,62 @@
   },
   {
     "title": {
+      "english": "Mushoku Tensei: Jobless Reincarnation",
+      "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu"
+    },
+    "id": 108465,
+    "characters": {
+      "nodes": [
+        {
+          "id": 88350,
+          "name": {
+            "full": "Roxy Migurdia"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88350-msG5VZgxP5ux.png"
+          }
+        },
+        {
+          "id": 88348,
+          "name": {
+            "full": "Rudeus Greyrat"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88348-bIe5XnXdRpmX.png"
+          }
+        },
+        {
+          "id": 88349,
+          "name": {
+            "full": "Eris Boreas Greyrat"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88349-5dsNUah3oBj8.png"
+          }
+        },
+        {
+          "id": 88346,
+          "name": {
+            "full": "Sylphiette"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88346-h8kCL93AXj4n.png"
+          }
+        },
+        {
+          "id": 88351,
+          "name": {
+            "full": "Ruijerd Superdia"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88351-grqY44xz6bvP.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
       "english": "Tokyo Ghoul √A",
       "romaji": "Tokyo Ghoul √A"
     },
@@ -4250,62 +4306,6 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71611-cUZwVfzeNXD9.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "english": "Mushoku Tensei: Jobless Reincarnation",
-      "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu"
-    },
-    "id": 108465,
-    "characters": {
-      "nodes": [
-        {
-          "id": 88350,
-          "name": {
-            "full": "Roxy Migurdia"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88350-msG5VZgxP5ux.png"
-          }
-        },
-        {
-          "id": 88348,
-          "name": {
-            "full": "Rudeus Greyrat"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88348-bIe5XnXdRpmX.png"
-          }
-        },
-        {
-          "id": 88349,
-          "name": {
-            "full": "Eris Boreas Greyrat"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88349-5dsNUah3oBj8.png"
-          }
-        },
-        {
-          "id": 88346,
-          "name": {
-            "full": "Sylphiette"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88346-h8kCL93AXj4n.png"
-          }
-        },
-        {
-          "id": 88351,
-          "name": {
-            "full": "Ruijerd Superdia"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88351-grqY44xz6bvP.png"
           }
         }
       ]
