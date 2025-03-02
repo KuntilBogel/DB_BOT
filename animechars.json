@@ -436,12 +436,12 @@
           }
         },
         {
-          "id": 88414,
+          "id": 88946,
           "name": {
-            "full": "Uta"
+            "full": "Kishou Arima"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88414-r2Xd7jJeMrvR.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88946-YbTQAGJAdpoH.jpg"
           }
         }
       ]
@@ -1961,62 +1961,6 @@
   },
   {
     "title": {
-      "english": "Dr. STONE",
-      "romaji": "Dr. STONE"
-    },
-    "id": 105333,
-    "characters": {
-      "nodes": [
-        {
-          "id": 124142,
-          "name": {
-            "full": "Senkuu Ishigami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124142-fFBZo37G0pao.png"
-          }
-        },
-        {
-          "id": 127445,
-          "name": {
-            "full": "Gen Asagiri"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127445-oUCyS7Tl8l5D.png"
-          }
-        },
-        {
-          "id": 124143,
-          "name": {
-            "full": "Kohaku"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124143-DABUFs3cPNrP.png"
-          }
-        },
-        {
-          "id": 124145,
-          "name": {
-            "full": "Chrome"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124145-EEvQmsj8jku4.png"
-          }
-        },
-        {
-          "id": 36309,
-          "name": {
-            "full": "Narrator"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-yRLEQYd2dDI5.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Chainsaw Man",
       "romaji": "Chainsaw Man"
     },
@@ -2066,6 +2010,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b148740-ceAibPxLW8rR.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Dr. STONE",
+      "romaji": "Dr. STONE"
+    },
+    "id": 105333,
+    "characters": {
+      "nodes": [
+        {
+          "id": 124142,
+          "name": {
+            "full": "Senkuu Ishigami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124142-fFBZo37G0pao.png"
+          }
+        },
+        {
+          "id": 127445,
+          "name": {
+            "full": "Gen Asagiri"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127445-oUCyS7Tl8l5D.png"
+          }
+        },
+        {
+          "id": 124143,
+          "name": {
+            "full": "Kohaku"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124143-DABUFs3cPNrP.png"
+          }
+        },
+        {
+          "id": 124145,
+          "name": {
+            "full": "Chrome"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124145-EEvQmsj8jku4.png"
+          }
+        },
+        {
+          "id": 36309,
+          "name": {
+            "full": "Narrator"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-yRLEQYd2dDI5.jpg"
           }
         }
       ]
@@ -2521,62 +2521,6 @@
   },
   {
     "title": {
-      "english": "DARLING in the FRANXX",
-      "romaji": "Darling in the Franxx"
-    },
-    "id": 99423,
-    "characters": {
-      "nodes": [
-        {
-          "id": 124381,
-          "name": {
-            "full": "Zero Two"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124381-pkTKi6HHNuVR.png"
-          }
-        },
-        {
-          "id": 124382,
-          "name": {
-            "full": "Ichigo"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124382-bSBkjtYjJQtr.png"
-          }
-        },
-        {
-          "id": 124380,
-          "name": {
-            "full": "Hiro"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124380-ct1wJHIl9BY1.jpg"
-          }
-        },
-        {
-          "id": 124386,
-          "name": {
-            "full": "Kokoro"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124386-vc248g43ap3m.jpg"
-          }
-        },
-        {
-          "id": 124383,
-          "name": {
-            "full": "Goro"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n124383-I6ZsEBQoETj3.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Horimiya",
       "romaji": "Horimiya"
     },
@@ -2626,6 +2570,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89726-NS2ZmYjp1Mnr.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "DARLING in the FRANXX",
+      "romaji": "Darling in the Franxx"
+    },
+    "id": 99423,
+    "characters": {
+      "nodes": [
+        {
+          "id": 124381,
+          "name": {
+            "full": "Zero Two"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124381-pkTKi6HHNuVR.png"
+          }
+        },
+        {
+          "id": 124382,
+          "name": {
+            "full": "Ichigo"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124382-bSBkjtYjJQtr.png"
+          }
+        },
+        {
+          "id": 124380,
+          "name": {
+            "full": "Hiro"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124380-ct1wJHIl9BY1.jpg"
+          }
+        },
+        {
+          "id": 124386,
+          "name": {
+            "full": "Kokoro"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124386-vc248g43ap3m.jpg"
+          }
+        },
+        {
+          "id": 124383,
+          "name": {
+            "full": "Goro"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n124383-I6ZsEBQoETj3.jpg"
           }
         }
       ]
@@ -2929,21 +2929,21 @@
           }
         },
         {
-          "id": 8298,
-          "name": {
-            "full": "Kaonashi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8298-07C1RV5lvy7m.png"
-          }
-        },
-        {
           "id": 384,
           "name": {
             "full": "Chihiro Ogino"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b384-AoWCsQyG0WI7.png"
+          }
+        },
+        {
+          "id": 8298,
+          "name": {
+            "full": "Kaonashi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8298-07C1RV5lvy7m.png"
           }
         },
         {
@@ -3332,7 +3332,7 @@
         {
           "id": 24515,
           "name": {
-            "full": "Yui"
+            "full": "Yui Yoshioka"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24515-4v85Z9CqCe0Y.png"
@@ -3585,62 +3585,6 @@
   },
   {
     "title": {
-      "english": "The Future Diary",
-      "romaji": "Mirai Nikki"
-    },
-    "id": 10620,
-    "characters": {
-      "nodes": [
-        {
-          "id": 4963,
-          "name": {
-            "full": "Yuno Gasai"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4963-7ZMcCtXW5hkY.png"
-          }
-        },
-        {
-          "id": 4966,
-          "name": {
-            "full": "Minene Uryuu"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4966-Bb0hjxjJtidY.jpg"
-          }
-        },
-        {
-          "id": 8306,
-          "name": {
-            "full": "Aru Akise"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8306-1plj927kFBCf.jpg"
-          }
-        },
-        {
-          "id": 4962,
-          "name": {
-            "full": "Yukiteru Amano"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4962-CpqPBVJngbq2.png"
-          }
-        },
-        {
-          "id": 4965,
-          "name": {
-            "full": "Mur Mur"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4965-kfp8cXLa4n6y.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
       "romaji": "Kimetsu no Yaiba: Yuukaku-hen"
     },
@@ -3690,6 +3634,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129133-VlTPowwt68rJ.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "The Future Diary",
+      "romaji": "Mirai Nikki"
+    },
+    "id": 10620,
+    "characters": {
+      "nodes": [
+        {
+          "id": 4963,
+          "name": {
+            "full": "Yuno Gasai"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4963-7ZMcCtXW5hkY.png"
+          }
+        },
+        {
+          "id": 4966,
+          "name": {
+            "full": "Minene Uryuu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4966-Bb0hjxjJtidY.jpg"
+          }
+        },
+        {
+          "id": 8306,
+          "name": {
+            "full": "Aru Akise"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8306-1plj927kFBCf.jpg"
+          }
+        },
+        {
+          "id": 4962,
+          "name": {
+            "full": "Yukiteru Amano"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4962-CpqPBVJngbq2.png"
+          }
+        },
+        {
+          "id": 4965,
+          "name": {
+            "full": "Mur Mur"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4965-kfp8cXLa4n6y.png"
           }
         }
       ]
@@ -3787,21 +3787,21 @@
           }
         },
         {
+          "id": 128034,
+          "name": {
+            "full": "Veldora Tempest"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b128034-Gg5MrpTFNSv8.png"
+          }
+        },
+        {
           "id": 131033,
           "name": {
             "full": "Diablo"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b131033-0LguIALHCBEH.jpg"
-          }
-        },
-        {
-          "id": 128040,
-          "name": {
-            "full": "Shuna"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b128040-QOhtFHgfOT5O.png"
           }
         }
       ]
@@ -4244,12 +4244,12 @@
           }
         },
         {
-          "id": 88414,
+          "id": 88946,
           "name": {
-            "full": "Uta"
+            "full": "Kishou Arima"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88414-r2Xd7jJeMrvR.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88946-YbTQAGJAdpoH.jpg"
           }
         }
       ]
@@ -5489,62 +5489,6 @@
   },
   {
     "title": {
-      "english": "Fate/Zero",
-      "romaji": "Fate/Zero"
-    },
-    "id": 10087,
-    "characters": {
-      "nodes": [
-        {
-          "id": 500,
-          "name": {
-            "full": "Sakura Matou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b500-5p55QWEoMou0.png"
-          }
-        },
-        {
-          "id": 498,
-          "name": {
-            "full": "Rin Tohsaka"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b498-n8WPZtU8l0Cz.png"
-          }
-        },
-        {
-          "id": 497,
-          "name": {
-            "full": "Artoria Pendragon"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b497-t5ugW1trntCB.png"
-          }
-        },
-        {
-          "id": 2514,
-          "name": {
-            "full": "Gilgamesh"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2514-hnE6LEdqm7Su.png"
-          }
-        },
-        {
-          "id": 10010,
-          "name": {
-            "full": "Kiritsugu Emiya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b10010-fNspzan5MzNk.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Re:ZERO -Starting Life in Another World- Season 2",
       "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season"
     },
@@ -5594,6 +5538,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90181-wRPm0OEaucmw.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Fate/Zero",
+      "romaji": "Fate/Zero"
+    },
+    "id": 10087,
+    "characters": {
+      "nodes": [
+        {
+          "id": 500,
+          "name": {
+            "full": "Sakura Matou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b500-5p55QWEoMou0.png"
+          }
+        },
+        {
+          "id": 498,
+          "name": {
+            "full": "Rin Tohsaka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b498-n8WPZtU8l0Cz.png"
+          }
+        },
+        {
+          "id": 497,
+          "name": {
+            "full": "Artoria Pendragon"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b497-t5ugW1trntCB.png"
+          }
+        },
+        {
+          "id": 2514,
+          "name": {
+            "full": "Gilgamesh"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2514-hnE6LEdqm7Su.png"
+          }
+        },
+        {
+          "id": 10010,
+          "name": {
+            "full": "Kiritsugu Emiya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b10010-fNspzan5MzNk.png"
           }
         }
       ]
