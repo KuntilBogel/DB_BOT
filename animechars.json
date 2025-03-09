@@ -1681,62 +1681,6 @@
   },
   {
     "title": {
-      "english": "Noragami",
-      "romaji": "Noragami"
-    },
-    "id": 20447,
-    "characters": {
-      "nodes": [
-        {
-          "id": 84677,
-          "name": {
-            "full": "Yato"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b84677-PFmohzIXD1ud.png"
-          }
-        },
-        {
-          "id": 84679,
-          "name": {
-            "full": "Hiyori Iki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b84679-GdMxvYy36M9H.png"
-          }
-        },
-        {
-          "id": 84681,
-          "name": {
-            "full": "Yukine"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b84681-vFMPNxeDkoqt.png"
-          }
-        },
-        {
-          "id": 88239,
-          "name": {
-            "full": "Bishamon"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88239-wEkqBNLHzcv4.jpg"
-          }
-        },
-        {
-          "id": 88241,
-          "name": {
-            "full": "Kofuku Ebisu"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88241-3NQSKNgaQRNC.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Black Clover",
       "romaji": "Black Clover"
     },
@@ -1786,6 +1730,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124435-gXFVXWrCcieK.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Noragami",
+      "romaji": "Noragami"
+    },
+    "id": 20447,
+    "characters": {
+      "nodes": [
+        {
+          "id": 84677,
+          "name": {
+            "full": "Yato"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b84677-PFmohzIXD1ud.png"
+          }
+        },
+        {
+          "id": 84679,
+          "name": {
+            "full": "Hiyori Iki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b84679-GdMxvYy36M9H.png"
+          }
+        },
+        {
+          "id": 84681,
+          "name": {
+            "full": "Yukine"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b84681-vFMPNxeDkoqt.png"
+          }
+        },
+        {
+          "id": 88239,
+          "name": {
+            "full": "Bishamon"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88239-ClhB8m8xWBQf.jpg"
+          }
+        },
+        {
+          "id": 88241,
+          "name": {
+            "full": "Kofuku Ebisu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88241-3NQSKNgaQRNC.png"
           }
         }
       ]
@@ -2745,6 +2745,62 @@
   },
   {
     "title": {
+      "english": "Code Geass: Lelouch of the Rebellion",
+      "romaji": "Code Geass: Hangyaku no Lelouch"
+    },
+    "id": 1575,
+    "characters": {
+      "nodes": [
+        {
+          "id": 417,
+          "name": {
+            "full": "Lelouch Lamperouge"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b417-gVLmIJu9phcK.png"
+          }
+        },
+        {
+          "id": 1111,
+          "name": {
+            "full": "C.C."
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1111-hNdvOW5ZNCCH.png"
+          }
+        },
+        {
+          "id": 558,
+          "name": {
+            "full": "Kallen Stadtfeld"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b558-8tSMZ4a0LWrn.jpg"
+          }
+        },
+        {
+          "id": 1120,
+          "name": {
+            "full": "Shirley Fenette"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1120-hjOjinw5j4FE.png"
+          }
+        },
+        {
+          "id": 559,
+          "name": {
+            "full": "Suzaku Kururugi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b559-KRvTdc6zdCuU.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
       "english": "Death Parade",
       "romaji": "Death Parade"
     },
@@ -2794,62 +2850,6 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88683-S0xJzL8QY3gI.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "english": "Code Geass: Lelouch of the Rebellion",
-      "romaji": "Code Geass: Hangyaku no Lelouch"
-    },
-    "id": 1575,
-    "characters": {
-      "nodes": [
-        {
-          "id": 417,
-          "name": {
-            "full": "Lelouch Lamperouge"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b417-gVLmIJu9phcK.png"
-          }
-        },
-        {
-          "id": 1111,
-          "name": {
-            "full": "C.C."
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1111-hNdvOW5ZNCCH.png"
-          }
-        },
-        {
-          "id": 558,
-          "name": {
-            "full": "Kallen Stadtfeld"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b558-8tSMZ4a0LWrn.jpg"
-          }
-        },
-        {
-          "id": 559,
-          "name": {
-            "full": "Suzaku Kururugi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b559-KRvTdc6zdCuU.jpg"
-          }
-        },
-        {
-          "id": 1120,
-          "name": {
-            "full": "Shirley Fenette"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1120-hjOjinw5j4FE.png"
           }
         }
       ]
@@ -2929,21 +2929,21 @@
           }
         },
         {
-          "id": 384,
-          "name": {
-            "full": "Chihiro Ogino"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b384-AoWCsQyG0WI7.png"
-          }
-        },
-        {
           "id": 8298,
           "name": {
             "full": "Kaonashi"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8298-07C1RV5lvy7m.png"
+          }
+        },
+        {
+          "id": 384,
+          "name": {
+            "full": "Chihiro Ogino"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b384-AoWCsQyG0WI7.png"
           }
         },
         {
@@ -3305,62 +3305,6 @@
   },
   {
     "title": {
-      "english": "Angel Beats!",
-      "romaji": "Angel Beats!"
-    },
-    "id": 6547,
-    "characters": {
-      "nodes": [
-        {
-          "id": 22369,
-          "name": {
-            "full": "Kanade Tachibana"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22369-zC7OgGbfO7b6.jpg"
-          }
-        },
-        {
-          "id": 22370,
-          "name": {
-            "full": "Yuri Nakamura"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22370-pNQxFEv1K7lS.jpg"
-          }
-        },
-        {
-          "id": 24515,
-          "name": {
-            "full": "Yui Yoshioka"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24515-4v85Z9CqCe0Y.png"
-          }
-        },
-        {
-          "id": 24502,
-          "name": {
-            "full": "Yuzuru Otonashi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24502-TJE8JeOERvj0.jpg"
-          }
-        },
-        {
-          "id": 24503,
-          "name": {
-            "full": "Hideki Hinata"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24503-aMw9BnXmEVrP.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Fire Force",
       "romaji": "Enen no Shouboutai"
     },
@@ -3410,6 +3354,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130713-TgLx8rgtGpXV.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Angel Beats!",
+      "romaji": "Angel Beats!"
+    },
+    "id": 6547,
+    "characters": {
+      "nodes": [
+        {
+          "id": 22369,
+          "name": {
+            "full": "Kanade Tachibana"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22369-zC7OgGbfO7b6.jpg"
+          }
+        },
+        {
+          "id": 22370,
+          "name": {
+            "full": "Yuri Nakamura"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22370-pNQxFEv1K7lS.jpg"
+          }
+        },
+        {
+          "id": 24515,
+          "name": {
+            "full": "Yui Yoshioka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24515-4v85Z9CqCe0Y.png"
+          }
+        },
+        {
+          "id": 24502,
+          "name": {
+            "full": "Yuzuru Otonashi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24502-TJE8JeOERvj0.jpg"
+          }
+        },
+        {
+          "id": 24503,
+          "name": {
+            "full": "Hideki Hinata"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24503-aMw9BnXmEVrP.png"
           }
         }
       ]
@@ -3787,21 +3787,21 @@
           }
         },
         {
-          "id": 128034,
-          "name": {
-            "full": "Veldora Tempest"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b128034-Gg5MrpTFNSv8.png"
-          }
-        },
-        {
           "id": 131033,
           "name": {
             "full": "Diablo"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b131033-0LguIALHCBEH.jpg"
+          }
+        },
+        {
+          "id": 128034,
+          "name": {
+            "full": "Veldora Tempest"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b128034-Gg5MrpTFNSv8.png"
           }
         }
       ]
@@ -5321,62 +5321,6 @@
   },
   {
     "title": {
-      "english": "Code Geass: Lelouch of the Rebellion R2",
-      "romaji": "Code Geass: Hangyaku no Lelouch R2"
-    },
-    "id": 2904,
-    "characters": {
-      "nodes": [
-        {
-          "id": 417,
-          "name": {
-            "full": "Lelouch Lamperouge"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b417-gVLmIJu9phcK.png"
-          }
-        },
-        {
-          "id": 1111,
-          "name": {
-            "full": "C.C."
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1111-hNdvOW5ZNCCH.png"
-          }
-        },
-        {
-          "id": 558,
-          "name": {
-            "full": "Kallen Stadtfeld"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b558-8tSMZ4a0LWrn.jpg"
-          }
-        },
-        {
-          "id": 559,
-          "name": {
-            "full": "Suzaku Kururugi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b559-KRvTdc6zdCuU.jpg"
-          }
-        },
-        {
-          "id": 1120,
-          "name": {
-            "full": "Shirley Fenette"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1120-hjOjinw5j4FE.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "My Dress-Up Darling",
       "romaji": "Sono Bisque Doll wa Koi wo Suru"
     },
@@ -5426,6 +5370,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b207937-ytYjcNtNX77K.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Code Geass: Lelouch of the Rebellion R2",
+      "romaji": "Code Geass: Hangyaku no Lelouch R2"
+    },
+    "id": 2904,
+    "characters": {
+      "nodes": [
+        {
+          "id": 417,
+          "name": {
+            "full": "Lelouch Lamperouge"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b417-gVLmIJu9phcK.png"
+          }
+        },
+        {
+          "id": 1111,
+          "name": {
+            "full": "C.C."
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1111-hNdvOW5ZNCCH.png"
+          }
+        },
+        {
+          "id": 558,
+          "name": {
+            "full": "Kallen Stadtfeld"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b558-8tSMZ4a0LWrn.jpg"
+          }
+        },
+        {
+          "id": 1120,
+          "name": {
+            "full": "Shirley Fenette"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1120-hjOjinw5j4FE.png"
+          }
+        },
+        {
+          "id": 559,
+          "name": {
+            "full": "Suzaku Kururugi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b559-KRvTdc6zdCuU.jpg"
           }
         }
       ]
