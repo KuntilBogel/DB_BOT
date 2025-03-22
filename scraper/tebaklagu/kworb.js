@@ -109,12 +109,15 @@ async function fetchPreviewUrl(trackId) {
         const artistTitle = $(element).find('td.text div').text().trim();
         const [artist, song] = artistTitle.split(' - ');
         const streams = $(element).find('td:nth-child(2)').text().trim();
-        
+    
         // Use the Spotify API to get the track ID.
         const trackId = await fetchTrackIdFromSpotify(artist.trim(), song.trim(), token);
         const trackLink = trackId !== 'unknown' ? `https://open.spotify.com/track/${trackId}` : 'unknown';
         const preview_url = trackId !== 'unknown' ? await fetchPreviewUrl(trackId) : null;
-        
+    
+        // Add a cooldown of 0.5 seconds
+        await new Promise(resolve => setTimeout(resolve, 500));
+    
         return {
           rank: index + 1,
           artist: artist ? artist.trim() : '',
@@ -125,7 +128,7 @@ async function fetchPreviewUrl(trackId) {
           preview_url
         };
       });
-    });
+    });;
     
     const songs = await Promise.all(songPromises);
     console.log(songs);
