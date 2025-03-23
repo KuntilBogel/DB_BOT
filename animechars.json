@@ -156,12 +156,12 @@
           }
         },
         {
-          "id": 36309,
+          "id": 464,
           "name": {
-            "full": "Narrator"
+            "full": "Nate River"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-yRLEQYd2dDI5.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n464-6KeJpU6g7Hwj.jpg"
           }
         }
       ]
@@ -2577,62 +2577,6 @@
   },
   {
     "title": {
-      "english": "DARLING in the FRANXX",
-      "romaji": "Darling in the Franxx"
-    },
-    "id": 99423,
-    "characters": {
-      "nodes": [
-        {
-          "id": 124382,
-          "name": {
-            "full": "Ichigo"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124382-bSBkjtYjJQtr.png"
-          }
-        },
-        {
-          "id": 124381,
-          "name": {
-            "full": "Zero Two"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124381-pkTKi6HHNuVR.png"
-          }
-        },
-        {
-          "id": 124380,
-          "name": {
-            "full": "Hiro"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124380-ct1wJHIl9BY1.jpg"
-          }
-        },
-        {
-          "id": 124386,
-          "name": {
-            "full": "Kokoro"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124386-vc248g43ap3m.jpg"
-          }
-        },
-        {
-          "id": 124383,
-          "name": {
-            "full": "Goro"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n124383-I6ZsEBQoETj3.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
       "romaji": "Kimetsu no Yaiba: Mugen Ressha-hen"
     },
@@ -2682,6 +2626,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129133-VlTPowwt68rJ.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "DARLING in the FRANXX",
+      "romaji": "Darling in the Franxx"
+    },
+    "id": 99423,
+    "characters": {
+      "nodes": [
+        {
+          "id": 124382,
+          "name": {
+            "full": "Ichigo"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124382-bSBkjtYjJQtr.png"
+          }
+        },
+        {
+          "id": 124381,
+          "name": {
+            "full": "Zero Two"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124381-pkTKi6HHNuVR.png"
+          }
+        },
+        {
+          "id": 124380,
+          "name": {
+            "full": "Hiro"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124380-ct1wJHIl9BY1.jpg"
+          }
+        },
+        {
+          "id": 124386,
+          "name": {
+            "full": "Kokoro"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124386-vc248g43ap3m.jpg"
+          }
+        },
+        {
+          "id": 124383,
+          "name": {
+            "full": "Goro"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n124383-I6ZsEBQoETj3.jpg"
           }
         }
       ]
@@ -2770,21 +2770,21 @@
           }
         },
         {
-          "id": 558,
-          "name": {
-            "full": "Kallen Stadtfeld"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b558-8tSMZ4a0LWrn.jpg"
-          }
-        },
-        {
           "id": 1120,
           "name": {
             "full": "Shirley Fenette"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1120-hjOjinw5j4FE.png"
+          }
+        },
+        {
+          "id": 558,
+          "name": {
+            "full": "Kallen Stadtfeld"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b558-8tSMZ4a0LWrn.jpg"
           }
         },
         {
@@ -4929,62 +4929,6 @@
   },
   {
     "title": {
-      "english": "HAIKYU!! 3rd Season",
-      "romaji": "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou"
-    },
-    "id": 21698,
-    "characters": {
-      "nodes": [
-        {
-          "id": 64769,
-          "name": {
-            "full": "Shouyou Hinata"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64769-WoWlCMLLgJ14.png"
-          }
-        },
-        {
-          "id": 64771,
-          "name": {
-            "full": "Tobio Kageyama"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64771-BuCVs7B8bBdh.png"
-          }
-        },
-        {
-          "id": 67327,
-          "name": {
-            "full": "Yuu Nishinoya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67327-zQb1dlC7joPb.jpg"
-          }
-        },
-        {
-          "id": 71611,
-          "name": {
-            "full": "Tooru Oikawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71611-cUZwVfzeNXD9.png"
-          }
-        },
-        {
-          "id": 67329,
-          "name": {
-            "full": "Kei Tsukishima"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67329-k7mDdqQ6rJ4w.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Soul Eater",
       "romaji": "Soul Eater"
     },
@@ -5034,6 +4978,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8464-oKu98OyJ3eZt.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "HAIKYU!! 3rd Season",
+      "romaji": "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou"
+    },
+    "id": 21698,
+    "characters": {
+      "nodes": [
+        {
+          "id": 64769,
+          "name": {
+            "full": "Shouyou Hinata"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64769-WoWlCMLLgJ14.png"
+          }
+        },
+        {
+          "id": 64771,
+          "name": {
+            "full": "Tobio Kageyama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64771-BuCVs7B8bBdh.png"
+          }
+        },
+        {
+          "id": 67327,
+          "name": {
+            "full": "Yuu Nishinoya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67327-zQb1dlC7joPb.jpg"
+          }
+        },
+        {
+          "id": 71611,
+          "name": {
+            "full": "Tooru Oikawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71611-cUZwVfzeNXD9.png"
+          }
+        },
+        {
+          "id": 67329,
+          "name": {
+            "full": "Kei Tsukishima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67329-k7mDdqQ6rJ4w.png"
           }
         }
       ]
@@ -5402,21 +5402,21 @@
           }
         },
         {
-          "id": 558,
-          "name": {
-            "full": "Kallen Stadtfeld"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b558-8tSMZ4a0LWrn.jpg"
-          }
-        },
-        {
           "id": 1120,
           "name": {
             "full": "Shirley Fenette"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1120-hjOjinw5j4FE.png"
+          }
+        },
+        {
+          "id": 558,
+          "name": {
+            "full": "Kallen Stadtfeld"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b558-8tSMZ4a0LWrn.jpg"
           }
         },
         {
