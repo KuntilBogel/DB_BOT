@@ -1233,62 +1233,6 @@
   },
   {
     "title": {
-      "english": "ERASED",
-      "romaji": "Boku dake ga Inai Machi"
-    },
-    "id": 21234,
-    "characters": {
-      "nodes": [
-        {
-          "id": 89275,
-          "name": {
-            "full": "Satoru Fujinuma"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89275-xCGzh6jAGe2v.png"
-          }
-        },
-        {
-          "id": 89276,
-          "name": {
-            "full": "Kayo Hinazuki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/89276-LjlYvXfOnjHB.jpg"
-          }
-        },
-        {
-          "id": 89357,
-          "name": {
-            "full": "Kenya Kobayashi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89357-E9erSMef5EJC.png"
-          }
-        },
-        {
-          "id": 89326,
-          "name": {
-            "full": "Sachiko Fujinuma"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/89326-zNVEqTuDt7kL.jpg"
-          }
-        },
-        {
-          "id": 89355,
-          "name": {
-            "full": "Airi Katagiri"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89355-w1xEKGHisGWE.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Your lie in April",
       "romaji": "Shigatsu wa Kimi no Uso"
     },
@@ -1338,6 +1282,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/88786-toDBw77jbCTx.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "ERASED",
+      "romaji": "Boku dake ga Inai Machi"
+    },
+    "id": 21234,
+    "characters": {
+      "nodes": [
+        {
+          "id": 89275,
+          "name": {
+            "full": "Satoru Fujinuma"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89275-xCGzh6jAGe2v.png"
+          }
+        },
+        {
+          "id": 89276,
+          "name": {
+            "full": "Kayo Hinazuki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/89276-LjlYvXfOnjHB.jpg"
+          }
+        },
+        {
+          "id": 89357,
+          "name": {
+            "full": "Kenya Kobayashi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89357-E9erSMef5EJC.png"
+          }
+        },
+        {
+          "id": 89326,
+          "name": {
+            "full": "Sachiko Fujinuma"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/89326-zNVEqTuDt7kL.jpg"
+          }
+        },
+        {
+          "id": 89355,
+          "name": {
+            "full": "Airi Katagiri"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89355-w1xEKGHisGWE.jpg"
           }
         }
       ]
@@ -2913,62 +2913,6 @@
   },
   {
     "title": {
-      "english": "Spirited Away",
-      "romaji": "Sen to Chihiro no Kamikakushi"
-    },
-    "id": 199,
-    "characters": {
-      "nodes": [
-        {
-          "id": 385,
-          "name": {
-            "full": "Haku"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b385-pKGCy3oYWxRa.png"
-          }
-        },
-        {
-          "id": 384,
-          "name": {
-            "full": "Chihiro Ogino"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b384-AoWCsQyG0WI7.png"
-          }
-        },
-        {
-          "id": 8298,
-          "name": {
-            "full": "Kaonashi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8298-ATUVKng0oyHR.png"
-          }
-        },
-        {
-          "id": 13393,
-          "name": {
-            "full": "Makkuro-Kurosuke"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13393-YggqgLU41aiP.png"
-          }
-        },
-        {
-          "id": 5465,
-          "name": {
-            "full": "Rin"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5465-ZWJpBoYKPbAY.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Neon Genesis Evangelion",
       "romaji": "Shin Seiki Evangelion"
     },
@@ -3018,6 +2962,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1261-HYRv3HpsSL92.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Spirited Away",
+      "romaji": "Sen to Chihiro no Kamikakushi"
+    },
+    "id": 199,
+    "characters": {
+      "nodes": [
+        {
+          "id": 385,
+          "name": {
+            "full": "Haku"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b385-pKGCy3oYWxRa.png"
+          }
+        },
+        {
+          "id": 384,
+          "name": {
+            "full": "Chihiro Ogino"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b384-AoWCsQyG0WI7.png"
+          }
+        },
+        {
+          "id": 8298,
+          "name": {
+            "full": "Kaonashi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8298-ATUVKng0oyHR.png"
+          }
+        },
+        {
+          "id": 13393,
+          "name": {
+            "full": "Makkuro-Kurosuke"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13393-YggqgLU41aiP.png"
+          }
+        },
+        {
+          "id": 5465,
+          "name": {
+            "full": "Rin"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5465-ZWJpBoYKPbAY.png"
           }
         }
       ]
@@ -3137,62 +3137,6 @@
   },
   {
     "title": {
-      "english": "Kakegurui",
-      "romaji": "Kakegurui"
-    },
-    "id": 98314,
-    "characters": {
-      "nodes": [
-        {
-          "id": 121889,
-          "name": {
-            "full": "Yumeko Jabami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121889-ABsurpy5SjOW.png"
-          }
-        },
-        {
-          "id": 122687,
-          "name": {
-            "full": "Mary Saotome"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122687-jl1wk9rjO57e.png"
-          }
-        },
-        {
-          "id": 122693,
-          "name": {
-            "full": "Kirari Momobami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122693-qg2NIaq5h1VD.png"
-          }
-        },
-        {
-          "id": 122691,
-          "name": {
-            "full": "Midari Ikishima"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122691-ze4qKEiCv2Lz.jpg"
-          }
-        },
-        {
-          "id": 122777,
-          "name": {
-            "full": "Ririka Momobami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122777-pdh3z3WbnvlL.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Cowboy Bebop",
       "romaji": "Cowboy Bebop"
     },
@@ -3242,6 +3186,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/4.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Kakegurui",
+      "romaji": "Kakegurui"
+    },
+    "id": 98314,
+    "characters": {
+      "nodes": [
+        {
+          "id": 121889,
+          "name": {
+            "full": "Yumeko Jabami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121889-ABsurpy5SjOW.png"
+          }
+        },
+        {
+          "id": 122687,
+          "name": {
+            "full": "Mary Saotome"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122687-jl1wk9rjO57e.png"
+          }
+        },
+        {
+          "id": 122693,
+          "name": {
+            "full": "Kirari Momobami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122693-qg2NIaq5h1VD.png"
+          }
+        },
+        {
+          "id": 122691,
+          "name": {
+            "full": "Midari Ikishima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122691-ze4qKEiCv2Lz.jpg"
+          }
+        },
+        {
+          "id": 122777,
+          "name": {
+            "full": "Ririka Momobami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122777-pdh3z3WbnvlL.png"
           }
         }
       ]
@@ -3787,21 +3787,21 @@
           }
         },
         {
-          "id": 128040,
-          "name": {
-            "full": "Shuna"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b128040-QOhtFHgfOT5O.png"
-          }
-        },
-        {
           "id": 131033,
           "name": {
             "full": "Diablo"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b131033-0LguIALHCBEH.jpg"
+          }
+        },
+        {
+          "id": 128040,
+          "name": {
+            "full": "Shuna"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b128040-QOhtFHgfOT5O.png"
           }
         }
       ]
@@ -4033,62 +4033,6 @@
   },
   {
     "title": {
-      "english": "Food Wars!",
-      "romaji": "Shokugeki no Souma"
-    },
-    "id": 20923,
-    "characters": {
-      "nodes": [
-        {
-          "id": 75216,
-          "name": {
-            "full": "Souma Yukihira"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b75216-KDU8333eIcqf.jpg"
-          }
-        },
-        {
-          "id": 75284,
-          "name": {
-            "full": "Erina Nakiri"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b75284-4Hiyq7DOwvy7.png"
-          }
-        },
-        {
-          "id": 88956,
-          "name": {
-            "full": "Alice Nakiri"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88956-RbwleCQc741G.png"
-          }
-        },
-        {
-          "id": 76026,
-          "name": {
-            "full": "Megumi Tadokoro"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b76026-cQAQTlZFfG2e.png"
-          }
-        },
-        {
-          "id": 78475,
-          "name": {
-            "full": "Satoshi Isshiki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b78475-pcxfAMiGe6xf.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Mushoku Tensei: Jobless Reincarnation",
       "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu"
     },
@@ -4138,6 +4082,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88351-grqY44xz6bvP.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Food Wars!",
+      "romaji": "Shokugeki no Souma"
+    },
+    "id": 20923,
+    "characters": {
+      "nodes": [
+        {
+          "id": 75216,
+          "name": {
+            "full": "Souma Yukihira"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b75216-KDU8333eIcqf.jpg"
+          }
+        },
+        {
+          "id": 75284,
+          "name": {
+            "full": "Erina Nakiri"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b75284-4Hiyq7DOwvy7.png"
+          }
+        },
+        {
+          "id": 88956,
+          "name": {
+            "full": "Alice Nakiri"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88956-RbwleCQc741G.png"
+          }
+        },
+        {
+          "id": 76026,
+          "name": {
+            "full": "Megumi Tadokoro"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b76026-cQAQTlZFfG2e.png"
+          }
+        },
+        {
+          "id": 78475,
+          "name": {
+            "full": "Satoshi Isshiki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b78475-pcxfAMiGe6xf.png"
           }
         }
       ]
@@ -4313,62 +4313,6 @@
   },
   {
     "title": {
-      "english": "The Devil is a Part-Timer!",
-      "romaji": "Hataraku Maou-sama!"
-    },
-    "id": 15809,
-    "characters": {
-      "nodes": [
-        {
-          "id": 70733,
-          "name": {
-            "full": "Satan Jacob"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70733-d564H7iUj7Y2.png"
-          }
-        },
-        {
-          "id": 70735,
-          "name": {
-            "full": "Emilia Justina"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70735-DmmbHRLKpS0E.png"
-          }
-        },
-        {
-          "id": 83103,
-          "name": {
-            "full": "Lucifer"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83103-fksjOXqJCmxd.png"
-          }
-        },
-        {
-          "id": 70737,
-          "name": {
-            "full": "Alciel"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70737-lDeBmECttJCK.png"
-          }
-        },
-        {
-          "id": 70739,
-          "name": {
-            "full": "Chiho Sasaki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70739-rJpfVU2YH5nS.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "JUJUTSU KAISEN Season 2",
       "romaji": "Jujutsu Kaisen 2nd Season"
     },
@@ -4418,6 +4362,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133704-8wLTGjc234q2.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "The Devil is a Part-Timer!",
+      "romaji": "Hataraku Maou-sama!"
+    },
+    "id": 15809,
+    "characters": {
+      "nodes": [
+        {
+          "id": 70733,
+          "name": {
+            "full": "Satan Jacob"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70733-d564H7iUj7Y2.png"
+          }
+        },
+        {
+          "id": 70735,
+          "name": {
+            "full": "Emilia Justina"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70735-DmmbHRLKpS0E.png"
+          }
+        },
+        {
+          "id": 83103,
+          "name": {
+            "full": "Lucifer"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83103-fksjOXqJCmxd.png"
+          }
+        },
+        {
+          "id": 70737,
+          "name": {
+            "full": "Alciel"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70737-lDeBmECttJCK.png"
+          }
+        },
+        {
+          "id": 70739,
+          "name": {
+            "full": "Chiho Sasaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70739-rJpfVU2YH5nS.png"
           }
         }
       ]
@@ -5075,21 +5075,21 @@
           }
         },
         {
+          "id": 71267,
+          "name": {
+            "full": "Kenma Kozume"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71267-q44J2MXMinXD.jpg"
+          }
+        },
+        {
           "id": 71611,
           "name": {
             "full": "Tooru Oikawa"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71611-cUZwVfzeNXD9.png"
-          }
-        },
-        {
-          "id": 67329,
-          "name": {
-            "full": "Kei Tsukishima"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67329-k7mDdqQ6rJ4w.png"
           }
         }
       ]
@@ -5265,62 +5265,6 @@
   },
   {
     "title": {
-      "english": "PSYCHO-PASS",
-      "romaji": "PSYCHO-PASS"
-    },
-    "id": 13601,
-    "characters": {
-      "nodes": [
-        {
-          "id": 68315,
-          "name": {
-            "full": "Shinya Kougami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b68315-f9RBjyJCoj95.jpg"
-          }
-        },
-        {
-          "id": 69725,
-          "name": {
-            "full": "Shougo Makishima"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n69725-Seck1SZfwQiR.jpg"
-          }
-        },
-        {
-          "id": 68583,
-          "name": {
-            "full": "Akane Tsunemori"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b68583-sEP2wyE2Tk7a.png"
-          }
-        },
-        {
-          "id": 69057,
-          "name": {
-            "full": "Nobuchika Ginoza"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b69057-491sAhqnEsFZ.png"
-          }
-        },
-        {
-          "id": 69055,
-          "name": {
-            "full": "Shuusei Kagari"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n69055-tmF7uIwloFHc.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "My Dress-Up Darling",
       "romaji": "Sono Bisque Doll wa Koi wo Suru"
     },
@@ -5370,6 +5314,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b207937-ytYjcNtNX77K.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "PSYCHO-PASS",
+      "romaji": "PSYCHO-PASS"
+    },
+    "id": 13601,
+    "characters": {
+      "nodes": [
+        {
+          "id": 68315,
+          "name": {
+            "full": "Shinya Kougami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b68315-f9RBjyJCoj95.jpg"
+          }
+        },
+        {
+          "id": 69725,
+          "name": {
+            "full": "Shougo Makishima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n69725-Seck1SZfwQiR.jpg"
+          }
+        },
+        {
+          "id": 68583,
+          "name": {
+            "full": "Akane Tsunemori"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b68583-sEP2wyE2Tk7a.png"
+          }
+        },
+        {
+          "id": 69057,
+          "name": {
+            "full": "Nobuchika Ginoza"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b69057-491sAhqnEsFZ.png"
+          }
+        },
+        {
+          "id": 69055,
+          "name": {
+            "full": "Shuusei Kagari"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n69055-tmF7uIwloFHc.jpg"
           }
         }
       ]
@@ -5545,55 +5545,55 @@
   },
   {
     "title": {
-      "english": "Fate/Zero",
-      "romaji": "Fate/Zero"
+      "english": "Solo Leveling",
+      "romaji": "Ore dake Level Up na Ken"
     },
-    "id": 10087,
+    "id": 151807,
     "characters": {
       "nodes": [
         {
-          "id": 500,
+          "id": 129928,
           "name": {
-            "full": "Sakura Matou"
+            "full": "Jin-U Seong"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b500-NQrLbnBr1sDv.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129928-BCEjVaP0AQSw.png"
           }
         },
         {
-          "id": 498,
+          "id": 138789,
           "name": {
-            "full": "Rin Tohsaka"
+            "full": "Hae-In Cha"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b498-lwawtSpLyATL.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b138789-AhE8m0LWjE7E.png"
           }
         },
         {
-          "id": 497,
+          "id": 36309,
           "name": {
-            "full": "Artoria Pendragon"
+            "full": "Narrator"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b497-Yg5pNmC8kxzs.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
           }
         },
         {
-          "id": 2514,
+          "id": 145722,
           "name": {
-            "full": "Gilgamesh"
+            "full": "Igris"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2514-hnE6LEdqm7Su.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145722-qSJ71S6vpeeM.png"
           }
         },
         {
-          "id": 10010,
+          "id": 136074,
           "name": {
-            "full": "Kiritsugu Emiya"
+            "full": "Ju-Hui Lee"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b10010-fNspzan5MzNk.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136074-pLyumEnxjL7P.png"
           }
         }
       ]
