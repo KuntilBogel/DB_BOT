@@ -1513,62 +1513,6 @@
   },
   {
     "title": {
-      "english": "HAIKYU!!",
-      "romaji": "Haikyuu!!"
-    },
-    "id": 20464,
-    "characters": {
-      "nodes": [
-        {
-          "id": 64769,
-          "name": {
-            "full": "Shouyou Hinata"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64769-WoWlCMLLgJ14.png"
-          }
-        },
-        {
-          "id": 64771,
-          "name": {
-            "full": "Tobio Kageyama"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64771-BuCVs7B8bBdh.png"
-          }
-        },
-        {
-          "id": 67327,
-          "name": {
-            "full": "Yuu Nishinoya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67327-zQb1dlC7joPb.jpg"
-          }
-        },
-        {
-          "id": 71267,
-          "name": {
-            "full": "Kenma Kozume"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71267-q44J2MXMinXD.jpg"
-          }
-        },
-        {
-          "id": 71611,
-          "name": {
-            "full": "Tooru Oikawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71611-cUZwVfzeNXD9.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Steins;Gate",
       "romaji": "Steins;Gate"
     },
@@ -1618,6 +1562,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b30919-5PjiA4ucfuuJ.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "HAIKYU!!",
+      "romaji": "Haikyuu!!"
+    },
+    "id": 20464,
+    "characters": {
+      "nodes": [
+        {
+          "id": 64769,
+          "name": {
+            "full": "Shouyou Hinata"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64769-WoWlCMLLgJ14.png"
+          }
+        },
+        {
+          "id": 64771,
+          "name": {
+            "full": "Tobio Kageyama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64771-BuCVs7B8bBdh.png"
+          }
+        },
+        {
+          "id": 67327,
+          "name": {
+            "full": "Yuu Nishinoya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67327-zQb1dlC7joPb.jpg"
+          }
+        },
+        {
+          "id": 71267,
+          "name": {
+            "full": "Kenma Kozume"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71267-q44J2MXMinXD.jpg"
+          }
+        },
+        {
+          "id": 71611,
+          "name": {
+            "full": "Tooru Oikawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71611-cUZwVfzeNXD9.png"
           }
         }
       ]
@@ -3081,62 +3081,6 @@
   },
   {
     "title": {
-      "english": "One-Punch Man Season 2",
-      "romaji": "One Punch Man 2"
-    },
-    "id": 97668,
-    "characters": {
-      "nodes": [
-        {
-          "id": 73935,
-          "name": {
-            "full": "Saitama"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73935-ON5d0mAcrItd.jpg"
-          }
-        },
-        {
-          "id": 81929,
-          "name": {
-            "full": "Tatsumaki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b81929-WPVp2LQoWgkc.png"
-          }
-        },
-        {
-          "id": 89277,
-          "name": {
-            "full": "Garou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89277-xBGb4B5YISXg.png"
-          }
-        },
-        {
-          "id": 73979,
-          "name": {
-            "full": "Genos"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73979-tVi9maPID881.jpg"
-          }
-        },
-        {
-          "id": 81931,
-          "name": {
-            "full": "Fubuki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b81931-fmouMoprPVbV.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Cowboy Bebop",
       "romaji": "Cowboy Bebop"
     },
@@ -3186,6 +3130,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/4.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "One-Punch Man Season 2",
+      "romaji": "One Punch Man 2"
+    },
+    "id": 97668,
+    "characters": {
+      "nodes": [
+        {
+          "id": 73935,
+          "name": {
+            "full": "Saitama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73935-ON5d0mAcrItd.jpg"
+          }
+        },
+        {
+          "id": 81929,
+          "name": {
+            "full": "Tatsumaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b81929-WPVp2LQoWgkc.png"
+          }
+        },
+        {
+          "id": 89277,
+          "name": {
+            "full": "Garou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89277-xBGb4B5YISXg.png"
+          }
+        },
+        {
+          "id": 73979,
+          "name": {
+            "full": "Genos"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73979-tVi9maPID881.jpg"
+          }
+        },
+        {
+          "id": 81931,
+          "name": {
+            "full": "Fubuki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b81931-fmouMoprPVbV.png"
           }
         }
       ]
@@ -3529,62 +3529,6 @@
   },
   {
     "title": {
-      "english": "Tokyo Revengers",
-      "romaji": "Tokyo Revengers"
-    },
-    "id": 120120,
-    "characters": {
-      "nodes": [
-        {
-          "id": 145341,
-          "name": {
-            "full": "Manjirou Sano"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145341-CuPldCLZMvvf.png"
-          }
-        },
-        {
-          "id": 145344,
-          "name": {
-            "full": "Chifuyu Matsuno"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145344-q4BqRljEBYNc.png"
-          }
-        },
-        {
-          "id": 145345,
-          "name": {
-            "full": "Ken Ryuuguji"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145345-zyirrSsKIDCb.png"
-          }
-        },
-        {
-          "id": 145343,
-          "name": {
-            "full": "Keisuke Baji"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145343-vRrkdWEUXwYM.jpg"
-          }
-        },
-        {
-          "id": 167841,
-          "name": {
-            "full": "Takashi Mitsuya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b167841-Pp08TBnzGhK4.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
       "romaji": "Kimetsu no Yaiba: Yuukaku-hen"
     },
@@ -3634,6 +3578,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129133-VlTPowwt68rJ.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Tokyo Revengers",
+      "romaji": "Tokyo Revengers"
+    },
+    "id": 120120,
+    "characters": {
+      "nodes": [
+        {
+          "id": 145341,
+          "name": {
+            "full": "Manjirou Sano"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145341-CuPldCLZMvvf.png"
+          }
+        },
+        {
+          "id": 145344,
+          "name": {
+            "full": "Chifuyu Matsuno"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145344-q4BqRljEBYNc.png"
+          }
+        },
+        {
+          "id": 145345,
+          "name": {
+            "full": "Ken Ryuuguji"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145345-zyirrSsKIDCb.png"
+          }
+        },
+        {
+          "id": 145343,
+          "name": {
+            "full": "Keisuke Baji"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145343-vRrkdWEUXwYM.jpg"
+          }
+        },
+        {
+          "id": 167841,
+          "name": {
+            "full": "Takashi Mitsuya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b167841-Pp08TBnzGhK4.jpg"
           }
         }
       ]
@@ -4145,6 +4145,62 @@
   },
   {
     "title": {
+      "english": "JUJUTSU KAISEN Season 2",
+      "romaji": "Jujutsu Kaisen 2nd Season"
+    },
+    "id": 145064,
+    "characters": {
+      "nodes": [
+        {
+          "id": 127691,
+          "name": {
+            "full": "Satoru Gojou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127691-9zqh1xpIubn7.png"
+          }
+        },
+        {
+          "id": 127212,
+          "name": {
+            "full": "Yuuji Itadori"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127212-FVm2tD0erQ5B.png"
+          }
+        },
+        {
+          "id": 126635,
+          "name": {
+            "full": "Megumi Fushiguro"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126635-L0y3I92JSUkN.png"
+          }
+        },
+        {
+          "id": 133700,
+          "name": {
+            "full": "Nobara Kugisaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133700-f6sOO3TcgLV6.png"
+          }
+        },
+        {
+          "id": 133704,
+          "name": {
+            "full": "Kento Nanami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133704-8wLTGjc234q2.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
       "english": "Anohana: The Flower We Saw That Day",
       "romaji": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai."
     },
@@ -4250,62 +4306,6 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88946-YbTQAGJAdpoH.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "english": "JUJUTSU KAISEN Season 2",
-      "romaji": "Jujutsu Kaisen 2nd Season"
-    },
-    "id": 145064,
-    "characters": {
-      "nodes": [
-        {
-          "id": 127691,
-          "name": {
-            "full": "Satoru Gojou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127691-9zqh1xpIubn7.png"
-          }
-        },
-        {
-          "id": 127212,
-          "name": {
-            "full": "Yuuji Itadori"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127212-FVm2tD0erQ5B.png"
-          }
-        },
-        {
-          "id": 126635,
-          "name": {
-            "full": "Megumi Fushiguro"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126635-L0y3I92JSUkN.png"
-          }
-        },
-        {
-          "id": 133700,
-          "name": {
-            "full": "Nobara Kugisaki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133700-f6sOO3TcgLV6.png"
-          }
-        },
-        {
-          "id": 133704,
-          "name": {
-            "full": "Kento Nanami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133704-8wLTGjc234q2.png"
           }
         }
       ]
@@ -5377,6 +5377,62 @@
   },
   {
     "title": {
+      "english": "Solo Leveling",
+      "romaji": "Ore dake Level Up na Ken"
+    },
+    "id": 151807,
+    "characters": {
+      "nodes": [
+        {
+          "id": 129928,
+          "name": {
+            "full": "Jin-U Seong"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129928-BCEjVaP0AQSw.png"
+          }
+        },
+        {
+          "id": 138789,
+          "name": {
+            "full": "Hae-In Cha"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b138789-AhE8m0LWjE7E.png"
+          }
+        },
+        {
+          "id": 36309,
+          "name": {
+            "full": "Narrator"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
+          }
+        },
+        {
+          "id": 145722,
+          "name": {
+            "full": "Igris"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145722-qSJ71S6vpeeM.png"
+          }
+        },
+        {
+          "id": 136074,
+          "name": {
+            "full": "Ju-Hui Lee"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136074-pLyumEnxjL7P.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
       "english": "Code Geass: Lelouch of the Rebellion R2",
       "romaji": "Code Geass: Hangyaku no Lelouch R2"
     },
@@ -5482,62 +5538,6 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90181-wRPm0OEaucmw.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "english": "Solo Leveling",
-      "romaji": "Ore dake Level Up na Ken"
-    },
-    "id": 151807,
-    "characters": {
-      "nodes": [
-        {
-          "id": 129928,
-          "name": {
-            "full": "Jin-U Seong"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129928-BCEjVaP0AQSw.png"
-          }
-        },
-        {
-          "id": 138789,
-          "name": {
-            "full": "Hae-In Cha"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b138789-AhE8m0LWjE7E.png"
-          }
-        },
-        {
-          "id": 36309,
-          "name": {
-            "full": "Narrator"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
-          }
-        },
-        {
-          "id": 145722,
-          "name": {
-            "full": "Igris"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145722-qSJ71S6vpeeM.png"
-          }
-        },
-        {
-          "id": 136074,
-          "name": {
-            "full": "Ju-Hui Lee"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136074-pLyumEnxjL7P.png"
           }
         }
       ]
