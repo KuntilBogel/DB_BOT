@@ -450,7 +450,7 @@
   {
     "title": {
       "english": "Attack on Titan Season 2",
-      "romaji": "Shingeki no Kyojin 2"
+      "romaji": "Shingeki no Kyojin Season 2"
     },
     "id": 20958,
     "characters": {
@@ -842,7 +842,7 @@
   {
     "title": {
       "english": "Attack on Titan Season 3",
-      "romaji": "Shingeki no Kyojin 3"
+      "romaji": "Shingeki no Kyojin Season 3"
     },
     "id": 99147,
     "characters": {
@@ -1402,7 +1402,7 @@
   {
     "title": {
       "english": "Attack on Titan Season 3 Part 2",
-      "romaji": "Shingeki no Kyojin 3 Part 2"
+      "romaji": "Shingeki no Kyojin Season 3 Part 2"
     },
     "id": 104578,
     "characters": {
@@ -4313,62 +4313,6 @@
   },
   {
     "title": {
-      "english": "HAIKYU!! 2nd Season",
-      "romaji": "Haikyuu!! 2nd Season"
-    },
-    "id": 20992,
-    "characters": {
-      "nodes": [
-        {
-          "id": 64769,
-          "name": {
-            "full": "Shouyou Hinata"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64769-WoWlCMLLgJ14.png"
-          }
-        },
-        {
-          "id": 64771,
-          "name": {
-            "full": "Tobio Kageyama"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64771-BuCVs7B8bBdh.png"
-          }
-        },
-        {
-          "id": 67327,
-          "name": {
-            "full": "Yuu Nishinoya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67327-zQb1dlC7joPb.jpg"
-          }
-        },
-        {
-          "id": 71267,
-          "name": {
-            "full": "Kenma Kozume"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71267-q44J2MXMinXD.jpg"
-          }
-        },
-        {
-          "id": 71611,
-          "name": {
-            "full": "Tooru Oikawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71611-cUZwVfzeNXD9.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Attack on Titan Final Season Part 2",
       "romaji": "Shingeki no Kyojin: The Final Season Part 2"
     },
@@ -4418,6 +4362,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71121-7R7CnQd3lHgt.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "HAIKYU!! 2nd Season",
+      "romaji": "Haikyuu!! 2nd Season"
+    },
+    "id": 20992,
+    "characters": {
+      "nodes": [
+        {
+          "id": 64769,
+          "name": {
+            "full": "Shouyou Hinata"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64769-WoWlCMLLgJ14.png"
+          }
+        },
+        {
+          "id": 64771,
+          "name": {
+            "full": "Tobio Kageyama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64771-BuCVs7B8bBdh.png"
+          }
+        },
+        {
+          "id": 67327,
+          "name": {
+            "full": "Yuu Nishinoya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67327-zQb1dlC7joPb.jpg"
+          }
+        },
+        {
+          "id": 71267,
+          "name": {
+            "full": "Kenma Kozume"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71267-q44J2MXMinXD.jpg"
+          }
+        },
+        {
+          "id": 71611,
+          "name": {
+            "full": "Tooru Oikawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71611-cUZwVfzeNXD9.png"
           }
         }
       ]
