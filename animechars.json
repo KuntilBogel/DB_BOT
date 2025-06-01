@@ -5321,62 +5321,6 @@
   },
   {
     "title": {
-      "english": "PSYCHO-PASS",
-      "romaji": "PSYCHO-PASS"
-    },
-    "id": 13601,
-    "characters": {
-      "nodes": [
-        {
-          "id": 68315,
-          "name": {
-            "full": "Shinya Kougami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b68315-f9RBjyJCoj95.jpg"
-          }
-        },
-        {
-          "id": 69725,
-          "name": {
-            "full": "Shougo Makishima"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n69725-Seck1SZfwQiR.jpg"
-          }
-        },
-        {
-          "id": 68583,
-          "name": {
-            "full": "Akane Tsunemori"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b68583-sEP2wyE2Tk7a.png"
-          }
-        },
-        {
-          "id": 69057,
-          "name": {
-            "full": "Nobuchika Ginoza"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b69057-491sAhqnEsFZ.png"
-          }
-        },
-        {
-          "id": 69055,
-          "name": {
-            "full": "Shuusei Kagari"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n69055-tmF7uIwloFHc.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Solo Leveling",
       "romaji": "Ore dake Level Up na Ken"
     },
@@ -5426,6 +5370,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136074-pLyumEnxjL7P.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "PSYCHO-PASS",
+      "romaji": "PSYCHO-PASS"
+    },
+    "id": 13601,
+    "characters": {
+      "nodes": [
+        {
+          "id": 68315,
+          "name": {
+            "full": "Shinya Kougami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b68315-f9RBjyJCoj95.jpg"
+          }
+        },
+        {
+          "id": 69725,
+          "name": {
+            "full": "Shougo Makishima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n69725-Seck1SZfwQiR.jpg"
+          }
+        },
+        {
+          "id": 68583,
+          "name": {
+            "full": "Akane Tsunemori"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b68583-sEP2wyE2Tk7a.png"
+          }
+        },
+        {
+          "id": 69057,
+          "name": {
+            "full": "Nobuchika Ginoza"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b69057-491sAhqnEsFZ.png"
+          }
+        },
+        {
+          "id": 69055,
+          "name": {
+            "full": "Shuusei Kagari"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n69055-tmF7uIwloFHc.jpg"
           }
         }
       ]
@@ -5545,55 +5545,55 @@
   },
   {
     "title": {
-      "english": "Hyouka",
-      "romaji": "Hyouka"
+      "english": "Frieren: Beyond Journey’s End",
+      "romaji": "Sousou no Frieren"
     },
-    "id": 12189,
+    "id": 154587,
     "characters": {
       "nodes": [
         {
-          "id": 55131,
+          "id": 176754,
           "name": {
-            "full": "Houtarou Oreki"
+            "full": "Frieren"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b55131-ypodHQCyHbzD.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b176754-PCnpqIOkjhFk.png"
           }
         },
         {
-          "id": 55133,
+          "id": 183965,
           "name": {
-            "full": "Eru Chitanda"
+            "full": "Fern"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b55133-S7lRrP0gKXpX.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b183965-uGFohBjlFoTp.png"
           }
         },
         {
-          "id": 55137,
+          "id": 184313,
           "name": {
-            "full": "Mayaka Ibara"
+            "full": "Stark"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b55137-PO5CLLnbTwyg.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184313-CQl6GSt4RSny.jpg"
           }
         },
         {
-          "id": 55135,
+          "id": 184311,
           "name": {
-            "full": "Satoshi Fukube"
+            "full": "Himmel"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b55135-rSgLOX86JRSO.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184311-re77QUMpxazj.jpg"
           }
         },
         {
-          "id": 56157,
+          "id": 246057,
           "name": {
-            "full": "Fuyumi Irisu"
+            "full": "Übel"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b56157-UmLhSFREXcme.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b246057-ixvDfpng6I1S.png"
           }
         }
       ]
