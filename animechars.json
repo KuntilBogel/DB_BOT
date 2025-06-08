@@ -2857,62 +2857,6 @@
   },
   {
     "title": {
-      "english": "Blue Exorcist",
-      "romaji": "Ao no Exorcist"
-    },
-    "id": 9919,
-    "characters": {
-      "nodes": [
-        {
-          "id": 24482,
-          "name": {
-            "full": "Rin Okumura"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24482-E6087V4uAVqL.jpg"
-          }
-        },
-        {
-          "id": 32110,
-          "name": {
-            "full": "Shura Kirigakure"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b32110-Ats6VvSZy300.png"
-          }
-        },
-        {
-          "id": 30432,
-          "name": {
-            "full": "Mephisto Pheles"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b30432-I4KwsegOrzfq.png"
-          }
-        },
-        {
-          "id": 43187,
-          "name": {
-            "full": "Kuro"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43187-uJySWMkmaWmZ.png"
-          }
-        },
-        {
-          "id": 24734,
-          "name": {
-            "full": "Yukio Okumura"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24734-GgVZoNAPnxoc.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Neon Genesis Evangelion",
       "romaji": "Shin Seiki Evangelion"
     },
@@ -2962,6 +2906,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1261-HYRv3HpsSL92.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Blue Exorcist",
+      "romaji": "Ao no Exorcist"
+    },
+    "id": 9919,
+    "characters": {
+      "nodes": [
+        {
+          "id": 24482,
+          "name": {
+            "full": "Rin Okumura"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24482-E6087V4uAVqL.jpg"
+          }
+        },
+        {
+          "id": 32110,
+          "name": {
+            "full": "Shura Kirigakure"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b32110-Ats6VvSZy300.png"
+          }
+        },
+        {
+          "id": 30432,
+          "name": {
+            "full": "Mephisto Pheles"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b30432-I4KwsegOrzfq.png"
+          }
+        },
+        {
+          "id": 43187,
+          "name": {
+            "full": "Kuro"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43187-uJySWMkmaWmZ.png"
+          }
+        },
+        {
+          "id": 24734,
+          "name": {
+            "full": "Yukio Okumura"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24734-GgVZoNAPnxoc.png"
           }
         }
       ]
@@ -3697,62 +3697,6 @@
   },
   {
     "title": {
-      "english": "Kaguya-sama: Love is War?",
-      "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen"
-    },
-    "id": 112641,
-    "characters": {
-      "nodes": [
-        {
-          "id": 120649,
-          "name": {
-            "full": "Kaguya Shinomiya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b120649-NPaWaIpWy60E.png"
-          }
-        },
-        {
-          "id": 121103,
-          "name": {
-            "full": "Chika Fujiwara"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121103-UGLxT8utLPnq.png"
-          }
-        },
-        {
-          "id": 125886,
-          "name": {
-            "full": "Miko Iino"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b125886-TQbmqAaSgBLS.png"
-          }
-        },
-        {
-          "id": 121102,
-          "name": {
-            "full": "Yuu Ishigami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121102-tiQFxnSEIAwm.png"
-          }
-        },
-        {
-          "id": 121104,
-          "name": {
-            "full": "Ai Hayasaka"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121104-7TYRl3EEsDYU.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "That Time I Got Reincarnated as a Slime",
       "romaji": "Tensei Shitara Slime Datta Ken"
     },
@@ -3802,6 +3746,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b128040-QOhtFHgfOT5O.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Kaguya-sama: Love is War?",
+      "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen"
+    },
+    "id": 112641,
+    "characters": {
+      "nodes": [
+        {
+          "id": 120649,
+          "name": {
+            "full": "Kaguya Shinomiya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b120649-NPaWaIpWy60E.png"
+          }
+        },
+        {
+          "id": 121103,
+          "name": {
+            "full": "Chika Fujiwara"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121103-UGLxT8utLPnq.png"
+          }
+        },
+        {
+          "id": 125886,
+          "name": {
+            "full": "Miko Iino"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b125886-TQbmqAaSgBLS.png"
+          }
+        },
+        {
+          "id": 121102,
+          "name": {
+            "full": "Yuu Ishigami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121102-tiQFxnSEIAwm.png"
+          }
+        },
+        {
+          "id": 121104,
+          "name": {
+            "full": "Ai Hayasaka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121104-7TYRl3EEsDYU.png"
           }
         }
       ]
@@ -5433,55 +5433,55 @@
   },
   {
     "title": {
-      "english": "Code Geass: Lelouch of the Rebellion R2",
-      "romaji": "Code Geass: Hangyaku no Lelouch R2"
+      "english": "Frieren: Beyond Journey’s End",
+      "romaji": "Sousou no Frieren"
     },
-    "id": 2904,
+    "id": 154587,
     "characters": {
       "nodes": [
         {
-          "id": 417,
+          "id": 176754,
           "name": {
-            "full": "Lelouch Lamperouge"
+            "full": "Frieren"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b417-gVLmIJu9phcK.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b176754-PCnpqIOkjhFk.png"
           }
         },
         {
-          "id": 1111,
+          "id": 183965,
           "name": {
-            "full": "C.C."
+            "full": "Fern"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1111-UhmlFtRFrnWa.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b183965-uGFohBjlFoTp.png"
           }
         },
         {
-          "id": 1120,
+          "id": 184313,
           "name": {
-            "full": "Shirley Fenette"
+            "full": "Stark"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1120-hjOjinw5j4FE.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184313-CQl6GSt4RSny.jpg"
           }
         },
         {
-          "id": 558,
+          "id": 184311,
           "name": {
-            "full": "Kallen Stadtfeld"
+            "full": "Himmel"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b558-8tSMZ4a0LWrn.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184311-re77QUMpxazj.jpg"
           }
         },
         {
-          "id": 559,
+          "id": 246057,
           "name": {
-            "full": "Suzaku Kururugi"
+            "full": "Übel"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b559-KRvTdc6zdCuU.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b246057-ixvDfpng6I1S.png"
           }
         }
       ]
@@ -5545,55 +5545,55 @@
   },
   {
     "title": {
-      "english": "Frieren: Beyond Journey’s End",
-      "romaji": "Sousou no Frieren"
+      "english": "Code Geass: Lelouch of the Rebellion R2",
+      "romaji": "Code Geass: Hangyaku no Lelouch R2"
     },
-    "id": 154587,
+    "id": 2904,
     "characters": {
       "nodes": [
         {
-          "id": 176754,
+          "id": 417,
           "name": {
-            "full": "Frieren"
+            "full": "Lelouch Lamperouge"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b176754-PCnpqIOkjhFk.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b417-gVLmIJu9phcK.png"
           }
         },
         {
-          "id": 183965,
+          "id": 1111,
           "name": {
-            "full": "Fern"
+            "full": "C.C."
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b183965-uGFohBjlFoTp.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1111-UhmlFtRFrnWa.png"
           }
         },
         {
-          "id": 184313,
+          "id": 1120,
           "name": {
-            "full": "Stark"
+            "full": "Shirley Fenette"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184313-CQl6GSt4RSny.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1120-hjOjinw5j4FE.png"
           }
         },
         {
-          "id": 184311,
+          "id": 558,
           "name": {
-            "full": "Himmel"
+            "full": "Kallen Stadtfeld"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184311-re77QUMpxazj.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b558-8tSMZ4a0LWrn.jpg"
           }
         },
         {
-          "id": 246057,
+          "id": 559,
           "name": {
-            "full": "Übel"
+            "full": "Suzaku Kururugi"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b246057-ixvDfpng6I1S.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b559-KRvTdc6zdCuU.jpg"
           }
         }
       ]
