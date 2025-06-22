@@ -3137,62 +3137,6 @@
   },
   {
     "title": {
-      "english": "One-Punch Man Season 2",
-      "romaji": "One Punch Man 2"
-    },
-    "id": 97668,
-    "characters": {
-      "nodes": [
-        {
-          "id": 73935,
-          "name": {
-            "full": "Saitama"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73935-ON5d0mAcrItd.jpg"
-          }
-        },
-        {
-          "id": 81929,
-          "name": {
-            "full": "Tatsumaki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b81929-WPVp2LQoWgkc.png"
-          }
-        },
-        {
-          "id": 89277,
-          "name": {
-            "full": "Garou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89277-xBGb4B5YISXg.png"
-          }
-        },
-        {
-          "id": 73979,
-          "name": {
-            "full": "Genos"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73979-tVi9maPID881.jpg"
-          }
-        },
-        {
-          "id": 81931,
-          "name": {
-            "full": "Fubuki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b81931-fmouMoprPVbV.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Fire Force",
       "romaji": "Enen no Shouboutai"
     },
@@ -3242,6 +3186,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130713-TgLx8rgtGpXV.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "One-Punch Man Season 2",
+      "romaji": "One Punch Man 2"
+    },
+    "id": 97668,
+    "characters": {
+      "nodes": [
+        {
+          "id": 73935,
+          "name": {
+            "full": "Saitama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73935-ON5d0mAcrItd.jpg"
+          }
+        },
+        {
+          "id": 81929,
+          "name": {
+            "full": "Tatsumaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b81929-WPVp2LQoWgkc.png"
+          }
+        },
+        {
+          "id": 89277,
+          "name": {
+            "full": "Garou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89277-xBGb4B5YISXg.png"
+          }
+        },
+        {
+          "id": 73979,
+          "name": {
+            "full": "Genos"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73979-tVi9maPID881.jpg"
+          }
+        },
+        {
+          "id": 81931,
+          "name": {
+            "full": "Fubuki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b81931-fmouMoprPVbV.png"
           }
         }
       ]
@@ -5041,62 +5041,6 @@
   },
   {
     "title": {
-      "english": "HAIKYU!! 3rd Season",
-      "romaji": "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou"
-    },
-    "id": 21698,
-    "characters": {
-      "nodes": [
-        {
-          "id": 64769,
-          "name": {
-            "full": "Shouyou Hinata"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64769-WoWlCMLLgJ14.png"
-          }
-        },
-        {
-          "id": 64771,
-          "name": {
-            "full": "Tobio Kageyama"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64771-BuCVs7B8bBdh.png"
-          }
-        },
-        {
-          "id": 67327,
-          "name": {
-            "full": "Yuu Nishinoya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67327-zQb1dlC7joPb.jpg"
-          }
-        },
-        {
-          "id": 71267,
-          "name": {
-            "full": "Kenma Kozume"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71267-q44J2MXMinXD.jpg"
-          }
-        },
-        {
-          "id": 71611,
-          "name": {
-            "full": "Tooru Oikawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71611-cUZwVfzeNXD9.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Assassination Classroom 2",
       "romaji": "Ansatsu Kyoushitsu 2"
     },
@@ -5146,6 +5090,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b18769-7ms6XKt8jCzU.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "HAIKYU!! 3rd Season",
+      "romaji": "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou"
+    },
+    "id": 21698,
+    "characters": {
+      "nodes": [
+        {
+          "id": 64769,
+          "name": {
+            "full": "Shouyou Hinata"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64769-WoWlCMLLgJ14.png"
+          }
+        },
+        {
+          "id": 64771,
+          "name": {
+            "full": "Tobio Kageyama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64771-BuCVs7B8bBdh.png"
+          }
+        },
+        {
+          "id": 67327,
+          "name": {
+            "full": "Yuu Nishinoya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67327-zQb1dlC7joPb.jpg"
+          }
+        },
+        {
+          "id": 71267,
+          "name": {
+            "full": "Kenma Kozume"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71267-q44J2MXMinXD.jpg"
+          }
+        },
+        {
+          "id": 71611,
+          "name": {
+            "full": "Tooru Oikawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71611-cUZwVfzeNXD9.png"
           }
         }
       ]
@@ -5209,62 +5209,6 @@
   },
   {
     "title": {
-      "english": "Gurren Lagann",
-      "romaji": "Tengen Toppa Gurren Lagann"
-    },
-    "id": 2001,
-    "characters": {
-      "nodes": [
-        {
-          "id": 2075,
-          "name": {
-            "full": "Kamina"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2075-sWb5Xz76JWdX.png"
-          }
-        },
-        {
-          "id": 2257,
-          "name": {
-            "full": "Simon"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2257-jnalsdnIX1vN.jpg"
-          }
-        },
-        {
-          "id": 2063,
-          "name": {
-            "full": "Youko Littner"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2063-7BKqQbrhtDD2.png"
-          }
-        },
-        {
-          "id": 36309,
-          "name": {
-            "full": "Narrator"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
-          }
-        },
-        {
-          "id": 2761,
-          "name": {
-            "full": "Nia Teppelin"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2761-FmSJGaW9WzYZ.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "My Dress-Up Darling",
       "romaji": "Sono Bisque Doll wa Koi wo Suru"
     },
@@ -5314,6 +5258,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b207937-ytYjcNtNX77K.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Gurren Lagann",
+      "romaji": "Tengen Toppa Gurren Lagann"
+    },
+    "id": 2001,
+    "characters": {
+      "nodes": [
+        {
+          "id": 2075,
+          "name": {
+            "full": "Kamina"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2075-sWb5Xz76JWdX.png"
+          }
+        },
+        {
+          "id": 2257,
+          "name": {
+            "full": "Simon"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2257-jnalsdnIX1vN.jpg"
+          }
+        },
+        {
+          "id": 2063,
+          "name": {
+            "full": "Youko Littner"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2063-7BKqQbrhtDD2.png"
+          }
+        },
+        {
+          "id": 36309,
+          "name": {
+            "full": "Narrator"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
+          }
+        },
+        {
+          "id": 2761,
+          "name": {
+            "full": "Nia Teppelin"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2761-FmSJGaW9WzYZ.png"
           }
         }
       ]
@@ -5377,62 +5377,6 @@
   },
   {
     "title": {
-      "english": "PSYCHO-PASS",
-      "romaji": "PSYCHO-PASS"
-    },
-    "id": 13601,
-    "characters": {
-      "nodes": [
-        {
-          "id": 68315,
-          "name": {
-            "full": "Shinya Kougami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b68315-f9RBjyJCoj95.jpg"
-          }
-        },
-        {
-          "id": 69725,
-          "name": {
-            "full": "Shougo Makishima"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n69725-Seck1SZfwQiR.jpg"
-          }
-        },
-        {
-          "id": 68583,
-          "name": {
-            "full": "Akane Tsunemori"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b68583-sEP2wyE2Tk7a.png"
-          }
-        },
-        {
-          "id": 69057,
-          "name": {
-            "full": "Nobuchika Ginoza"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b69057-491sAhqnEsFZ.png"
-          }
-        },
-        {
-          "id": 69055,
-          "name": {
-            "full": "Shuusei Kagari"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n69055-tmF7uIwloFHc.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Frieren: Beyond Journey’s End",
       "romaji": "Sousou no Frieren"
     },
@@ -5482,6 +5426,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b246057-ixvDfpng6I1S.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "PSYCHO-PASS",
+      "romaji": "PSYCHO-PASS"
+    },
+    "id": 13601,
+    "characters": {
+      "nodes": [
+        {
+          "id": 68315,
+          "name": {
+            "full": "Shinya Kougami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b68315-f9RBjyJCoj95.jpg"
+          }
+        },
+        {
+          "id": 69725,
+          "name": {
+            "full": "Shougo Makishima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n69725-Seck1SZfwQiR.jpg"
+          }
+        },
+        {
+          "id": 68583,
+          "name": {
+            "full": "Akane Tsunemori"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b68583-sEP2wyE2Tk7a.png"
+          }
+        },
+        {
+          "id": 69057,
+          "name": {
+            "full": "Nobuchika Ginoza"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b69057-491sAhqnEsFZ.png"
+          }
+        },
+        {
+          "id": 69055,
+          "name": {
+            "full": "Shuusei Kagari"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n69055-tmF7uIwloFHc.jpg"
           }
         }
       ]
