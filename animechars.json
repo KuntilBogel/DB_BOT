@@ -1737,6 +1737,62 @@
   },
   {
     "title": {
+      "english": "Chainsaw Man",
+      "romaji": "Chainsaw Man"
+    },
+    "id": 127230,
+    "characters": {
+      "nodes": [
+        {
+          "id": 137080,
+          "name": {
+            "full": "Makima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137080-UHcynYNjb5ZU.png"
+          }
+        },
+        {
+          "id": 137079,
+          "name": {
+            "full": "Power"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137079-6yLEUYR3bmpr.png"
+          }
+        },
+        {
+          "id": 130102,
+          "name": {
+            "full": "Denji"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130102-FO1VHNnEnLlB.png"
+          }
+        },
+        {
+          "id": 137081,
+          "name": {
+            "full": "Aki Hayakawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137081-TSrUR3mUJL6r.png"
+          }
+        },
+        {
+          "id": 148740,
+          "name": {
+            "full": "Reze"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b148740-ceAibPxLW8rR.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
       "english": "Noragami",
       "romaji": "Noragami"
     },
@@ -1842,62 +1898,6 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88003-tZKsjjzDWV8e.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "english": "Chainsaw Man",
-      "romaji": "Chainsaw Man"
-    },
-    "id": 127230,
-    "characters": {
-      "nodes": [
-        {
-          "id": 137080,
-          "name": {
-            "full": "Makima"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137080-UHcynYNjb5ZU.png"
-          }
-        },
-        {
-          "id": 137079,
-          "name": {
-            "full": "Power"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137079-6yLEUYR3bmpr.png"
-          }
-        },
-        {
-          "id": 130102,
-          "name": {
-            "full": "Denji"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130102-FO1VHNnEnLlB.png"
-          }
-        },
-        {
-          "id": 137081,
-          "name": {
-            "full": "Aki Hayakawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137081-TSrUR3mUJL6r.png"
-          }
-        },
-        {
-          "id": 148740,
-          "name": {
-            "full": "Reze"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b148740-ceAibPxLW8rR.png"
           }
         }
       ]
@@ -2844,12 +2844,12 @@
           }
         },
         {
-          "id": 88683,
+          "id": 88780,
           "name": {
-            "full": "Ginti"
+            "full": "Clavis"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88683-S0xJzL8QY3gI.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88780-76uJe60Gkw70.png"
           }
         }
       ]
@@ -2913,62 +2913,6 @@
   },
   {
     "title": {
-      "english": "Blue Exorcist",
-      "romaji": "Ao no Exorcist"
-    },
-    "id": 9919,
-    "characters": {
-      "nodes": [
-        {
-          "id": 24482,
-          "name": {
-            "full": "Rin Okumura"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24482-E6087V4uAVqL.jpg"
-          }
-        },
-        {
-          "id": 32110,
-          "name": {
-            "full": "Shura Kirigakure"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b32110-Ats6VvSZy300.png"
-          }
-        },
-        {
-          "id": 30432,
-          "name": {
-            "full": "Mephisto Pheles"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b30432-I4KwsegOrzfq.png"
-          }
-        },
-        {
-          "id": 43187,
-          "name": {
-            "full": "Kuro"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43187-uJySWMkmaWmZ.png"
-          }
-        },
-        {
-          "id": 24734,
-          "name": {
-            "full": "Yukio Okumura"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24734-GgVZoNAPnxoc.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Spirited Away",
       "romaji": "Sen to Chihiro no Kamikakushi"
     },
@@ -3018,6 +2962,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5465-ZWJpBoYKPbAY.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Blue Exorcist",
+      "romaji": "Ao no Exorcist"
+    },
+    "id": 9919,
+    "characters": {
+      "nodes": [
+        {
+          "id": 24482,
+          "name": {
+            "full": "Rin Okumura"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24482-E6087V4uAVqL.jpg"
+          }
+        },
+        {
+          "id": 32110,
+          "name": {
+            "full": "Shura Kirigakure"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b32110-Ats6VvSZy300.png"
+          }
+        },
+        {
+          "id": 30432,
+          "name": {
+            "full": "Mephisto Pheles"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b30432-I4KwsegOrzfq.png"
+          }
+        },
+        {
+          "id": 43187,
+          "name": {
+            "full": "Kuro"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43187-uJySWMkmaWmZ.png"
+          }
+        },
+        {
+          "id": 24734,
+          "name": {
+            "full": "Yukio Okumura"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24734-GgVZoNAPnxoc.png"
           }
         }
       ]
@@ -3081,62 +3081,6 @@
   },
   {
     "title": {
-      "english": "Cowboy Bebop",
-      "romaji": "Cowboy Bebop"
-    },
-    "id": 1,
-    "characters": {
-      "nodes": [
-        {
-          "id": 1,
-          "name": {
-            "full": "Spike Spiegel"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1-ChxaldmieFlQ.png"
-          }
-        },
-        {
-          "id": 2,
-          "name": {
-            "full": "Faye Valentine"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2-0Iszg6Izgt4p.png"
-          }
-        },
-        {
-          "id": 16,
-          "name": {
-            "full": "Edward Wong Hau Pepelu Tivrusky IV"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b16-80wd87nl1Rue.png"
-          }
-        },
-        {
-          "id": 3,
-          "name": {
-            "full": "Jet Black"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3-JjH9Si9UM1NZ.png"
-          }
-        },
-        {
-          "id": 4,
-          "name": {
-            "full": "Ein"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/4.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Fire Force",
       "romaji": "Enen no Shouboutai"
     },
@@ -3186,6 +3130,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130713-TgLx8rgtGpXV.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Cowboy Bebop",
+      "romaji": "Cowboy Bebop"
+    },
+    "id": 1,
+    "characters": {
+      "nodes": [
+        {
+          "id": 1,
+          "name": {
+            "full": "Spike Spiegel"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1-ChxaldmieFlQ.png"
+          }
+        },
+        {
+          "id": 2,
+          "name": {
+            "full": "Faye Valentine"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2-0Iszg6Izgt4p.png"
+          }
+        },
+        {
+          "id": 16,
+          "name": {
+            "full": "Edward Wong Hau Pepelu Tivrusky IV"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b16-80wd87nl1Rue.png"
+          }
+        },
+        {
+          "id": 3,
+          "name": {
+            "full": "Jet Black"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3-JjH9Si9UM1NZ.png"
+          }
+        },
+        {
+          "id": 4,
+          "name": {
+            "full": "Ein"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/4.jpg"
           }
         }
       ]
@@ -5209,62 +5209,6 @@
   },
   {
     "title": {
-      "english": "My Dress-Up Darling",
-      "romaji": "Sono Bisque Doll wa Koi wo Suru"
-    },
-    "id": 132405,
-    "characters": {
-      "nodes": [
-        {
-          "id": 133676,
-          "name": {
-            "full": "Marin Kitagawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133676-kV2czE3C8Qls.png"
-          }
-        },
-        {
-          "id": 133678,
-          "name": {
-            "full": "Wakana Gojou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133678-IitCgjDxQGgu.png"
-          }
-        },
-        {
-          "id": 36309,
-          "name": {
-            "full": "Narrator"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
-          }
-        },
-        {
-          "id": 133677,
-          "name": {
-            "full": "Sajuna Inui"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133677-PqshvUeVFB7u.jpg"
-          }
-        },
-        {
-          "id": 207937,
-          "name": {
-            "full": "Shinju Inui"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b207937-ytYjcNtNX77K.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Solo Leveling",
       "romaji": "Ore dake Level Up na Ken"
     },
@@ -5314,6 +5258,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136074-pLyumEnxjL7P.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "My Dress-Up Darling",
+      "romaji": "Sono Bisque Doll wa Koi wo Suru"
+    },
+    "id": 132405,
+    "characters": {
+      "nodes": [
+        {
+          "id": 133676,
+          "name": {
+            "full": "Marin Kitagawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133676-kV2czE3C8Qls.png"
+          }
+        },
+        {
+          "id": 133678,
+          "name": {
+            "full": "Wakana Gojou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133678-IitCgjDxQGgu.png"
+          }
+        },
+        {
+          "id": 36309,
+          "name": {
+            "full": "Narrator"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
+          }
+        },
+        {
+          "id": 133677,
+          "name": {
+            "full": "Sajuna Inui"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133677-PqshvUeVFB7u.jpg"
+          }
+        },
+        {
+          "id": 207937,
+          "name": {
+            "full": "Shinju Inui"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b207937-ytYjcNtNX77K.png"
           }
         }
       ]
