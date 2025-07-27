@@ -1177,62 +1177,6 @@
   },
   {
     "title": {
-      "english": "My Hero Academia Season 3",
-      "romaji": "Boku no Hero Academia 3"
-    },
-    "id": 100166,
-    "characters": {
-      "nodes": [
-        {
-          "id": 89220,
-          "name": {
-            "full": "Shouto Todoroki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89220-KNBwaVFAR8FD.png"
-          }
-        },
-        {
-          "id": 88892,
-          "name": {
-            "full": "Katsuki Bakugou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88892-bdOha3lNcaN6.png"
-          }
-        },
-        {
-          "id": 89028,
-          "name": {
-            "full": "Izuku Midoriya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89028-8w1I9o1ISHMg.png"
-          }
-        },
-        {
-          "id": 89225,
-          "name": {
-            "full": "Shouta Aizawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89225-XBgvUhI9naVI.png"
-          }
-        },
-        {
-          "id": 89243,
-          "name": {
-            "full": "Eijirou Kirishima"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89243-QLmUyyZk5K2l.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Your lie in April",
       "romaji": "Shigatsu wa Kimi no Uso"
     },
@@ -1282,6 +1226,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/88786-toDBw77jbCTx.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "My Hero Academia Season 3",
+      "romaji": "Boku no Hero Academia 3"
+    },
+    "id": 100166,
+    "characters": {
+      "nodes": [
+        {
+          "id": 89220,
+          "name": {
+            "full": "Shouto Todoroki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89220-KNBwaVFAR8FD.png"
+          }
+        },
+        {
+          "id": 88892,
+          "name": {
+            "full": "Katsuki Bakugou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88892-bdOha3lNcaN6.png"
+          }
+        },
+        {
+          "id": 89028,
+          "name": {
+            "full": "Izuku Midoriya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89028-8w1I9o1ISHMg.png"
+          }
+        },
+        {
+          "id": 89225,
+          "name": {
+            "full": "Shouta Aizawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89225-XBgvUhI9naVI.png"
+          }
+        },
+        {
+          "id": 89243,
+          "name": {
+            "full": "Eijirou Kirishima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89243-QLmUyyZk5K2l.png"
           }
         }
       ]
@@ -4705,62 +4705,6 @@
   },
   {
     "title": {
-      "english": "Another",
-      "romaji": "Another"
-    },
-    "id": 11111,
-    "characters": {
-      "nodes": [
-        {
-          "id": 41402,
-          "name": {
-            "full": "Mei Misaki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b41402-3clBclsDhTSG.png"
-          }
-        },
-        {
-          "id": 41400,
-          "name": {
-            "full": "Kouichi Sakakibara"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b41400-v3WD2Tz5cXo8.png"
-          }
-        },
-        {
-          "id": 51585,
-          "name": {
-            "full": "Izumi Akazawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b51585-Sp3l5TRdrULa.jpg"
-          }
-        },
-        {
-          "id": 51587,
-          "name": {
-            "full": "Naoya Teshigawara"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b51587-Pw1kxIJNb6Sm.png"
-          }
-        },
-        {
-          "id": 51595,
-          "name": {
-            "full": "Yuuya Mochizuki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b51595-WONJEojLs7jf.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "JUJUTSU KAISEN 0",
       "romaji": "Jujutsu Kaisen 0"
     },
@@ -4810,6 +4754,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157115-kdhRYQdVhH95.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Another",
+      "romaji": "Another"
+    },
+    "id": 11111,
+    "characters": {
+      "nodes": [
+        {
+          "id": 41402,
+          "name": {
+            "full": "Mei Misaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b41402-3clBclsDhTSG.png"
+          }
+        },
+        {
+          "id": 41400,
+          "name": {
+            "full": "Kouichi Sakakibara"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b41400-v3WD2Tz5cXo8.png"
+          }
+        },
+        {
+          "id": 51585,
+          "name": {
+            "full": "Izumi Akazawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b51585-Sp3l5TRdrULa.jpg"
+          }
+        },
+        {
+          "id": 51587,
+          "name": {
+            "full": "Naoya Teshigawara"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b51587-Pw1kxIJNb6Sm.png"
+          }
+        },
+        {
+          "id": 51595,
+          "name": {
+            "full": "Yuuya Mochizuki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b51595-WONJEojLs7jf.png"
           }
         }
       ]
@@ -4985,62 +4985,6 @@
   },
   {
     "title": {
-      "english": "My Teen Romantic Comedy SNAFU",
-      "romaji": "Yahari Ore no Seishun Love Come wa Machigatteiru."
-    },
-    "id": 14813,
-    "characters": {
-      "nodes": [
-        {
-          "id": 67065,
-          "name": {
-            "full": "Hachiman Hikigaya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png"
-          }
-        },
-        {
-          "id": 67067,
-          "name": {
-            "full": "Yukino Yukinoshita"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67067-gqhgjlni0Bcf.png"
-          }
-        },
-        {
-          "id": 67069,
-          "name": {
-            "full": "Yui Yuigahama"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67069-6B3xnHfJUO0F.png"
-          }
-        },
-        {
-          "id": 67077,
-          "name": {
-            "full": "Shizuka Hiratsuka"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67077-NaBvItxCYPon.png"
-          }
-        },
-        {
-          "id": 67071,
-          "name": {
-            "full": "Saika Totsuka"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67071-3tO9QQA9x0hV.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Solo Leveling",
       "romaji": "Ore dake Level Up na Ken"
     },
@@ -5146,6 +5090,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b207937-ytYjcNtNX77K.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "My Teen Romantic Comedy SNAFU",
+      "romaji": "Yahari Ore no Seishun Love Come wa Machigatteiru."
+    },
+    "id": 14813,
+    "characters": {
+      "nodes": [
+        {
+          "id": 67065,
+          "name": {
+            "full": "Hachiman Hikigaya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png"
+          }
+        },
+        {
+          "id": 67067,
+          "name": {
+            "full": "Yukino Yukinoshita"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67067-gqhgjlni0Bcf.png"
+          }
+        },
+        {
+          "id": 67069,
+          "name": {
+            "full": "Yui Yuigahama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67069-6B3xnHfJUO0F.png"
+          }
+        },
+        {
+          "id": 67077,
+          "name": {
+            "full": "Shizuka Hiratsuka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67077-NaBvItxCYPon.png"
+          }
+        },
+        {
+          "id": 67071,
+          "name": {
+            "full": "Saika Totsuka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67071-3tO9QQA9x0hV.jpg"
           }
         }
       ]
