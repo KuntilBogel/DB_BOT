@@ -2129,62 +2129,6 @@
   },
   {
     "title": {
-      "english": "Akame ga Kill!",
-      "romaji": "Akame ga Kill!"
-    },
-    "id": 20613,
-    "characters": {
-      "nodes": [
-        {
-          "id": 63351,
-          "name": {
-            "full": "Akame"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b63351-0WmsDENpiscp.png"
-          }
-        },
-        {
-          "id": 65239,
-          "name": {
-            "full": "Esdeath"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65239-2S3t2vSyUew9.png"
-          }
-        },
-        {
-          "id": 65229,
-          "name": {
-            "full": "Mine"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65229-hYOZtUlIpd5G.png"
-          }
-        },
-        {
-          "id": 65227,
-          "name": {
-            "full": "Leone"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65227-PWmfiEVJbCwQ.png"
-          }
-        },
-        {
-          "id": 64749,
-          "name": {
-            "full": "Tatsumi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/64749-a2ZdRWW1D5TR.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "SPY x FAMILY",
       "romaji": "SPY×FAMILY"
     },
@@ -2234,6 +2178,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169679-EFPubVtZFYom.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Akame ga Kill!",
+      "romaji": "Akame ga Kill!"
+    },
+    "id": 20613,
+    "characters": {
+      "nodes": [
+        {
+          "id": 63351,
+          "name": {
+            "full": "Akame"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b63351-0WmsDENpiscp.png"
+          }
+        },
+        {
+          "id": 65239,
+          "name": {
+            "full": "Esdeath"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65239-2S3t2vSyUew9.png"
+          }
+        },
+        {
+          "id": 65229,
+          "name": {
+            "full": "Mine"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65229-hYOZtUlIpd5G.png"
+          }
+        },
+        {
+          "id": 65227,
+          "name": {
+            "full": "Leone"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65227-PWmfiEVJbCwQ.png"
+          }
+        },
+        {
+          "id": 64749,
+          "name": {
+            "full": "Tatsumi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/64749-a2ZdRWW1D5TR.jpg"
           }
         }
       ]
@@ -2689,62 +2689,6 @@
   },
   {
     "title": {
-      "english": "Code Geass: Lelouch of the Rebellion",
-      "romaji": "Code Geass: Hangyaku no Lelouch"
-    },
-    "id": 1575,
-    "characters": {
-      "nodes": [
-        {
-          "id": 417,
-          "name": {
-            "full": "Lelouch Lamperouge"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b417-gVLmIJu9phcK.png"
-          }
-        },
-        {
-          "id": 1111,
-          "name": {
-            "full": "C.C."
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1111-UhmlFtRFrnWa.png"
-          }
-        },
-        {
-          "id": 1120,
-          "name": {
-            "full": "Shirley Fenette"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1120-hjOjinw5j4FE.png"
-          }
-        },
-        {
-          "id": 558,
-          "name": {
-            "full": "Kallen Stadtfeld"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b558-8tSMZ4a0LWrn.jpg"
-          }
-        },
-        {
-          "id": 559,
-          "name": {
-            "full": "Suzaku Kururugi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b559-KRvTdc6zdCuU.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Bleach",
       "romaji": "BLEACH"
     },
@@ -2794,6 +2738,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1086-qR9218BjZTC0.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Code Geass: Lelouch of the Rebellion",
+      "romaji": "Code Geass: Hangyaku no Lelouch"
+    },
+    "id": 1575,
+    "characters": {
+      "nodes": [
+        {
+          "id": 417,
+          "name": {
+            "full": "Lelouch Lamperouge"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b417-gVLmIJu9phcK.png"
+          }
+        },
+        {
+          "id": 1111,
+          "name": {
+            "full": "C.C."
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1111-UhmlFtRFrnWa.png"
+          }
+        },
+        {
+          "id": 1120,
+          "name": {
+            "full": "Shirley Fenette"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1120-hjOjinw5j4FE.png"
+          }
+        },
+        {
+          "id": 558,
+          "name": {
+            "full": "Kallen Stadtfeld"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b558-8tSMZ4a0LWrn.jpg"
+          }
+        },
+        {
+          "id": 559,
+          "name": {
+            "full": "Suzaku Kururugi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b559-KRvTdc6zdCuU.jpg"
           }
         }
       ]
@@ -2857,62 +2857,6 @@
   },
   {
     "title": {
-      "english": "Death Parade",
-      "romaji": "Death Parade"
-    },
-    "id": 20931,
-    "characters": {
-      "nodes": [
-        {
-          "id": 80,
-          "name": {
-            "full": "Light Yagami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b80-26EhwSsSqQ50.png"
-          }
-        },
-        {
-          "id": 81853,
-          "name": {
-            "full": "Decim"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b81853-CY99xwoziDG4.png"
-          }
-        },
-        {
-          "id": 82037,
-          "name": {
-            "full": "Kurokami no Onna"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82037-xvKHWk4AE4df.png"
-          }
-        },
-        {
-          "id": 88681,
-          "name": {
-            "full": "Nona"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88681-tTuJXN5ds3gy.png"
-          }
-        },
-        {
-          "id": 88780,
-          "name": {
-            "full": "Clavis"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88780-76uJe60Gkw70.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Spirited Away",
       "romaji": "Sen to Chihiro no Kamikakushi"
     },
@@ -2962,6 +2906,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5465-ZWJpBoYKPbAY.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Death Parade",
+      "romaji": "Death Parade"
+    },
+    "id": 20931,
+    "characters": {
+      "nodes": [
+        {
+          "id": 80,
+          "name": {
+            "full": "Light Yagami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b80-26EhwSsSqQ50.png"
+          }
+        },
+        {
+          "id": 81853,
+          "name": {
+            "full": "Decim"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b81853-CY99xwoziDG4.png"
+          }
+        },
+        {
+          "id": 82037,
+          "name": {
+            "full": "Kurokami no Onna"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82037-xvKHWk4AE4df.png"
+          }
+        },
+        {
+          "id": 88681,
+          "name": {
+            "full": "Nona"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88681-tTuJXN5ds3gy.png"
+          }
+        },
+        {
+          "id": 88780,
+          "name": {
+            "full": "Clavis"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88780-76uJe60Gkw70.png"
           }
         }
       ]
@@ -4773,7 +4773,7 @@
             "full": "Mei Misaki"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b41402-3clBclsDhTSG.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b41402-uMQLbpd8uwKH.png"
           }
         },
         {
@@ -4782,7 +4782,7 @@
             "full": "Kouichi Sakakibara"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b41400-v3WD2Tz5cXo8.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b41400-R2RzXzBtXOfJ.png"
           }
         },
         {
@@ -5041,62 +5041,6 @@
   },
   {
     "title": {
-      "english": "My Dress-Up Darling",
-      "romaji": "Sono Bisque Doll wa Koi wo Suru"
-    },
-    "id": 132405,
-    "characters": {
-      "nodes": [
-        {
-          "id": 133676,
-          "name": {
-            "full": "Marin Kitagawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133676-kV2czE3C8Qls.png"
-          }
-        },
-        {
-          "id": 133678,
-          "name": {
-            "full": "Wakana Gojou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133678-IitCgjDxQGgu.png"
-          }
-        },
-        {
-          "id": 36309,
-          "name": {
-            "full": "Narrator"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
-          }
-        },
-        {
-          "id": 133677,
-          "name": {
-            "full": "Sajuna Inui"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133677-PqshvUeVFB7u.jpg"
-          }
-        },
-        {
-          "id": 207937,
-          "name": {
-            "full": "Shinju Inui"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b207937-ytYjcNtNX77K.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Frieren: Beyond Journey’s End",
       "romaji": "Sousou no Frieren"
     },
@@ -5146,6 +5090,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b246057-ixvDfpng6I1S.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "My Dress-Up Darling",
+      "romaji": "Sono Bisque Doll wa Koi wo Suru"
+    },
+    "id": 132405,
+    "characters": {
+      "nodes": [
+        {
+          "id": 133676,
+          "name": {
+            "full": "Marin Kitagawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133676-kV2czE3C8Qls.png"
+          }
+        },
+        {
+          "id": 133678,
+          "name": {
+            "full": "Wakana Gojou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133678-IitCgjDxQGgu.png"
+          }
+        },
+        {
+          "id": 36309,
+          "name": {
+            "full": "Narrator"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
+          }
+        },
+        {
+          "id": 133677,
+          "name": {
+            "full": "Sajuna Inui"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133677-PqshvUeVFB7u.jpg"
+          }
+        },
+        {
+          "id": 207937,
+          "name": {
+            "full": "Shinju Inui"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b207937-ytYjcNtNX77K.png"
           }
         }
       ]
@@ -5265,62 +5265,6 @@
   },
   {
     "title": {
-      "english": "HAIKYU!! 3rd Season",
-      "romaji": "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou"
-    },
-    "id": 21698,
-    "characters": {
-      "nodes": [
-        {
-          "id": 64769,
-          "name": {
-            "full": "Shouyou Hinata"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64769-WoWlCMLLgJ14.png"
-          }
-        },
-        {
-          "id": 64771,
-          "name": {
-            "full": "Tobio Kageyama"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64771-BuCVs7B8bBdh.png"
-          }
-        },
-        {
-          "id": 67327,
-          "name": {
-            "full": "Yuu Nishinoya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67327-zQb1dlC7joPb.jpg"
-          }
-        },
-        {
-          "id": 71267,
-          "name": {
-            "full": "Kenma Kozume"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71267-q44J2MXMinXD.jpg"
-          }
-        },
-        {
-          "id": 71611,
-          "name": {
-            "full": "Tooru Oikawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71611-cUZwVfzeNXD9.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Dororo",
       "romaji": "Dororo"
     },
@@ -5370,6 +5314,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/n24843-aemlGiDa6lk8.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "HAIKYU!! 3rd Season",
+      "romaji": "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou"
+    },
+    "id": 21698,
+    "characters": {
+      "nodes": [
+        {
+          "id": 64769,
+          "name": {
+            "full": "Shouyou Hinata"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64769-WoWlCMLLgJ14.png"
+          }
+        },
+        {
+          "id": 64771,
+          "name": {
+            "full": "Tobio Kageyama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64771-BuCVs7B8bBdh.png"
+          }
+        },
+        {
+          "id": 67327,
+          "name": {
+            "full": "Yuu Nishinoya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67327-zQb1dlC7joPb.jpg"
+          }
+        },
+        {
+          "id": 71267,
+          "name": {
+            "full": "Kenma Kozume"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71267-q44J2MXMinXD.jpg"
+          }
+        },
+        {
+          "id": 71611,
+          "name": {
+            "full": "Tooru Oikawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71611-cUZwVfzeNXD9.png"
           }
         }
       ]
