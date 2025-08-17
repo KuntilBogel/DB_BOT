@@ -100,12 +100,12 @@
           }
         },
         {
-          "id": 130050,
+          "id": 129133,
           "name": {
-            "full": "Giyuu Tomioka"
+            "full": "Kyoujurou Rengoku"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130050-qsLThJs5VIbz.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129133-VlTPowwt68rJ.png"
           }
         }
       ]
@@ -156,12 +156,12 @@
           }
         },
         {
-          "id": 464,
+          "id": 36309,
           "name": {
-            "full": "Nate River"
+            "full": "Narrator"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n464-6KeJpU6g7Hwj.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
           }
         }
       ]
@@ -1233,62 +1233,6 @@
   },
   {
     "title": {
-      "english": "My Hero Academia Season 3",
-      "romaji": "Boku no Hero Academia 3"
-    },
-    "id": 100166,
-    "characters": {
-      "nodes": [
-        {
-          "id": 89220,
-          "name": {
-            "full": "Shouto Todoroki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89220-KNBwaVFAR8FD.png"
-          }
-        },
-        {
-          "id": 88892,
-          "name": {
-            "full": "Katsuki Bakugou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88892-bdOha3lNcaN6.png"
-          }
-        },
-        {
-          "id": 89028,
-          "name": {
-            "full": "Izuku Midoriya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89028-8w1I9o1ISHMg.png"
-          }
-        },
-        {
-          "id": 89225,
-          "name": {
-            "full": "Shouta Aizawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89225-XBgvUhI9naVI.png"
-          }
-        },
-        {
-          "id": 89243,
-          "name": {
-            "full": "Eijirou Kirishima"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89243-QLmUyyZk5K2l.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "ERASED",
       "romaji": "Boku dake ga Inai Machi"
     },
@@ -1338,6 +1282,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89355-w1xEKGHisGWE.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "My Hero Academia Season 3",
+      "romaji": "Boku no Hero Academia 3"
+    },
+    "id": 100166,
+    "characters": {
+      "nodes": [
+        {
+          "id": 89220,
+          "name": {
+            "full": "Shouto Todoroki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89220-KNBwaVFAR8FD.png"
+          }
+        },
+        {
+          "id": 88892,
+          "name": {
+            "full": "Katsuki Bakugou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88892-bdOha3lNcaN6.png"
+          }
+        },
+        {
+          "id": 89028,
+          "name": {
+            "full": "Izuku Midoriya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89028-8w1I9o1ISHMg.png"
+          }
+        },
+        {
+          "id": 89225,
+          "name": {
+            "full": "Shouta Aizawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89225-XBgvUhI9naVI.png"
+          }
+        },
+        {
+          "id": 89243,
+          "name": {
+            "full": "Eijirou Kirishima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89243-QLmUyyZk5K2l.png"
           }
         }
       ]
@@ -2620,12 +2620,12 @@
           }
         },
         {
-          "id": 130050,
+          "id": 129133,
           "name": {
-            "full": "Giyuu Tomioka"
+            "full": "Kyoujurou Rengoku"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130050-qsLThJs5VIbz.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129133-VlTPowwt68rJ.png"
           }
         }
       ]
@@ -3361,6 +3361,62 @@
   },
   {
     "title": {
+      "english": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
+      "romaji": "Kimetsu no Yaiba: Yuukaku-hen"
+    },
+    "id": 142329,
+    "characters": {
+      "nodes": [
+        {
+          "id": 126071,
+          "name": {
+            "full": "Tanjirou Kamado"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126071-BTNEc1nRIv68.png"
+          }
+        },
+        {
+          "id": 127518,
+          "name": {
+            "full": "Nezuko Kamado"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127518-NRlq1CQ1v1ro.png"
+          }
+        },
+        {
+          "id": 129130,
+          "name": {
+            "full": "Inosuke Hashibira"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n129130-SJC0Kn1DU39E.jpg"
+          }
+        },
+        {
+          "id": 129131,
+          "name": {
+            "full": "Zenitsu Agatsuma"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129131-FZrQ7lSlxmEr.png"
+          }
+        },
+        {
+          "id": 129133,
+          "name": {
+            "full": "Kyoujurou Rengoku"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129133-VlTPowwt68rJ.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
       "english": "Angel Beats!",
       "romaji": "Angel Beats!"
     },
@@ -3466,62 +3522,6 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135198-ImEXzNG3srwI.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "english": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
-      "romaji": "Kimetsu no Yaiba: Yuukaku-hen"
-    },
-    "id": 142329,
-    "characters": {
-      "nodes": [
-        {
-          "id": 126071,
-          "name": {
-            "full": "Tanjirou Kamado"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126071-BTNEc1nRIv68.png"
-          }
-        },
-        {
-          "id": 127518,
-          "name": {
-            "full": "Nezuko Kamado"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127518-NRlq1CQ1v1ro.png"
-          }
-        },
-        {
-          "id": 129130,
-          "name": {
-            "full": "Inosuke Hashibira"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n129130-SJC0Kn1DU39E.jpg"
-          }
-        },
-        {
-          "id": 129131,
-          "name": {
-            "full": "Zenitsu Agatsuma"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129131-FZrQ7lSlxmEr.png"
-          }
-        },
-        {
-          "id": 130050,
-          "name": {
-            "full": "Giyuu Tomioka"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130050-qsLThJs5VIbz.png"
           }
         }
       ]
@@ -3641,62 +3641,6 @@
   },
   {
     "title": {
-      "english": "The Future Diary",
-      "romaji": "Mirai Nikki"
-    },
-    "id": 10620,
-    "characters": {
-      "nodes": [
-        {
-          "id": 4963,
-          "name": {
-            "full": "Yuno Gasai"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4963-7ZMcCtXW5hkY.png"
-          }
-        },
-        {
-          "id": 4966,
-          "name": {
-            "full": "Minene Uryuu"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4966-Bb0hjxjJtidY.jpg"
-          }
-        },
-        {
-          "id": 8306,
-          "name": {
-            "full": "Aru Akise"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8306-1plj927kFBCf.jpg"
-          }
-        },
-        {
-          "id": 4962,
-          "name": {
-            "full": "Yukiteru Amano"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4962-CpqPBVJngbq2.png"
-          }
-        },
-        {
-          "id": 4965,
-          "name": {
-            "full": "Mur Mur"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4965-kfp8cXLa4n6y.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "That Time I Got Reincarnated as a Slime",
       "romaji": "Tensei Shitara Slime Datta Ken"
     },
@@ -3746,6 +3690,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b128040-QOhtFHgfOT5O.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "The Future Diary",
+      "romaji": "Mirai Nikki"
+    },
+    "id": 10620,
+    "characters": {
+      "nodes": [
+        {
+          "id": 4963,
+          "name": {
+            "full": "Yuno Gasai"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4963-7ZMcCtXW5hkY.png"
+          }
+        },
+        {
+          "id": 4966,
+          "name": {
+            "full": "Minene Uryuu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4966-Bb0hjxjJtidY.jpg"
+          }
+        },
+        {
+          "id": 8306,
+          "name": {
+            "full": "Aru Akise"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8306-1plj927kFBCf.jpg"
+          }
+        },
+        {
+          "id": 4962,
+          "name": {
+            "full": "Yukiteru Amano"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4962-CpqPBVJngbq2.png"
+          }
+        },
+        {
+          "id": 4965,
+          "name": {
+            "full": "Mur Mur"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4965-kfp8cXLa4n6y.png"
           }
         }
       ]
@@ -3865,55 +3865,55 @@
   },
   {
     "title": {
-      "english": "Kill la Kill",
-      "romaji": "Kill la Kill"
+      "english": "JUJUTSU KAISEN Season 2",
+      "romaji": "Jujutsu Kaisen 2nd Season"
     },
-    "id": 18679,
+    "id": 145064,
     "characters": {
       "nodes": [
         {
-          "id": 83797,
+          "id": 127691,
           "name": {
-            "full": "Ryuuko Matoi"
+            "full": "Satoru Gojou"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83797-ix0Cl5OMfV22.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127691-9zqh1xpIubn7.png"
           }
         },
         {
-          "id": 87511,
+          "id": 127212,
           "name": {
-            "full": "Mako Mankanshoku"
+            "full": "Yuuji Itadori"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87511-T8lwlQKd6SoK.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127212-FVm2tD0erQ5B.png"
           }
         },
         {
-          "id": 83799,
+          "id": 126635,
           "name": {
-            "full": "Satsuki Kiryuuin"
+            "full": "Megumi Fushiguro"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83799-oPxSwMA9XAvu.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126635-L0y3I92JSUkN.png"
           }
         },
         {
-          "id": 87606,
+          "id": 133700,
           "name": {
-            "full": "Nonon Jakuzure"
+            "full": "Nobara Kugisaki"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/87606-3A51LUnRuyHf.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133700-f6sOO3TcgLV6.png"
           }
         },
         {
-          "id": 87510,
+          "id": 133704,
           "name": {
-            "full": "Senketsu"
+            "full": "Kento Nanami"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87510-ZH2qoBYc6XNH.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133704-8wLTGjc234q2.png"
           }
         }
       ]
@@ -3977,6 +3977,62 @@
   },
   {
     "title": {
+      "english": "Kill la Kill",
+      "romaji": "Kill la Kill"
+    },
+    "id": 18679,
+    "characters": {
+      "nodes": [
+        {
+          "id": 83797,
+          "name": {
+            "full": "Ryuuko Matoi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83797-ix0Cl5OMfV22.png"
+          }
+        },
+        {
+          "id": 87511,
+          "name": {
+            "full": "Mako Mankanshoku"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87511-T8lwlQKd6SoK.png"
+          }
+        },
+        {
+          "id": 83799,
+          "name": {
+            "full": "Satsuki Kiryuuin"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83799-oPxSwMA9XAvu.png"
+          }
+        },
+        {
+          "id": 87606,
+          "name": {
+            "full": "Nonon Jakuzure"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/87606-3A51LUnRuyHf.png"
+          }
+        },
+        {
+          "id": 87510,
+          "name": {
+            "full": "Senketsu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87510-ZH2qoBYc6XNH.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
       "english": "Classroom of the Elite",
       "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
     },
@@ -4026,62 +4082,6 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124691-S9GyfwMAkkJ9.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "english": "JUJUTSU KAISEN Season 2",
-      "romaji": "Jujutsu Kaisen 2nd Season"
-    },
-    "id": 145064,
-    "characters": {
-      "nodes": [
-        {
-          "id": 127691,
-          "name": {
-            "full": "Satoru Gojou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127691-9zqh1xpIubn7.png"
-          }
-        },
-        {
-          "id": 127212,
-          "name": {
-            "full": "Yuuji Itadori"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127212-FVm2tD0erQ5B.png"
-          }
-        },
-        {
-          "id": 126635,
-          "name": {
-            "full": "Megumi Fushiguro"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126635-L0y3I92JSUkN.png"
-          }
-        },
-        {
-          "id": 133700,
-          "name": {
-            "full": "Nobara Kugisaki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133700-f6sOO3TcgLV6.png"
-          }
-        },
-        {
-          "id": 133704,
-          "name": {
-            "full": "Kento Nanami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133704-8wLTGjc234q2.png"
           }
         }
       ]
@@ -4873,118 +4873,6 @@
   },
   {
     "title": {
-      "english": "Soul Eater",
-      "romaji": "Soul Eater"
-    },
-    "id": 3588,
-    "characters": {
-      "nodes": [
-        {
-          "id": 8455,
-          "name": {
-            "full": "Death the Kid"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8455-0Ztel4ew5bNd.png"
-          }
-        },
-        {
-          "id": 8439,
-          "name": {
-            "full": "Maka Albarn"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8439-5TIyWlfClnMs.png"
-          }
-        },
-        {
-          "id": 8456,
-          "name": {
-            "full": "Soul Eater Evans"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8456-GtNbISpXhkvd.png"
-          }
-        },
-        {
-          "id": 11919,
-          "name": {
-            "full": "Crona"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b11919-a7TkrWsP3H1Z.png"
-          }
-        },
-        {
-          "id": 8464,
-          "name": {
-            "full": "Black☆Star"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8464-oKu98OyJ3eZt.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "english": "KONOSUBA -God's blessing on this wonderful world! 2",
-      "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2"
-    },
-    "id": 21699,
-    "characters": {
-      "nodes": [
-        {
-          "id": 89361,
-          "name": {
-            "full": "Megumin"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89361-tq8PQQ4MmF0M.png"
-          }
-        },
-        {
-          "id": 89364,
-          "name": {
-            "full": "Kazuma Satou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89364-7Th8Tv1XKJtt.png"
-          }
-        },
-        {
-          "id": 89362,
-          "name": {
-            "full": "Aqua"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89362-ibkc0eoECaW1.png"
-          }
-        },
-        {
-          "id": 89363,
-          "name": {
-            "full": "Darkness"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89363-mm21Ll4NegUD.png"
-          }
-        },
-        {
-          "id": 120652,
-          "name": {
-            "full": "Yunyun"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b120652-YxrBBPbmJno2.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Solo Leveling",
       "romaji": "Ore dake Level Up na Ken"
     },
@@ -5097,6 +4985,62 @@
   },
   {
     "title": {
+      "english": "Soul Eater",
+      "romaji": "Soul Eater"
+    },
+    "id": 3588,
+    "characters": {
+      "nodes": [
+        {
+          "id": 8455,
+          "name": {
+            "full": "Death the Kid"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8455-0Ztel4ew5bNd.png"
+          }
+        },
+        {
+          "id": 8439,
+          "name": {
+            "full": "Maka Albarn"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8439-5TIyWlfClnMs.png"
+          }
+        },
+        {
+          "id": 8456,
+          "name": {
+            "full": "Soul Eater Evans"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8456-GtNbISpXhkvd.png"
+          }
+        },
+        {
+          "id": 11919,
+          "name": {
+            "full": "Crona"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b11919-a7TkrWsP3H1Z.png"
+          }
+        },
+        {
+          "id": 8464,
+          "name": {
+            "full": "Black☆Star"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8464-oKu98OyJ3eZt.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
       "english": "My Dress-Up Darling",
       "romaji": "Sono Bisque Doll wa Koi wo Suru"
     },
@@ -5146,6 +5090,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b207937-ytYjcNtNX77K.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "KONOSUBA -God's blessing on this wonderful world! 2",
+      "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2"
+    },
+    "id": 21699,
+    "characters": {
+      "nodes": [
+        {
+          "id": 89361,
+          "name": {
+            "full": "Megumin"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89361-tq8PQQ4MmF0M.png"
+          }
+        },
+        {
+          "id": 89364,
+          "name": {
+            "full": "Kazuma Satou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89364-7Th8Tv1XKJtt.png"
+          }
+        },
+        {
+          "id": 89362,
+          "name": {
+            "full": "Aqua"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89362-ibkc0eoECaW1.png"
+          }
+        },
+        {
+          "id": 89363,
+          "name": {
+            "full": "Darkness"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89363-mm21Ll4NegUD.png"
+          }
+        },
+        {
+          "id": 120652,
+          "name": {
+            "full": "Yunyun"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b120652-YxrBBPbmJno2.png"
           }
         }
       ]
