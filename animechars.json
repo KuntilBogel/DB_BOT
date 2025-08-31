@@ -100,12 +100,12 @@
           }
         },
         {
-          "id": 130050,
+          "id": 129133,
           "name": {
-            "full": "Giyuu Tomioka"
+            "full": "Kyoujurou Rengoku"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130050-qsLThJs5VIbz.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129133-VlTPowwt68rJ.png"
           }
         }
       ]
@@ -651,21 +651,21 @@
           }
         },
         {
-          "id": 70,
-          "name": {
-            "full": "Riza Hawkeye"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70-k4bCgDspyOdI.png"
-          }
-        },
-        {
           "id": 63,
           "name": {
             "full": "Winry Rockbell"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/63-xloedtYxiJ2E.jpg"
+          }
+        },
+        {
+          "id": 70,
+          "name": {
+            "full": "Riza Hawkeye"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70-k4bCgDspyOdI.png"
           }
         }
       ]
@@ -2956,12 +2956,12 @@
           }
         },
         {
-          "id": 88780,
+          "id": 88683,
           "name": {
-            "full": "Clavis"
+            "full": "Ginti"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88780-76uJe60Gkw70.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88683-S0xJzL8QY3gI.png"
           }
         }
       ]
@@ -3977,62 +3977,6 @@
   },
   {
     "title": {
-      "english": "Bungo Stray Dogs",
-      "romaji": "Bungou Stray Dogs"
-    },
-    "id": 21311,
-    "characters": {
-      "nodes": [
-        {
-          "id": 89198,
-          "name": {
-            "full": "Osamu Dazai"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89198-qKmRTw4Y3PRC.png"
-          }
-        },
-        {
-          "id": 89201,
-          "name": {
-            "full": "Ranpo Edogawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89201-K0X5HNq88Oub.png"
-          }
-        },
-        {
-          "id": 89853,
-          "name": {
-            "full": "Chuuya Nakahara"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89853-06qMPkrGlgP1.png"
-          }
-        },
-        {
-          "id": 89199,
-          "name": {
-            "full": "Ryuunosuke Akutagawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89199-h8tHKG8vKPNZ.png"
-          }
-        },
-        {
-          "id": 89197,
-          "name": {
-            "full": "Atsushi Nakajima"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89197-vB5kP72ruckV.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Mushoku Tensei: Jobless Reincarnation",
       "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu"
     },
@@ -4082,6 +4026,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88351-grqY44xz6bvP.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Bungo Stray Dogs",
+      "romaji": "Bungou Stray Dogs"
+    },
+    "id": 21311,
+    "characters": {
+      "nodes": [
+        {
+          "id": 89198,
+          "name": {
+            "full": "Osamu Dazai"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89198-qKmRTw4Y3PRC.png"
+          }
+        },
+        {
+          "id": 89201,
+          "name": {
+            "full": "Ranpo Edogawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89201-K0X5HNq88Oub.png"
+          }
+        },
+        {
+          "id": 89853,
+          "name": {
+            "full": "Chuuya Nakahara"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89853-06qMPkrGlgP1.png"
+          }
+        },
+        {
+          "id": 89199,
+          "name": {
+            "full": "Ryuunosuke Akutagawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89199-h8tHKG8vKPNZ.png"
+          }
+        },
+        {
+          "id": 89197,
+          "name": {
+            "full": "Atsushi Nakajima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89197-vB5kP72ruckV.png"
           }
         }
       ]
@@ -4817,62 +4817,6 @@
   },
   {
     "title": {
-      "english": "Fairy Tail",
-      "romaji": "FAIRY TAIL"
-    },
-    "id": 6702,
-    "characters": {
-      "nodes": [
-        {
-          "id": 5189,
-          "name": {
-            "full": "Erza Scarlet"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5189-GR1xdok9SFsN.jpg"
-          }
-        },
-        {
-          "id": 5187,
-          "name": {
-            "full": "Natsu Dragneel"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5187-y1OEdRu9sPN2.png"
-          }
-        },
-        {
-          "id": 5186,
-          "name": {
-            "full": "Lucy Heartfilia"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5186-izgXf2S86K9u.png"
-          }
-        },
-        {
-          "id": 4839,
-          "name": {
-            "full": "Gray Fullbuster"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4839-p2SBgjdTxHxk.png"
-          }
-        },
-        {
-          "id": 9719,
-          "name": {
-            "full": "Juvia Lockser"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b9719-xh4xqTV6byNl.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Frieren: Beyond Journey’s End",
       "romaji": "Sousou no Frieren"
     },
@@ -4978,6 +4922,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136074-pLyumEnxjL7P.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Fairy Tail",
+      "romaji": "FAIRY TAIL"
+    },
+    "id": 6702,
+    "characters": {
+      "nodes": [
+        {
+          "id": 5189,
+          "name": {
+            "full": "Erza Scarlet"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5189-GR1xdok9SFsN.jpg"
+          }
+        },
+        {
+          "id": 5187,
+          "name": {
+            "full": "Natsu Dragneel"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5187-y1OEdRu9sPN2.png"
+          }
+        },
+        {
+          "id": 5186,
+          "name": {
+            "full": "Lucy Heartfilia"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5186-izgXf2S86K9u.png"
+          }
+        },
+        {
+          "id": 4839,
+          "name": {
+            "full": "Gray Fullbuster"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4839-p2SBgjdTxHxk.png"
+          }
+        },
+        {
+          "id": 9719,
+          "name": {
+            "full": "Juvia Lockser"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b9719-xh4xqTV6byNl.png"
           }
         }
       ]
