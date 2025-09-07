@@ -3137,62 +3137,6 @@
   },
   {
     "title": {
-      "english": "Cowboy Bebop",
-      "romaji": "Cowboy Bebop"
-    },
-    "id": 1,
-    "characters": {
-      "nodes": [
-        {
-          "id": 1,
-          "name": {
-            "full": "Spike Spiegel"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1-ChxaldmieFlQ.png"
-          }
-        },
-        {
-          "id": 2,
-          "name": {
-            "full": "Faye Valentine"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2-0Iszg6Izgt4p.png"
-          }
-        },
-        {
-          "id": 16,
-          "name": {
-            "full": "Edward Wong Hau Pepelu Tivrusky IV"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b16-80wd87nl1Rue.png"
-          }
-        },
-        {
-          "id": 3,
-          "name": {
-            "full": "Jet Black"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3-JjH9Si9UM1NZ.png"
-          }
-        },
-        {
-          "id": 4,
-          "name": {
-            "full": "Ein"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/4.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "One-Punch Man Season 2",
       "romaji": "One Punch Man 2"
     },
@@ -3242,6 +3186,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b81931-fmouMoprPVbV.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Cowboy Bebop",
+      "romaji": "Cowboy Bebop"
+    },
+    "id": 1,
+    "characters": {
+      "nodes": [
+        {
+          "id": 1,
+          "name": {
+            "full": "Spike Spiegel"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1-ChxaldmieFlQ.png"
+          }
+        },
+        {
+          "id": 2,
+          "name": {
+            "full": "Faye Valentine"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2-0Iszg6Izgt4p.png"
+          }
+        },
+        {
+          "id": 16,
+          "name": {
+            "full": "Edward Wong Hau Pepelu Tivrusky IV"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b16-80wd87nl1Rue.png"
+          }
+        },
+        {
+          "id": 3,
+          "name": {
+            "full": "Jet Black"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3-JjH9Si9UM1NZ.png"
+          }
+        },
+        {
+          "id": 4,
+          "name": {
+            "full": "Ein"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/4.jpg"
           }
         }
       ]
@@ -4929,62 +4929,6 @@
   },
   {
     "title": {
-      "english": "Fairy Tail",
-      "romaji": "FAIRY TAIL"
-    },
-    "id": 6702,
-    "characters": {
-      "nodes": [
-        {
-          "id": 5189,
-          "name": {
-            "full": "Erza Scarlet"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5189-GR1xdok9SFsN.jpg"
-          }
-        },
-        {
-          "id": 5187,
-          "name": {
-            "full": "Natsu Dragneel"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5187-y1OEdRu9sPN2.png"
-          }
-        },
-        {
-          "id": 5186,
-          "name": {
-            "full": "Lucy Heartfilia"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5186-izgXf2S86K9u.png"
-          }
-        },
-        {
-          "id": 4839,
-          "name": {
-            "full": "Gray Fullbuster"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4839-p2SBgjdTxHxk.png"
-          }
-        },
-        {
-          "id": 9719,
-          "name": {
-            "full": "Juvia Lockser"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b9719-xh4xqTV6byNl.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "My Dress-Up Darling",
       "romaji": "Sono Bisque Doll wa Koi wo Suru"
     },
@@ -5034,6 +4978,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b207937-ytYjcNtNX77K.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Fairy Tail",
+      "romaji": "FAIRY TAIL"
+    },
+    "id": 6702,
+    "characters": {
+      "nodes": [
+        {
+          "id": 5189,
+          "name": {
+            "full": "Erza Scarlet"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5189-GR1xdok9SFsN.jpg"
+          }
+        },
+        {
+          "id": 5187,
+          "name": {
+            "full": "Natsu Dragneel"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5187-y1OEdRu9sPN2.png"
+          }
+        },
+        {
+          "id": 5186,
+          "name": {
+            "full": "Lucy Heartfilia"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5186-izgXf2S86K9u.png"
+          }
+        },
+        {
+          "id": 4839,
+          "name": {
+            "full": "Gray Fullbuster"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4839-p2SBgjdTxHxk.png"
+          }
+        },
+        {
+          "id": 9719,
+          "name": {
+            "full": "Juvia Lockser"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b9719-xh4xqTV6byNl.png"
           }
         }
       ]
