@@ -2826,21 +2826,21 @@
           }
         },
         {
-          "id": 89,
-          "name": {
-            "full": "Shinji Ikari"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89-ZtZhXkh1rITn.png"
-          }
-        },
-        {
           "id": 86,
           "name": {
             "full": "Rei Ayanami"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/86-cA1zL7fyls8E.jpg"
+          }
+        },
+        {
+          "id": 89,
+          "name": {
+            "full": "Shinji Ikari"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89-ZtZhXkh1rITn.png"
           }
         },
         {
@@ -2956,12 +2956,12 @@
           }
         },
         {
-          "id": 88683,
+          "id": 88780,
           "name": {
-            "full": "Ginti"
+            "full": "Clavis"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88683-S0xJzL8QY3gI.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88780-76uJe60Gkw70.png"
           }
         }
       ]
