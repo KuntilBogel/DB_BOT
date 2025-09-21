@@ -100,12 +100,12 @@
           }
         },
         {
-          "id": 129133,
+          "id": 130050,
           "name": {
-            "full": "Kyoujurou Rengoku"
+            "full": "Giyuu Tomioka"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129133-VlTPowwt68rJ.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130050-qsLThJs5VIbz.png"
           }
         }
       ]
@@ -2620,12 +2620,12 @@
           }
         },
         {
-          "id": 129133,
+          "id": 130050,
           "name": {
-            "full": "Kyoujurou Rengoku"
+            "full": "Giyuu Tomioka"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129133-VlTPowwt68rJ.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130050-qsLThJs5VIbz.png"
           }
         }
       ]
@@ -2826,21 +2826,21 @@
           }
         },
         {
-          "id": 86,
-          "name": {
-            "full": "Rei Ayanami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/86-cA1zL7fyls8E.jpg"
-          }
-        },
-        {
           "id": 89,
           "name": {
             "full": "Shinji Ikari"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89-ZtZhXkh1rITn.png"
+          }
+        },
+        {
+          "id": 86,
+          "name": {
+            "full": "Rei Ayanami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/86-cA1zL7fyls8E.jpg"
           }
         },
         {
@@ -2956,12 +2956,12 @@
           }
         },
         {
-          "id": 88780,
+          "id": 88683,
           "name": {
-            "full": "Clavis"
+            "full": "Ginti"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88780-76uJe60Gkw70.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88683-S0xJzL8QY3gI.png"
           }
         }
       ]
@@ -3003,21 +3003,21 @@
           }
         },
         {
-          "id": 43187,
-          "name": {
-            "full": "Kuro"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43187-uJySWMkmaWmZ.png"
-          }
-        },
-        {
           "id": 24734,
           "name": {
             "full": "Yukio Okumura"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24734-GgVZoNAPnxoc.png"
+          }
+        },
+        {
+          "id": 43187,
+          "name": {
+            "full": "Kuro"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43187-uJySWMkmaWmZ.png"
           }
         }
       ]
@@ -3404,12 +3404,12 @@
           }
         },
         {
-          "id": 129133,
+          "id": 130050,
           "name": {
-            "full": "Kyoujurou Rengoku"
+            "full": "Giyuu Tomioka"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129133-VlTPowwt68rJ.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130050-qsLThJs5VIbz.png"
           }
         }
       ]
@@ -5209,62 +5209,6 @@
   },
   {
     "title": {
-      "english": "Assassination Classroom 2",
-      "romaji": "Ansatsu Kyoushitsu 2"
-    },
-    "id": 21170,
-    "characters": {
-      "nodes": [
-        {
-          "id": 90107,
-          "name": {
-            "full": "Kusuo Saiki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90107-ZULW5HlPX1uU.png"
-          }
-        },
-        {
-          "id": 71933,
-          "name": {
-            "full": "Karma Akabane"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71933-HQ1TSjlrJ8Hv.jpg"
-          }
-        },
-        {
-          "id": 65643,
-          "name": {
-            "full": "Koro-sensei"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65643-jimrOw0RGtoB.png"
-          }
-        },
-        {
-          "id": 65645,
-          "name": {
-            "full": "Nagisa Shiota"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65645-nWH4mBMW5lYw.png"
-          }
-        },
-        {
-          "id": 18769,
-          "name": {
-            "full": "Tetsuya Kuroko"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b18769-7ms6XKt8jCzU.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Dororo",
       "romaji": "Dororo"
     },
@@ -5314,6 +5258,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/n24843-aemlGiDa6lk8.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Assassination Classroom 2",
+      "romaji": "Ansatsu Kyoushitsu 2"
+    },
+    "id": 21170,
+    "characters": {
+      "nodes": [
+        {
+          "id": 90107,
+          "name": {
+            "full": "Kusuo Saiki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90107-ZULW5HlPX1uU.png"
+          }
+        },
+        {
+          "id": 71933,
+          "name": {
+            "full": "Karma Akabane"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71933-HQ1TSjlrJ8Hv.jpg"
+          }
+        },
+        {
+          "id": 65643,
+          "name": {
+            "full": "Koro-sensei"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65643-jimrOw0RGtoB.png"
+          }
+        },
+        {
+          "id": 65645,
+          "name": {
+            "full": "Nagisa Shiota"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65645-nWH4mBMW5lYw.png"
+          }
+        },
+        {
+          "id": 18769,
+          "name": {
+            "full": "Tetsuya Kuroko"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b18769-7ms6XKt8jCzU.png"
           }
         }
       ]
