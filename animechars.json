@@ -1961,62 +1961,6 @@
   },
   {
     "title": {
-      "english": "Toradora!",
-      "romaji": "Toradora!"
-    },
-    "id": 4224,
-    "characters": {
-      "nodes": [
-        {
-          "id": 12064,
-          "name": {
-            "full": "Taiga Aisaka"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12064-7PDN3ylIeAZn.png"
-          }
-        },
-        {
-          "id": 12295,
-          "name": {
-            "full": "Ryuuji Takasu"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12295-d45uTNeJHuus.png"
-          }
-        },
-        {
-          "id": 13725,
-          "name": {
-            "full": "Ami Kawashima"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13725-Vk30kjvVT82z.png"
-          }
-        },
-        {
-          "id": 12305,
-          "name": {
-            "full": "Minori Kushieda"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12305-AdKOcp0az9mq.jpg"
-          }
-        },
-        {
-          "id": 12307,
-          "name": {
-            "full": "Yasuko Takasu"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12307-MfkPmovIGCm9.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Dr. STONE",
       "romaji": "Dr. STONE"
     },
@@ -2066,6 +2010,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Toradora!",
+      "romaji": "Toradora!"
+    },
+    "id": 4224,
+    "characters": {
+      "nodes": [
+        {
+          "id": 12064,
+          "name": {
+            "full": "Taiga Aisaka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12064-7PDN3ylIeAZn.png"
+          }
+        },
+        {
+          "id": 12295,
+          "name": {
+            "full": "Ryuuji Takasu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12295-d45uTNeJHuus.png"
+          }
+        },
+        {
+          "id": 13725,
+          "name": {
+            "full": "Ami Kawashima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13725-Vk30kjvVT82z.png"
+          }
+        },
+        {
+          "id": 12305,
+          "name": {
+            "full": "Minori Kushieda"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12305-AdKOcp0az9mq.jpg"
+          }
+        },
+        {
+          "id": 12307,
+          "name": {
+            "full": "Yasuko Takasu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12307-MfkPmovIGCm9.png"
           }
         }
       ]
@@ -2826,21 +2826,21 @@
           }
         },
         {
-          "id": 89,
-          "name": {
-            "full": "Shinji Ikari"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89-ZtZhXkh1rITn.png"
-          }
-        },
-        {
           "id": 86,
           "name": {
             "full": "Rei Ayanami"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/86-cA1zL7fyls8E.jpg"
+          }
+        },
+        {
+          "id": 89,
+          "name": {
+            "full": "Shinji Ikari"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89-ZtZhXkh1rITn.png"
           }
         },
         {
@@ -3305,62 +3305,6 @@
   },
   {
     "title": {
-      "english": "Sword Art Online II",
-      "romaji": "Sword Art Online II"
-    },
-    "id": 20594,
-    "characters": {
-      "nodes": [
-        {
-          "id": 36828,
-          "name": {
-            "full": "Asuna Yuuki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36828-j5ib0adAzGMx.png"
-          }
-        },
-        {
-          "id": 36765,
-          "name": {
-            "full": "Kazuto Kirigaya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36765-BnLbXg0Tzzh9.png"
-          }
-        },
-        {
-          "id": 55147,
-          "name": {
-            "full": "Shino Asada"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b55147-1fCU8lONEuZQ.png"
-          }
-        },
-        {
-          "id": 64523,
-          "name": {
-            "full": "Yuuki Konno"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64523-LPeAiw8Yx517.jpg"
-          }
-        },
-        {
-          "id": 36831,
-          "name": {
-            "full": "Suguha Kirigaya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36831-JfyFU7gPPVmr.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
       "romaji": "Kimetsu no Yaiba: Yuukaku-hen"
     },
@@ -3410,6 +3354,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130050-qsLThJs5VIbz.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Sword Art Online II",
+      "romaji": "Sword Art Online II"
+    },
+    "id": 20594,
+    "characters": {
+      "nodes": [
+        {
+          "id": 36828,
+          "name": {
+            "full": "Asuna Yuuki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36828-j5ib0adAzGMx.png"
+          }
+        },
+        {
+          "id": 36765,
+          "name": {
+            "full": "Kazuto Kirigaya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36765-BnLbXg0Tzzh9.png"
+          }
+        },
+        {
+          "id": 55147,
+          "name": {
+            "full": "Shino Asada"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b55147-1fCU8lONEuZQ.png"
+          }
+        },
+        {
+          "id": 64523,
+          "name": {
+            "full": "Yuuki Konno"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64523-LPeAiw8Yx517.jpg"
+          }
+        },
+        {
+          "id": 36831,
+          "name": {
+            "full": "Suguha Kirigaya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36831-JfyFU7gPPVmr.png"
           }
         }
       ]
@@ -3921,62 +3921,6 @@
   },
   {
     "title": {
-      "english": "Classroom of the Elite",
-      "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
-    },
-    "id": 98659,
-    "characters": {
-      "nodes": [
-        {
-          "id": 123212,
-          "name": {
-            "full": "Kiyotaka Ayanokouji"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b123212-ewZgUQr9vvEM.png"
-          }
-        },
-        {
-          "id": 123213,
-          "name": {
-            "full": "Suzune Horikita"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b123213-jUfrGBXfW7BL.png"
-          }
-        },
-        {
-          "id": 141122,
-          "name": {
-            "full": "Kei Karuizawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b141122-6Zk52eU3VK3O.png"
-          }
-        },
-        {
-          "id": 123216,
-          "name": {
-            "full": "Honami Ichinose"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b123216-N9tQZf2XIKu6.png"
-          }
-        },
-        {
-          "id": 124691,
-          "name": {
-            "full": "Arisu Sakayanagi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124691-S9GyfwMAkkJ9.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Mushoku Tensei: Jobless Reincarnation",
       "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu"
     },
@@ -4026,6 +3970,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88351-grqY44xz6bvP.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Classroom of the Elite",
+      "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
+    },
+    "id": 98659,
+    "characters": {
+      "nodes": [
+        {
+          "id": 123212,
+          "name": {
+            "full": "Kiyotaka Ayanokouji"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b123212-ewZgUQr9vvEM.png"
+          }
+        },
+        {
+          "id": 123213,
+          "name": {
+            "full": "Suzune Horikita"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b123213-jUfrGBXfW7BL.png"
+          }
+        },
+        {
+          "id": 141122,
+          "name": {
+            "full": "Kei Karuizawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b141122-6Zk52eU3VK3O.png"
+          }
+        },
+        {
+          "id": 123216,
+          "name": {
+            "full": "Honami Ichinose"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b123216-N9tQZf2XIKu6.png"
+          }
+        },
+        {
+          "id": 124691,
+          "name": {
+            "full": "Arisu Sakayanagi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124691-S9GyfwMAkkJ9.jpg"
           }
         }
       ]
