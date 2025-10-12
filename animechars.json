@@ -1780,12 +1780,12 @@
           }
         },
         {
-          "id": 124435,
+          "id": 124522,
           "name": {
-            "full": "Julius Novachrono"
+            "full": "Mereoleona Vermillion"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124435-gXFVXWrCcieK.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124522-lJK4Hy6Aokie.png"
           }
         }
       ]
@@ -2241,62 +2241,6 @@
   },
   {
     "title": {
-      "english": "The Seven Deadly Sins",
-      "romaji": "Nanatsu no Taizai"
-    },
-    "id": 20789,
-    "characters": {
-      "nodes": [
-        {
-          "id": 77605,
-          "name": {
-            "full": "Ban"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b77605-NrjhQwZwgJ3l.png"
-          }
-        },
-        {
-          "id": 72921,
-          "name": {
-            "full": "Meliodas"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b72921-XDHNd1wflN6P.png"
-          }
-        },
-        {
-          "id": 36309,
-          "name": {
-            "full": "Narrator"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
-          }
-        },
-        {
-          "id": 83801,
-          "name": {
-            "full": "King"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83801-52RnDXQDZ1I7.png"
-          }
-        },
-        {
-          "id": 74653,
-          "name": {
-            "full": "Diane"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b74653-XpMcsLVZBnkZ.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "My Hero Academia Season 4",
       "romaji": "Boku no Hero Academia 4"
     },
@@ -2346,6 +2290,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89224-K6KEuQAuYKzq.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "The Seven Deadly Sins",
+      "romaji": "Nanatsu no Taizai"
+    },
+    "id": 20789,
+    "characters": {
+      "nodes": [
+        {
+          "id": 77605,
+          "name": {
+            "full": "Ban"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b77605-NrjhQwZwgJ3l.png"
+          }
+        },
+        {
+          "id": 72921,
+          "name": {
+            "full": "Meliodas"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b72921-XDHNd1wflN6P.png"
+          }
+        },
+        {
+          "id": 36309,
+          "name": {
+            "full": "Narrator"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
+          }
+        },
+        {
+          "id": 83801,
+          "name": {
+            "full": "King"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83801-52RnDXQDZ1I7.png"
+          }
+        },
+        {
+          "id": 74653,
+          "name": {
+            "full": "Diane"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b74653-XpMcsLVZBnkZ.jpg"
           }
         }
       ]
@@ -3684,12 +3684,12 @@
           }
         },
         {
-          "id": 128040,
+          "id": 128034,
           "name": {
-            "full": "Shuna"
+            "full": "Veldora Tempest"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b128040-QOhtFHgfOT5O.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b128034-Gg5MrpTFNSv8.png"
           }
         }
       ]
@@ -4593,62 +4593,6 @@
   },
   {
     "title": {
-      "english": "Overlord",
-      "romaji": "Overlord"
-    },
-    "id": 20832,
-    "characters": {
-      "nodes": [
-        {
-          "id": 89122,
-          "name": {
-            "full": "Albedo"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89122-Gj7MBs7F5cMJ.png"
-          }
-        },
-        {
-          "id": 89103,
-          "name": {
-            "full": "Momonga"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89103-ZsnA0r77GHsR.png"
-          }
-        },
-        {
-          "id": 89121,
-          "name": {
-            "full": "Shalltear Bloodfallen"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89121-N8hzLH4nfWna.png"
-          }
-        },
-        {
-          "id": 89125,
-          "name": {
-            "full": "Demiurge"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89125-pnLki4r5UyV5.png"
-          }
-        },
-        {
-          "id": 89155,
-          "name": {
-            "full": "Sebas Tian"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89155-yVyhseUF82s9.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "JUJUTSU KAISEN 0",
       "romaji": "Jujutsu Kaisen 0"
     },
@@ -4698,6 +4642,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157115-kdhRYQdVhH95.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Overlord",
+      "romaji": "Overlord"
+    },
+    "id": 20832,
+    "characters": {
+      "nodes": [
+        {
+          "id": 89122,
+          "name": {
+            "full": "Albedo"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89122-Gj7MBs7F5cMJ.png"
+          }
+        },
+        {
+          "id": 89103,
+          "name": {
+            "full": "Momonga"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89103-ZsnA0r77GHsR.png"
+          }
+        },
+        {
+          "id": 89121,
+          "name": {
+            "full": "Shalltear Bloodfallen"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89121-N8hzLH4nfWna.png"
+          }
+        },
+        {
+          "id": 89125,
+          "name": {
+            "full": "Demiurge"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89125-pnLki4r5UyV5.png"
+          }
+        },
+        {
+          "id": 89155,
+          "name": {
+            "full": "Sebas Tian"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89155-yVyhseUF82s9.png"
           }
         }
       ]
@@ -5265,8 +5265,8 @@
   },
   {
     "title": {
-      "english": "Assassination Classroom 2",
-      "romaji": "Ansatsu Kyoushitsu 2"
+      "english": "Assassination Classroom Second Season",
+      "romaji": "Ansatsu Kyoushitsu 2nd Season"
     },
     "id": 21170,
     "characters": {
@@ -5314,62 +5314,6 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b18769-7ms6XKt8jCzU.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "english": "HAIKYU!! 3rd Season",
-      "romaji": "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou"
-    },
-    "id": 21698,
-    "characters": {
-      "nodes": [
-        {
-          "id": 64769,
-          "name": {
-            "full": "Shouyou Hinata"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64769-WoWlCMLLgJ14.png"
-          }
-        },
-        {
-          "id": 64771,
-          "name": {
-            "full": "Tobio Kageyama"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64771-BuCVs7B8bBdh.png"
-          }
-        },
-        {
-          "id": 67327,
-          "name": {
-            "full": "Yuu Nishinoya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67327-zQb1dlC7joPb.jpg"
-          }
-        },
-        {
-          "id": 71267,
-          "name": {
-            "full": "Kenma Kozume"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71267-q44J2MXMinXD.jpg"
-          }
-        },
-        {
-          "id": 71611,
-          "name": {
-            "full": "Tooru Oikawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71611-cUZwVfzeNXD9.png"
           }
         }
       ]
@@ -5433,55 +5377,55 @@
   },
   {
     "title": {
-      "english": "PSYCHO-PASS",
-      "romaji": "PSYCHO-PASS"
+      "english": "HAIKYU!! 3rd Season",
+      "romaji": "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou"
     },
-    "id": 13601,
+    "id": 21698,
     "characters": {
       "nodes": [
         {
-          "id": 68315,
+          "id": 64769,
           "name": {
-            "full": "Shinya Kougami"
+            "full": "Shouyou Hinata"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b68315-f9RBjyJCoj95.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64769-WoWlCMLLgJ14.png"
           }
         },
         {
-          "id": 69725,
+          "id": 64771,
           "name": {
-            "full": "Shougo Makishima"
+            "full": "Tobio Kageyama"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n69725-Seck1SZfwQiR.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64771-BuCVs7B8bBdh.png"
           }
         },
         {
-          "id": 68583,
+          "id": 67327,
           "name": {
-            "full": "Akane Tsunemori"
+            "full": "Yuu Nishinoya"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b68583-sEP2wyE2Tk7a.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67327-zQb1dlC7joPb.jpg"
           }
         },
         {
-          "id": 69057,
+          "id": 71267,
           "name": {
-            "full": "Nobuchika Ginoza"
+            "full": "Kenma Kozume"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b69057-491sAhqnEsFZ.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71267-q44J2MXMinXD.jpg"
           }
         },
         {
-          "id": 69055,
+          "id": 71611,
           "name": {
-            "full": "Shuusei Kagari"
+            "full": "Tooru Oikawa"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n69055-tmF7uIwloFHc.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71611-cUZwVfzeNXD9.png"
           }
         }
       ]
@@ -5538,6 +5482,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90181-wRPm0OEaucmw.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "PSYCHO-PASS",
+      "romaji": "PSYCHO-PASS"
+    },
+    "id": 13601,
+    "characters": {
+      "nodes": [
+        {
+          "id": 68315,
+          "name": {
+            "full": "Shinya Kougami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b68315-f9RBjyJCoj95.jpg"
+          }
+        },
+        {
+          "id": 69725,
+          "name": {
+            "full": "Shougo Makishima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n69725-Seck1SZfwQiR.jpg"
+          }
+        },
+        {
+          "id": 68583,
+          "name": {
+            "full": "Akane Tsunemori"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b68583-sEP2wyE2Tk7a.png"
+          }
+        },
+        {
+          "id": 69057,
+          "name": {
+            "full": "Nobuchika Ginoza"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b69057-491sAhqnEsFZ.png"
+          }
+        },
+        {
+          "id": 69055,
+          "name": {
+            "full": "Shuusei Kagari"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n69055-tmF7uIwloFHc.jpg"
           }
         }
       ]
