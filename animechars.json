@@ -4705,62 +4705,6 @@
   },
   {
     "title": {
-      "english": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
-      "romaji": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
-    },
-    "id": 20920,
-    "characters": {
-      "nodes": [
-        {
-          "id": 87655,
-          "name": {
-            "full": "Ais Wallenstein"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87655-7QjpIyyZuqyp.png"
-          }
-        },
-        {
-          "id": 88860,
-          "name": {
-            "full": "Bell Cranel"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88860-catfcwlvUYst.jpg"
-          }
-        },
-        {
-          "id": 87654,
-          "name": {
-            "full": "Hestia"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87654-UmmuLPwSK2Hd.jpg"
-          }
-        },
-        {
-          "id": 88890,
-          "name": {
-            "full": "Ryuu  Lion"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88890-lJFKK5czkH9E.jpg"
-          }
-        },
-        {
-          "id": 88897,
-          "name": {
-            "full": "Liliruca Arde"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88897-2xey5UG7Qr2S.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Frieren: Beyond Journey’s End",
       "romaji": "Sousou no Frieren"
     },
@@ -4810,6 +4754,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b246057-ixvDfpng6I1S.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+      "romaji": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
+    },
+    "id": 20920,
+    "characters": {
+      "nodes": [
+        {
+          "id": 87655,
+          "name": {
+            "full": "Ais Wallenstein"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87655-7QjpIyyZuqyp.png"
+          }
+        },
+        {
+          "id": 88860,
+          "name": {
+            "full": "Bell Cranel"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88860-catfcwlvUYst.jpg"
+          }
+        },
+        {
+          "id": 87654,
+          "name": {
+            "full": "Hestia"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87654-UmmuLPwSK2Hd.jpg"
+          }
+        },
+        {
+          "id": 88890,
+          "name": {
+            "full": "Ryuu  Lion"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88890-lJFKK5czkH9E.jpg"
+          }
+        },
+        {
+          "id": 88897,
+          "name": {
+            "full": "Liliruca Arde"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88897-2xey5UG7Qr2S.png"
           }
         }
       ]
@@ -4985,62 +4985,6 @@
   },
   {
     "title": {
-      "english": "Fairy Tail",
-      "romaji": "FAIRY TAIL"
-    },
-    "id": 6702,
-    "characters": {
-      "nodes": [
-        {
-          "id": 5189,
-          "name": {
-            "full": "Erza Scarlet"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5189-GR1xdok9SFsN.jpg"
-          }
-        },
-        {
-          "id": 5187,
-          "name": {
-            "full": "Natsu Dragneel"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5187-y1OEdRu9sPN2.png"
-          }
-        },
-        {
-          "id": 5186,
-          "name": {
-            "full": "Lucy Heartfilia"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5186-izgXf2S86K9u.png"
-          }
-        },
-        {
-          "id": 4839,
-          "name": {
-            "full": "Gray Fullbuster"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4839-p2SBgjdTxHxk.png"
-          }
-        },
-        {
-          "id": 9719,
-          "name": {
-            "full": "Juvia Lockser"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b9719-xh4xqTV6byNl.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Soul Eater",
       "romaji": "Soul Eater"
     },
@@ -5090,6 +5034,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8464-oKu98OyJ3eZt.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Fairy Tail",
+      "romaji": "FAIRY TAIL"
+    },
+    "id": 6702,
+    "characters": {
+      "nodes": [
+        {
+          "id": 5189,
+          "name": {
+            "full": "Erza Scarlet"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5189-GR1xdok9SFsN.jpg"
+          }
+        },
+        {
+          "id": 5187,
+          "name": {
+            "full": "Natsu Dragneel"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5187-y1OEdRu9sPN2.png"
+          }
+        },
+        {
+          "id": 5186,
+          "name": {
+            "full": "Lucy Heartfilia"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5186-izgXf2S86K9u.png"
+          }
+        },
+        {
+          "id": 4839,
+          "name": {
+            "full": "Gray Fullbuster"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4839-p2SBgjdTxHxk.png"
+          }
+        },
+        {
+          "id": 9719,
+          "name": {
+            "full": "Juvia Lockser"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b9719-xh4xqTV6byNl.png"
           }
         }
       ]
