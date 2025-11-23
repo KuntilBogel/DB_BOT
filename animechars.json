@@ -2956,12 +2956,12 @@
           }
         },
         {
-          "id": 88780,
+          "id": 88683,
           "name": {
-            "full": "Clavis"
+            "full": "Ginti"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88780-76uJe60Gkw70.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88683-S0xJzL8QY3gI.png"
           }
         }
       ]
@@ -4244,12 +4244,12 @@
           }
         },
         {
-          "id": 78475,
+          "id": 78935,
           "name": {
-            "full": "Satoshi Isshiki"
+            "full": "Ikumi Mito"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b78475-pcxfAMiGe6xf.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b78935-21Ac5ydcrLCj.png"
           }
         }
       ]
@@ -4649,62 +4649,6 @@
   },
   {
     "title": {
-      "english": "Overlord",
-      "romaji": "Overlord"
-    },
-    "id": 20832,
-    "characters": {
-      "nodes": [
-        {
-          "id": 89122,
-          "name": {
-            "full": "Albedo"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89122-Gj7MBs7F5cMJ.png"
-          }
-        },
-        {
-          "id": 89103,
-          "name": {
-            "full": "Momonga"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89103-ZsnA0r77GHsR.png"
-          }
-        },
-        {
-          "id": 89121,
-          "name": {
-            "full": "Shalltear Bloodfallen"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89121-N8hzLH4nfWna.png"
-          }
-        },
-        {
-          "id": 89125,
-          "name": {
-            "full": "Demiurge"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89125-pnLki4r5UyV5.png"
-          }
-        },
-        {
-          "id": 89155,
-          "name": {
-            "full": "Sebas Tian"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89155-yVyhseUF82s9.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Frieren: Beyond Journey’s End",
       "romaji": "Sousou no Frieren"
     },
@@ -4754,6 +4698,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b246057-ixvDfpng6I1S.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Overlord",
+      "romaji": "Overlord"
+    },
+    "id": 20832,
+    "characters": {
+      "nodes": [
+        {
+          "id": 89122,
+          "name": {
+            "full": "Albedo"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89122-Gj7MBs7F5cMJ.png"
+          }
+        },
+        {
+          "id": 89103,
+          "name": {
+            "full": "Momonga"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89103-ZsnA0r77GHsR.png"
+          }
+        },
+        {
+          "id": 89121,
+          "name": {
+            "full": "Shalltear Bloodfallen"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89121-N8hzLH4nfWna.png"
+          }
+        },
+        {
+          "id": 89125,
+          "name": {
+            "full": "Demiurge"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89125-pnLki4r5UyV5.png"
+          }
+        },
+        {
+          "id": 89155,
+          "name": {
+            "full": "Sebas Tian"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89155-yVyhseUF82s9.png"
           }
         }
       ]
