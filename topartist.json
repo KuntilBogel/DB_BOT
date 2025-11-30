@@ -25,38 +25,38 @@
     "currentRank": 5
   },
   {
-    "artistName": "Arijit Singh",
-    "artistImage": "https://i.scdn.co/image/ab676161000051745ba2d75eb08a2d672f9b69b7",
+    "artistName": "Fuerza Regida",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174158a3d24a31166b983e26325",
     "currentRank": 6
   },
   {
-    "artistName": "Fuerza Regida",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174158a3d24a31166b983e26325",
+    "artistName": "Tate McRae",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174bed8016bd64422793ff3bc75",
     "currentRank": 7
   },
   {
-    "artistName": "Billie Eilish",
-    "artistImage": "https://i.scdn.co/image/ab676161000051744a21b4760d2ecb7b0dcdc8da",
+    "artistName": "Arijit Singh",
+    "artistImage": "https://i.scdn.co/image/ab676161000051745ba2d75eb08a2d672f9b69b7",
     "currentRank": 8
-  },
-  {
-    "artistName": "Justin Bieber",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174af20f7db5288bce9beede034",
-    "currentRank": 9
   },
   {
     "artistName": "Olivia Dean",
     "artistImage": "https://i.scdn.co/image/ab676161000051745c7577ad44daeb7ce4b941a1",
+    "currentRank": 9
+  },
+  {
+    "artistName": "Billie Eilish",
+    "artistImage": "https://i.scdn.co/image/ab676161000051744a21b4760d2ecb7b0dcdc8da",
     "currentRank": 10
+  },
+  {
+    "artistName": "Justin Bieber",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174af20f7db5288bce9beede034",
+    "currentRank": 11
   },
   {
     "artistName": "Sabrina Carpenter",
     "artistImage": "https://i.scdn.co/image/ab6761610000517478e45cfa4697ce3c437cb455",
-    "currentRank": 11
-  },
-  {
-    "artistName": "Rihanna",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174cb565a8e684e3be458d329ac",
     "currentRank": 12
   },
   {
@@ -65,23 +65,23 @@
     "currentRank": 13
   },
   {
-    "artistName": "Pritam",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174cb6926f44f620555ba444fca",
+    "artistName": "Rihanna",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174cb565a8e684e3be458d329ac",
     "currentRank": 14
   },
   {
-    "artistName": "ROSALÍA",
-    "artistImage": "https://i.scdn.co/image/ab676161000051749354faf80eb87961466edfbf",
+    "artistName": "Pritam",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174cb6926f44f620555ba444fca",
     "currentRank": 15
-  },
-  {
-    "artistName": "Junior H",
-    "artistImage": "https://i.scdn.co/image/ab676161000051745fbe9b7dc7d9a2295bd6022c",
-    "currentRank": 16
   },
   {
     "artistName": "Kanye West",
     "artistImage": "https://i.scdn.co/image/ab676161000051746e835a500e791bf9c27a422a",
+    "currentRank": 16
+  },
+  {
+    "artistName": "Junior H",
+    "artistImage": "https://i.scdn.co/image/ab676161000051745fbe9b7dc7d9a2295bd6022c",
     "currentRank": 17
   },
   {
@@ -95,48 +95,48 @@
     "currentRank": 19
   },
   {
-    "artistName": "KPop Demon Hunters Cast",
-    "artistImage": "https://i.scdn.co/image/ab67616d00001e026c1334650ced0e28f0b2e13f",
+    "artistName": "Travis Scott",
+    "artistImage": "https://i.scdn.co/image/ab6761610000517419c2790744c792d05570bb71",
     "currentRank": 20
-  },
-  {
-    "artistName": "Lana Del Rey",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174b99cacf8acd5378206767261",
-    "currentRank": 21
   },
   {
     "artistName": "Coldplay",
     "artistImage": "https://i.scdn.co/image/ab676161000051741ba8fc5f5c73e7e9313cc6eb",
-    "currentRank": 22
-  },
-  {
-    "artistName": "Travis Scott",
-    "artistImage": "https://i.scdn.co/image/ab6761610000517419c2790744c792d05570bb71",
-    "currentRank": 23
-  },
-  {
-    "artistName": "Linkin Park",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174527d95dabbe8b8b527e8136f",
-    "currentRank": 24
-  },
-  {
-    "artistName": "Tate McRae",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174bed8016bd64422793ff3bc75",
-    "currentRank": 25
-  },
-  {
-    "artistName": "Kendrick Lamar",
-    "artistImage": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
-    "currentRank": 26
+    "currentRank": 21
   },
   {
     "artistName": "Ed Sheeran",
     "artistImage": "https://i.scdn.co/image/ab67616100005174d55c95ad400aed87da52daec",
+    "currentRank": 22
+  },
+  {
+    "artistName": "Lana Del Rey",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174b99cacf8acd5378206767261",
+    "currentRank": 23
+  },
+  {
+    "artistName": "Kendrick Lamar",
+    "artistImage": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
+    "currentRank": 24
+  },
+  {
+    "artistName": "Linkin Park",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174527d95dabbe8b8b527e8136f",
+    "currentRank": 25
+  },
+  {
+    "artistName": "KPop Demon Hunters Cast",
+    "artistImage": "https://i.scdn.co/image/ab67616d00001e026c1334650ced0e28f0b2e13f",
+    "currentRank": 26
+  },
+  {
+    "artistName": "Peso Pluma",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174e5283f5b671cf618b82a2696",
     "currentRank": 27
   },
   {
-    "artistName": "Eminem",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174a00b11c129b27a88fc72f36b",
+    "artistName": "KAROL G",
+    "artistImage": "https://i.scdn.co/image/ab6761610000517466041ce9eb4497057cbc3496",
     "currentRank": 28
   },
   {
@@ -145,223 +145,223 @@
     "currentRank": 29
   },
   {
-    "artistName": "KAROL G",
-    "artistImage": "https://i.scdn.co/image/ab6761610000517466041ce9eb4497057cbc3496",
+    "artistName": "Eminem",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174a00b11c129b27a88fc72f36b",
     "currentRank": 30
   },
   {
-    "artistName": "Peso Pluma",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174e5283f5b671cf618b82a2696",
+    "artistName": "ROSALÍA",
+    "artistImage": "https://i.scdn.co/image/ab676161000051749354faf80eb87961466edfbf",
     "currentRank": 31
   },
   {
-    "artistName": "Michael Jackson",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174997cc9a4aec335d46c9481fd",
+    "artistName": "Stray Kids",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174f9887d2c9288f0e50a3fd69f",
     "currentRank": 32
-  },
-  {
-    "artistName": "SZA",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174fd0a9fb6c252a3ba44079acf",
-    "currentRank": 33
-  },
-  {
-    "artistName": "Future",
-    "artistImage": "https://i.scdn.co/image/ab676161000051747565b356bc9d9394eefa2ccb",
-    "currentRank": 34
   },
   {
     "artistName": "Anuel AA",
     "artistImage": "https://i.scdn.co/image/ab67616100005174a23ceb177745632b517cb7b2",
-    "currentRank": 35
-  },
-  {
-    "artistName": "Daddy Yankee",
-    "artistImage": "https://i.scdn.co/image/ab676161000051749a6918fd0b2fd675d63c675d",
-    "currentRank": 36
+    "currentRank": 33
   },
   {
     "artistName": "Beéle",
     "artistImage": "https://i.scdn.co/image/ab676161000051748e10d05db45e77a86256fc5d",
-    "currentRank": 37
+    "currentRank": 34
+  },
+  {
+    "artistName": "Future",
+    "artistImage": "https://i.scdn.co/image/ab676161000051747565b356bc9d9394eefa2ccb",
+    "currentRank": 35
+  },
+  {
+    "artistName": "SZA",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174fd0a9fb6c252a3ba44079acf",
+    "currentRank": 36
   },
   {
     "artistName": "Shreya Ghoshal",
     "artistImage": "https://i.scdn.co/image/ab67616100005174e7ce89a9f5d11e0ba26677eb",
+    "currentRank": 37
+  },
+  {
+    "artistName": "Daddy Yankee",
+    "artistImage": "https://i.scdn.co/image/ab676161000051749a6918fd0b2fd675d63c675d",
     "currentRank": 38
-  },
-  {
-    "artistName": "The Neighbourhood",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174df0b5ac84376a0a4b2166816",
-    "currentRank": 39
-  },
-  {
-    "artistName": "David Guetta",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174f150017ca69c8793503c2d4f",
-    "currentRank": 40
   },
   {
     "artistName": "J Balvin",
     "artistImage": "https://i.scdn.co/image/ab676161000051740405b03342c2e56751b9923d",
-    "currentRank": 41
+    "currentRank": 39
   },
   {
     "artistName": "Maroon 5",
     "artistImage": "https://i.scdn.co/image/ab67616100005174f8349dfb619a7f842242de77",
-    "currentRank": 42
-  },
-  {
-    "artistName": "Neton Vega",
-    "artistImage": "https://i.scdn.co/image/ab676161000051747215ccc01c6b8f0fc59adebb",
-    "currentRank": 43
-  },
-  {
-    "artistName": "Radiohead",
-    "artistImage": "https://i.scdn.co/image/ab676161000051744104fbd80f1f795728abbd59",
-    "currentRank": 44
-  },
-  {
-    "artistName": "Daniel Caesar",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174e4d94f7cbebb17504c25d419",
-    "currentRank": 45
-  },
-  {
-    "artistName": "Feid",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174600ee3d2a14da8d038fa7bbf",
-    "currentRank": 46
-  },
-  {
-    "artistName": "Chris Brown",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174a48397e590a1c70e2cda7728",
-    "currentRank": 47
+    "currentRank": 40
   },
   {
     "artistName": "A.R. Rahman",
     "artistImage": "https://i.scdn.co/image/ab67616100005174b19af0ea736c6228d6eb539c",
-    "currentRank": 48
+    "currentRank": 41
   },
   {
-    "artistName": "Doja Cat",
-    "artistImage": "https://i.scdn.co/image/ab676161000051748a0644455ebfa7d3976f5101",
-    "currentRank": 49
+    "artistName": "David Guetta",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174f150017ca69c8793503c2d4f",
+    "currentRank": 42
   },
   {
-    "artistName": "Tyler, The Creator",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174df2728294ff77dd11eeb18fb",
-    "currentRank": 50
+    "artistName": "Radiohead",
+    "artistImage": "https://i.scdn.co/image/ab676161000051744104fbd80f1f795728abbd59",
+    "currentRank": 43
   },
   {
-    "artistName": "Shakira",
-    "artistImage": "https://i.scdn.co/image/ab6761610000517444b07362e94585ebd7c564c9",
-    "currentRank": 51
+    "artistName": "Daniel Caesar",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174e4d94f7cbebb17504c25d419",
+    "currentRank": 44
   },
   {
-    "artistName": "EJAE",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174823e267b7aeb50d2ab58cc94",
-    "currentRank": 52
+    "artistName": "Feid",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174600ee3d2a14da8d038fa7bbf",
+    "currentRank": 45
   },
   {
-    "artistName": "Playboi Carti",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174ba50ca67ffc3097f6ea1710a",
-    "currentRank": 53
+    "artistName": "Michael Jackson",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174997cc9a4aec335d46c9481fd",
+    "currentRank": 46
   },
   {
-    "artistName": "Dua Lipa",
-    "artistImage": "https://i.scdn.co/image/ab676161000051740c68f6c95232e716f0abee8d",
-    "currentRank": 54
-  },
-  {
-    "artistName": "Imagine Dragons",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174ab47d8dae2b24f5afe7f9d38",
-    "currentRank": 55
-  },
-  {
-    "artistName": "Natanael Cano",
-    "artistImage": "https://i.scdn.co/image/ab676161000051740d4838ef7ef6c0f889266f60",
-    "currentRank": 56
-  },
-  {
-    "artistName": "YoungBoy Never Broke Again",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174776e469c846c205685141317",
-    "currentRank": 57
+    "artistName": "Hazbin Hotel",
+    "artistImage": "https://i.scdn.co/image/ab6761610000517461b795e14e257639391220ca",
+    "currentRank": 47
   },
   {
     "artistName": "Post Malone",
     "artistImage": "https://i.scdn.co/image/ab67616100005174e17c0aa1714a03d62b5ce4e0",
-    "currentRank": 58
-  },
-  {
-    "artistName": "Olivia Rodrigo",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174e03a98785f3658f0b6461ec4",
-    "currentRank": 59
-  },
-  {
-    "artistName": "Henrique & Juliano",
-    "artistImage": "https://i.scdn.co/image/ab6761610000517430f0dc81183daaee971c2601",
-    "currentRank": 60
-  },
-  {
-    "artistName": "Arctic Monkeys",
-    "artistImage": "https://i.scdn.co/image/ab676161000051747da39dea0a72f581535fb11f",
-    "currentRank": 61
-  },
-  {
-    "artistName": "HUNTR/X",
-    "artistImage": "https://i.scdn.co/image/ab67616d00001e026c1334650ced0e28f0b2e13f",
-    "currentRank": 62
-  },
-  {
-    "artistName": "BTS",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174d642648235ebf3460d2d1f6a",
-    "currentRank": 63
-  },
-  {
-    "artistName": "Tame Impala",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174e412a782245eb20d9626c601",
-    "currentRank": 64
-  },
-  {
-    "artistName": "REI AMI",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174eb39ded0900c3e50e3d7ba68",
-    "currentRank": 65
-  },
-  {
-    "artistName": "Victor Mendivil",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174a7320e387a6032ed6ef726ff",
-    "currentRank": 66
-  },
-  {
-    "artistName": "Tito Double P",
-    "artistImage": "https://i.scdn.co/image/ab676161000051746aaf8a0d393605e8489447f3",
-    "currentRank": 67
-  },
-  {
-    "artistName": "AUDREY NUNA",
-    "artistImage": "https://i.scdn.co/image/ab676161000051742e9ac1a1188624174e9c86a3",
-    "currentRank": 68
-  },
-  {
-    "artistName": "sombr",
-    "artistImage": "https://i.scdn.co/image/ab6761610000517478edaa6468cae153565c2c97",
-    "currentRank": 69
+    "currentRank": 48
   },
   {
     "artistName": "Sam Haft",
     "artistImage": "https://i.scdn.co/image/ab676161000051749aacb1a58f28698b98d2cd77",
-    "currentRank": 70
+    "currentRank": 49
+  },
+  {
+    "artistName": "Neton Vega",
+    "artistImage": "https://i.scdn.co/image/ab676161000051747215ccc01c6b8f0fc59adebb",
+    "currentRank": 50
+  },
+  {
+    "artistName": "Chris Brown",
+    "artistImage": "https://i.scdn.co/image/ab6761610000517401513fbafb66a3ca4f28b299",
+    "currentRank": 51
+  },
+  {
+    "artistName": "Wicked Movie Cast",
+    "artistImage": "https://i.scdn.co/image/ab676161000051742ea5e16a85633a235b7cb957",
+    "currentRank": 52
+  },
+  {
+    "artistName": "Shakira",
+    "artistImage": "https://i.scdn.co/image/ab6761610000517444b07362e94585ebd7c564c9",
+    "currentRank": 53
   },
   {
     "artistName": "Andrew Underberg",
     "artistImage": "https://i.scdn.co/image/ab6761610000517464ed9630fd36c863e2b3e3c1",
-    "currentRank": 71
+    "currentRank": 54
+  },
+  {
+    "artistName": "Playboi Carti",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174ba50ca67ffc3097f6ea1710a",
+    "currentRank": 55
+  },
+  {
+    "artistName": "Doja Cat",
+    "artistImage": "https://i.scdn.co/image/ab676161000051748a0644455ebfa7d3976f5101",
+    "currentRank": 56
+  },
+  {
+    "artistName": "Dua Lipa",
+    "artistImage": "https://i.scdn.co/image/ab676161000051740c68f6c95232e716f0abee8d",
+    "currentRank": 57
+  },
+  {
+    "artistName": "Tyler, The Creator",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174df2728294ff77dd11eeb18fb",
+    "currentRank": 58
+  },
+  {
+    "artistName": "Natanael Cano",
+    "artistImage": "https://i.scdn.co/image/ab676161000051740d4838ef7ef6c0f889266f60",
+    "currentRank": 59
+  },
+  {
+    "artistName": "BTS",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174d642648235ebf3460d2d1f6a",
+    "currentRank": 60
+  },
+  {
+    "artistName": "Imagine Dragons",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174ab47d8dae2b24f5afe7f9d38",
+    "currentRank": 61
+  },
+  {
+    "artistName": "YoungBoy Never Broke Again",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174776e469c846c205685141317",
+    "currentRank": 62
+  },
+  {
+    "artistName": "Tito Double P",
+    "artistImage": "https://i.scdn.co/image/ab676161000051746aaf8a0d393605e8489447f3",
+    "currentRank": 63
+  },
+  {
+    "artistName": "Arctic Monkeys",
+    "artistImage": "https://i.scdn.co/image/ab676161000051747da39dea0a72f581535fb11f",
+    "currentRank": 64
+  },
+  {
+    "artistName": "Victor Mendivil",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174a7320e387a6032ed6ef726ff",
+    "currentRank": 65
+  },
+  {
+    "artistName": "The Neighbourhood",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174df0b5ac84376a0a4b2166816",
+    "currentRank": 66
+  },
+  {
+    "artistName": "EJAE",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174823e267b7aeb50d2ab58cc94",
+    "currentRank": 67
+  },
+  {
+    "artistName": "Henrique & Juliano",
+    "artistImage": "https://i.scdn.co/image/ab6761610000517430f0dc81183daaee971c2601",
+    "currentRank": 68
+  },
+  {
+    "artistName": "Olivia Rodrigo",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174e03a98785f3658f0b6461ec4",
+    "currentRank": 69
   },
   {
     "artistName": "Ozuna",
     "artistImage": "https://i.scdn.co/image/ab67616100005174463e10d5f1a533ddd6eb9a04",
-    "currentRank": 72
+    "currentRank": 70
+  },
+  {
+    "artistName": "Sia",
+    "artistImage": "https://i.scdn.co/image/ab6761610000517491c19888fe2fa3d5066199d1",
+    "currentRank": 71
   },
   {
     "artistName": "Juice WRLD",
     "artistImage": "https://i.scdn.co/image/ab6761610000517423a60030944f7853c21565ef",
+    "currentRank": 72
+  },
+  {
+    "artistName": "Cigarettes After Sex",
+    "artistImage": "https://i.scdn.co/image/ab676161000051741c312be98c615df97ea79a30",
     "currentRank": 73
   },
   {
@@ -370,63 +370,63 @@
     "currentRank": 74
   },
   {
-    "artistName": "Hazbin Hotel",
-    "artistImage": "https://i.scdn.co/image/ab6761610000517461b795e14e257639391220ca",
+    "artistName": "Alex Warren",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174e5547931c7f652c2ece8b76c",
     "currentRank": 75
-  },
-  {
-    "artistName": "Cigarettes After Sex",
-    "artistImage": "https://i.scdn.co/image/ab676161000051741c312be98c615df97ea79a30",
-    "currentRank": 76
   },
   {
     "artistName": "Myke Towers",
     "artistImage": "https://i.scdn.co/image/ab676161000051748372345609bebaf1e948ef7f",
-    "currentRank": 77
-  },
-  {
-    "artistName": "Don Toliver",
-    "artistImage": "https://i.scdn.co/image/ab6761610000517452258b97639c24efe49fbf9e",
-    "currentRank": 78
+    "currentRank": 76
   },
   {
     "artistName": "Gunna",
     "artistImage": "https://i.scdn.co/image/ab67616100005174a998bc86f87b9fe7e2466110",
-    "currentRank": 79
+    "currentRank": 77
   },
   {
-    "artistName": "Alex Warren",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174e5547931c7f652c2ece8b76c",
-    "currentRank": 80
+    "artistName": "Tame Impala",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174e412a782245eb20d9626c601",
+    "currentRank": 78
   },
   {
     "artistName": "Zach Bryan",
     "artistImage": "https://i.scdn.co/image/ab676161000051744fd54df35bfcfa0fc9fc2da7",
+    "currentRank": 79
+  },
+  {
+    "artistName": "HUNTR/X",
+    "artistImage": "https://i.scdn.co/image/ab67616d00001e026c1334650ced0e28f0b2e13f",
+    "currentRank": 80
+  },
+  {
+    "artistName": "Don Toliver",
+    "artistImage": "https://i.scdn.co/image/ab6761610000517452258b97639c24efe49fbf9e",
     "currentRank": 81
-  },
-  {
-    "artistName": "Sia",
-    "artistImage": "https://i.scdn.co/image/ab6761610000517491c19888fe2fa3d5066199d1",
-    "currentRank": 82
-  },
-  {
-    "artistName": "NF",
-    "artistImage": "https://i.scdn.co/image/ab676161000051748fcc5c49d2116d7251ecbd65",
-    "currentRank": 83
   },
   {
     "artistName": "Grupo Frontera",
     "artistImage": "https://i.scdn.co/image/ab67616100005174b8bb50dc787d5893156689f6",
+    "currentRank": 82
+  },
+  {
+    "artistName": "sombr",
+    "artistImage": "https://i.scdn.co/image/ab6761610000517478edaa6468cae153565c2c97",
+    "currentRank": 83
+  },
+  {
+    "artistName": "REI AMI",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174eb39ded0900c3e50e3d7ba68",
     "currentRank": 84
   },
   {
-    "artistName": "Metro Boomin",
-    "artistImage": "https://i.scdn.co/image/ab6761610000517428f1e72b31e756ea3f3a51e7",
+    "artistName": "AUDREY NUNA",
+    "artistImage": "https://i.scdn.co/image/ab676161000051742e9ac1a1188624174e9c86a3",
     "currentRank": 85
   },
   {
-    "artistName": "Adele",
-    "artistImage": "https://i.scdn.co/image/ab6761610000517468f6e5892075d7f22615bd17",
+    "artistName": "Mariah Carey",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174d0a27777aaeb1725add6ace8",
     "currentRank": 86
   },
   {
@@ -435,48 +435,48 @@
     "currentRank": 87
   },
   {
-    "artistName": "Summer Walker",
-    "artistImage": "https://i.scdn.co/image/ab676161000051747dccb6280ed3402110d43ce3",
+    "artistName": "Metro Boomin",
+    "artistImage": "https://i.scdn.co/image/ab6761610000517428f1e72b31e756ea3f3a51e7",
     "currentRank": 88
   },
   {
-    "artistName": "Stray Kids",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174f9887d2c9288f0e50a3fd69f",
+    "artistName": "Michael Bublé",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174ecf79fd5be85dabb0f489107",
     "currentRank": 89
+  },
+  {
+    "artistName": "Adele",
+    "artistImage": "https://i.scdn.co/image/ab6761610000517468f6e5892075d7f22615bd17",
+    "currentRank": 90
   },
   {
     "artistName": "Anirudh Ravichander",
     "artistImage": "https://i.scdn.co/image/ab676161000051740f0be2054fe9594026a6b843",
-    "currentRank": 90
+    "currentRank": 91
   },
   {
-    "artistName": "Grupo Menos É Mais",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174cda53fa43b003c1eb9d4b7cd",
-    "currentRank": 91
+    "artistName": "The Beatles",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174e9348cc01ff5d55971b22433",
+    "currentRank": 92
   },
   {
     "artistName": "Katy Perry",
     "artistImage": "https://i.scdn.co/image/ab676161000051744be5330bd48527f9dd620663",
-    "currentRank": 92
+    "currentRank": 93
   },
   {
     "artistName": "MC Ryan SP",
     "artistImage": "https://i.scdn.co/image/ab676161000051745751de055799e71658c49655",
-    "currentRank": 93
-  },
-  {
-    "artistName": "Calvin Harris",
-    "artistImage": "https://i.scdn.co/image/ab676161000051741e4bcd2bef1896648762dd6b",
     "currentRank": 94
   },
   {
-    "artistName": "The Marías",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174af586afa2b397f1288683a76",
+    "artistName": "Queen",
+    "artistImage": "https://i.scdn.co/image/c06971e9ff81696699b829484e3be165f4e64368",
     "currentRank": 95
   },
   {
-    "artistName": "PARTYNEXTDOOR",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174957320981e31e862bc2fb844",
+    "artistName": "Carín León",
+    "artistImage": "https://i.scdn.co/image/ab6761610000517469543997b9f68a0d2bb37a4a",
     "currentRank": 96
   },
   {
@@ -486,77 +486,77 @@
   },
   {
     "artistName": "Romeo Santos",
-    "artistImage": "https://i.scdn.co/image/ab676161000051746d8b48abede0f9e433aa6e49",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174c8be3c6e5a824360d1bffc03",
     "currentRank": 98
   },
   {
-    "artistName": "Carín León",
-    "artistImage": "https://i.scdn.co/image/ab6761610000517469543997b9f68a0d2bb37a4a",
+    "artistName": "Grupo Menos É Mais",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174cda53fa43b003c1eb9d4b7cd",
     "currentRank": 99
   },
   {
-    "artistName": "21 Savage",
-    "artistImage": "https://i.scdn.co/image/ab676161000051744f8f76117470957c0e81e5b2",
+    "artistName": "PARTYNEXTDOOR",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174957320981e31e862bc2fb844",
     "currentRank": 100
-  },
-  {
-    "artistName": "Queen",
-    "artistImage": "https://i.scdn.co/image/c06971e9ff81696699b829484e3be165f4e64368",
-    "currentRank": 101
-  },
-  {
-    "artistName": "Red Hot Chili Peppers",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174c33cc15260b767ddec982ce8",
-    "currentRank": 102
-  },
-  {
-    "artistName": "One Direction",
-    "artistImage": "https://i.scdn.co/image/45741ba38b51130bb96e00c0e24d17ba311a9293",
-    "currentRank": 103
-  },
-  {
-    "artistName": "Fleetwood Mac",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174c8752dd511cda8c31e9daee8",
-    "currentRank": 104
-  },
-  {
-    "artistName": "Don Omar",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174c9154bd840cd45e769c4e480",
-    "currentRank": 105
-  },
-  {
-    "artistName": "Pitbull",
-    "artistImage": "https://i.scdn.co/image/ab676161000051748d8ac7290d0fe2d12fb6e4d9",
-    "currentRank": 106
   },
   {
     "artistName": "Beyoncé",
     "artistImage": "https://i.scdn.co/image/ab676161000051747eaa373538359164b843f7c0",
+    "currentRank": 101
+  },
+  {
+    "artistName": "Calvin Harris",
+    "artistImage": "https://i.scdn.co/image/ab676161000051741e4bcd2bef1896648762dd6b",
+    "currentRank": 102
+  },
+  {
+    "artistName": "EsDeeKid",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174fe6d53e126b70d1c2594b434",
+    "currentRank": 103
+  },
+  {
+    "artistName": "The Marías",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174af586afa2b397f1288683a76",
+    "currentRank": 104
+  },
+  {
+    "artistName": "Lil Baby",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174514da623c55dc9d2155705dd",
+    "currentRank": 105
+  },
+  {
+    "artistName": "21 Savage",
+    "artistImage": "https://i.scdn.co/image/ab676161000051744f8f76117470957c0e81e5b2",
+    "currentRank": 106
+  },
+  {
+    "artistName": "Fleetwood Mac",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174c8752dd511cda8c31e9daee8",
     "currentRank": 107
+  },
+  {
+    "artistName": "One Direction",
+    "artistImage": "https://i.scdn.co/image/45741ba38b51130bb96e00c0e24d17ba311a9293",
+    "currentRank": 108
+  },
+  {
+    "artistName": "Don Omar",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174c9154bd840cd45e769c4e480",
+    "currentRank": 109
   },
   {
     "artistName": "KATSEYE",
     "artistImage": "https://i.scdn.co/image/ab67616100005174484e326315e09b3f382a7960",
-    "currentRank": 108
-  },
-  {
-    "artistName": "Sachin-Jigar",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174bb4064bef3a825344d5eb79e",
-    "currentRank": 109
-  },
-  {
-    "artistName": "Benson Boone",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174b68234e1a673acc3d873d3e6",
     "currentRank": 110
   },
   {
-    "artistName": "Frank Ocean",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174ee3123e593174208f9754fab",
+    "artistName": "Cynthia Erivo",
+    "artistImage": "https://i.scdn.co/image/ab6761610000517465199ed238bc45231cd3cba7",
     "currentRank": 111
   },
   {
-    "artistName": "Twenty One Pilots",
-    "artistImage": "https://i.scdn.co/image/ab6761610000517461a7ea26d33ded218cd1e59d",
+    "artistName": "Ovy On The Drums",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174598ae29b6fe6c2547f40bce5",
     "currentRank": 112
   },
   {
@@ -565,328 +565,328 @@
     "currentRank": 113
   },
   {
-    "artistName": "Lil Baby",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174514da623c55dc9d2155705dd",
+    "artistName": "Pitbull",
+    "artistImage": "https://i.scdn.co/image/ab676161000051748d8ac7290d0fe2d12fb6e4d9",
     "currentRank": 114
-  },
-  {
-    "artistName": "The Beatles",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174e9348cc01ff5d55971b22433",
-    "currentRank": 115
-  },
-  {
-    "artistName": "Mariah Carey",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174d0a27777aaeb1725add6ace8",
-    "currentRank": 116
   },
   {
     "artistName": "Karan Aujla",
     "artistImage": "https://i.scdn.co/image/ab676161000051748a4c60d0eebe893f72e42979",
+    "currentRank": 115
+  },
+  {
+    "artistName": "Twenty One Pilots",
+    "artistImage": "https://i.scdn.co/image/ab6761610000517461a7ea26d33ded218cd1e59d",
+    "currentRank": 116
+  },
+  {
+    "artistName": "Red Hot Chili Peppers",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174c33cc15260b767ddec982ce8",
     "currentRank": 117
-  },
-  {
-    "artistName": "XXXTENTACION",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174f0c20db5ef6c6fbe5135d2e4",
-    "currentRank": 118
-  },
-  {
-    "artistName": "Udit Narayan",
-    "artistImage": "https://i.scdn.co/image/ab676161000051748de0e6e7e55d7773931ab7f4",
-    "currentRank": 119
-  },
-  {
-    "artistName": "Gracie Abrams",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174f6d51e6f5342d2d363220920",
-    "currentRank": 120
   },
   {
     "artistName": "RAYE",
     "artistImage": "https://i.scdn.co/image/ab67616100005174de2e2ac1d53fdf9518354798",
-    "currentRank": 121
-  },
-  {
-    "artistName": "Oscar Maydon",
-    "artistImage": "https://i.scdn.co/image/ab676161000051742cf67eda29b21ec665663dba",
-    "currentRank": 122
-  },
-  {
-    "artistName": "Lil Peep",
-    "artistImage": "https://i.scdn.co/image/ab676161000051743d9d59e200e82fa53d8781a1",
-    "currentRank": 123
+    "currentRank": 118
   },
   {
     "artistName": "Luis Miguel",
     "artistImage": "https://i.scdn.co/image/ab676161000051746481401e529e475116702a29",
-    "currentRank": 124
+    "currentRank": 119
   },
   {
-    "artistName": "Milo j",
-    "artistImage": "https://i.scdn.co/image/ab6761610000517433c342a253daee2d1c9d5931",
-    "currentRank": 125
+    "artistName": "Udit Narayan",
+    "artistImage": "https://i.scdn.co/image/ab676161000051748de0e6e7e55d7773931ab7f4",
+    "currentRank": 120
   },
   {
-    "artistName": "Metallica",
-    "artistImage": "https://i.scdn.co/image/ab6761610000517469ca98dd3083f1082d740e44",
-    "currentRank": 126
+    "artistName": "Sachin-Jigar",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174bb4064bef3a825344d5eb79e",
+    "currentRank": 121
   },
   {
-    "artistName": "Lil Wayne",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174998010cd1075921b5faf16b2",
-    "currentRank": 127
-  },
-  {
-    "artistName": "Quevedo",
-    "artistImage": "https://i.scdn.co/image/ab676161000051749fabcfc29eafa94841a28a9b",
-    "currentRank": 128
-  },
-  {
-    "artistName": "Laufey",
-    "artistImage": "https://i.scdn.co/image/ab6761610000517498c2527b85500f68f53084f2",
-    "currentRank": 129
-  },
-  {
-    "artistName": "Ovy On The Drums",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174598ae29b6fe6c2547f40bce5",
-    "currentRank": 130
-  },
-  {
-    "artistName": "Gorillaz",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174dd5b57b40cf2aaeccd07835e",
-    "currentRank": 131
-  },
-  {
-    "artistName": "Noah Kahan",
-    "artistImage": "https://i.scdn.co/image/ab676161000051748c52b10e110f62fe45761590",
-    "currentRank": 132
-  },
-  {
-    "artistName": "La Arrolladora Banda El Limón De Rene Camacho",
-    "artistImage": "https://i.scdn.co/image/ab676161000051744c5611ded3b8605cd99deab1",
-    "currentRank": 133
-  },
-  {
-    "artistName": "$uicideboy$",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174c4817922f21a5f2a36e12bf2",
-    "currentRank": 134
-  },
-  {
-    "artistName": "50 Cent",
-    "artistImage": "https://i.scdn.co/image/df73c0cebe56cafe705ffdba5085ccbd5680bd16",
-    "currentRank": 135
-  },
-  {
-    "artistName": "Joji",
-    "artistImage": "https://i.scdn.co/image/ab676161000051746e69601c22184c630a2d5e71",
-    "currentRank": 136
-  },
-  {
-    "artistName": "Luis R Conriquez",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174bc87bbebf0dd38589b3f7576",
-    "currentRank": 137
-  },
-  {
-    "artistName": "Atif Aslam",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174c40600e02356cc86f0debe84",
-    "currentRank": 138
-  },
-  {
-    "artistName": "Hozier",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174ad85a585103dfc2f3439119a",
-    "currentRank": 139
-  },
-  {
-    "artistName": "Omar Courtz",
-    "artistImage": "https://i.scdn.co/image/ab676161000051746270ba142ce97c0b644024e9",
-    "currentRank": 140
-  },
-  {
-    "artistName": "Sam Smith",
-    "artistImage": "https://i.scdn.co/image/ab676161000051743262e01b79152c4f8007f3ac",
-    "currentRank": 141
-  },
-  {
-    "artistName": "J. Cole",
-    "artistImage": "https://i.scdn.co/image/ab676161000051744b053c29fd4b317ff825f0dc",
-    "currentRank": 142
-  },
-  {
-    "artistName": "Oasis",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174b4ddbc39706ef0f2ae0f7c9b",
-    "currentRank": 143
-  },
-  {
-    "artistName": "Luke Combs",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174584e28452f46640852c2aed4",
-    "currentRank": 144
-  },
-  {
-    "artistName": "Shawn Mendes",
-    "artistImage": "https://i.scdn.co/image/ab6761610000517458b4b9419486550f6fda0535",
-    "currentRank": 145
-  },
-  {
-    "artistName": "TWICE",
-    "artistImage": "https://i.scdn.co/image/ab676161000051743d8820046fd455b38d644864",
-    "currentRank": 146
-  },
-  {
-    "artistName": "Mora",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174e6252cc367480d8fe43e711f",
-    "currentRank": 147
-  },
-  {
-    "artistName": "AC/DC",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174c4c77549095c86acb4e77b37",
-    "currentRank": 148
-  },
-  {
-    "artistName": "Elton John",
-    "artistImage": "https://i.scdn.co/image/ab676161000051740dc33a1c53bb58a84b45d6a7",
-    "currentRank": 149
-  },
-  {
-    "artistName": "Nirvana",
-    "artistImage": "https://i.scdn.co/image/42ae0f180f16e2f21c1f2212717fc436f5b95451",
-    "currentRank": 150
-  },
-  {
-    "artistName": "Black Eyed Peas",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174b3037310c07b99cbefbd2c6d",
-    "currentRank": 151
-  },
-  {
-    "artistName": "A$AP Rocky",
-    "artistImage": "https://i.scdn.co/image/ab676161000051745c58c41a506a0d6b32cc6cad",
-    "currentRank": 152
-  },
-  {
-    "artistName": "Charli xcx",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174daa727dd396963ba92dd6377",
-    "currentRank": 153
-  },
-  {
-    "artistName": "Tanishk Bagchi",
-    "artistImage": "https://i.scdn.co/image/ab6761610000517496f049daefd1875282baab0a",
-    "currentRank": 154
-  },
-  {
-    "artistName": "Grupo Firme",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174cd251af2268da17c3d967164",
-    "currentRank": 155
-  },
-  {
-    "artistName": "Michael Bublé",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174ecf79fd5be85dabb0f489107",
-    "currentRank": 156
-  },
-  {
-    "artistName": "Vishal-Shekhar",
-    "artistImage": "https://i.scdn.co/image/ab6761610000517490b6c3d093f9b02aad628eaf",
-    "currentRank": 157
-  },
-  {
-    "artistName": "Yan Block",
-    "artistImage": "https://i.scdn.co/image/ab676161000051741da4b46f64bb40d556b5684f",
-    "currentRank": 158
-  },
-  {
-    "artistName": "Deftones",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174e3ac5eb948e78d9285d1dbdb",
-    "currentRank": 159
-  },
-  {
-    "artistName": "Amitabh Bhattacharya",
-    "artistImage": "https://i.scdn.co/image/ab6761610000517406f04f40ecb8ca92cb714908",
-    "currentRank": 160
-  },
-  {
-    "artistName": "EsDeeKid",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174fe6d53e126b70d1c2594b434",
-    "currentRank": 161
-  },
-  {
-    "artistName": "Rels B",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174bf0eba7a7a19be9e0a5b2315",
-    "currentRank": 162
-  },
-  {
-    "artistName": "Cris MJ",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174418720dd75ca0213bc39e3e5",
-    "currentRank": 163
-  },
-  {
-    "artistName": "Bizarrap",
-    "artistImage": "https://i.scdn.co/image/ab6761610000517414add0d3419426b84158b913",
-    "currentRank": 164
-  },
-  {
-    "artistName": "Britney Spears",
-    "artistImage": "https://i.scdn.co/image/ab6761610000517426e59b825251b7df20a7b65e",
-    "currentRank": 165
-  },
-  {
-    "artistName": "Julión Álvarez y su Norteño Banda",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174c8e4ae1dad1347ca2cfa8a30",
-    "currentRank": 166
-  },
-  {
-    "artistName": "Chappell Roan",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174d258ecb0d66244e6300bcf64",
-    "currentRank": 167
-  },
-  {
-    "artistName": "Halsey",
-    "artistImage": "https://i.scdn.co/image/ab6761610000517415136101a0f63f0b2800b9dc",
-    "currentRank": 168
-  },
-  {
-    "artistName": "JENNIE",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174a8e3627e392a1d8f539cb575",
-    "currentRank": 169
-  },
-  {
-    "artistName": "Mac Miller",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174ed3b89aa602145fde71a163a",
-    "currentRank": 170
-  },
-  {
-    "artistName": "Wisin & Yandel",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174b5496c4b788e181679069ee8",
-    "currentRank": 171
+    "artistName": "Frank Ocean",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174ee3123e593174208f9754fab",
+    "currentRank": 122
   },
   {
     "artistName": "Frank Sinatra",
     "artistImage": "https://i.scdn.co/image/810f29651e05c9eae5a31f8151c2e05dc46390f9",
-    "currentRank": 172
+    "currentRank": 123
   },
   {
-    "artistName": "Miley Cyrus",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174f4cccd14ec026038d713e353",
-    "currentRank": 173
+    "artistName": "Benson Boone",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174b68234e1a673acc3d873d3e6",
+    "currentRank": 124
+  },
+  {
+    "artistName": "Quevedo",
+    "artistImage": "https://i.scdn.co/image/ab676161000051749fabcfc29eafa94841a28a9b",
+    "currentRank": 125
+  },
+  {
+    "artistName": "XXXTENTACION",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174f0c20db5ef6c6fbe5135d2e4",
+    "currentRank": 126
+  },
+  {
+    "artistName": "Laufey",
+    "artistImage": "https://i.scdn.co/image/ab6761610000517498c2527b85500f68f53084f2",
+    "currentRank": 127
+  },
+  {
+    "artistName": "La Arrolladora Banda El Limón De Rene Camacho",
+    "artistImage": "https://i.scdn.co/image/ab676161000051744c5611ded3b8605cd99deab1",
+    "currentRank": 128
+  },
+  {
+    "artistName": "Gracie Abrams",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174f6d51e6f5342d2d363220920",
+    "currentRank": 129
+  },
+  {
+    "artistName": "Milo j",
+    "artistImage": "https://i.scdn.co/image/ab6761610000517433c342a253daee2d1c9d5931",
+    "currentRank": 130
+  },
+  {
+    "artistName": "Lil Wayne",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174998010cd1075921b5faf16b2",
+    "currentRank": 131
+  },
+  {
+    "artistName": "NF",
+    "artistImage": "https://i.scdn.co/image/ab676161000051748fcc5c49d2116d7251ecbd65",
+    "currentRank": 132
+  },
+  {
+    "artistName": "Oscar Maydon",
+    "artistImage": "https://i.scdn.co/image/ab676161000051742cf67eda29b21ec665663dba",
+    "currentRank": 133
+  },
+  {
+    "artistName": "Metallica",
+    "artistImage": "https://i.scdn.co/image/ab6761610000517469ca98dd3083f1082d740e44",
+    "currentRank": 134
+  },
+  {
+    "artistName": "Noah Kahan",
+    "artistImage": "https://i.scdn.co/image/ab676161000051748c52b10e110f62fe45761590",
+    "currentRank": 135
+  },
+  {
+    "artistName": "Lil Peep",
+    "artistImage": "https://i.scdn.co/image/ab676161000051743d9d59e200e82fa53d8781a1",
+    "currentRank": 136
+  },
+  {
+    "artistName": "$uicideboy$",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174c4817922f21a5f2a36e12bf2",
+    "currentRank": 137
+  },
+  {
+    "artistName": "50 Cent",
+    "artistImage": "https://i.scdn.co/image/df73c0cebe56cafe705ffdba5085ccbd5680bd16",
+    "currentRank": 138
+  },
+  {
+    "artistName": "Atif Aslam",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174c40600e02356cc86f0debe84",
+    "currentRank": 139
+  },
+  {
+    "artistName": "Elton John",
+    "artistImage": "https://i.scdn.co/image/ab676161000051740dc33a1c53bb58a84b45d6a7",
+    "currentRank": 140
+  },
+  {
+    "artistName": "Luke Combs",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174584e28452f46640852c2aed4",
+    "currentRank": 141
+  },
+  {
+    "artistName": "TWICE",
+    "artistImage": "https://i.scdn.co/image/ab676161000051743d8820046fd455b38d644864",
+    "currentRank": 142
+  },
+  {
+    "artistName": "Gorillaz",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174dd5b57b40cf2aaeccd07835e",
+    "currentRank": 143
+  },
+  {
+    "artistName": "J. Cole",
+    "artistImage": "https://i.scdn.co/image/ab676161000051744b053c29fd4b317ff825f0dc",
+    "currentRank": 144
+  },
+  {
+    "artistName": "Grupo Firme",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174cd251af2268da17c3d967164",
+    "currentRank": 145
+  },
+  {
+    "artistName": "Luis R Conriquez",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174bc87bbebf0dd38589b3f7576",
+    "currentRank": 146
+  },
+  {
+    "artistName": "Tanishk Bagchi",
+    "artistImage": "https://i.scdn.co/image/ab6761610000517496f049daefd1875282baab0a",
+    "currentRank": 147
+  },
+  {
+    "artistName": "Sam Smith",
+    "artistImage": "https://i.scdn.co/image/ab676161000051743262e01b79152c4f8007f3ac",
+    "currentRank": 148
+  },
+  {
+    "artistName": "Shawn Mendes",
+    "artistImage": "https://i.scdn.co/image/ab6761610000517458b4b9419486550f6fda0535",
+    "currentRank": 149
+  },
+  {
+    "artistName": "Hozier",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174ad85a585103dfc2f3439119a",
+    "currentRank": 150
+  },
+  {
+    "artistName": "Rels B",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174bf0eba7a7a19be9e0a5b2315",
+    "currentRank": 151
+  },
+  {
+    "artistName": "Omar Courtz",
+    "artistImage": "https://i.scdn.co/image/ab676161000051746270ba142ce97c0b644024e9",
+    "currentRank": 152
+  },
+  {
+    "artistName": "Julión Álvarez y su Norteño Banda",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174c8e4ae1dad1347ca2cfa8a30",
+    "currentRank": 153
+  },
+  {
+    "artistName": "Wisin & Yandel",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174b5496c4b788e181679069ee8",
+    "currentRank": 154
+  },
+  {
+    "artistName": "Oasis",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174b4ddbc39706ef0f2ae0f7c9b",
+    "currentRank": 155
+  },
+  {
+    "artistName": "Black Eyed Peas",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174b3037310c07b99cbefbd2c6d",
+    "currentRank": 156
+  },
+  {
+    "artistName": "Nirvana",
+    "artistImage": "https://i.scdn.co/image/42ae0f180f16e2f21c1f2212717fc436f5b95451",
+    "currentRank": 157
+  },
+  {
+    "artistName": "Lil Uzi Vert",
+    "artistImage": "https://i.scdn.co/image/ab6761610000517462c272d76220f2e9dad56704",
+    "currentRank": 158
+  },
+  {
+    "artistName": "Mora",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174e6252cc367480d8fe43e711f",
+    "currentRank": 159
+  },
+  {
+    "artistName": "A$AP Rocky",
+    "artistImage": "https://i.scdn.co/image/ab676161000051745c58c41a506a0d6b32cc6cad",
+    "currentRank": 160
+  },
+  {
+    "artistName": "Cris MJ",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174418720dd75ca0213bc39e3e5",
+    "currentRank": 161
   },
   {
     "artistName": "Chris Stapleton",
     "artistImage": "https://i.scdn.co/image/ab67616100005174a0c87c8f329b436eac8b9784",
-    "currentRank": 174
+    "currentRank": 162
+  },
+  {
+    "artistName": "Yan Block",
+    "artistImage": "https://i.scdn.co/image/ab676161000051741da4b46f64bb40d556b5684f",
+    "currentRank": 163
+  },
+  {
+    "artistName": "AC/DC",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174c4c77549095c86acb4e77b37",
+    "currentRank": 164
+  },
+  {
+    "artistName": "Joji",
+    "artistImage": "https://i.scdn.co/image/ab676161000051746e69601c22184c630a2d5e71",
+    "currentRank": 165
+  },
+  {
+    "artistName": "Britney Spears",
+    "artistImage": "https://i.scdn.co/image/ab6761610000517426e59b825251b7df20a7b65e",
+    "currentRank": 166
   },
   {
     "artistName": "MC Meno K",
     "artistImage": "https://i.scdn.co/image/ab67616100005174bb83e0b2decc9e04a0c78c8c",
-    "currentRank": 175
+    "currentRank": 167
   },
   {
-    "artistName": "Gabito Ballesteros",
-    "artistImage": "https://i.scdn.co/image/ab676161000051745b58ee5baecda20a5d0d2a74",
-    "currentRank": 176
+    "artistName": "Summer Walker",
+    "artistImage": "https://i.scdn.co/image/ab676161000051747dccb6280ed3402110d43ce3",
+    "currentRank": 168
+  },
+  {
+    "artistName": "Deftones",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174e3ac5eb948e78d9285d1dbdb",
+    "currentRank": 169
+  },
+  {
+    "artistName": "Halsey",
+    "artistImage": "https://i.scdn.co/image/ab6761610000517415136101a0f63f0b2800b9dc",
+    "currentRank": 170
+  },
+  {
+    "artistName": "Farruko",
+    "artistImage": "https://i.scdn.co/image/ab6761610000517469c46f8a2fe8114da9170aca",
+    "currentRank": 171
   },
   {
     "artistName": "Arcángel",
     "artistImage": "https://i.scdn.co/image/ab67616100005174188fba614da521f737b24f9e",
+    "currentRank": 172
+  },
+  {
+    "artistName": "JENNIE",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174a8e3627e392a1d8f539cb575",
+    "currentRank": 173
+  },
+  {
+    "artistName": "Vishal-Shekhar",
+    "artistImage": "https://i.scdn.co/image/ab6761610000517490b6c3d093f9b02aad628eaf",
+    "currentRank": 174
+  },
+  {
+    "artistName": "Amitabh Bhattacharya",
+    "artistImage": "https://i.scdn.co/image/ab6761610000517406f04f40ecb8ca92cb714908",
+    "currentRank": 175
+  },
+  {
+    "artistName": "Charlie Puth",
+    "artistImage": "https://i.scdn.co/image/ab676161000051746721f541fb123145d4cb3ace",
+    "currentRank": 176
+  },
+  {
+    "artistName": "BLACKPINK",
+    "artistImage": "https://i.scdn.co/image/ab676161000051749b57f5eccf180a0049be84b3",
     "currentRank": 177
   },
   {
-    "artistName": "Green Day",
-    "artistImage": "https://i.scdn.co/image/ab676161000051746ff0cd5ef2ecf733804984bb",
+    "artistName": "Mac Miller",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174ed3b89aa602145fde71a163a",
     "currentRank": 178
   },
   {
@@ -895,38 +895,38 @@
     "currentRank": 179
   },
   {
-    "artistName": "Lil Uzi Vert",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174a8ce348f34f18241d3249fa9",
+    "artistName": "BigXthaPlug",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174bc8b0b51c651063f787330c5",
     "currentRank": 180
+  },
+  {
+    "artistName": "Manuel Turizo",
+    "artistImage": "https://i.scdn.co/image/ab676161000051747bdd2cd65be6acd55ccd57d3",
+    "currentRank": 181
+  },
+  {
+    "artistName": "Chappell Roan",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174d258ecb0d66244e6300bcf64",
+    "currentRank": 182
+  },
+  {
+    "artistName": "Gabito Ballesteros",
+    "artistImage": "https://i.scdn.co/image/ab676161000051745b58ee5baecda20a5d0d2a74",
+    "currentRank": 183
+  },
+  {
+    "artistName": "Irshad Kamil",
+    "artistImage": "https://i.scdn.co/image/ab6761610000517447b943824370b9eb2fb9607f",
+    "currentRank": 184
   },
   {
     "artistName": "Talwiinder",
     "artistImage": "https://i.scdn.co/image/ab676161000051743966ca5f9b36d4a5d3d7f6b1",
-    "currentRank": 181
-  },
-  {
-    "artistName": "DJ Japa NK",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174a5a47189fc33316c3ef73794",
-    "currentRank": 182
-  },
-  {
-    "artistName": "Khalid",
-    "artistImage": "https://i.scdn.co/image/ab676161000051748f77c3eddc1869e9542b04bc",
-    "currentRank": 183
-  },
-  {
-    "artistName": "Farruko",
-    "artistImage": "https://i.scdn.co/image/ab6761610000517469c46f8a2fe8114da9170aca",
-    "currentRank": 184
-  },
-  {
-    "artistName": "The Chainsmokers",
-    "artistImage": "https://i.scdn.co/image/ab676161000051744567279fac84a0375c3d819b",
     "currentRank": 185
   },
   {
-    "artistName": "5 Seconds of Summer",
-    "artistImage": "https://i.scdn.co/image/ab6761610000517487cde49a53cfbdbecf68fe02",
+    "artistName": "Miley Cyrus",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174f4cccd14ec026038d713e353",
     "currentRank": 186
   },
   {
@@ -935,68 +935,68 @@
     "currentRank": 187
   },
   {
-    "artistName": "James Arthur",
-    "artistImage": "https://i.scdn.co/image/ab676161000051745a55e66595e80fb12dc5f5fa",
+    "artistName": "DJ Japa NK",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174a5a47189fc33316c3ef73794",
     "currentRank": 188
   },
   {
-    "artistName": "ABBA",
-    "artistImage": "https://i.scdn.co/image/ab6761610000517481a5ec3c9b4a6750440904d8",
+    "artistName": "Tyla",
+    "artistImage": "https://i.scdn.co/image/ab676161000051747977176556d71cbc7fcbe6b4",
     "currentRank": 189
   },
   {
-    "artistName": "Harry Styles",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174f7db7c8ede90a019c54590bb",
+    "artistName": "James Arthur",
+    "artistImage": "https://i.scdn.co/image/ab676161000051745a55e66595e80fb12dc5f5fa",
     "currentRank": 190
-  },
-  {
-    "artistName": "TV Girl",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174d80695211689a9c8c3fee3b0",
-    "currentRank": 191
   },
   {
     "artistName": "S. P. Balasubrahmanyam",
     "artistImage": "https://i.scdn.co/image/ab67616100005174ea2b56271cf92bcff45c0ae9",
+    "currentRank": 191
+  },
+  {
+    "artistName": "Hindia",
+    "artistImage": "https://i.scdn.co/image/ab676161000051748022c4a018990cd93a9ddfe0",
     "currentRank": 192
   },
   {
-    "artistName": "System Of A Down",
-    "artistImage": "https://i.scdn.co/image/ab6761610000517460063d3451ade8f9fab397c2",
+    "artistName": "ABBA",
+    "artistImage": "https://i.scdn.co/image/ab6761610000517481a5ec3c9b4a6750440904d8",
     "currentRank": 193
-  },
-  {
-    "artistName": "LE SSERAFIM",
-    "artistImage": "https://i.scdn.co/image/ab676161000051749095683b555d7c16fd3b633f",
-    "currentRank": 194
-  },
-  {
-    "artistName": "Sean Paul",
-    "artistImage": "https://i.scdn.co/image/ab6761610000517460c3e9abe7327c0097738f22",
-    "currentRank": 195
-  },
-  {
-    "artistName": "Danny Ocean",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174b485cde5cba6de6e5685278a",
-    "currentRank": 196
-  },
-  {
-    "artistName": "Justin Timberlake",
-    "artistImage": "https://i.scdn.co/image/ab676161000051747a5cfe2597665a3d160e805e",
-    "currentRank": 197
-  },
-  {
-    "artistName": "Panda",
-    "artistImage": "https://i.scdn.co/image/ab67616100005174a2d6c900d791fb6b84425725",
-    "currentRank": 198
-  },
-  {
-    "artistName": "Manuel Turizo",
-    "artistImage": "https://i.scdn.co/image/ab676161000051747bdd2cd65be6acd55ccd57d3",
-    "currentRank": 199
   },
   {
     "artistName": "GIMS",
     "artistImage": "https://i.scdn.co/image/ab6761610000517477144f838397a467e807df65",
+    "currentRank": 194
+  },
+  {
+    "artistName": "Khalid",
+    "artistImage": "https://i.scdn.co/image/ab676161000051748f77c3eddc1869e9542b04bc",
+    "currentRank": 195
+  },
+  {
+    "artistName": "Sean Paul",
+    "artistImage": "https://i.scdn.co/image/ab6761610000517460c3e9abe7327c0097738f22",
+    "currentRank": 196
+  },
+  {
+    "artistName": "Panda",
+    "artistImage": "https://i.scdn.co/image/ab676161000051746e79f071b36c1858ec69e09a",
+    "currentRank": 197
+  },
+  {
+    "artistName": "Harry Styles",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174f7db7c8ede90a019c54590bb",
+    "currentRank": 198
+  },
+  {
+    "artistName": "Zara Larsson",
+    "artistImage": "https://i.scdn.co/image/ab6761610000517411be9310ef4b23734c13b5c8",
+    "currentRank": 199
+  },
+  {
+    "artistName": "Danny Ocean",
+    "artistImage": "https://i.scdn.co/image/ab67616100005174b485cde5cba6de6e5685278a",
     "currentRank": 200
   }
 ]
