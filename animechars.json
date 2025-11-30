@@ -1849,62 +1849,6 @@
   },
   {
     "title": {
-      "english": "No Game, No Life",
-      "romaji": "No Game No Life"
-    },
-    "id": 19815,
-    "characters": {
-      "nodes": [
-        {
-          "id": 82525,
-          "name": {
-            "full": "Shiro"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82525-sKk2FGRKN4aK.png"
-          }
-        },
-        {
-          "id": 82523,
-          "name": {
-            "full": "Sora"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82523-JB9oevKyXWfc.png"
-          }
-        },
-        {
-          "id": 87887,
-          "name": {
-            "full": "Jibril"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87887-3QKmvQM5LTwY.png"
-          }
-        },
-        {
-          "id": 82527,
-          "name": {
-            "full": "Stephanie Dola"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82527-uwdWwl1qhzqC.png"
-          }
-        },
-        {
-          "id": 88003,
-          "name": {
-            "full": "Izuna Hatsuse"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88003-tZKsjjzDWV8e.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Kaguya-sama: Love is War",
       "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen"
     },
@@ -1954,6 +1898,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121104-7TYRl3EEsDYU.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "No Game, No Life",
+      "romaji": "No Game No Life"
+    },
+    "id": 19815,
+    "characters": {
+      "nodes": [
+        {
+          "id": 82525,
+          "name": {
+            "full": "Shiro"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82525-sKk2FGRKN4aK.png"
+          }
+        },
+        {
+          "id": 82523,
+          "name": {
+            "full": "Sora"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82523-JB9oevKyXWfc.png"
+          }
+        },
+        {
+          "id": 87887,
+          "name": {
+            "full": "Jibril"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87887-3QKmvQM5LTwY.png"
+          }
+        },
+        {
+          "id": 82527,
+          "name": {
+            "full": "Stephanie Dola"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82527-uwdWwl1qhzqC.png"
+          }
+        },
+        {
+          "id": 88003,
+          "name": {
+            "full": "Izuna Hatsuse"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88003-tZKsjjzDWV8e.png"
           }
         }
       ]
@@ -3249,62 +3249,6 @@
   },
   {
     "title": {
-      "english": "Kakegurui",
-      "romaji": "Kakegurui"
-    },
-    "id": 98314,
-    "characters": {
-      "nodes": [
-        {
-          "id": 121889,
-          "name": {
-            "full": "Yumeko Jabami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121889-ABsurpy5SjOW.png"
-          }
-        },
-        {
-          "id": 122687,
-          "name": {
-            "full": "Mary Saotome"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122687-jl1wk9rjO57e.png"
-          }
-        },
-        {
-          "id": 122693,
-          "name": {
-            "full": "Kirari Momobami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122693-qg2NIaq5h1VD.png"
-          }
-        },
-        {
-          "id": 122691,
-          "name": {
-            "full": "Midari Ikishima"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122691-ze4qKEiCv2Lz.jpg"
-          }
-        },
-        {
-          "id": 122777,
-          "name": {
-            "full": "Ririka Momobami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122777-pdh3z3WbnvlL.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
       "romaji": "Kimetsu no Yaiba: Yuukaku-hen"
     },
@@ -3354,6 +3298,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130050-qsLThJs5VIbz.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Kakegurui",
+      "romaji": "Kakegurui"
+    },
+    "id": 98314,
+    "characters": {
+      "nodes": [
+        {
+          "id": 121889,
+          "name": {
+            "full": "Yumeko Jabami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121889-ABsurpy5SjOW.png"
+          }
+        },
+        {
+          "id": 122687,
+          "name": {
+            "full": "Mary Saotome"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122687-jl1wk9rjO57e.png"
+          }
+        },
+        {
+          "id": 122693,
+          "name": {
+            "full": "Kirari Momobami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122693-qg2NIaq5h1VD.png"
+          }
+        },
+        {
+          "id": 122691,
+          "name": {
+            "full": "Midari Ikishima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122691-ze4qKEiCv2Lz.jpg"
+          }
+        },
+        {
+          "id": 122777,
+          "name": {
+            "full": "Ririka Momobami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122777-pdh3z3WbnvlL.png"
           }
         }
       ]
@@ -4369,62 +4369,6 @@
   },
   {
     "title": {
-      "english": "Anohana: The Flower We Saw That Day",
-      "romaji": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai."
-    },
-    "id": 9989,
-    "characters": {
-      "nodes": [
-        {
-          "id": 40592,
-          "name": {
-            "full": "Meiko Honma"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b40592-mAEyaQyJu5oc.png"
-          }
-        },
-        {
-          "id": 40593,
-          "name": {
-            "full": "Naruko Anjou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b40593-3N05kRft0s8d.jpg"
-          }
-        },
-        {
-          "id": 40591,
-          "name": {
-            "full": "Jinta Yadomi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b40591-PFcHVI98QgnI.jpg"
-          }
-        },
-        {
-          "id": 40596,
-          "name": {
-            "full": "Tetsudo Hisakawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b40596-hm4I6Cal3EaS.jpg"
-          }
-        },
-        {
-          "id": 40594,
-          "name": {
-            "full": "Atsumu Matsuyuki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b40594-ZKnNeogrL2K0.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "HAIKYU!! 2nd Season",
       "romaji": "Haikyuu!! 2nd Season"
     },
@@ -4481,55 +4425,55 @@
   },
   {
     "title": {
-      "english": "The Devil is a Part-Timer!",
-      "romaji": "Hataraku Maou-sama!"
+      "english": "Anohana: The Flower We Saw That Day",
+      "romaji": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai."
     },
-    "id": 15809,
+    "id": 9989,
     "characters": {
       "nodes": [
         {
-          "id": 70733,
+          "id": 40592,
           "name": {
-            "full": "Satan Jacob"
+            "full": "Meiko Honma"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70733-d564H7iUj7Y2.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b40592-mAEyaQyJu5oc.png"
           }
         },
         {
-          "id": 70735,
+          "id": 40593,
           "name": {
-            "full": "Emilia Justina"
+            "full": "Naruko Anjou"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70735-DmmbHRLKpS0E.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b40593-3N05kRft0s8d.jpg"
           }
         },
         {
-          "id": 83103,
+          "id": 40591,
           "name": {
-            "full": "Lucifer"
+            "full": "Jinta Yadomi"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83103-fksjOXqJCmxd.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b40591-PFcHVI98QgnI.jpg"
           }
         },
         {
-          "id": 70737,
+          "id": 40596,
           "name": {
-            "full": "Alciel"
+            "full": "Tetsudo Hisakawa"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70737-lDeBmECttJCK.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b40596-hm4I6Cal3EaS.jpg"
           }
         },
         {
-          "id": 70739,
+          "id": 40594,
           "name": {
-            "full": "Chiho Sasaki"
+            "full": "Atsumu Matsuyuki"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70739-rJpfVU2YH5nS.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b40594-ZKnNeogrL2K0.jpg"
           }
         }
       ]
@@ -4586,6 +4530,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "The Devil is a Part-Timer!",
+      "romaji": "Hataraku Maou-sama!"
+    },
+    "id": 15809,
+    "characters": {
+      "nodes": [
+        {
+          "id": 70733,
+          "name": {
+            "full": "Satan Jacob"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70733-d564H7iUj7Y2.png"
+          }
+        },
+        {
+          "id": 70735,
+          "name": {
+            "full": "Emilia Justina"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70735-DmmbHRLKpS0E.png"
+          }
+        },
+        {
+          "id": 83103,
+          "name": {
+            "full": "Lucifer"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83103-fksjOXqJCmxd.png"
+          }
+        },
+        {
+          "id": 70737,
+          "name": {
+            "full": "Alciel"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70737-lDeBmECttJCK.png"
+          }
+        },
+        {
+          "id": 70739,
+          "name": {
+            "full": "Chiho Sasaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70739-rJpfVU2YH5nS.png"
           }
         }
       ]
