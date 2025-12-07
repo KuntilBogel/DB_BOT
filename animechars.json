@@ -1793,62 +1793,6 @@
   },
   {
     "title": {
-      "english": "Noragami",
-      "romaji": "Noragami"
-    },
-    "id": 20447,
-    "characters": {
-      "nodes": [
-        {
-          "id": 84677,
-          "name": {
-            "full": "Yato"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b84677-PFmohzIXD1ud.png"
-          }
-        },
-        {
-          "id": 84679,
-          "name": {
-            "full": "Hiyori Iki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b84679-GdMxvYy36M9H.png"
-          }
-        },
-        {
-          "id": 84681,
-          "name": {
-            "full": "Yukine"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b84681-vFMPNxeDkoqt.png"
-          }
-        },
-        {
-          "id": 88239,
-          "name": {
-            "full": "Bishamon"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88239-ClhB8m8xWBQf.jpg"
-          }
-        },
-        {
-          "id": 88241,
-          "name": {
-            "full": "Kofuku Ebisu"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88241-3NQSKNgaQRNC.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Kaguya-sama: Love is War",
       "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen"
     },
@@ -1898,6 +1842,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121104-7TYRl3EEsDYU.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Noragami",
+      "romaji": "Noragami"
+    },
+    "id": 20447,
+    "characters": {
+      "nodes": [
+        {
+          "id": 84677,
+          "name": {
+            "full": "Yato"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b84677-PFmohzIXD1ud.png"
+          }
+        },
+        {
+          "id": 84679,
+          "name": {
+            "full": "Hiyori Iki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b84679-GdMxvYy36M9H.png"
+          }
+        },
+        {
+          "id": 84681,
+          "name": {
+            "full": "Yukine"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b84681-vFMPNxeDkoqt.png"
+          }
+        },
+        {
+          "id": 88239,
+          "name": {
+            "full": "Bishamon"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88239-ClhB8m8xWBQf.jpg"
+          }
+        },
+        {
+          "id": 88241,
+          "name": {
+            "full": "Kofuku Ebisu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88241-3NQSKNgaQRNC.png"
           }
         }
       ]
@@ -2521,62 +2521,6 @@
   },
   {
     "title": {
-      "english": "Parasyte -the maxim-",
-      "romaji": "Kiseijuu: Sei no Kakuritsu"
-    },
-    "id": 20623,
-    "characters": {
-      "nodes": [
-        {
-          "id": 12323,
-          "name": {
-            "full": "Shinichi Izumi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12323-NAoqDYOn2RSo.png"
-          }
-        },
-        {
-          "id": 13773,
-          "name": {
-            "full": "Migi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13773-Kuak0WTeTU9z.png"
-          }
-        },
-        {
-          "id": 19215,
-          "name": {
-            "full": "Kana Kimishima"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19215-oei5N1hu9w9w.png"
-          }
-        },
-        {
-          "id": 16586,
-          "name": {
-            "full": "Ryouko Tamiya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b16586-5BBzHsx1GLGC.jpg"
-          }
-        },
-        {
-          "id": 19436,
-          "name": {
-            "full": "Satomi Murano"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19436-d9ImDTVNQPKt.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
       "romaji": "Kimetsu no Yaiba: Mugen Ressha-hen"
     },
@@ -2626,6 +2570,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130050-qsLThJs5VIbz.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Parasyte -the maxim-",
+      "romaji": "Kiseijuu: Sei no Kakuritsu"
+    },
+    "id": 20623,
+    "characters": {
+      "nodes": [
+        {
+          "id": 12323,
+          "name": {
+            "full": "Shinichi Izumi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12323-NAoqDYOn2RSo.png"
+          }
+        },
+        {
+          "id": 13773,
+          "name": {
+            "full": "Migi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13773-Kuak0WTeTU9z.png"
+          }
+        },
+        {
+          "id": 19215,
+          "name": {
+            "full": "Kana Kimishima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19215-oei5N1hu9w9w.png"
+          }
+        },
+        {
+          "id": 16586,
+          "name": {
+            "full": "Ryouko Tamiya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b16586-5BBzHsx1GLGC.jpg"
+          }
+        },
+        {
+          "id": 19436,
+          "name": {
+            "full": "Satomi Murano"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19436-d9ImDTVNQPKt.jpg"
           }
         }
       ]
@@ -3753,62 +3753,6 @@
   },
   {
     "title": {
-      "english": "Kaguya-sama: Love is War?",
-      "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen"
-    },
-    "id": 112641,
-    "characters": {
-      "nodes": [
-        {
-          "id": 120649,
-          "name": {
-            "full": "Kaguya Shinomiya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b120649-NPaWaIpWy60E.png"
-          }
-        },
-        {
-          "id": 121103,
-          "name": {
-            "full": "Chika Fujiwara"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121103-UGLxT8utLPnq.png"
-          }
-        },
-        {
-          "id": 125886,
-          "name": {
-            "full": "Miko Iino"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b125886-TQbmqAaSgBLS.png"
-          }
-        },
-        {
-          "id": 121102,
-          "name": {
-            "full": "Yuu Ishigami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121102-tiQFxnSEIAwm.png"
-          }
-        },
-        {
-          "id": 121104,
-          "name": {
-            "full": "Ai Hayasaka"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121104-7TYRl3EEsDYU.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "JUJUTSU KAISEN Season 2",
       "romaji": "Jujutsu Kaisen 2nd Season"
     },
@@ -3858,6 +3802,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133704-8wLTGjc234q2.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Kaguya-sama: Love is War?",
+      "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen"
+    },
+    "id": 112641,
+    "characters": {
+      "nodes": [
+        {
+          "id": 120649,
+          "name": {
+            "full": "Kaguya Shinomiya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b120649-NPaWaIpWy60E.png"
+          }
+        },
+        {
+          "id": 121103,
+          "name": {
+            "full": "Chika Fujiwara"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121103-UGLxT8utLPnq.png"
+          }
+        },
+        {
+          "id": 125886,
+          "name": {
+            "full": "Miko Iino"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b125886-TQbmqAaSgBLS.png"
+          }
+        },
+        {
+          "id": 121102,
+          "name": {
+            "full": "Yuu Ishigami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121102-tiQFxnSEIAwm.png"
+          }
+        },
+        {
+          "id": 121104,
+          "name": {
+            "full": "Ai Hayasaka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121104-7TYRl3EEsDYU.png"
           }
         }
       ]
@@ -4244,12 +4244,12 @@
           }
         },
         {
-          "id": 78935,
+          "id": 78475,
           "name": {
-            "full": "Ikumi Mito"
+            "full": "Satoshi Isshiki"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b78935-21Ac5ydcrLCj.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b78475-pcxfAMiGe6xf.png"
           }
         }
       ]
@@ -5265,62 +5265,6 @@
   },
   {
     "title": {
-      "english": "Assassination Classroom Second Season",
-      "romaji": "Ansatsu Kyoushitsu 2nd Season"
-    },
-    "id": 21170,
-    "characters": {
-      "nodes": [
-        {
-          "id": 90107,
-          "name": {
-            "full": "Kusuo Saiki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90107-ZULW5HlPX1uU.png"
-          }
-        },
-        {
-          "id": 71933,
-          "name": {
-            "full": "Karma Akabane"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71933-HQ1TSjlrJ8Hv.jpg"
-          }
-        },
-        {
-          "id": 65643,
-          "name": {
-            "full": "Koro-sensei"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65643-jimrOw0RGtoB.png"
-          }
-        },
-        {
-          "id": 65645,
-          "name": {
-            "full": "Nagisa Shiota"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65645-nWH4mBMW5lYw.png"
-          }
-        },
-        {
-          "id": 18769,
-          "name": {
-            "full": "Tetsuya Kuroko"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b18769-7ms6XKt8jCzU.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Gurren Lagann",
       "romaji": "Tengen Toppa Gurren Lagann"
     },
@@ -5370,6 +5314,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2761-FmSJGaW9WzYZ.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Assassination Classroom Second Season",
+      "romaji": "Ansatsu Kyoushitsu 2nd Season"
+    },
+    "id": 21170,
+    "characters": {
+      "nodes": [
+        {
+          "id": 90107,
+          "name": {
+            "full": "Kusuo Saiki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90107-ZULW5HlPX1uU.png"
+          }
+        },
+        {
+          "id": 71933,
+          "name": {
+            "full": "Karma Akabane"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71933-HQ1TSjlrJ8Hv.jpg"
+          }
+        },
+        {
+          "id": 65643,
+          "name": {
+            "full": "Koro-sensei"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65643-jimrOw0RGtoB.png"
+          }
+        },
+        {
+          "id": 65645,
+          "name": {
+            "full": "Nagisa Shiota"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65645-nWH4mBMW5lYw.png"
+          }
+        },
+        {
+          "id": 18769,
+          "name": {
+            "full": "Tetsuya Kuroko"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b18769-7ms6XKt8jCzU.png"
           }
         }
       ]
