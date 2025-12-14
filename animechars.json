@@ -1345,62 +1345,6 @@
   },
   {
     "title": {
-      "english": "Naruto: Shippuden",
-      "romaji": "NARUTO: Shippuuden"
-    },
-    "id": 1735,
-    "characters": {
-      "nodes": [
-        {
-          "id": 14,
-          "name": {
-            "full": "Itachi Uchiha"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b14-9Kb1E5oel1ke.png"
-          }
-        },
-        {
-          "id": 85,
-          "name": {
-            "full": "Kakashi Hatake"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b85-mkVBh2yjxjmx.png"
-          }
-        },
-        {
-          "id": 17,
-          "name": {
-            "full": "Naruto Uzumaki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b17-phjcWCkRuIhu.png"
-          }
-        },
-        {
-          "id": 13,
-          "name": {
-            "full": "Sasuke Uchiha"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13-SISLEw1oAD7a.png"
-          }
-        },
-        {
-          "id": 2007,
-          "name": {
-            "full": "Shikamaru Nara"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2007-QaesJlIZDifj.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Attack on Titan Season 3 Part 2",
       "romaji": "Shingeki no Kyojin Season 3 Part 2"
     },
@@ -1450,6 +1394,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71121-7R7CnQd3lHgt.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Naruto: Shippuden",
+      "romaji": "NARUTO: Shippuuden"
+    },
+    "id": 1735,
+    "characters": {
+      "nodes": [
+        {
+          "id": 14,
+          "name": {
+            "full": "Itachi Uchiha"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b14-9Kb1E5oel1ke.png"
+          }
+        },
+        {
+          "id": 85,
+          "name": {
+            "full": "Kakashi Hatake"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b85-mkVBh2yjxjmx.png"
+          }
+        },
+        {
+          "id": 17,
+          "name": {
+            "full": "Naruto Uzumaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b17-phjcWCkRuIhu.png"
+          }
+        },
+        {
+          "id": 13,
+          "name": {
+            "full": "Sasuke Uchiha"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13-SISLEw1oAD7a.png"
+          }
+        },
+        {
+          "id": 2007,
+          "name": {
+            "full": "Shikamaru Nara"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2007-QaesJlIZDifj.jpg"
           }
         }
       ]
@@ -1780,12 +1780,12 @@
           }
         },
         {
-          "id": 124522,
+          "id": 124435,
           "name": {
-            "full": "Mereoleona Vermillion"
+            "full": "Julius Novachrono"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124522-lJK4Hy6Aokie.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124435-gXFVXWrCcieK.jpg"
           }
         }
       ]
@@ -2073,62 +2073,6 @@
   },
   {
     "title": {
-      "english": "Toradora!",
-      "romaji": "Toradora!"
-    },
-    "id": 4224,
-    "characters": {
-      "nodes": [
-        {
-          "id": 12064,
-          "name": {
-            "full": "Taiga Aisaka"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12064-7PDN3ylIeAZn.png"
-          }
-        },
-        {
-          "id": 12295,
-          "name": {
-            "full": "Ryuuji Takasu"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12295-d45uTNeJHuus.png"
-          }
-        },
-        {
-          "id": 13725,
-          "name": {
-            "full": "Ami Kawashima"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13725-Vk30kjvVT82z.png"
-          }
-        },
-        {
-          "id": 12305,
-          "name": {
-            "full": "Minori Kushieda"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12305-AdKOcp0az9mq.jpg"
-          }
-        },
-        {
-          "id": 12307,
-          "name": {
-            "full": "Yasuko Takasu"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12307-MfkPmovIGCm9.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Violet Evergarden",
       "romaji": "Violet Evergarden"
     },
@@ -2178,6 +2122,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124799-htaqVGZd83GW.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Toradora!",
+      "romaji": "Toradora!"
+    },
+    "id": 4224,
+    "characters": {
+      "nodes": [
+        {
+          "id": 12064,
+          "name": {
+            "full": "Taiga Aisaka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12064-7PDN3ylIeAZn.png"
+          }
+        },
+        {
+          "id": 12295,
+          "name": {
+            "full": "Ryuuji Takasu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12295-d45uTNeJHuus.png"
+          }
+        },
+        {
+          "id": 13725,
+          "name": {
+            "full": "Ami Kawashima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13725-Vk30kjvVT82z.png"
+          }
+        },
+        {
+          "id": 12305,
+          "name": {
+            "full": "Minori Kushieda"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12305-AdKOcp0az9mq.jpg"
+          }
+        },
+        {
+          "id": 12307,
+          "name": {
+            "full": "Yasuko Takasu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12307-MfkPmovIGCm9.png"
           }
         }
       ]
@@ -2817,21 +2817,21 @@
           }
         },
         {
-          "id": 86,
-          "name": {
-            "full": "Rei Ayanami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/86-cA1zL7fyls8E.jpg"
-          }
-        },
-        {
           "id": 89,
           "name": {
             "full": "Shinji Ikari"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89-ZtZhXkh1rITn.png"
+          }
+        },
+        {
+          "id": 86,
+          "name": {
+            "full": "Rei Ayanami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/86-cA1zL7fyls8E.jpg"
           }
         },
         {
@@ -3684,68 +3684,12 @@
           }
         },
         {
-          "id": 128040,
+          "id": 128034,
           "name": {
-            "full": "Shuna"
+            "full": "Veldora Tempest"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b128040-QOhtFHgfOT5O.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "english": "The Future Diary",
-      "romaji": "Mirai Nikki"
-    },
-    "id": 10620,
-    "characters": {
-      "nodes": [
-        {
-          "id": 4963,
-          "name": {
-            "full": "Yuno Gasai"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4963-7ZMcCtXW5hkY.png"
-          }
-        },
-        {
-          "id": 4966,
-          "name": {
-            "full": "Minene Uryuu"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4966-Bb0hjxjJtidY.jpg"
-          }
-        },
-        {
-          "id": 8306,
-          "name": {
-            "full": "Aru Akise"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8306-1plj927kFBCf.jpg"
-          }
-        },
-        {
-          "id": 4962,
-          "name": {
-            "full": "Yukiteru Amano"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4962-CpqPBVJngbq2.png"
-          }
-        },
-        {
-          "id": 4965,
-          "name": {
-            "full": "Mur Mur"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4965-kfp8cXLa4n6y.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b128034-Gg5MrpTFNSv8.png"
           }
         }
       ]
@@ -3802,6 +3746,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133704-8wLTGjc234q2.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "The Future Diary",
+      "romaji": "Mirai Nikki"
+    },
+    "id": 10620,
+    "characters": {
+      "nodes": [
+        {
+          "id": 4963,
+          "name": {
+            "full": "Yuno Gasai"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4963-7ZMcCtXW5hkY.png"
+          }
+        },
+        {
+          "id": 4966,
+          "name": {
+            "full": "Minene Uryuu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4966-Bb0hjxjJtidY.jpg"
+          }
+        },
+        {
+          "id": 8306,
+          "name": {
+            "full": "Aru Akise"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8306-1plj927kFBCf.jpg"
+          }
+        },
+        {
+          "id": 4962,
+          "name": {
+            "full": "Yukiteru Amano"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4962-CpqPBVJngbq2.png"
+          }
+        },
+        {
+          "id": 4965,
+          "name": {
+            "full": "Mur Mur"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4965-kfp8cXLa4n6y.png"
           }
         }
       ]
@@ -4244,12 +4244,12 @@
           }
         },
         {
-          "id": 78475,
+          "id": 78935,
           "name": {
-            "full": "Satoshi Isshiki"
+            "full": "Ikumi Mito"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b78475-pcxfAMiGe6xf.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b78935-21Ac5ydcrLCj.png"
           }
         }
       ]
