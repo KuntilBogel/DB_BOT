@@ -1780,12 +1780,12 @@
           }
         },
         {
-          "id": 124435,
+          "id": 124522,
           "name": {
-            "full": "Julius Novachrono"
+            "full": "Mereoleona Vermillion"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124435-gXFVXWrCcieK.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124522-lJK4Hy6Aokie.png"
           }
         }
       ]
@@ -1961,62 +1961,6 @@
   },
   {
     "title": {
-      "english": "Dr. STONE",
-      "romaji": "Dr. STONE"
-    },
-    "id": 105333,
-    "characters": {
-      "nodes": [
-        {
-          "id": 124142,
-          "name": {
-            "full": "Senkuu Ishigami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124142-XUO1g7wRqkaT.png"
-          }
-        },
-        {
-          "id": 127445,
-          "name": {
-            "full": "Gen Asagiri"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127445-oUCyS7Tl8l5D.png"
-          }
-        },
-        {
-          "id": 124143,
-          "name": {
-            "full": "Kohaku"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124143-DABUFs3cPNrP.png"
-          }
-        },
-        {
-          "id": 124145,
-          "name": {
-            "full": "Chrome"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124145-EEvQmsj8jku4.png"
-          }
-        },
-        {
-          "id": 36309,
-          "name": {
-            "full": "Narrator"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "SPY x FAMILY",
       "romaji": "SPY×FAMILY"
     },
@@ -2066,6 +2010,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169679-EFPubVtZFYom.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Dr. STONE",
+      "romaji": "Dr. STONE"
+    },
+    "id": 105333,
+    "characters": {
+      "nodes": [
+        {
+          "id": 124142,
+          "name": {
+            "full": "Senkuu Ishigami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124142-XUO1g7wRqkaT.png"
+          }
+        },
+        {
+          "id": 127445,
+          "name": {
+            "full": "Gen Asagiri"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127445-oUCyS7Tl8l5D.png"
+          }
+        },
+        {
+          "id": 124143,
+          "name": {
+            "full": "Kohaku"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124143-DABUFs3cPNrP.png"
+          }
+        },
+        {
+          "id": 124145,
+          "name": {
+            "full": "Chrome"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124145-EEvQmsj8jku4.png"
+          }
+        },
+        {
+          "id": 36309,
+          "name": {
+            "full": "Narrator"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
           }
         }
       ]
@@ -4593,62 +4593,6 @@
   },
   {
     "title": {
-      "english": "JUJUTSU KAISEN 0",
-      "romaji": "Jujutsu Kaisen 0"
-    },
-    "id": 131573,
-    "characters": {
-      "nodes": [
-        {
-          "id": 127691,
-          "name": {
-            "full": "Satoru Gojou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127691-9zqh1xpIubn7.png"
-          }
-        },
-        {
-          "id": 133704,
-          "name": {
-            "full": "Kento Nanami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133704-8wLTGjc234q2.png"
-          }
-        },
-        {
-          "id": 134167,
-          "name": {
-            "full": "Maki Zenin"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b134167-5TCytk45YByD.png"
-          }
-        },
-        {
-          "id": 129571,
-          "name": {
-            "full": "Yuuta Okkotsu"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129571-GHJk7gviHOOw.jpg"
-          }
-        },
-        {
-          "id": 157115,
-          "name": {
-            "full": "Toge Inumaki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157115-kdhRYQdVhH95.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Frieren: Beyond Journey’s End",
       "romaji": "Sousou no Frieren"
     },
@@ -4698,6 +4642,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b246057-ixvDfpng6I1S.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "JUJUTSU KAISEN 0",
+      "romaji": "Jujutsu Kaisen 0"
+    },
+    "id": 131573,
+    "characters": {
+      "nodes": [
+        {
+          "id": 127691,
+          "name": {
+            "full": "Satoru Gojou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127691-9zqh1xpIubn7.png"
+          }
+        },
+        {
+          "id": 133704,
+          "name": {
+            "full": "Kento Nanami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133704-8wLTGjc234q2.png"
+          }
+        },
+        {
+          "id": 134167,
+          "name": {
+            "full": "Maki Zenin"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b134167-5TCytk45YByD.png"
+          }
+        },
+        {
+          "id": 129571,
+          "name": {
+            "full": "Yuuta Okkotsu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129571-GHJk7gviHOOw.jpg"
+          }
+        },
+        {
+          "id": 157115,
+          "name": {
+            "full": "Toge Inumaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157115-kdhRYQdVhH95.png"
           }
         }
       ]
@@ -4873,62 +4873,6 @@
   },
   {
     "title": {
-      "english": "Another",
-      "romaji": "Another"
-    },
-    "id": 11111,
-    "characters": {
-      "nodes": [
-        {
-          "id": 41402,
-          "name": {
-            "full": "Mei Misaki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b41402-uMQLbpd8uwKH.png"
-          }
-        },
-        {
-          "id": 41400,
-          "name": {
-            "full": "Kouichi Sakakibara"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b41400-R2RzXzBtXOfJ.png"
-          }
-        },
-        {
-          "id": 51585,
-          "name": {
-            "full": "Izumi Akazawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b51585-Sp3l5TRdrULa.jpg"
-          }
-        },
-        {
-          "id": 51587,
-          "name": {
-            "full": "Naoya Teshigawara"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b51587-Pw1kxIJNb6Sm.png"
-          }
-        },
-        {
-          "id": 51595,
-          "name": {
-            "full": "Yuuya Mochizuki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b51595-WONJEojLs7jf.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "My Dress-Up Darling",
       "romaji": "Sono Bisque Doll wa Koi wo Suru"
     },
@@ -4978,6 +4922,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b207937-ytYjcNtNX77K.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Another",
+      "romaji": "Another"
+    },
+    "id": 11111,
+    "characters": {
+      "nodes": [
+        {
+          "id": 41402,
+          "name": {
+            "full": "Mei Misaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b41402-uMQLbpd8uwKH.png"
+          }
+        },
+        {
+          "id": 41400,
+          "name": {
+            "full": "Kouichi Sakakibara"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b41400-R2RzXzBtXOfJ.png"
+          }
+        },
+        {
+          "id": 51585,
+          "name": {
+            "full": "Izumi Akazawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b51585-Sp3l5TRdrULa.jpg"
+          }
+        },
+        {
+          "id": 51587,
+          "name": {
+            "full": "Naoya Teshigawara"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b51587-Pw1kxIJNb6Sm.png"
+          }
+        },
+        {
+          "id": 51595,
+          "name": {
+            "full": "Yuuya Mochizuki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b51595-WONJEojLs7jf.png"
           }
         }
       ]
