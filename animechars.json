@@ -1809,21 +1809,21 @@
           }
         },
         {
-          "id": 121103,
-          "name": {
-            "full": "Chika Fujiwara"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121103-UGLxT8utLPnq.png"
-          }
-        },
-        {
           "id": 125886,
           "name": {
             "full": "Miko Iino"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b125886-TQbmqAaSgBLS.png"
+          }
+        },
+        {
+          "id": 121103,
+          "name": {
+            "full": "Chika Fujiwara"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121103-UGLxT8utLPnq.png"
           }
         },
         {
@@ -2969,62 +2969,6 @@
   },
   {
     "title": {
-      "english": "Blue Exorcist",
-      "romaji": "Ao no Exorcist"
-    },
-    "id": 9919,
-    "characters": {
-      "nodes": [
-        {
-          "id": 24482,
-          "name": {
-            "full": "Rin Okumura"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24482-E6087V4uAVqL.jpg"
-          }
-        },
-        {
-          "id": 32110,
-          "name": {
-            "full": "Shura Kirigakure"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b32110-Ats6VvSZy300.png"
-          }
-        },
-        {
-          "id": 30432,
-          "name": {
-            "full": "Mephisto Pheles"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b30432-I4KwsegOrzfq.png"
-          }
-        },
-        {
-          "id": 24734,
-          "name": {
-            "full": "Yukio Okumura"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24734-GgVZoNAPnxoc.png"
-          }
-        },
-        {
-          "id": 43187,
-          "name": {
-            "full": "Kuro"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43187-uJySWMkmaWmZ.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "JoJo's Bizarre Adventure (TV)",
       "romaji": "JoJo no Kimyou na Bouken (TV)"
     },
@@ -3074,6 +3018,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b21959-Cm9Rlh0EFAQw.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Blue Exorcist",
+      "romaji": "Ao no Exorcist"
+    },
+    "id": 9919,
+    "characters": {
+      "nodes": [
+        {
+          "id": 24482,
+          "name": {
+            "full": "Rin Okumura"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24482-E6087V4uAVqL.jpg"
+          }
+        },
+        {
+          "id": 32110,
+          "name": {
+            "full": "Shura Kirigakure"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b32110-Ats6VvSZy300.png"
+          }
+        },
+        {
+          "id": 30432,
+          "name": {
+            "full": "Mephisto Pheles"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b30432-I4KwsegOrzfq.png"
+          }
+        },
+        {
+          "id": 24734,
+          "name": {
+            "full": "Yukio Okumura"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24734-GgVZoNAPnxoc.png"
+          }
+        },
+        {
+          "id": 43187,
+          "name": {
+            "full": "Kuro"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43187-uJySWMkmaWmZ.png"
           }
         }
       ]
@@ -3825,21 +3825,21 @@
           }
         },
         {
-          "id": 121103,
-          "name": {
-            "full": "Chika Fujiwara"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121103-UGLxT8utLPnq.png"
-          }
-        },
-        {
           "id": 125886,
           "name": {
             "full": "Miko Iino"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b125886-TQbmqAaSgBLS.png"
+          }
+        },
+        {
+          "id": 121103,
+          "name": {
+            "full": "Chika Fujiwara"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121103-UGLxT8utLPnq.png"
           }
         },
         {
@@ -4481,6 +4481,62 @@
   },
   {
     "title": {
+      "english": "Frieren: Beyond Journey’s End",
+      "romaji": "Sousou no Frieren"
+    },
+    "id": 154587,
+    "characters": {
+      "nodes": [
+        {
+          "id": 176754,
+          "name": {
+            "full": "Frieren"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b176754-PCnpqIOkjhFk.png"
+          }
+        },
+        {
+          "id": 183965,
+          "name": {
+            "full": "Fern"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b183965-uGFohBjlFoTp.png"
+          }
+        },
+        {
+          "id": 184313,
+          "name": {
+            "full": "Stark"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184313-CQl6GSt4RSny.jpg"
+          }
+        },
+        {
+          "id": 184311,
+          "name": {
+            "full": "Himmel"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184311-re77QUMpxazj.jpg"
+          }
+        },
+        {
+          "id": 246057,
+          "name": {
+            "full": "Übel"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b246057-ixvDfpng6I1S.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
       "english": "Made in Abyss",
       "romaji": "Made in Abyss"
     },
@@ -4586,62 +4642,6 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70739-rJpfVU2YH5nS.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "english": "Frieren: Beyond Journey’s End",
-      "romaji": "Sousou no Frieren"
-    },
-    "id": 154587,
-    "characters": {
-      "nodes": [
-        {
-          "id": 176754,
-          "name": {
-            "full": "Frieren"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b176754-PCnpqIOkjhFk.png"
-          }
-        },
-        {
-          "id": 183965,
-          "name": {
-            "full": "Fern"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b183965-uGFohBjlFoTp.png"
-          }
-        },
-        {
-          "id": 184313,
-          "name": {
-            "full": "Stark"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184313-CQl6GSt4RSny.jpg"
-          }
-        },
-        {
-          "id": 184311,
-          "name": {
-            "full": "Himmel"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184311-re77QUMpxazj.jpg"
-          }
-        },
-        {
-          "id": 246057,
-          "name": {
-            "full": "Übel"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b246057-ixvDfpng6I1S.png"
           }
         }
       ]
@@ -4761,62 +4761,6 @@
   },
   {
     "title": {
-      "english": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
-      "romaji": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
-    },
-    "id": 20920,
-    "characters": {
-      "nodes": [
-        {
-          "id": 87655,
-          "name": {
-            "full": "Ais Wallenstein"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87655-7QjpIyyZuqyp.png"
-          }
-        },
-        {
-          "id": 88860,
-          "name": {
-            "full": "Bell Cranel"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88860-catfcwlvUYst.jpg"
-          }
-        },
-        {
-          "id": 87654,
-          "name": {
-            "full": "Hestia"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87654-UmmuLPwSK2Hd.jpg"
-          }
-        },
-        {
-          "id": 88890,
-          "name": {
-            "full": "Ryuu  Lion"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88890-lJFKK5czkH9E.jpg"
-          }
-        },
-        {
-          "id": 88897,
-          "name": {
-            "full": "Liliruca Arde"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88897-2xey5UG7Qr2S.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Solo Leveling",
       "romaji": "Ore dake Level Up na Ken"
     },
@@ -4866,6 +4810,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136074-pLyumEnxjL7P.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+      "romaji": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
+    },
+    "id": 20920,
+    "characters": {
+      "nodes": [
+        {
+          "id": 87655,
+          "name": {
+            "full": "Ais Wallenstein"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87655-7QjpIyyZuqyp.png"
+          }
+        },
+        {
+          "id": 88860,
+          "name": {
+            "full": "Bell Cranel"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88860-catfcwlvUYst.jpg"
+          }
+        },
+        {
+          "id": 87654,
+          "name": {
+            "full": "Hestia"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87654-UmmuLPwSK2Hd.jpg"
+          }
+        },
+        {
+          "id": 88890,
+          "name": {
+            "full": "Ryuu  Lion"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88890-lJFKK5czkH9E.jpg"
+          }
+        },
+        {
+          "id": 88897,
+          "name": {
+            "full": "Liliruca Arde"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88897-2xey5UG7Qr2S.png"
           }
         }
       ]
