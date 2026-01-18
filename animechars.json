@@ -1289,62 +1289,6 @@
   },
   {
     "title": {
-      "english": "My Hero Academia Season 3",
-      "romaji": "Boku no Hero Academia 3"
-    },
-    "id": 100166,
-    "characters": {
-      "nodes": [
-        {
-          "id": 89220,
-          "name": {
-            "full": "Shouto Todoroki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89220-KNBwaVFAR8FD.png"
-          }
-        },
-        {
-          "id": 88892,
-          "name": {
-            "full": "Katsuki Bakugou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88892-bdOha3lNcaN6.png"
-          }
-        },
-        {
-          "id": 89028,
-          "name": {
-            "full": "Izuku Midoriya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89028-8w1I9o1ISHMg.png"
-          }
-        },
-        {
-          "id": 89225,
-          "name": {
-            "full": "Shouta Aizawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89225-XBgvUhI9naVI.png"
-          }
-        },
-        {
-          "id": 89224,
-          "name": {
-            "full": "Toshinori Yagi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89224-K6KEuQAuYKzq.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Attack on Titan Season 3 Part 2",
       "romaji": "Shingeki no Kyojin Season 3 Part 2"
     },
@@ -1394,6 +1338,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71121-7R7CnQd3lHgt.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "My Hero Academia Season 3",
+      "romaji": "Boku no Hero Academia 3"
+    },
+    "id": 100166,
+    "characters": {
+      "nodes": [
+        {
+          "id": 89220,
+          "name": {
+            "full": "Shouto Todoroki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89220-KNBwaVFAR8FD.png"
+          }
+        },
+        {
+          "id": 88892,
+          "name": {
+            "full": "Katsuki Bakugou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88892-bdOha3lNcaN6.png"
+          }
+        },
+        {
+          "id": 89028,
+          "name": {
+            "full": "Izuku Midoriya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89028-8w1I9o1ISHMg.png"
+          }
+        },
+        {
+          "id": 89225,
+          "name": {
+            "full": "Shouta Aizawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89225-XBgvUhI9naVI.png"
+          }
+        },
+        {
+          "id": 89224,
+          "name": {
+            "full": "Toshinori Yagi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89224-K6KEuQAuYKzq.jpg"
           }
         }
       ]
@@ -1569,62 +1569,6 @@
   },
   {
     "title": {
-      "english": "HAIKYU!!",
-      "romaji": "Haikyuu!!"
-    },
-    "id": 20464,
-    "characters": {
-      "nodes": [
-        {
-          "id": 64769,
-          "name": {
-            "full": "Shouyou Hinata"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64769-WoWlCMLLgJ14.png"
-          }
-        },
-        {
-          "id": 64771,
-          "name": {
-            "full": "Tobio Kageyama"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64771-BuCVs7B8bBdh.png"
-          }
-        },
-        {
-          "id": 67327,
-          "name": {
-            "full": "Yuu Nishinoya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67327-zQb1dlC7joPb.jpg"
-          }
-        },
-        {
-          "id": 71267,
-          "name": {
-            "full": "Kenma Kozume"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71267-q44J2MXMinXD.jpg"
-          }
-        },
-        {
-          "id": 71611,
-          "name": {
-            "full": "Tooru Oikawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71611-cUZwVfzeNXD9.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Chainsaw Man",
       "romaji": "Chainsaw Man"
     },
@@ -1674,6 +1618,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b148740-ceAibPxLW8rR.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "HAIKYU!!",
+      "romaji": "Haikyuu!!"
+    },
+    "id": 20464,
+    "characters": {
+      "nodes": [
+        {
+          "id": 64769,
+          "name": {
+            "full": "Shouyou Hinata"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64769-WoWlCMLLgJ14.png"
+          }
+        },
+        {
+          "id": 64771,
+          "name": {
+            "full": "Tobio Kageyama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64771-BuCVs7B8bBdh.png"
+          }
+        },
+        {
+          "id": 67327,
+          "name": {
+            "full": "Yuu Nishinoya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67327-zQb1dlC7joPb.jpg"
+          }
+        },
+        {
+          "id": 71267,
+          "name": {
+            "full": "Kenma Kozume"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71267-q44J2MXMinXD.jpg"
+          }
+        },
+        {
+          "id": 71611,
+          "name": {
+            "full": "Tooru Oikawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71611-cUZwVfzeNXD9.png"
           }
         }
       ]
@@ -1809,21 +1809,21 @@
           }
         },
         {
-          "id": 125886,
-          "name": {
-            "full": "Miko Iino"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b125886-TQbmqAaSgBLS.png"
-          }
-        },
-        {
           "id": 121103,
           "name": {
             "full": "Chika Fujiwara"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121103-UGLxT8utLPnq.png"
+          }
+        },
+        {
+          "id": 125886,
+          "name": {
+            "full": "Miko Iino"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b125886-TQbmqAaSgBLS.png"
           }
         },
         {
@@ -1842,6 +1842,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121104-7TYRl3EEsDYU.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "SPY x FAMILY",
+      "romaji": "SPY×FAMILY"
+    },
+    "id": 140960,
+    "characters": {
+      "nodes": [
+        {
+          "id": 138102,
+          "name": {
+            "full": "Yor Forger"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b138102-ZOAu9jI2d5ke.png"
+          }
+        },
+        {
+          "id": 138100,
+          "name": {
+            "full": "Anya Forger"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b138100-4Li0tWRCa5bQ.png"
+          }
+        },
+        {
+          "id": 138101,
+          "name": {
+            "full": "Loid Forger"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b138101-7NCB0Md8zA6G.png"
+          }
+        },
+        {
+          "id": 36309,
+          "name": {
+            "full": "Narrator"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
+          }
+        },
+        {
+          "id": 169679,
+          "name": {
+            "full": "Bond"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169679-EFPubVtZFYom.jpg"
           }
         }
       ]
@@ -1954,62 +2010,6 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88003-tZKsjjzDWV8e.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "english": "SPY x FAMILY",
-      "romaji": "SPY×FAMILY"
-    },
-    "id": 140960,
-    "characters": {
-      "nodes": [
-        {
-          "id": 138102,
-          "name": {
-            "full": "Yor Forger"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b138102-ZOAu9jI2d5ke.png"
-          }
-        },
-        {
-          "id": 138100,
-          "name": {
-            "full": "Anya Forger"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b138100-4Li0tWRCa5bQ.png"
-          }
-        },
-        {
-          "id": 138101,
-          "name": {
-            "full": "Loid Forger"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b138101-7NCB0Md8zA6G.png"
-          }
-        },
-        {
-          "id": 36309,
-          "name": {
-            "full": "Narrator"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
-          }
-        },
-        {
-          "id": 169679,
-          "name": {
-            "full": "Bond"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169679-EFPubVtZFYom.jpg"
           }
         }
       ]
@@ -2714,21 +2714,21 @@
           }
         },
         {
-          "id": 908,
-          "name": {
-            "full": "Yoruichi Shihouin"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b908-JSYUkJLCw1f0.png"
-          }
-        },
-        {
           "id": 6,
           "name": {
             "full": "Rukia Kuchiki"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b6-25WoBeWMZXBc.png"
+          }
+        },
+        {
+          "id": 908,
+          "name": {
+            "full": "Yoruichi Shihouin"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b908-JSYUkJLCw1f0.png"
           }
         },
         {
@@ -3115,21 +3115,21 @@
           }
         },
         {
-          "id": 24734,
-          "name": {
-            "full": "Yukio Okumura"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24734-GgVZoNAPnxoc.png"
-          }
-        },
-        {
           "id": 43187,
           "name": {
             "full": "Kuro"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43187-uJySWMkmaWmZ.png"
+          }
+        },
+        {
+          "id": 24734,
+          "name": {
+            "full": "Yukio Okumura"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24734-GgVZoNAPnxoc.png"
           }
         }
       ]
@@ -3473,62 +3473,6 @@
   },
   {
     "title": {
-      "english": "Angel Beats!",
-      "romaji": "Angel Beats!"
-    },
-    "id": 6547,
-    "characters": {
-      "nodes": [
-        {
-          "id": 22370,
-          "name": {
-            "full": "Yuri Nakamura"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22370-pNQxFEv1K7lS.jpg"
-          }
-        },
-        {
-          "id": 22369,
-          "name": {
-            "full": "Kanade Tachibana"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22369-zC7OgGbfO7b6.jpg"
-          }
-        },
-        {
-          "id": 24515,
-          "name": {
-            "full": "Yui Yoshioka"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24515-4v85Z9CqCe0Y.png"
-          }
-        },
-        {
-          "id": 24502,
-          "name": {
-            "full": "Yuzuru Otonashi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24502-TJE8JeOERvj0.jpg"
-          }
-        },
-        {
-          "id": 24503,
-          "name": {
-            "full": "Hideki Hinata"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24503-aMw9BnXmEVrP.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Mob Psycho 100 II",
       "romaji": "Mob Psycho 100 II"
     },
@@ -3578,6 +3522,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Angel Beats!",
+      "romaji": "Angel Beats!"
+    },
+    "id": 6547,
+    "characters": {
+      "nodes": [
+        {
+          "id": 22370,
+          "name": {
+            "full": "Yuri Nakamura"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22370-pNQxFEv1K7lS.jpg"
+          }
+        },
+        {
+          "id": 22369,
+          "name": {
+            "full": "Kanade Tachibana"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22369-zC7OgGbfO7b6.jpg"
+          }
+        },
+        {
+          "id": 24515,
+          "name": {
+            "full": "Yui Yoshioka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24515-4v85Z9CqCe0Y.png"
+          }
+        },
+        {
+          "id": 24502,
+          "name": {
+            "full": "Yuzuru Otonashi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24502-TJE8JeOERvj0.jpg"
+          }
+        },
+        {
+          "id": 24503,
+          "name": {
+            "full": "Hideki Hinata"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24503-aMw9BnXmEVrP.png"
           }
         }
       ]
@@ -3825,21 +3825,21 @@
           }
         },
         {
-          "id": 125886,
-          "name": {
-            "full": "Miko Iino"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b125886-TQbmqAaSgBLS.png"
-          }
-        },
-        {
           "id": 121103,
           "name": {
             "full": "Chika Fujiwara"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121103-UGLxT8utLPnq.png"
+          }
+        },
+        {
+          "id": 125886,
+          "name": {
+            "full": "Miko Iino"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b125886-TQbmqAaSgBLS.png"
           }
         },
         {
@@ -4201,55 +4201,55 @@
   },
   {
     "title": {
-      "english": "Food Wars!",
-      "romaji": "Shokugeki no Souma"
+      "english": "Frieren: Beyond Journey’s End",
+      "romaji": "Sousou no Frieren"
     },
-    "id": 20923,
+    "id": 154587,
     "characters": {
       "nodes": [
         {
-          "id": 75216,
+          "id": 176754,
           "name": {
-            "full": "Souma Yukihira"
+            "full": "Frieren"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b75216-KDU8333eIcqf.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b176754-PCnpqIOkjhFk.png"
           }
         },
         {
-          "id": 75284,
+          "id": 183965,
           "name": {
-            "full": "Erina Nakiri"
+            "full": "Fern"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b75284-4Hiyq7DOwvy7.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b183965-uGFohBjlFoTp.png"
           }
         },
         {
-          "id": 88956,
+          "id": 184313,
           "name": {
-            "full": "Alice Nakiri"
+            "full": "Stark"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88956-RbwleCQc741G.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184313-CQl6GSt4RSny.jpg"
           }
         },
         {
-          "id": 76026,
+          "id": 184311,
           "name": {
-            "full": "Megumi Tadokoro"
+            "full": "Himmel"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b76026-cQAQTlZFfG2e.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184311-fyTXM9e0f3RD.png"
           }
         },
         {
-          "id": 78935,
+          "id": 246057,
           "name": {
-            "full": "Ikumi Mito"
+            "full": "Übel"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b78935-21Ac5ydcrLCj.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b246057-ixvDfpng6I1S.png"
           }
         }
       ]
@@ -4313,6 +4313,62 @@
   },
   {
     "title": {
+      "english": "Food Wars!",
+      "romaji": "Shokugeki no Souma"
+    },
+    "id": 20923,
+    "characters": {
+      "nodes": [
+        {
+          "id": 75216,
+          "name": {
+            "full": "Souma Yukihira"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b75216-KDU8333eIcqf.jpg"
+          }
+        },
+        {
+          "id": 75284,
+          "name": {
+            "full": "Erina Nakiri"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b75284-4Hiyq7DOwvy7.png"
+          }
+        },
+        {
+          "id": 88956,
+          "name": {
+            "full": "Alice Nakiri"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88956-RbwleCQc741G.png"
+          }
+        },
+        {
+          "id": 76026,
+          "name": {
+            "full": "Megumi Tadokoro"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b76026-cQAQTlZFfG2e.png"
+          }
+        },
+        {
+          "id": 78935,
+          "name": {
+            "full": "Ikumi Mito"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b78935-21Ac5ydcrLCj.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
       "english": "Tokyo Ghoul √A",
       "romaji": "Tokyo Ghoul √A"
     },
@@ -4369,55 +4425,55 @@
   },
   {
     "title": {
-      "english": "Frieren: Beyond Journey’s End",
-      "romaji": "Sousou no Frieren"
+      "english": "JUJUTSU KAISEN 0",
+      "romaji": "Jujutsu Kaisen 0"
     },
-    "id": 154587,
+    "id": 131573,
     "characters": {
       "nodes": [
         {
-          "id": 176754,
+          "id": 127691,
           "name": {
-            "full": "Frieren"
+            "full": "Satoru Gojou"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b176754-PCnpqIOkjhFk.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127691-9zqh1xpIubn7.png"
           }
         },
         {
-          "id": 183965,
+          "id": 133704,
           "name": {
-            "full": "Fern"
+            "full": "Kento Nanami"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b183965-uGFohBjlFoTp.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133704-8wLTGjc234q2.png"
           }
         },
         {
-          "id": 184313,
+          "id": 134167,
           "name": {
-            "full": "Stark"
+            "full": "Maki Zenin"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184313-CQl6GSt4RSny.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b134167-5TCytk45YByD.png"
           }
         },
         {
-          "id": 184311,
+          "id": 129571,
           "name": {
-            "full": "Himmel"
+            "full": "Yuuta Okkotsu"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184311-re77QUMpxazj.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129571-GHJk7gviHOOw.jpg"
           }
         },
         {
-          "id": 246057,
+          "id": 157115,
           "name": {
-            "full": "Übel"
+            "full": "Toge Inumaki"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b246057-ixvDfpng6I1S.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157115-kdhRYQdVhH95.png"
           }
         }
       ]
@@ -4474,62 +4530,6 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71611-cUZwVfzeNXD9.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "english": "JUJUTSU KAISEN 0",
-      "romaji": "Jujutsu Kaisen 0"
-    },
-    "id": 131573,
-    "characters": {
-      "nodes": [
-        {
-          "id": 127691,
-          "name": {
-            "full": "Satoru Gojou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127691-9zqh1xpIubn7.png"
-          }
-        },
-        {
-          "id": 133704,
-          "name": {
-            "full": "Kento Nanami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133704-8wLTGjc234q2.png"
-          }
-        },
-        {
-          "id": 134167,
-          "name": {
-            "full": "Maki Zenin"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b134167-5TCytk45YByD.png"
-          }
-        },
-        {
-          "id": 129571,
-          "name": {
-            "full": "Yuuta Okkotsu"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129571-GHJk7gviHOOw.jpg"
-          }
-        },
-        {
-          "id": 157115,
-          "name": {
-            "full": "Toge Inumaki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157115-kdhRYQdVhH95.png"
           }
         }
       ]
@@ -5209,62 +5209,6 @@
   },
   {
     "title": {
-      "english": "Dororo",
-      "romaji": "Dororo"
-    },
-    "id": 101347,
-    "characters": {
-      "nodes": [
-        {
-          "id": 14864,
-          "name": {
-            "full": "Hyakkimaru"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b14864-MMntDWi2EkyR.png"
-          }
-        },
-        {
-          "id": 36309,
-          "name": {
-            "full": "Narrator"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
-          }
-        },
-        {
-          "id": 18130,
-          "name": {
-            "full": "Dororo"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b18130-qD7dREeDAkLE.png"
-          }
-        },
-        {
-          "id": 133825,
-          "name": {
-            "full": "Mio"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133825-zCFpsLLRJnPm.jpg"
-          }
-        },
-        {
-          "id": 24843,
-          "name": {
-            "full": "Biwamaru"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n24843-aemlGiDa6lk8.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Gurren Lagann",
       "romaji": "Tengen Toppa Gurren Lagann"
     },
@@ -5314,6 +5258,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2761-FmSJGaW9WzYZ.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Dororo",
+      "romaji": "Dororo"
+    },
+    "id": 101347,
+    "characters": {
+      "nodes": [
+        {
+          "id": 14864,
+          "name": {
+            "full": "Hyakkimaru"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b14864-MMntDWi2EkyR.png"
+          }
+        },
+        {
+          "id": 36309,
+          "name": {
+            "full": "Narrator"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
+          }
+        },
+        {
+          "id": 18130,
+          "name": {
+            "full": "Dororo"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b18130-qD7dREeDAkLE.png"
+          }
+        },
+        {
+          "id": 133825,
+          "name": {
+            "full": "Mio"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133825-zCFpsLLRJnPm.jpg"
+          }
+        },
+        {
+          "id": 24843,
+          "name": {
+            "full": "Biwamaru"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n24843-aemlGiDa6lk8.png"
           }
         }
       ]
