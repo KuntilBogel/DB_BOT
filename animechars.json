@@ -73,21 +73,21 @@
           }
         },
         {
-          "id": 127518,
-          "name": {
-            "full": "Nezuko Kamado"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127518-NRlq1CQ1v1ro.png"
-          }
-        },
-        {
           "id": 129130,
           "name": {
             "full": "Inosuke Hashibira"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/n129130-SJC0Kn1DU39E.jpg"
+          }
+        },
+        {
+          "id": 127518,
+          "name": {
+            "full": "Nezuko Kamado"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127518-NRlq1CQ1v1ro.png"
           }
         },
         {
@@ -1513,62 +1513,6 @@
   },
   {
     "title": {
-      "english": "Steins;Gate",
-      "romaji": "Steins;Gate"
-    },
-    "id": 9253,
-    "characters": {
-      "nodes": [
-        {
-          "id": 34470,
-          "name": {
-            "full": "Kurisu Makise"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b34470-Jw2LXZBL5R8i.png"
-          }
-        },
-        {
-          "id": 35252,
-          "name": {
-            "full": "Rintarou Okabe"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b35252-DY9TW6pusqeh.png"
-          }
-        },
-        {
-          "id": 35253,
-          "name": {
-            "full": "Mayuri Shiina"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b35253-u6QVgLLyHq2W.png"
-          }
-        },
-        {
-          "id": 35255,
-          "name": {
-            "full": "Suzuha Amane"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b35255-Ra9Aq5Kn9lYq.png"
-          }
-        },
-        {
-          "id": 30919,
-          "name": {
-            "full": "Luka Urushibara"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b30919-5PjiA4ucfuuJ.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Chainsaw Man",
       "romaji": "Chainsaw Man"
     },
@@ -1618,6 +1562,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b148740-ceAibPxLW8rR.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Steins;Gate",
+      "romaji": "Steins;Gate"
+    },
+    "id": 9253,
+    "characters": {
+      "nodes": [
+        {
+          "id": 34470,
+          "name": {
+            "full": "Kurisu Makise"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b34470-Jw2LXZBL5R8i.png"
+          }
+        },
+        {
+          "id": 35252,
+          "name": {
+            "full": "Rintarou Okabe"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b35252-DY9TW6pusqeh.png"
+          }
+        },
+        {
+          "id": 35253,
+          "name": {
+            "full": "Mayuri Shiina"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b35253-u6QVgLLyHq2W.png"
+          }
+        },
+        {
+          "id": 35255,
+          "name": {
+            "full": "Suzuha Amane"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b35255-Ra9Aq5Kn9lYq.png"
+          }
+        },
+        {
+          "id": 30919,
+          "name": {
+            "full": "Luka Urushibara"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b30919-5PjiA4ucfuuJ.png"
           }
         }
       ]
@@ -2537,21 +2537,21 @@
           }
         },
         {
-          "id": 127518,
-          "name": {
-            "full": "Nezuko Kamado"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127518-NRlq1CQ1v1ro.png"
-          }
-        },
-        {
           "id": 129130,
           "name": {
             "full": "Inosuke Hashibira"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/n129130-SJC0Kn1DU39E.jpg"
+          }
+        },
+        {
+          "id": 127518,
+          "name": {
+            "full": "Nezuko Kamado"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127518-NRlq1CQ1v1ro.png"
           }
         },
         {
@@ -2969,62 +2969,6 @@
   },
   {
     "title": {
-      "english": "JoJo's Bizarre Adventure (TV)",
-      "romaji": "JoJo no Kimyou na Bouken (TV)"
-    },
-    "id": 14719,
-    "characters": {
-      "nodes": [
-        {
-          "id": 6356,
-          "name": {
-            "full": "Joseph Joestar"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b6356-RImEfUfHpC58.png"
-          }
-        },
-        {
-          "id": 4003,
-          "name": {
-            "full": "Joutarou Kuujou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4003-gWDSEGbeOAll.png"
-          }
-        },
-        {
-          "id": 4004,
-          "name": {
-            "full": "Dio Brando"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4004-w0OtWuvjhftG.png"
-          }
-        },
-        {
-          "id": 8087,
-          "name": {
-            "full": "Jonathan Joestar"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8087-GTrObHQvujB5.png"
-          }
-        },
-        {
-          "id": 21959,
-          "name": {
-            "full": "Caesar Zeppeli"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b21959-Cm9Rlh0EFAQw.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Fire Force",
       "romaji": "Enen no Shouboutai"
     },
@@ -3074,6 +3018,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130713-TgLx8rgtGpXV.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "JoJo's Bizarre Adventure (TV)",
+      "romaji": "JoJo no Kimyou na Bouken (TV)"
+    },
+    "id": 14719,
+    "characters": {
+      "nodes": [
+        {
+          "id": 6356,
+          "name": {
+            "full": "Joseph Joestar"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b6356-RImEfUfHpC58.png"
+          }
+        },
+        {
+          "id": 4003,
+          "name": {
+            "full": "Joutarou Kuujou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4003-gWDSEGbeOAll.png"
+          }
+        },
+        {
+          "id": 4004,
+          "name": {
+            "full": "Dio Brando"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4004-w0OtWuvjhftG.png"
+          }
+        },
+        {
+          "id": 8087,
+          "name": {
+            "full": "Jonathan Joestar"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8087-GTrObHQvujB5.png"
+          }
+        },
+        {
+          "id": 21959,
+          "name": {
+            "full": "Caesar Zeppeli"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b21959-Cm9Rlh0EFAQw.png"
           }
         }
       ]
@@ -3193,6 +3193,62 @@
   },
   {
     "title": {
+      "english": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
+      "romaji": "Kimetsu no Yaiba: Yuukaku-hen"
+    },
+    "id": 142329,
+    "characters": {
+      "nodes": [
+        {
+          "id": 126071,
+          "name": {
+            "full": "Tanjirou Kamado"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126071-BTNEc1nRIv68.png"
+          }
+        },
+        {
+          "id": 129130,
+          "name": {
+            "full": "Inosuke Hashibira"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n129130-SJC0Kn1DU39E.jpg"
+          }
+        },
+        {
+          "id": 127518,
+          "name": {
+            "full": "Nezuko Kamado"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127518-NRlq1CQ1v1ro.png"
+          }
+        },
+        {
+          "id": 129131,
+          "name": {
+            "full": "Zenitsu Agatsuma"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129131-FZrQ7lSlxmEr.png"
+          }
+        },
+        {
+          "id": 130050,
+          "name": {
+            "full": "Giyuu Tomioka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130050-qsLThJs5VIbz.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
       "english": "Cowboy Bebop",
       "romaji": "Cowboy Bebop"
     },
@@ -3242,62 +3298,6 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/4.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "english": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
-      "romaji": "Kimetsu no Yaiba: Yuukaku-hen"
-    },
-    "id": 142329,
-    "characters": {
-      "nodes": [
-        {
-          "id": 126071,
-          "name": {
-            "full": "Tanjirou Kamado"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126071-BTNEc1nRIv68.png"
-          }
-        },
-        {
-          "id": 127518,
-          "name": {
-            "full": "Nezuko Kamado"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127518-NRlq1CQ1v1ro.png"
-          }
-        },
-        {
-          "id": 129130,
-          "name": {
-            "full": "Inosuke Hashibira"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n129130-SJC0Kn1DU39E.jpg"
-          }
-        },
-        {
-          "id": 129131,
-          "name": {
-            "full": "Zenitsu Agatsuma"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129131-FZrQ7lSlxmEr.png"
-          }
-        },
-        {
-          "id": 130050,
-          "name": {
-            "full": "Giyuu Tomioka"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130050-qsLThJs5VIbz.png"
           }
         }
       ]
@@ -3585,62 +3585,6 @@
   },
   {
     "title": {
-      "english": "Tokyo Revengers",
-      "romaji": "Tokyo Revengers"
-    },
-    "id": 120120,
-    "characters": {
-      "nodes": [
-        {
-          "id": 145341,
-          "name": {
-            "full": "Manjirou Sano"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145341-CuPldCLZMvvf.png"
-          }
-        },
-        {
-          "id": 145344,
-          "name": {
-            "full": "Chifuyu Matsuno"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145344-q4BqRljEBYNc.png"
-          }
-        },
-        {
-          "id": 145345,
-          "name": {
-            "full": "Ken Ryuuguji"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145345-zyirrSsKIDCb.png"
-          }
-        },
-        {
-          "id": 145343,
-          "name": {
-            "full": "Keisuke Baji"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145343-vRrkdWEUXwYM.jpg"
-          }
-        },
-        {
-          "id": 167841,
-          "name": {
-            "full": "Takashi Mitsuya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b167841-Pp08TBnzGhK4.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "JUJUTSU KAISEN Season 2",
       "romaji": "Jujutsu Kaisen 2nd Season"
     },
@@ -3690,6 +3634,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133704-8wLTGjc234q2.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Tokyo Revengers",
+      "romaji": "Tokyo Revengers"
+    },
+    "id": 120120,
+    "characters": {
+      "nodes": [
+        {
+          "id": 145341,
+          "name": {
+            "full": "Manjirou Sano"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145341-CuPldCLZMvvf.png"
+          }
+        },
+        {
+          "id": 145344,
+          "name": {
+            "full": "Chifuyu Matsuno"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145344-q4BqRljEBYNc.png"
+          }
+        },
+        {
+          "id": 145345,
+          "name": {
+            "full": "Ken Ryuuguji"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145345-zyirrSsKIDCb.png"
+          }
+        },
+        {
+          "id": 145343,
+          "name": {
+            "full": "Keisuke Baji"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145343-vRrkdWEUXwYM.jpg"
+          }
+        },
+        {
+          "id": 167841,
+          "name": {
+            "full": "Takashi Mitsuya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b167841-Pp08TBnzGhK4.jpg"
           }
         }
       ]
@@ -5489,62 +5489,6 @@
   },
   {
     "title": {
-      "english": "PSYCHO-PASS",
-      "romaji": "PSYCHO-PASS"
-    },
-    "id": 13601,
-    "characters": {
-      "nodes": [
-        {
-          "id": 68315,
-          "name": {
-            "full": "Shinya Kougami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b68315-f9RBjyJCoj95.jpg"
-          }
-        },
-        {
-          "id": 69725,
-          "name": {
-            "full": "Shougo Makishima"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n69725-Seck1SZfwQiR.jpg"
-          }
-        },
-        {
-          "id": 68583,
-          "name": {
-            "full": "Akane Tsunemori"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b68583-sEP2wyE2Tk7a.png"
-          }
-        },
-        {
-          "id": 69057,
-          "name": {
-            "full": "Nobuchika Ginoza"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b69057-491sAhqnEsFZ.png"
-          }
-        },
-        {
-          "id": 69055,
-          "name": {
-            "full": "Shuusei Kagari"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n69055-tmF7uIwloFHc.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "I Want to Eat Your Pancreas",
       "romaji": "Kimi no Suizou wo Tabetai"
     },
@@ -5594,6 +5538,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b134460-PVwi6xwYXqTS.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "PSYCHO-PASS",
+      "romaji": "PSYCHO-PASS"
+    },
+    "id": 13601,
+    "characters": {
+      "nodes": [
+        {
+          "id": 68315,
+          "name": {
+            "full": "Shinya Kougami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b68315-f9RBjyJCoj95.jpg"
+          }
+        },
+        {
+          "id": 69725,
+          "name": {
+            "full": "Shougo Makishima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n69725-Seck1SZfwQiR.jpg"
+          }
+        },
+        {
+          "id": 68583,
+          "name": {
+            "full": "Akane Tsunemori"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b68583-sEP2wyE2Tk7a.png"
+          }
+        },
+        {
+          "id": 69057,
+          "name": {
+            "full": "Nobuchika Ginoza"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b69057-491sAhqnEsFZ.png"
+          }
+        },
+        {
+          "id": 69055,
+          "name": {
+            "full": "Shuusei Kagari"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n69055-tmF7uIwloFHc.jpg"
           }
         }
       ]
