@@ -1233,62 +1233,6 @@
   },
   {
     "title": {
-      "english": "ERASED",
-      "romaji": "Boku dake ga Inai Machi"
-    },
-    "id": 21234,
-    "characters": {
-      "nodes": [
-        {
-          "id": 89275,
-          "name": {
-            "full": "Satoru Fujinuma"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89275-xCGzh6jAGe2v.png"
-          }
-        },
-        {
-          "id": 89276,
-          "name": {
-            "full": "Kayo Hinazuki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/89276-LjlYvXfOnjHB.jpg"
-          }
-        },
-        {
-          "id": 89357,
-          "name": {
-            "full": "Kenya Kobayashi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89357-E9erSMef5EJC.png"
-          }
-        },
-        {
-          "id": 89326,
-          "name": {
-            "full": "Sachiko Fujinuma"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/89326-zNVEqTuDt7kL.jpg"
-          }
-        },
-        {
-          "id": 89355,
-          "name": {
-            "full": "Airi Katagiri"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89355-w1xEKGHisGWE.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Attack on Titan Season 3 Part 2",
       "romaji": "Shingeki no Kyojin Season 3 Part 2"
     },
@@ -1338,6 +1282,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71121-7R7CnQd3lHgt.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "ERASED",
+      "romaji": "Boku dake ga Inai Machi"
+    },
+    "id": 21234,
+    "characters": {
+      "nodes": [
+        {
+          "id": 89275,
+          "name": {
+            "full": "Satoru Fujinuma"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89275-xCGzh6jAGe2v.png"
+          }
+        },
+        {
+          "id": 89276,
+          "name": {
+            "full": "Kayo Hinazuki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/89276-LjlYvXfOnjHB.jpg"
+          }
+        },
+        {
+          "id": 89357,
+          "name": {
+            "full": "Kenya Kobayashi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89357-E9erSMef5EJC.png"
+          }
+        },
+        {
+          "id": 89326,
+          "name": {
+            "full": "Sachiko Fujinuma"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/89326-zNVEqTuDt7kL.jpg"
+          }
+        },
+        {
+          "id": 89355,
+          "name": {
+            "full": "Airi Katagiri"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89355-w1xEKGHisGWE.jpg"
           }
         }
       ]
@@ -3529,62 +3529,6 @@
   },
   {
     "title": {
-      "english": "Angel Beats!",
-      "romaji": "Angel Beats!"
-    },
-    "id": 6547,
-    "characters": {
-      "nodes": [
-        {
-          "id": 22370,
-          "name": {
-            "full": "Yuri Nakamura"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22370-pNQxFEv1K7lS.jpg"
-          }
-        },
-        {
-          "id": 22369,
-          "name": {
-            "full": "Kanade Tachibana"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22369-zC7OgGbfO7b6.jpg"
-          }
-        },
-        {
-          "id": 24515,
-          "name": {
-            "full": "Yui Yoshioka"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24515-4v85Z9CqCe0Y.png"
-          }
-        },
-        {
-          "id": 24502,
-          "name": {
-            "full": "Yuzuru Otonashi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24502-TJE8JeOERvj0.jpg"
-          }
-        },
-        {
-          "id": 24503,
-          "name": {
-            "full": "Hideki Hinata"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24503-aMw9BnXmEVrP.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "JUJUTSU KAISEN Season 2",
       "romaji": "Jujutsu Kaisen 2nd Season"
     },
@@ -3634,6 +3578,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133704-8wLTGjc234q2.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Angel Beats!",
+      "romaji": "Angel Beats!"
+    },
+    "id": 6547,
+    "characters": {
+      "nodes": [
+        {
+          "id": 22370,
+          "name": {
+            "full": "Yuri Nakamura"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22370-pNQxFEv1K7lS.jpg"
+          }
+        },
+        {
+          "id": 22369,
+          "name": {
+            "full": "Kanade Tachibana"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22369-zC7OgGbfO7b6.jpg"
+          }
+        },
+        {
+          "id": 24515,
+          "name": {
+            "full": "Yui Yoshioka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24515-4v85Z9CqCe0Y.png"
+          }
+        },
+        {
+          "id": 24502,
+          "name": {
+            "full": "Yuzuru Otonashi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24502-TJE8JeOERvj0.jpg"
+          }
+        },
+        {
+          "id": 24503,
+          "name": {
+            "full": "Hideki Hinata"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24503-aMw9BnXmEVrP.png"
           }
         }
       ]
@@ -4313,62 +4313,6 @@
   },
   {
     "title": {
-      "english": "Food Wars!",
-      "romaji": "Shokugeki no Souma"
-    },
-    "id": 20923,
-    "characters": {
-      "nodes": [
-        {
-          "id": 75216,
-          "name": {
-            "full": "Souma Yukihira"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b75216-KDU8333eIcqf.jpg"
-          }
-        },
-        {
-          "id": 75284,
-          "name": {
-            "full": "Erina Nakiri"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b75284-4Hiyq7DOwvy7.png"
-          }
-        },
-        {
-          "id": 88956,
-          "name": {
-            "full": "Alice Nakiri"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88956-RbwleCQc741G.png"
-          }
-        },
-        {
-          "id": 76026,
-          "name": {
-            "full": "Megumi Tadokoro"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b76026-cQAQTlZFfG2e.png"
-          }
-        },
-        {
-          "id": 78935,
-          "name": {
-            "full": "Ikumi Mito"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b78935-21Ac5ydcrLCj.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Tokyo Ghoul √A",
       "romaji": "Tokyo Ghoul √A"
     },
@@ -4418,6 +4362,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88946-YbTQAGJAdpoH.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Food Wars!",
+      "romaji": "Shokugeki no Souma"
+    },
+    "id": 20923,
+    "characters": {
+      "nodes": [
+        {
+          "id": 75216,
+          "name": {
+            "full": "Souma Yukihira"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b75216-KDU8333eIcqf.jpg"
+          }
+        },
+        {
+          "id": 75284,
+          "name": {
+            "full": "Erina Nakiri"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b75284-4Hiyq7DOwvy7.png"
+          }
+        },
+        {
+          "id": 88956,
+          "name": {
+            "full": "Alice Nakiri"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88956-RbwleCQc741G.png"
+          }
+        },
+        {
+          "id": 76026,
+          "name": {
+            "full": "Megumi Tadokoro"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b76026-cQAQTlZFfG2e.png"
+          }
+        },
+        {
+          "id": 78935,
+          "name": {
+            "full": "Ikumi Mito"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b78935-21Ac5ydcrLCj.png"
           }
         }
       ]
@@ -4817,62 +4817,6 @@
   },
   {
     "title": {
-      "english": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
-      "romaji": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
-    },
-    "id": 20920,
-    "characters": {
-      "nodes": [
-        {
-          "id": 87655,
-          "name": {
-            "full": "Ais Wallenstein"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87655-7QjpIyyZuqyp.png"
-          }
-        },
-        {
-          "id": 88860,
-          "name": {
-            "full": "Bell Cranel"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88860-catfcwlvUYst.jpg"
-          }
-        },
-        {
-          "id": 87654,
-          "name": {
-            "full": "Hestia"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87654-UmmuLPwSK2Hd.jpg"
-          }
-        },
-        {
-          "id": 88890,
-          "name": {
-            "full": "Ryuu  Lion"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88890-lJFKK5czkH9E.jpg"
-          }
-        },
-        {
-          "id": 88897,
-          "name": {
-            "full": "Liliruca Arde"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88897-2xey5UG7Qr2S.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "My Dress-Up Darling",
       "romaji": "Sono Bisque Doll wa Koi wo Suru"
     },
@@ -4922,6 +4866,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b207937-ytYjcNtNX77K.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+      "romaji": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
+    },
+    "id": 20920,
+    "characters": {
+      "nodes": [
+        {
+          "id": 87655,
+          "name": {
+            "full": "Ais Wallenstein"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87655-7QjpIyyZuqyp.png"
+          }
+        },
+        {
+          "id": 88860,
+          "name": {
+            "full": "Bell Cranel"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88860-catfcwlvUYst.jpg"
+          }
+        },
+        {
+          "id": 87654,
+          "name": {
+            "full": "Hestia"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87654-UmmuLPwSK2Hd.jpg"
+          }
+        },
+        {
+          "id": 88890,
+          "name": {
+            "full": "Ryuu  Lion"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88890-lJFKK5czkH9E.jpg"
+          }
+        },
+        {
+          "id": 88897,
+          "name": {
+            "full": "Liliruca Arde"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88897-2xey5UG7Qr2S.png"
           }
         }
       ]
