@@ -1529,21 +1529,21 @@
           }
         },
         {
-          "id": 137079,
-          "name": {
-            "full": "Power"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137079-6yLEUYR3bmpr.png"
-          }
-        },
-        {
           "id": 130102,
           "name": {
             "full": "Denji"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130102-FO1VHNnEnLlB.png"
+          }
+        },
+        {
+          "id": 137079,
+          "name": {
+            "full": "Power"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137079-6yLEUYR3bmpr.png"
           }
         },
         {
@@ -1715,21 +1715,21 @@
           }
         },
         {
-          "id": 127613,
-          "name": {
-            "full": "Kaede Azusagawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127613-LBtFkMJfUWpg.png"
-          }
-        },
-        {
           "id": 127840,
           "name": {
             "full": "Tomoe Koga"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127840-z2LUox2R2Ivg.jpg"
+          }
+        },
+        {
+          "id": 127613,
+          "name": {
+            "full": "Kaede Azusagawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127613-LBtFkMJfUWpg.png"
           }
         }
       ]
@@ -3081,6 +3081,62 @@
   },
   {
     "title": {
+      "english": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
+      "romaji": "Kimetsu no Yaiba: Yuukaku-hen"
+    },
+    "id": 142329,
+    "characters": {
+      "nodes": [
+        {
+          "id": 126071,
+          "name": {
+            "full": "Tanjirou Kamado"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126071-BTNEc1nRIv68.png"
+          }
+        },
+        {
+          "id": 127518,
+          "name": {
+            "full": "Nezuko Kamado"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127518-NRlq1CQ1v1ro.png"
+          }
+        },
+        {
+          "id": 129130,
+          "name": {
+            "full": "Inosuke Hashibira"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n129130-SJC0Kn1DU39E.jpg"
+          }
+        },
+        {
+          "id": 129131,
+          "name": {
+            "full": "Zenitsu Agatsuma"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129131-FZrQ7lSlxmEr.png"
+          }
+        },
+        {
+          "id": 130050,
+          "name": {
+            "full": "Giyuu Tomioka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130050-qsLThJs5VIbz.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
       "english": "Blue Exorcist",
       "romaji": "Ao no Exorcist"
     },
@@ -3186,62 +3242,6 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b81931-fmouMoprPVbV.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "english": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
-      "romaji": "Kimetsu no Yaiba: Yuukaku-hen"
-    },
-    "id": 142329,
-    "characters": {
-      "nodes": [
-        {
-          "id": 126071,
-          "name": {
-            "full": "Tanjirou Kamado"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126071-BTNEc1nRIv68.png"
-          }
-        },
-        {
-          "id": 127518,
-          "name": {
-            "full": "Nezuko Kamado"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127518-NRlq1CQ1v1ro.png"
-          }
-        },
-        {
-          "id": 129130,
-          "name": {
-            "full": "Inosuke Hashibira"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n129130-SJC0Kn1DU39E.jpg"
-          }
-        },
-        {
-          "id": 129131,
-          "name": {
-            "full": "Zenitsu Agatsuma"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129131-FZrQ7lSlxmEr.png"
-          }
-        },
-        {
-          "id": 130050,
-          "name": {
-            "full": "Giyuu Tomioka"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130050-qsLThJs5VIbz.png"
           }
         }
       ]
@@ -4089,62 +4089,6 @@
   },
   {
     "title": {
-      "english": "Bungo Stray Dogs",
-      "romaji": "Bungou Stray Dogs"
-    },
-    "id": 21311,
-    "characters": {
-      "nodes": [
-        {
-          "id": 89198,
-          "name": {
-            "full": "Osamu Dazai"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89198-qKmRTw4Y3PRC.png"
-          }
-        },
-        {
-          "id": 89201,
-          "name": {
-            "full": "Ranpo Edogawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89201-K0X5HNq88Oub.png"
-          }
-        },
-        {
-          "id": 89853,
-          "name": {
-            "full": "Chuuya Nakahara"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89853-06qMPkrGlgP1.png"
-          }
-        },
-        {
-          "id": 89199,
-          "name": {
-            "full": "Ryuunosuke Akutagawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89199-h8tHKG8vKPNZ.png"
-          }
-        },
-        {
-          "id": 89197,
-          "name": {
-            "full": "Atsushi Nakajima"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89197-vB5kP72ruckV.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Frieren: Beyond Journey’s End",
       "romaji": "Sousou no Frieren"
     },
@@ -4194,6 +4138,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b246057-ixvDfpng6I1S.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Bungo Stray Dogs",
+      "romaji": "Bungou Stray Dogs"
+    },
+    "id": 21311,
+    "characters": {
+      "nodes": [
+        {
+          "id": 89198,
+          "name": {
+            "full": "Osamu Dazai"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89198-qKmRTw4Y3PRC.png"
+          }
+        },
+        {
+          "id": 89201,
+          "name": {
+            "full": "Ranpo Edogawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89201-K0X5HNq88Oub.png"
+          }
+        },
+        {
+          "id": 89853,
+          "name": {
+            "full": "Chuuya Nakahara"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89853-06qMPkrGlgP1.png"
+          }
+        },
+        {
+          "id": 89199,
+          "name": {
+            "full": "Ryuunosuke Akutagawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89199-h8tHKG8vKPNZ.png"
+          }
+        },
+        {
+          "id": 89197,
+          "name": {
+            "full": "Atsushi Nakajima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89197-vB5kP72ruckV.png"
           }
         }
       ]
@@ -5153,62 +5153,6 @@
   },
   {
     "title": {
-      "english": "My Teen Romantic Comedy SNAFU",
-      "romaji": "Yahari Ore no Seishun Love Come wa Machigatteiru."
-    },
-    "id": 14813,
-    "characters": {
-      "nodes": [
-        {
-          "id": 67065,
-          "name": {
-            "full": "Hachiman Hikigaya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png"
-          }
-        },
-        {
-          "id": 67067,
-          "name": {
-            "full": "Yukino Yukinoshita"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67067-gqhgjlni0Bcf.png"
-          }
-        },
-        {
-          "id": 67069,
-          "name": {
-            "full": "Yui Yuigahama"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67069-6B3xnHfJUO0F.png"
-          }
-        },
-        {
-          "id": 67077,
-          "name": {
-            "full": "Shizuka Hiratsuka"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67077-NaBvItxCYPon.png"
-          }
-        },
-        {
-          "id": 67071,
-          "name": {
-            "full": "Saika Totsuka"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67071-3tO9QQA9x0hV.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Gurren Lagann",
       "romaji": "Tengen Toppa Gurren Lagann"
     },
@@ -5258,6 +5202,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2761-FmSJGaW9WzYZ.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "My Teen Romantic Comedy SNAFU",
+      "romaji": "Yahari Ore no Seishun Love Come wa Machigatteiru."
+    },
+    "id": 14813,
+    "characters": {
+      "nodes": [
+        {
+          "id": 67065,
+          "name": {
+            "full": "Hachiman Hikigaya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png"
+          }
+        },
+        {
+          "id": 67067,
+          "name": {
+            "full": "Yukino Yukinoshita"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67067-gqhgjlni0Bcf.png"
+          }
+        },
+        {
+          "id": 67069,
+          "name": {
+            "full": "Yui Yuigahama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67069-6B3xnHfJUO0F.png"
+          }
+        },
+        {
+          "id": 67077,
+          "name": {
+            "full": "Shizuka Hiratsuka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67077-NaBvItxCYPon.png"
+          }
+        },
+        {
+          "id": 67071,
+          "name": {
+            "full": "Saika Totsuka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67071-3tO9QQA9x0hV.jpg"
           }
         }
       ]
@@ -5514,21 +5514,21 @@
           }
         },
         {
-          "id": 134461,
-          "name": {
-            "full": "Kyoko Takimoto"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b134461-0JqcCi30rN45.png"
-          }
-        },
-        {
           "id": 133276,
           "name": {
             "full": "Issei Miyata"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133276-4KX7vtZ6oQfN.png"
+          }
+        },
+        {
+          "id": 134461,
+          "name": {
+            "full": "Kyoko Takimoto"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b134461-0JqcCi30rN45.png"
           }
         },
         {
