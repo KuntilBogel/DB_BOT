@@ -1155,15 +1155,6 @@
           }
         },
         {
-          "id": 89621,
-          "name": {
-            "full": "Teruki Hanazawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89621-3uLnmhFOGYFv.png"
-          }
-        },
-        {
           "id": 36309,
           "name": {
             "full": "Narrator"
@@ -1171,61 +1162,14 @@
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
           }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "english": "Your lie in April",
-      "romaji": "Shigatsu wa Kimi no Uso"
-    },
-    "id": 20665,
-    "characters": {
-      "nodes": [
-        {
-          "id": 69411,
-          "name": {
-            "full": "Kaori Miyazono"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b69411-lxM0FRvWHqlv.png"
-          }
         },
         {
-          "id": 69407,
+          "id": 89621,
           "name": {
-            "full": "Kousei Arima"
+            "full": "Teruki Hanazawa"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b69407-eyIvpsFPeARS.png"
-          }
-        },
-        {
-          "id": 69405,
-          "name": {
-            "full": "Ryouta Watari"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/69405-IpsjziJkHrHj.png"
-          }
-        },
-        {
-          "id": 85841,
-          "name": {
-            "full": "Emi Igawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b85841-728eVWAvzifr.png"
-          }
-        },
-        {
-          "id": 88786,
-          "name": {
-            "full": "Hiroko Seto"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88786-toDBw77jbCTx.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89621-3uLnmhFOGYFv.png"
           }
         }
       ]
@@ -1282,6 +1226,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71121-7R7CnQd3lHgt.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Your lie in April",
+      "romaji": "Shigatsu wa Kimi no Uso"
+    },
+    "id": 20665,
+    "characters": {
+      "nodes": [
+        {
+          "id": 69411,
+          "name": {
+            "full": "Kaori Miyazono"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b69411-lxM0FRvWHqlv.png"
+          }
+        },
+        {
+          "id": 69407,
+          "name": {
+            "full": "Kousei Arima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b69407-eyIvpsFPeARS.png"
+          }
+        },
+        {
+          "id": 69405,
+          "name": {
+            "full": "Ryouta Watari"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/69405-IpsjziJkHrHj.png"
+          }
+        },
+        {
+          "id": 85841,
+          "name": {
+            "full": "Emi Igawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b85841-728eVWAvzifr.png"
+          }
+        },
+        {
+          "id": 88786,
+          "name": {
+            "full": "Hiroko Seto"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88786-toDBw77jbCTx.png"
           }
         }
       ]
@@ -1905,6 +1905,62 @@
   },
   {
     "title": {
+      "english": "Dr. STONE",
+      "romaji": "Dr. STONE"
+    },
+    "id": 105333,
+    "characters": {
+      "nodes": [
+        {
+          "id": 124142,
+          "name": {
+            "full": "Senkuu Ishigami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124142-XUO1g7wRqkaT.png"
+          }
+        },
+        {
+          "id": 127445,
+          "name": {
+            "full": "Gen Asagiri"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127445-oUCyS7Tl8l5D.png"
+          }
+        },
+        {
+          "id": 124143,
+          "name": {
+            "full": "Kohaku"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124143-DABUFs3cPNrP.png"
+          }
+        },
+        {
+          "id": 124145,
+          "name": {
+            "full": "Chrome"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124145-EEvQmsj8jku4.png"
+          }
+        },
+        {
+          "id": 36309,
+          "name": {
+            "full": "Narrator"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
       "english": "Noragami",
       "romaji": "Noragami"
     },
@@ -2010,62 +2066,6 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88003-tZKsjjzDWV8e.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "english": "Dr. STONE",
-      "romaji": "Dr. STONE"
-    },
-    "id": 105333,
-    "characters": {
-      "nodes": [
-        {
-          "id": 124142,
-          "name": {
-            "full": "Senkuu Ishigami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124142-XUO1g7wRqkaT.png"
-          }
-        },
-        {
-          "id": 127445,
-          "name": {
-            "full": "Gen Asagiri"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127445-oUCyS7Tl8l5D.png"
-          }
-        },
-        {
-          "id": 124143,
-          "name": {
-            "full": "Kohaku"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124143-DABUFs3cPNrP.png"
-          }
-        },
-        {
-          "id": 124145,
-          "name": {
-            "full": "Chrome"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124145-EEvQmsj8jku4.png"
-          }
-        },
-        {
-          "id": 36309,
-          "name": {
-            "full": "Narrator"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
           }
         }
       ]
@@ -3137,62 +3137,6 @@
   },
   {
     "title": {
-      "english": "Blue Exorcist",
-      "romaji": "Ao no Exorcist"
-    },
-    "id": 9919,
-    "characters": {
-      "nodes": [
-        {
-          "id": 24482,
-          "name": {
-            "full": "Rin Okumura"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24482-E6087V4uAVqL.jpg"
-          }
-        },
-        {
-          "id": 32110,
-          "name": {
-            "full": "Shura Kirigakure"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b32110-Ats6VvSZy300.png"
-          }
-        },
-        {
-          "id": 30432,
-          "name": {
-            "full": "Mephisto Pheles"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b30432-I4KwsegOrzfq.png"
-          }
-        },
-        {
-          "id": 43187,
-          "name": {
-            "full": "Kuro"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43187-uJySWMkmaWmZ.png"
-          }
-        },
-        {
-          "id": 24734,
-          "name": {
-            "full": "Yukio Okumura"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24734-GgVZoNAPnxoc.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "One-Punch Man Season 2",
       "romaji": "One Punch Man 2"
     },
@@ -3242,6 +3186,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b81931-fmouMoprPVbV.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Blue Exorcist",
+      "romaji": "Ao no Exorcist"
+    },
+    "id": 9919,
+    "characters": {
+      "nodes": [
+        {
+          "id": 24482,
+          "name": {
+            "full": "Rin Okumura"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24482-E6087V4uAVqL.jpg"
+          }
+        },
+        {
+          "id": 32110,
+          "name": {
+            "full": "Shura Kirigakure"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b32110-Ats6VvSZy300.png"
+          }
+        },
+        {
+          "id": 30432,
+          "name": {
+            "full": "Mephisto Pheles"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b30432-I4KwsegOrzfq.png"
+          }
+        },
+        {
+          "id": 43187,
+          "name": {
+            "full": "Kuro"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43187-uJySWMkmaWmZ.png"
+          }
+        },
+        {
+          "id": 24734,
+          "name": {
+            "full": "Yukio Okumura"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24734-GgVZoNAPnxoc.png"
           }
         }
       ]
@@ -3417,62 +3417,6 @@
   },
   {
     "title": {
-      "english": "The Rising of the Shield Hero",
-      "romaji": "Tate no Yuusha no Nariagari"
-    },
-    "id": 99263,
-    "characters": {
-      "nodes": [
-        {
-          "id": 88889,
-          "name": {
-            "full": "Raphtalia"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88889-CWYytVbCOPsV.png"
-          }
-        },
-        {
-          "id": 88817,
-          "name": {
-            "full": "Naofumi Iwatani"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88817-Aku5CuN6wO2z.png"
-          }
-        },
-        {
-          "id": 126828,
-          "name": {
-            "full": "Filo"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126828-nZDnMK4Bw7f9.png"
-          }
-        },
-        {
-          "id": 129813,
-          "name": {
-            "full": "Melty Q Melromarc"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129813-quaY4dr807yx.png"
-          }
-        },
-        {
-          "id": 135198,
-          "name": {
-            "full": "Mirellia Q Melromarc"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135198-ImEXzNG3srwI.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "JUJUTSU KAISEN Season 2",
       "romaji": "Jujutsu Kaisen 2nd Season"
     },
@@ -3529,6 +3473,62 @@
   },
   {
     "title": {
+      "english": "The Rising of the Shield Hero",
+      "romaji": "Tate no Yuusha no Nariagari"
+    },
+    "id": 99263,
+    "characters": {
+      "nodes": [
+        {
+          "id": 88889,
+          "name": {
+            "full": "Raphtalia"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88889-CWYytVbCOPsV.png"
+          }
+        },
+        {
+          "id": 88817,
+          "name": {
+            "full": "Naofumi Iwatani"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88817-Aku5CuN6wO2z.png"
+          }
+        },
+        {
+          "id": 126828,
+          "name": {
+            "full": "Filo"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126828-nZDnMK4Bw7f9.png"
+          }
+        },
+        {
+          "id": 129813,
+          "name": {
+            "full": "Melty Q Melromarc"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129813-quaY4dr807yx.png"
+          }
+        },
+        {
+          "id": 135198,
+          "name": {
+            "full": "Mirellia Q Melromarc"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135198-ImEXzNG3srwI.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
       "english": "Mob Psycho 100 II",
       "romaji": "Mob Psycho 100 II"
     },
@@ -3563,21 +3563,21 @@
           }
         },
         {
-          "id": 89621,
-          "name": {
-            "full": "Teruki Hanazawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89621-3uLnmhFOGYFv.png"
-          }
-        },
-        {
           "id": 36309,
           "name": {
             "full": "Narrator"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
+          }
+        },
+        {
+          "id": 89621,
+          "name": {
+            "full": "Teruki Hanazawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89621-3uLnmhFOGYFv.png"
           }
         }
       ]
