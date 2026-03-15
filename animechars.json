@@ -1715,21 +1715,21 @@
           }
         },
         {
-          "id": 127840,
-          "name": {
-            "full": "Tomoe Koga"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127840-z2LUox2R2Ivg.jpg"
-          }
-        },
-        {
           "id": 127613,
           "name": {
             "full": "Kaede Azusagawa"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127613-LBtFkMJfUWpg.png"
+          }
+        },
+        {
+          "id": 127840,
+          "name": {
+            "full": "Tomoe Koga"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127840-z2LUox2R2Ivg.jpg"
           }
         }
       ]
@@ -2913,62 +2913,6 @@
   },
   {
     "title": {
-      "english": "Death Parade",
-      "romaji": "Death Parade"
-    },
-    "id": 20931,
-    "characters": {
-      "nodes": [
-        {
-          "id": 80,
-          "name": {
-            "full": "Light Yagami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b80-26EhwSsSqQ50.png"
-          }
-        },
-        {
-          "id": 81853,
-          "name": {
-            "full": "Decim"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b81853-CY99xwoziDG4.png"
-          }
-        },
-        {
-          "id": 82037,
-          "name": {
-            "full": "Kurokami no Onna"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82037-xvKHWk4AE4df.png"
-          }
-        },
-        {
-          "id": 88681,
-          "name": {
-            "full": "Nona"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88681-tTuJXN5ds3gy.png"
-          }
-        },
-        {
-          "id": 88683,
-          "name": {
-            "full": "Ginti"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88683-S0xJzL8QY3gI.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Fire Force",
       "romaji": "Enen no Shouboutai"
     },
@@ -3018,6 +2962,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130713-TgLx8rgtGpXV.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Death Parade",
+      "romaji": "Death Parade"
+    },
+    "id": 20931,
+    "characters": {
+      "nodes": [
+        {
+          "id": 80,
+          "name": {
+            "full": "Light Yagami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b80-26EhwSsSqQ50.png"
+          }
+        },
+        {
+          "id": 81853,
+          "name": {
+            "full": "Decim"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b81853-CY99xwoziDG4.png"
+          }
+        },
+        {
+          "id": 82037,
+          "name": {
+            "full": "Kurokami no Onna"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82037-xvKHWk4AE4df.png"
+          }
+        },
+        {
+          "id": 88681,
+          "name": {
+            "full": "Nona"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88681-tTuJXN5ds3gy.png"
+          }
+        },
+        {
+          "id": 88683,
+          "name": {
+            "full": "Ginti"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88683-S0xJzL8QY3gI.png"
           }
         }
       ]
@@ -3361,62 +3361,6 @@
   },
   {
     "title": {
-      "english": "Sword Art Online II",
-      "romaji": "Sword Art Online II"
-    },
-    "id": 20594,
-    "characters": {
-      "nodes": [
-        {
-          "id": 36828,
-          "name": {
-            "full": "Asuna Yuuki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36828-j5ib0adAzGMx.png"
-          }
-        },
-        {
-          "id": 36765,
-          "name": {
-            "full": "Kazuto Kirigaya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36765-BnLbXg0Tzzh9.png"
-          }
-        },
-        {
-          "id": 55147,
-          "name": {
-            "full": "Shino Asada"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b55147-1fCU8lONEuZQ.png"
-          }
-        },
-        {
-          "id": 64523,
-          "name": {
-            "full": "Yuuki Konno"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64523-LPeAiw8Yx517.jpg"
-          }
-        },
-        {
-          "id": 36831,
-          "name": {
-            "full": "Suguha Kirigaya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36831-JfyFU7gPPVmr.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "JUJUTSU KAISEN Season 2",
       "romaji": "Jujutsu Kaisen 2nd Season"
     },
@@ -3522,6 +3466,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135198-ImEXzNG3srwI.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Sword Art Online II",
+      "romaji": "Sword Art Online II"
+    },
+    "id": 20594,
+    "characters": {
+      "nodes": [
+        {
+          "id": 36828,
+          "name": {
+            "full": "Asuna Yuuki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36828-j5ib0adAzGMx.png"
+          }
+        },
+        {
+          "id": 36765,
+          "name": {
+            "full": "Kazuto Kirigaya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36765-BnLbXg0Tzzh9.png"
+          }
+        },
+        {
+          "id": 55147,
+          "name": {
+            "full": "Shino Asada"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b55147-1fCU8lONEuZQ.png"
+          }
+        },
+        {
+          "id": 64523,
+          "name": {
+            "full": "Yuuki Konno"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64523-LPeAiw8Yx517.jpg"
+          }
+        },
+        {
+          "id": 36831,
+          "name": {
+            "full": "Suguha Kirigaya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36831-JfyFU7gPPVmr.png"
           }
         }
       ]
@@ -4033,62 +4033,6 @@
   },
   {
     "title": {
-      "english": "Attack on Titan Final Season Part 2",
-      "romaji": "Shingeki no Kyojin: The Final Season Part 2"
-    },
-    "id": 131681,
-    "characters": {
-      "nodes": [
-        {
-          "id": 45627,
-          "name": {
-            "full": "Levi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b45627-CR68RyZmddGG.png"
-          }
-        },
-        {
-          "id": 40882,
-          "name": {
-            "full": "Eren Yeager"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b40882-dsj7IP943WFF.jpg"
-          }
-        },
-        {
-          "id": 40881,
-          "name": {
-            "full": "Mikasa Ackerman"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b40881-F3gr1PkreDvj.png"
-          }
-        },
-        {
-          "id": 46494,
-          "name": {
-            "full": "Armin Arlert"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b46494-g7xYYuBtYPnO.png"
-          }
-        },
-        {
-          "id": 71121,
-          "name": {
-            "full": "Hange Zoe"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71121-7R7CnQd3lHgt.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Frieren: Beyond Journey’s End",
       "romaji": "Sousou no Frieren"
     },
@@ -4138,6 +4082,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b246057-ixvDfpng6I1S.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Attack on Titan Final Season Part 2",
+      "romaji": "Shingeki no Kyojin: The Final Season Part 2"
+    },
+    "id": 131681,
+    "characters": {
+      "nodes": [
+        {
+          "id": 45627,
+          "name": {
+            "full": "Levi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b45627-CR68RyZmddGG.png"
+          }
+        },
+        {
+          "id": 40882,
+          "name": {
+            "full": "Eren Yeager"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b40882-dsj7IP943WFF.jpg"
+          }
+        },
+        {
+          "id": 40881,
+          "name": {
+            "full": "Mikasa Ackerman"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b40881-F3gr1PkreDvj.png"
+          }
+        },
+        {
+          "id": 46494,
+          "name": {
+            "full": "Armin Arlert"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b46494-g7xYYuBtYPnO.png"
+          }
+        },
+        {
+          "id": 71121,
+          "name": {
+            "full": "Hange Zoe"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71121-7R7CnQd3lHgt.png"
           }
         }
       ]
@@ -4537,62 +4537,6 @@
   },
   {
     "title": {
-      "english": "HAIKYU!! 2nd Season",
-      "romaji": "Haikyuu!! 2nd Season"
-    },
-    "id": 20992,
-    "characters": {
-      "nodes": [
-        {
-          "id": 64769,
-          "name": {
-            "full": "Shouyou Hinata"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64769-WoWlCMLLgJ14.png"
-          }
-        },
-        {
-          "id": 64771,
-          "name": {
-            "full": "Tobio Kageyama"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64771-BuCVs7B8bBdh.png"
-          }
-        },
-        {
-          "id": 67327,
-          "name": {
-            "full": "Yuu Nishinoya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67327-zQb1dlC7joPb.jpg"
-          }
-        },
-        {
-          "id": 71267,
-          "name": {
-            "full": "Kenma Kozume"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71267-q44J2MXMinXD.jpg"
-          }
-        },
-        {
-          "id": 71611,
-          "name": {
-            "full": "Tooru Oikawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71611-cUZwVfzeNXD9.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Made in Abyss",
       "romaji": "Made in Abyss"
     },
@@ -4642,6 +4586,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "HAIKYU!! 2nd Season",
+      "romaji": "Haikyuu!! 2nd Season"
+    },
+    "id": 20992,
+    "characters": {
+      "nodes": [
+        {
+          "id": 64769,
+          "name": {
+            "full": "Shouyou Hinata"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64769-WoWlCMLLgJ14.png"
+          }
+        },
+        {
+          "id": 64771,
+          "name": {
+            "full": "Tobio Kageyama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64771-BuCVs7B8bBdh.png"
+          }
+        },
+        {
+          "id": 67327,
+          "name": {
+            "full": "Yuu Nishinoya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67327-zQb1dlC7joPb.jpg"
+          }
+        },
+        {
+          "id": 71267,
+          "name": {
+            "full": "Kenma Kozume"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71267-q44J2MXMinXD.jpg"
+          }
+        },
+        {
+          "id": 71611,
+          "name": {
+            "full": "Tooru Oikawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71611-cUZwVfzeNXD9.png"
           }
         }
       ]
@@ -4761,62 +4761,6 @@
   },
   {
     "title": {
-      "english": "Overlord",
-      "romaji": "Overlord"
-    },
-    "id": 20832,
-    "characters": {
-      "nodes": [
-        {
-          "id": 89122,
-          "name": {
-            "full": "Albedo"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89122-Gj7MBs7F5cMJ.png"
-          }
-        },
-        {
-          "id": 89103,
-          "name": {
-            "full": "Momonga"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89103-ZsnA0r77GHsR.png"
-          }
-        },
-        {
-          "id": 89121,
-          "name": {
-            "full": "Shalltear Bloodfallen"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89121-N8hzLH4nfWna.png"
-          }
-        },
-        {
-          "id": 89125,
-          "name": {
-            "full": "Demiurge"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89125-pnLki4r5UyV5.png"
-          }
-        },
-        {
-          "id": 89155,
-          "name": {
-            "full": "Sebas Tian"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89155-yVyhseUF82s9.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "My Dress-Up Darling",
       "romaji": "Sono Bisque Doll wa Koi wo Suru"
     },
@@ -4866,6 +4810,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b207937-ytYjcNtNX77K.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Overlord",
+      "romaji": "Overlord"
+    },
+    "id": 20832,
+    "characters": {
+      "nodes": [
+        {
+          "id": 89122,
+          "name": {
+            "full": "Albedo"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89122-Gj7MBs7F5cMJ.png"
+          }
+        },
+        {
+          "id": 89103,
+          "name": {
+            "full": "Momonga"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89103-ZsnA0r77GHsR.png"
+          }
+        },
+        {
+          "id": 89121,
+          "name": {
+            "full": "Shalltear Bloodfallen"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89121-N8hzLH4nfWna.png"
+          }
+        },
+        {
+          "id": 89125,
+          "name": {
+            "full": "Demiurge"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89125-pnLki4r5UyV5.png"
+          }
+        },
+        {
+          "id": 89155,
+          "name": {
+            "full": "Sebas Tian"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89155-yVyhseUF82s9.png"
           }
         }
       ]
