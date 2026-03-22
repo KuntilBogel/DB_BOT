@@ -156,12 +156,12 @@
           }
         },
         {
-          "id": 36309,
+          "id": 463,
           "name": {
-            "full": "Narrator"
+            "full": "Mihael Keehl"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b463-QBLeLf6XxVg6.png"
           }
         }
       ]
@@ -268,12 +268,12 @@
           }
         },
         {
-          "id": 89224,
+          "id": 89243,
           "name": {
-            "full": "Toshinori Yagi"
+            "full": "Eijirou Kirishima"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89224-K6KEuQAuYKzq.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89243-QLmUyyZk5K2l.png"
           }
         }
       ]
@@ -324,12 +324,12 @@
           }
         },
         {
-          "id": 23277,
+          "id": 58,
           "name": {
-            "full": "Meruem"
+            "full": "Chrollo Lucilfer"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b23277-EYmIxzL64Mji.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b58-USOmsz3nursi.jpg"
           }
         }
       ]
@@ -362,21 +362,21 @@
           }
         },
         {
-          "id": 89277,
-          "name": {
-            "full": "Garou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89277-xBGb4B5YISXg.png"
-          }
-        },
-        {
           "id": 73979,
           "name": {
             "full": "Genos"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73979-tVi9maPID881.jpg"
+          }
+        },
+        {
+          "id": 89277,
+          "name": {
+            "full": "Garou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89277-xBGb4B5YISXg.png"
           }
         },
         {
@@ -595,21 +595,21 @@
           }
         },
         {
-          "id": 63,
-          "name": {
-            "full": "Winry Rockbell"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/63-xloedtYxiJ2E.jpg"
-          }
-        },
-        {
           "id": 70,
           "name": {
             "full": "Riza Hawkeye"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70-k4bCgDspyOdI.png"
+          }
+        },
+        {
+          "id": 63,
+          "name": {
+            "full": "Winry Rockbell"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/63-xloedtYxiJ2E.jpg"
           }
         }
       ]
@@ -698,21 +698,21 @@
           }
         },
         {
-          "id": 36831,
-          "name": {
-            "full": "Suguha Kirigaya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36831-JfyFU7gPPVmr.png"
-          }
-        },
-        {
           "id": 43892,
           "name": {
             "full": "Yui"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43892-Ig6ZMdUbQDO2.jpg"
+          }
+        },
+        {
+          "id": 36831,
+          "name": {
+            "full": "Suguha Kirigaya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36831-JfyFU7gPPVmr.png"
           }
         },
         {
@@ -940,12 +940,12 @@
           }
         },
         {
-          "id": 89224,
+          "id": 89243,
           "name": {
-            "full": "Toshinori Yagi"
+            "full": "Eijirou Kirishima"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89224-K6KEuQAuYKzq.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89243-QLmUyyZk5K2l.png"
           }
         }
       ]
@@ -1155,21 +1155,21 @@
           }
         },
         {
-          "id": 36309,
-          "name": {
-            "full": "Narrator"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
-          }
-        },
-        {
           "id": 89621,
           "name": {
             "full": "Teruki Hanazawa"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89621-3uLnmhFOGYFv.png"
+          }
+        },
+        {
+          "id": 36309,
+          "name": {
+            "full": "Narrator"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
           }
         }
       ]
@@ -1444,12 +1444,12 @@
           }
         },
         {
-          "id": 89224,
+          "id": 89243,
           "name": {
-            "full": "Toshinori Yagi"
+            "full": "Eijirou Kirishima"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89224-K6KEuQAuYKzq.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89243-QLmUyyZk5K2l.png"
           }
         }
       ]
@@ -1780,12 +1780,12 @@
           }
         },
         {
-          "id": 124522,
+          "id": 124435,
           "name": {
-            "full": "Mereoleona Vermillion"
+            "full": "Julius Novachrono"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124522-lJK4Hy6Aokie.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124435-gXFVXWrCcieK.jpg"
           }
         }
       ]
@@ -2284,12 +2284,12 @@
           }
         },
         {
-          "id": 89224,
+          "id": 89243,
           "name": {
-            "full": "Toshinori Yagi"
+            "full": "Eijirou Kirishima"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89224-K6KEuQAuYKzq.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89243-QLmUyyZk5K2l.png"
           }
         }
       ]
@@ -2322,15 +2322,6 @@
           }
         },
         {
-          "id": 36309,
-          "name": {
-            "full": "Narrator"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
-          }
-        },
-        {
           "id": 83801,
           "name": {
             "full": "King"
@@ -2346,6 +2337,15 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b74653-XpMcsLVZBnkZ.jpg"
+          }
+        },
+        {
+          "id": 36309,
+          "name": {
+            "full": "Narrator"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
           }
         }
       ]
@@ -2826,21 +2826,21 @@
           }
         },
         {
-          "id": 86,
-          "name": {
-            "full": "Rei Ayanami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/86-cA1zL7fyls8E.jpg"
-          }
-        },
-        {
           "id": 1259,
           "name": {
             "full": "Misato Katsuragi"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1259-afTQkZ5SVMOn.png"
+          }
+        },
+        {
+          "id": 86,
+          "name": {
+            "full": "Rei Ayanami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/86-cA1zL7fyls8E.jpg"
           }
         },
         {
@@ -2873,21 +2873,21 @@
           }
         },
         {
-          "id": 384,
-          "name": {
-            "full": "Chihiro Ogino"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b384-AoWCsQyG0WI7.png"
-          }
-        },
-        {
           "id": 8298,
           "name": {
             "full": "Kaonashi"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8298-ATUVKng0oyHR.png"
+          }
+        },
+        {
+          "id": 384,
+          "name": {
+            "full": "Chihiro Ogino"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b384-AoWCsQyG0WI7.png"
           }
         },
         {
@@ -2969,62 +2969,6 @@
   },
   {
     "title": {
-      "english": "Death Parade",
-      "romaji": "Death Parade"
-    },
-    "id": 20931,
-    "characters": {
-      "nodes": [
-        {
-          "id": 80,
-          "name": {
-            "full": "Light Yagami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b80-26EhwSsSqQ50.png"
-          }
-        },
-        {
-          "id": 81853,
-          "name": {
-            "full": "Decim"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b81853-CY99xwoziDG4.png"
-          }
-        },
-        {
-          "id": 82037,
-          "name": {
-            "full": "Kurokami no Onna"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82037-xvKHWk4AE4df.png"
-          }
-        },
-        {
-          "id": 88681,
-          "name": {
-            "full": "Nona"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88681-tTuJXN5ds3gy.png"
-          }
-        },
-        {
-          "id": 88683,
-          "name": {
-            "full": "Ginti"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88683-S0xJzL8QY3gI.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "JoJo's Bizarre Adventure (TV)",
       "romaji": "JoJo no Kimyou na Bouken (TV)"
     },
@@ -3074,6 +3018,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b21959-Cm9Rlh0EFAQw.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Death Parade",
+      "romaji": "Death Parade"
+    },
+    "id": 20931,
+    "characters": {
+      "nodes": [
+        {
+          "id": 80,
+          "name": {
+            "full": "Light Yagami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b80-26EhwSsSqQ50.png"
+          }
+        },
+        {
+          "id": 81853,
+          "name": {
+            "full": "Decim"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b81853-CY99xwoziDG4.png"
+          }
+        },
+        {
+          "id": 82037,
+          "name": {
+            "full": "Kurokami no Onna"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82037-xvKHWk4AE4df.png"
+          }
+        },
+        {
+          "id": 88681,
+          "name": {
+            "full": "Nona"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88681-tTuJXN5ds3gy.png"
+          }
+        },
+        {
+          "id": 88683,
+          "name": {
+            "full": "Ginti"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88683-S0xJzL8QY3gI.png"
           }
         }
       ]
@@ -3162,21 +3162,21 @@
           }
         },
         {
-          "id": 89277,
-          "name": {
-            "full": "Garou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89277-xBGb4B5YISXg.png"
-          }
-        },
-        {
           "id": 73979,
           "name": {
             "full": "Genos"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73979-tVi9maPID881.jpg"
+          }
+        },
+        {
+          "id": 89277,
+          "name": {
+            "full": "Garou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89277-xBGb4B5YISXg.png"
           }
         },
         {
@@ -3330,15 +3330,6 @@
           }
         },
         {
-          "id": 122693,
-          "name": {
-            "full": "Kirari Momobami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122693-qg2NIaq5h1VD.png"
-          }
-        },
-        {
           "id": 122691,
           "name": {
             "full": "Midari Ikishima"
@@ -3348,12 +3339,21 @@
           }
         },
         {
-          "id": 122777,
+          "id": 122693,
           "name": {
-            "full": "Ririka Momobami"
+            "full": "Kirari Momobami"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122777-pdh3z3WbnvlL.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122693-qg2NIaq5h1VD.png"
+          }
+        },
+        {
+          "id": 122698,
+          "name": {
+            "full": "Runa Yomozuki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/122698-8UvXcLs1LGYY.jpg"
           }
         }
       ]
@@ -3516,12 +3516,12 @@
           }
         },
         {
-          "id": 36831,
+          "id": 43892,
           "name": {
-            "full": "Suguha Kirigaya"
+            "full": "Yui"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36831-JfyFU7gPPVmr.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43892-Ig6ZMdUbQDO2.jpg"
           }
         }
       ]
@@ -3563,21 +3563,21 @@
           }
         },
         {
-          "id": 36309,
-          "name": {
-            "full": "Narrator"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
-          }
-        },
-        {
           "id": 89621,
           "name": {
             "full": "Teruki Hanazawa"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89621-3uLnmhFOGYFv.png"
+          }
+        },
+        {
+          "id": 36309,
+          "name": {
+            "full": "Narrator"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
           }
         }
       ]
@@ -3592,21 +3592,21 @@
     "characters": {
       "nodes": [
         {
-          "id": 22370,
-          "name": {
-            "full": "Yuri Nakamura"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22370-pNQxFEv1K7lS.jpg"
-          }
-        },
-        {
           "id": 22369,
           "name": {
             "full": "Kanade Tachibana"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22369-zC7OgGbfO7b6.jpg"
+          }
+        },
+        {
+          "id": 22370,
+          "name": {
+            "full": "Yuri Nakamura"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22370-pNQxFEv1K7lS.jpg"
           }
         },
         {
@@ -4356,12 +4356,68 @@
           }
         },
         {
-          "id": 89224,
+          "id": 89243,
           "name": {
-            "full": "Toshinori Yagi"
+            "full": "Eijirou Kirishima"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89224-K6KEuQAuYKzq.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89243-QLmUyyZk5K2l.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Solo Leveling",
+      "romaji": "Ore dake Level Up na Ken"
+    },
+    "id": 151807,
+    "characters": {
+      "nodes": [
+        {
+          "id": 129928,
+          "name": {
+            "full": "Jin-U Seong"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129928-BCEjVaP0AQSw.png"
+          }
+        },
+        {
+          "id": 138789,
+          "name": {
+            "full": "Hae-In Cha"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b138789-AhE8m0LWjE7E.png"
+          }
+        },
+        {
+          "id": 36309,
+          "name": {
+            "full": "Narrator"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
+          }
+        },
+        {
+          "id": 145722,
+          "name": {
+            "full": "Igris"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145722-qSJ71S6vpeeM.png"
+          }
+        },
+        {
+          "id": 136074,
+          "name": {
+            "full": "Ju-Hui Lee"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136074-pLyumEnxjL7P.png"
           }
         }
       ]
@@ -4474,62 +4530,6 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b78475-pcxfAMiGe6xf.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "english": "Solo Leveling",
-      "romaji": "Ore dake Level Up na Ken"
-    },
-    "id": 151807,
-    "characters": {
-      "nodes": [
-        {
-          "id": 129928,
-          "name": {
-            "full": "Jin-U Seong"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129928-BCEjVaP0AQSw.png"
-          }
-        },
-        {
-          "id": 138789,
-          "name": {
-            "full": "Hae-In Cha"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b138789-AhE8m0LWjE7E.png"
-          }
-        },
-        {
-          "id": 36309,
-          "name": {
-            "full": "Narrator"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
-          }
-        },
-        {
-          "id": 145722,
-          "name": {
-            "full": "Igris"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145722-qSJ71S6vpeeM.png"
-          }
-        },
-        {
-          "id": 136074,
-          "name": {
-            "full": "Ju-Hui Lee"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136074-pLyumEnxjL7P.png"
           }
         }
       ]
