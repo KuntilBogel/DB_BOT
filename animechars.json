@@ -1961,62 +1961,6 @@
   },
   {
     "title": {
-      "english": "Noragami",
-      "romaji": "Noragami"
-    },
-    "id": 20447,
-    "characters": {
-      "nodes": [
-        {
-          "id": 84677,
-          "name": {
-            "full": "Yato"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b84677-PFmohzIXD1ud.png"
-          }
-        },
-        {
-          "id": 84679,
-          "name": {
-            "full": "Hiyori Iki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b84679-GdMxvYy36M9H.png"
-          }
-        },
-        {
-          "id": 84681,
-          "name": {
-            "full": "Yukine"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b84681-vFMPNxeDkoqt.png"
-          }
-        },
-        {
-          "id": 88239,
-          "name": {
-            "full": "Bishamon"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88239-aiUFUPNjmAh7.jpg"
-          }
-        },
-        {
-          "id": 88241,
-          "name": {
-            "full": "Kofuku Ebisu"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88241-3NQSKNgaQRNC.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "No Game, No Life",
       "romaji": "No Game No Life"
     },
@@ -2066,6 +2010,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88003-tZKsjjzDWV8e.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Noragami",
+      "romaji": "Noragami"
+    },
+    "id": 20447,
+    "characters": {
+      "nodes": [
+        {
+          "id": 84677,
+          "name": {
+            "full": "Yato"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b84677-PFmohzIXD1ud.png"
+          }
+        },
+        {
+          "id": 84679,
+          "name": {
+            "full": "Hiyori Iki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b84679-GdMxvYy36M9H.png"
+          }
+        },
+        {
+          "id": 84681,
+          "name": {
+            "full": "Yukine"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b84681-vFMPNxeDkoqt.png"
+          }
+        },
+        {
+          "id": 88239,
+          "name": {
+            "full": "Bishamon"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88239-aiUFUPNjmAh7.jpg"
+          }
+        },
+        {
+          "id": 88241,
+          "name": {
+            "full": "Kofuku Ebisu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88241-3NQSKNgaQRNC.png"
           }
         }
       ]
@@ -2817,21 +2817,21 @@
           }
         },
         {
-          "id": 89,
-          "name": {
-            "full": "Shinji Ikari"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89-ZtZhXkh1rITn.png"
-          }
-        },
-        {
           "id": 1259,
           "name": {
             "full": "Misato Katsuragi"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1259-afTQkZ5SVMOn.png"
+          }
+        },
+        {
+          "id": 89,
+          "name": {
+            "full": "Shinji Ikari"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89-ZtZhXkh1rITn.png"
           }
         },
         {
@@ -3740,12 +3740,12 @@
           }
         },
         {
-          "id": 128034,
+          "id": 128040,
           "name": {
-            "full": "Veldora Tempest"
+            "full": "Shuna"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b128034-Gg5MrpTFNSv8.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b128040-QOhtFHgfOT5O.png"
           }
         }
       ]
@@ -3921,55 +3921,55 @@
   },
   {
     "title": {
-      "english": null,
-      "romaji": "Charlotte"
+      "english": "Frieren: Beyond Journey’s End",
+      "romaji": "Sousou no Frieren"
     },
-    "id": 20997,
+    "id": 154587,
     "characters": {
       "nodes": [
         {
-          "id": 88951,
+          "id": 176754,
           "name": {
-            "full": "Nao Tomori"
+            "full": "Frieren"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88951-bRm610RrrXp9.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b176754-PCnpqIOkjhFk.png"
           }
         },
         {
-          "id": 22369,
+          "id": 183965,
           "name": {
-            "full": "Kanade Tachibana"
+            "full": "Fern"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22369-zC7OgGbfO7b6.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b183965-uGFohBjlFoTp.png"
           }
         },
         {
-          "id": 88950,
+          "id": 184313,
           "name": {
-            "full": "Yuu Otosaka"
+            "full": "Stark"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88950-0ER2ke5pswxq.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184313-CQl6GSt4RSny.jpg"
           }
         },
         {
-          "id": 88955,
+          "id": 184311,
           "name": {
-            "full": "Ayumi Otosaka"
+            "full": "Himmel"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88955-iKYbTaBsmIF0.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184311-wQFySqYXEqf1.png"
           }
         },
         {
-          "id": 88954,
+          "id": 246057,
           "name": {
-            "full": "Misa Kurobane"
+            "full": "Übel"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88954-Mc5TurYknYTn.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b246057-ixvDfpng6I1S.png"
           }
         }
       ]
@@ -4033,55 +4033,55 @@
   },
   {
     "title": {
-      "english": "Frieren: Beyond Journey’s End",
-      "romaji": "Sousou no Frieren"
+      "english": null,
+      "romaji": "Charlotte"
     },
-    "id": 154587,
+    "id": 20997,
     "characters": {
       "nodes": [
         {
-          "id": 176754,
+          "id": 88951,
           "name": {
-            "full": "Frieren"
+            "full": "Nao Tomori"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b176754-PCnpqIOkjhFk.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88951-bRm610RrrXp9.jpg"
           }
         },
         {
-          "id": 183965,
+          "id": 22369,
           "name": {
-            "full": "Fern"
+            "full": "Kanade Tachibana"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b183965-uGFohBjlFoTp.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22369-zC7OgGbfO7b6.jpg"
           }
         },
         {
-          "id": 184313,
+          "id": 88950,
           "name": {
-            "full": "Stark"
+            "full": "Yuu Otosaka"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184313-CQl6GSt4RSny.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88950-0ER2ke5pswxq.png"
           }
         },
         {
-          "id": 184311,
+          "id": 88955,
           "name": {
-            "full": "Himmel"
+            "full": "Ayumi Otosaka"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184311-wQFySqYXEqf1.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88955-iKYbTaBsmIF0.jpg"
           }
         },
         {
-          "id": 246057,
+          "id": 88954,
           "name": {
-            "full": "Übel"
+            "full": "Misa Kurobane"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b246057-ixvDfpng6I1S.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88954-Mc5TurYknYTn.jpg"
           }
         }
       ]
@@ -5545,55 +5545,55 @@
   },
   {
     "title": {
-      "english": "Code Geass: Lelouch of the Rebellion R2",
-      "romaji": "Code Geass: Hangyaku no Lelouch R2"
+      "english": "Howl‘s Moving Castle",
+      "romaji": "Howl no Ugoku Shiro"
     },
-    "id": 2904,
+    "id": 431,
     "characters": {
       "nodes": [
         {
-          "id": 417,
+          "id": 507,
           "name": {
-            "full": "Lelouch Lamperouge"
+            "full": "Howl"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b417-gVLmIJu9phcK.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b507-g9yz1GTLtPla.jpg"
           }
         },
         {
-          "id": 1111,
+          "id": 6752,
           "name": {
-            "full": "C.C."
+            "full": "Calcifer"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1111-UhmlFtRFrnWa.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b6752-T8tNirdJJ8rw.jpg"
           }
         },
         {
-          "id": 1120,
+          "id": 508,
           "name": {
-            "full": "Shirley Fenette"
+            "full": "Sophie Hatter"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1120-hjOjinw5j4FE.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b508-ONXMgE281eHe.jpg"
           }
         },
         {
-          "id": 558,
+          "id": 4987,
           "name": {
-            "full": "Kallen Stadtfeld"
+            "full": "Kakashi no Kabu"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b558-8tSMZ4a0LWrn.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4987-S8wsDPmMLBdD.jpg"
           }
         },
         {
-          "id": 559,
+          "id": 509,
           "name": {
-            "full": "Suzaku Kururugi"
+            "full": "Markl"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b559-KRvTdc6zdCuU.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b509-6VwYgQtqu63T.jpg"
           }
         }
       ]
