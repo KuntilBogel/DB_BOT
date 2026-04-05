@@ -3068,12 +3068,12 @@
           }
         },
         {
-          "id": 88683,
+          "id": 88780,
           "name": {
-            "full": "Ginti"
+            "full": "Clavis"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88683-S0xJzL8QY3gI.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88780-76uJe60Gkw70.png"
           }
         }
       ]
@@ -3865,62 +3865,6 @@
   },
   {
     "title": {
-      "english": "Mushoku Tensei: Jobless Reincarnation",
-      "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu"
-    },
-    "id": 108465,
-    "characters": {
-      "nodes": [
-        {
-          "id": 88350,
-          "name": {
-            "full": "Roxy Migurdia"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88350-QU1iwgZ887U8.png"
-          }
-        },
-        {
-          "id": 88348,
-          "name": {
-            "full": "Rudeus Greyrat"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88348-bIe5XnXdRpmX.png"
-          }
-        },
-        {
-          "id": 88349,
-          "name": {
-            "full": "Eris Boreas Greyrat"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88349-5dsNUah3oBj8.png"
-          }
-        },
-        {
-          "id": 88346,
-          "name": {
-            "full": "Sylphiette"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88346-h8kCL93AXj4n.png"
-          }
-        },
-        {
-          "id": 88351,
-          "name": {
-            "full": "Ruijerd Superdia"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88351-grqY44xz6bvP.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Frieren: Beyond Journey’s End",
       "romaji": "Sousou no Frieren"
     },
@@ -3970,6 +3914,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b246057-ixvDfpng6I1S.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Mushoku Tensei: Jobless Reincarnation",
+      "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu"
+    },
+    "id": 108465,
+    "characters": {
+      "nodes": [
+        {
+          "id": 88350,
+          "name": {
+            "full": "Roxy Migurdia"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88350-QU1iwgZ887U8.png"
+          }
+        },
+        {
+          "id": 88348,
+          "name": {
+            "full": "Rudeus Greyrat"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88348-bIe5XnXdRpmX.png"
+          }
+        },
+        {
+          "id": 88349,
+          "name": {
+            "full": "Eris Boreas Greyrat"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88349-5dsNUah3oBj8.png"
+          }
+        },
+        {
+          "id": 88346,
+          "name": {
+            "full": "Sylphiette"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88346-h8kCL93AXj4n.png"
+          }
+        },
+        {
+          "id": 88351,
+          "name": {
+            "full": "Ruijerd Superdia"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88351-grqY44xz6bvP.png"
           }
         }
       ]
@@ -4313,62 +4313,6 @@
   },
   {
     "title": {
-      "english": "My Hero Academia Season 5",
-      "romaji": "Boku no Hero Academia 5"
-    },
-    "id": 117193,
-    "characters": {
-      "nodes": [
-        {
-          "id": 89220,
-          "name": {
-            "full": "Shouto Todoroki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89220-KNBwaVFAR8FD.png"
-          }
-        },
-        {
-          "id": 88892,
-          "name": {
-            "full": "Katsuki Bakugou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88892-bdOha3lNcaN6.png"
-          }
-        },
-        {
-          "id": 89028,
-          "name": {
-            "full": "Izuku Midoriya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89028-8w1I9o1ISHMg.png"
-          }
-        },
-        {
-          "id": 89225,
-          "name": {
-            "full": "Shouta Aizawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89225-XBgvUhI9naVI.png"
-          }
-        },
-        {
-          "id": 89243,
-          "name": {
-            "full": "Eijirou Kirishima"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89243-QLmUyyZk5K2l.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Solo Leveling",
       "romaji": "Ore dake Level Up na Ken"
     },
@@ -4418,6 +4362,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136074-pLyumEnxjL7P.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "My Hero Academia Season 5",
+      "romaji": "Boku no Hero Academia 5"
+    },
+    "id": 117193,
+    "characters": {
+      "nodes": [
+        {
+          "id": 89220,
+          "name": {
+            "full": "Shouto Todoroki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89220-KNBwaVFAR8FD.png"
+          }
+        },
+        {
+          "id": 88892,
+          "name": {
+            "full": "Katsuki Bakugou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88892-bdOha3lNcaN6.png"
+          }
+        },
+        {
+          "id": 89028,
+          "name": {
+            "full": "Izuku Midoriya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89028-8w1I9o1ISHMg.png"
+          }
+        },
+        {
+          "id": 89225,
+          "name": {
+            "full": "Shouta Aizawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89225-XBgvUhI9naVI.png"
+          }
+        },
+        {
+          "id": 89243,
+          "name": {
+            "full": "Eijirou Kirishima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89243-QLmUyyZk5K2l.png"
           }
         }
       ]
@@ -4705,62 +4705,6 @@
   },
   {
     "title": {
-      "english": "The Devil is a Part-Timer!",
-      "romaji": "Hataraku Maou-sama!"
-    },
-    "id": 15809,
-    "characters": {
-      "nodes": [
-        {
-          "id": 70733,
-          "name": {
-            "full": "Satan Jacob"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70733-d564H7iUj7Y2.png"
-          }
-        },
-        {
-          "id": 70735,
-          "name": {
-            "full": "Emilia Justina"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70735-DmmbHRLKpS0E.png"
-          }
-        },
-        {
-          "id": 83103,
-          "name": {
-            "full": "Lucifer"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83103-fksjOXqJCmxd.png"
-          }
-        },
-        {
-          "id": 70737,
-          "name": {
-            "full": "Alciel"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70737-lDeBmECttJCK.png"
-          }
-        },
-        {
-          "id": 70739,
-          "name": {
-            "full": "Chiho Sasaki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70739-rJpfVU2YH5nS.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "My Dress-Up Darling",
       "romaji": "Sono Bisque Doll wa Koi wo Suru"
     },
@@ -4810,6 +4754,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b207937-ytYjcNtNX77K.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "The Devil is a Part-Timer!",
+      "romaji": "Hataraku Maou-sama!"
+    },
+    "id": 15809,
+    "characters": {
+      "nodes": [
+        {
+          "id": 70733,
+          "name": {
+            "full": "Satan Jacob"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70733-d564H7iUj7Y2.png"
+          }
+        },
+        {
+          "id": 70735,
+          "name": {
+            "full": "Emilia Justina"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70735-DmmbHRLKpS0E.png"
+          }
+        },
+        {
+          "id": 83103,
+          "name": {
+            "full": "Lucifer"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83103-fksjOXqJCmxd.png"
+          }
+        },
+        {
+          "id": 70737,
+          "name": {
+            "full": "Alciel"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70737-lDeBmECttJCK.png"
+          }
+        },
+        {
+          "id": 70739,
+          "name": {
+            "full": "Chiho Sasaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70739-rJpfVU2YH5nS.png"
           }
         }
       ]
