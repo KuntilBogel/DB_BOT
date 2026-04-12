@@ -595,21 +595,21 @@
           }
         },
         {
-          "id": 70,
-          "name": {
-            "full": "Riza Hawkeye"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70-k4bCgDspyOdI.png"
-          }
-        },
-        {
           "id": 63,
           "name": {
             "full": "Winry Rockbell"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/63-xloedtYxiJ2E.jpg"
+          }
+        },
+        {
+          "id": 70,
+          "name": {
+            "full": "Riza Hawkeye"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70-k4bCgDspyOdI.png"
           }
         }
       ]
@@ -1177,62 +1177,6 @@
   },
   {
     "title": {
-      "english": "Attack on Titan Season 3 Part 2",
-      "romaji": "Shingeki no Kyojin Season 3 Part 2"
-    },
-    "id": 104578,
-    "characters": {
-      "nodes": [
-        {
-          "id": 45627,
-          "name": {
-            "full": "Levi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b45627-CR68RyZmddGG.png"
-          }
-        },
-        {
-          "id": 40882,
-          "name": {
-            "full": "Eren Yeager"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b40882-dsj7IP943WFF.jpg"
-          }
-        },
-        {
-          "id": 40881,
-          "name": {
-            "full": "Mikasa Ackerman"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b40881-F3gr1PkreDvj.png"
-          }
-        },
-        {
-          "id": 46494,
-          "name": {
-            "full": "Armin Arlert"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b46494-g7xYYuBtYPnO.png"
-          }
-        },
-        {
-          "id": 71121,
-          "name": {
-            "full": "Hange Zoe"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71121-7R7CnQd3lHgt.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Your lie in April",
       "romaji": "Shigatsu wa Kimi no Uso"
     },
@@ -1282,6 +1226,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/88786-toDBw77jbCTx.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Attack on Titan Season 3 Part 2",
+      "romaji": "Shingeki no Kyojin Season 3 Part 2"
+    },
+    "id": 104578,
+    "characters": {
+      "nodes": [
+        {
+          "id": 45627,
+          "name": {
+            "full": "Levi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b45627-CR68RyZmddGG.png"
+          }
+        },
+        {
+          "id": 40882,
+          "name": {
+            "full": "Eren Yeager"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b40882-dsj7IP943WFF.jpg"
+          }
+        },
+        {
+          "id": 40881,
+          "name": {
+            "full": "Mikasa Ackerman"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b40881-F3gr1PkreDvj.png"
+          }
+        },
+        {
+          "id": 46494,
+          "name": {
+            "full": "Armin Arlert"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b46494-g7xYYuBtYPnO.png"
+          }
+        },
+        {
+          "id": 71121,
+          "name": {
+            "full": "Hange Zoe"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71121-7R7CnQd3lHgt.png"
           }
         }
       ]
@@ -2331,21 +2331,21 @@
           }
         },
         {
-          "id": 74653,
-          "name": {
-            "full": "Diane"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b74653-XpMcsLVZBnkZ.jpg"
-          }
-        },
-        {
           "id": 36309,
           "name": {
             "full": "Narrator"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
+          }
+        },
+        {
+          "id": 74653,
+          "name": {
+            "full": "Diane"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b74653-XpMcsLVZBnkZ.jpg"
           }
         }
       ]
@@ -2633,62 +2633,6 @@
   },
   {
     "title": {
-      "english": "DARLING in the FRANXX",
-      "romaji": "Darling in the Franxx"
-    },
-    "id": 99423,
-    "characters": {
-      "nodes": [
-        {
-          "id": 124382,
-          "name": {
-            "full": "Ichigo"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124382-bSBkjtYjJQtr.png"
-          }
-        },
-        {
-          "id": 124381,
-          "name": {
-            "full": "Zero Two"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124381-pkTKi6HHNuVR.png"
-          }
-        },
-        {
-          "id": 124380,
-          "name": {
-            "full": "Hiro"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124380-ct1wJHIl9BY1.jpg"
-          }
-        },
-        {
-          "id": 124386,
-          "name": {
-            "full": "Kokoro"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124386-vc248g43ap3m.jpg"
-          }
-        },
-        {
-          "id": 124383,
-          "name": {
-            "full": "Goro"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n124383-I6ZsEBQoETj3.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Bleach",
       "romaji": "BLEACH"
     },
@@ -2738,6 +2682,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1086-qR9218BjZTC0.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "DARLING in the FRANXX",
+      "romaji": "Darling in the Franxx"
+    },
+    "id": 99423,
+    "characters": {
+      "nodes": [
+        {
+          "id": 124382,
+          "name": {
+            "full": "Ichigo"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124382-bSBkjtYjJQtr.png"
+          }
+        },
+        {
+          "id": 124381,
+          "name": {
+            "full": "Zero Two"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124381-pkTKi6HHNuVR.png"
+          }
+        },
+        {
+          "id": 124380,
+          "name": {
+            "full": "Hiro"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124380-ct1wJHIl9BY1.jpg"
+          }
+        },
+        {
+          "id": 124386,
+          "name": {
+            "full": "Kokoro"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124386-vc248g43ap3m.jpg"
+          }
+        },
+        {
+          "id": 124383,
+          "name": {
+            "full": "Goro"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n124383-I6ZsEBQoETj3.jpg"
           }
         }
       ]
@@ -2817,12 +2817,12 @@
           }
         },
         {
-          "id": 1259,
+          "id": 86,
           "name": {
-            "full": "Misato Katsuragi"
+            "full": "Rei Ayanami"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1259-afTQkZ5SVMOn.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/86-cA1zL7fyls8E.jpg"
           }
         },
         {
@@ -2835,12 +2835,12 @@
           }
         },
         {
-          "id": 86,
+          "id": 1259,
           "name": {
-            "full": "Rei Ayanami"
+            "full": "Misato Katsuragi"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/86-cA1zL7fyls8E.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1259-afTQkZ5SVMOn.png"
           }
         },
         {
@@ -3068,12 +3068,12 @@
           }
         },
         {
-          "id": 88780,
+          "id": 88683,
           "name": {
-            "full": "Clavis"
+            "full": "Ginti"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88780-76uJe60Gkw70.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88683-S0xJzL8QY3gI.png"
           }
         }
       ]
@@ -3193,62 +3193,6 @@
   },
   {
     "title": {
-      "english": "Blue Exorcist",
-      "romaji": "Ao no Exorcist"
-    },
-    "id": 9919,
-    "characters": {
-      "nodes": [
-        {
-          "id": 24482,
-          "name": {
-            "full": "Rin Okumura"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24482-E6087V4uAVqL.jpg"
-          }
-        },
-        {
-          "id": 32110,
-          "name": {
-            "full": "Shura Kirigakure"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b32110-Ats6VvSZy300.png"
-          }
-        },
-        {
-          "id": 30432,
-          "name": {
-            "full": "Mephisto Pheles"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b30432-I4KwsegOrzfq.png"
-          }
-        },
-        {
-          "id": 43187,
-          "name": {
-            "full": "Kuro"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43187-uJySWMkmaWmZ.png"
-          }
-        },
-        {
-          "id": 24734,
-          "name": {
-            "full": "Yukio Okumura"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24734-GgVZoNAPnxoc.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Cowboy Bebop",
       "romaji": "Cowboy Bebop"
     },
@@ -3305,55 +3249,55 @@
   },
   {
     "title": {
-      "english": "Kakegurui",
-      "romaji": "Kakegurui"
+      "english": "Blue Exorcist",
+      "romaji": "Ao no Exorcist"
     },
-    "id": 98314,
+    "id": 9919,
     "characters": {
       "nodes": [
         {
-          "id": 121889,
+          "id": 24482,
           "name": {
-            "full": "Yumeko Jabami"
+            "full": "Rin Okumura"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121889-ABsurpy5SjOW.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24482-E6087V4uAVqL.jpg"
           }
         },
         {
-          "id": 122687,
+          "id": 32110,
           "name": {
-            "full": "Mary Saotome"
+            "full": "Shura Kirigakure"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122687-jl1wk9rjO57e.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b32110-Ats6VvSZy300.png"
           }
         },
         {
-          "id": 122691,
+          "id": 30432,
           "name": {
-            "full": "Midari Ikishima"
+            "full": "Mephisto Pheles"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122691-ze4qKEiCv2Lz.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b30432-I4KwsegOrzfq.png"
           }
         },
         {
-          "id": 122693,
+          "id": 43187,
           "name": {
-            "full": "Kirari Momobami"
+            "full": "Kuro"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122693-qg2NIaq5h1VD.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43187-uJySWMkmaWmZ.png"
           }
         },
         {
-          "id": 122698,
+          "id": 24734,
           "name": {
-            "full": "Runa Yomozuki"
+            "full": "Yukio Okumura"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/122698-8UvXcLs1LGYY.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24734-GgVZoNAPnxoc.png"
           }
         }
       ]
@@ -3410,6 +3354,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133704-8wLTGjc234q2.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Kakegurui",
+      "romaji": "Kakegurui"
+    },
+    "id": 98314,
+    "characters": {
+      "nodes": [
+        {
+          "id": 121889,
+          "name": {
+            "full": "Yumeko Jabami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121889-ABsurpy5SjOW.png"
+          }
+        },
+        {
+          "id": 122687,
+          "name": {
+            "full": "Mary Saotome"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122687-jl1wk9rjO57e.png"
+          }
+        },
+        {
+          "id": 122691,
+          "name": {
+            "full": "Midari Ikishima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122691-ze4qKEiCv2Lz.jpg"
+          }
+        },
+        {
+          "id": 122693,
+          "name": {
+            "full": "Kirari Momobami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122693-qg2NIaq5h1VD.png"
+          }
+        },
+        {
+          "id": 122698,
+          "name": {
+            "full": "Runa Yomozuki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/122698-8UvXcLs1LGYY.jpg"
           }
         }
       ]
@@ -3753,6 +3753,62 @@
   },
   {
     "title": {
+      "english": "Frieren: Beyond Journey’s End",
+      "romaji": "Sousou no Frieren"
+    },
+    "id": 154587,
+    "characters": {
+      "nodes": [
+        {
+          "id": 176754,
+          "name": {
+            "full": "Frieren"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b176754-PCnpqIOkjhFk.png"
+          }
+        },
+        {
+          "id": 183965,
+          "name": {
+            "full": "Fern"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b183965-uGFohBjlFoTp.png"
+          }
+        },
+        {
+          "id": 184313,
+          "name": {
+            "full": "Stark"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184313-CQl6GSt4RSny.jpg"
+          }
+        },
+        {
+          "id": 184311,
+          "name": {
+            "full": "Himmel"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184311-wQFySqYXEqf1.png"
+          }
+        },
+        {
+          "id": 246057,
+          "name": {
+            "full": "Übel"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b246057-ixvDfpng6I1S.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
       "english": "Kaguya-sama: Love is War?",
       "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen"
     },
@@ -3858,62 +3914,6 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4965-kfp8cXLa4n6y.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "english": "Frieren: Beyond Journey’s End",
-      "romaji": "Sousou no Frieren"
-    },
-    "id": 154587,
-    "characters": {
-      "nodes": [
-        {
-          "id": 176754,
-          "name": {
-            "full": "Frieren"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b176754-PCnpqIOkjhFk.png"
-          }
-        },
-        {
-          "id": 183965,
-          "name": {
-            "full": "Fern"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b183965-uGFohBjlFoTp.png"
-          }
-        },
-        {
-          "id": 184313,
-          "name": {
-            "full": "Stark"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184313-CQl6GSt4RSny.jpg"
-          }
-        },
-        {
-          "id": 184311,
-          "name": {
-            "full": "Himmel"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184311-wQFySqYXEqf1.png"
-          }
-        },
-        {
-          "id": 246057,
-          "name": {
-            "full": "Übel"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b246057-ixvDfpng6I1S.png"
           }
         }
       ]
