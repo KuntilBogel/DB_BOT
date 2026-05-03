@@ -113,62 +113,6 @@
   },
   {
     "title": {
-      "english": "Death Note",
-      "romaji": "DEATH NOTE"
-    },
-    "id": 1535,
-    "characters": {
-      "nodes": [
-        {
-          "id": 71,
-          "name": {
-            "full": "L Lawliet"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71-1W4panC53vfs.png"
-          }
-        },
-        {
-          "id": 80,
-          "name": {
-            "full": "Light Yagami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b80-26EhwSsSqQ50.png"
-          }
-        },
-        {
-          "id": 75,
-          "name": {
-            "full": "Ryuk"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b75-IkEpzO21LgFy.jpg"
-          }
-        },
-        {
-          "id": 835,
-          "name": {
-            "full": "Misa Amane"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b835-CiZa8y2z2gCz.png"
-          }
-        },
-        {
-          "id": 463,
-          "name": {
-            "full": "Mihael Keehl"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b463-QBLeLf6XxVg6.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "JUJUTSU KAISEN",
       "romaji": "Jujutsu Kaisen"
     },
@@ -218,6 +162,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133704-8wLTGjc234q2.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Death Note",
+      "romaji": "DEATH NOTE"
+    },
+    "id": 1535,
+    "characters": {
+      "nodes": [
+        {
+          "id": 71,
+          "name": {
+            "full": "L Lawliet"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71-1W4panC53vfs.png"
+          }
+        },
+        {
+          "id": 80,
+          "name": {
+            "full": "Light Yagami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b80-26EhwSsSqQ50.png"
+          }
+        },
+        {
+          "id": 75,
+          "name": {
+            "full": "Ryuk"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b75-IkEpzO21LgFy.jpg"
+          }
+        },
+        {
+          "id": 835,
+          "name": {
+            "full": "Misa Amane"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b835-CiZa8y2z2gCz.png"
+          }
+        },
+        {
+          "id": 463,
+          "name": {
+            "full": "Mihael Keehl"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b463-QBLeLf6XxVg6.png"
           }
         }
       ]
@@ -595,21 +595,21 @@
           }
         },
         {
-          "id": 63,
-          "name": {
-            "full": "Winry Rockbell"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/63-xloedtYxiJ2E.jpg"
-          }
-        },
-        {
           "id": 70,
           "name": {
             "full": "Riza Hawkeye"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70-k4bCgDspyOdI.png"
+          }
+        },
+        {
+          "id": 63,
+          "name": {
+            "full": "Winry Rockbell"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/63-xloedtYxiJ2E.jpg"
           }
         }
       ]
@@ -953,62 +953,6 @@
   },
   {
     "title": {
-      "english": "The Promised Neverland",
-      "romaji": "Yakusoku no Neverland"
-    },
-    "id": 101759,
-    "characters": {
-      "nodes": [
-        {
-          "id": 121724,
-          "name": {
-            "full": "Ray"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121724-SJTdODjeO7e6.jpg"
-          }
-        },
-        {
-          "id": 121700,
-          "name": {
-            "full": "Norman"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121700-CRwKIlcBcjbv.jpg"
-          }
-        },
-        {
-          "id": 121725,
-          "name": {
-            "full": "Emma"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121725-LQciVJOjnMVh.png"
-          }
-        },
-        {
-          "id": 126475,
-          "name": {
-            "full": "Phil"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126475-EqxsU9P6ajKE.jpg"
-          }
-        },
-        {
-          "id": 121701,
-          "name": {
-            "full": "Isabella"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121701-hP5hanKRUH9u.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Attack on Titan Final Season",
       "romaji": "Shingeki no Kyojin: The Final Season"
     },
@@ -1058,6 +1002,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71121-7R7CnQd3lHgt.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "The Promised Neverland",
+      "romaji": "Yakusoku no Neverland"
+    },
+    "id": 101759,
+    "characters": {
+      "nodes": [
+        {
+          "id": 121724,
+          "name": {
+            "full": "Ray"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121724-SJTdODjeO7e6.jpg"
+          }
+        },
+        {
+          "id": 121700,
+          "name": {
+            "full": "Norman"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121700-CRwKIlcBcjbv.jpg"
+          }
+        },
+        {
+          "id": 121725,
+          "name": {
+            "full": "Emma"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121725-LQciVJOjnMVh.png"
+          }
+        },
+        {
+          "id": 126475,
+          "name": {
+            "full": "Phil"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126475-EqxsU9P6ajKE.jpg"
+          }
+        },
+        {
+          "id": 121701,
+          "name": {
+            "full": "Isabella"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121701-hP5hanKRUH9u.png"
           }
         }
       ]
@@ -1345,62 +1345,6 @@
   },
   {
     "title": {
-      "english": "Naruto: Shippuden",
-      "romaji": "NARUTO: Shippuuden"
-    },
-    "id": 1735,
-    "characters": {
-      "nodes": [
-        {
-          "id": 14,
-          "name": {
-            "full": "Itachi Uchiha"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b14-9Kb1E5oel1ke.png"
-          }
-        },
-        {
-          "id": 85,
-          "name": {
-            "full": "Kakashi Hatake"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b85-mkVBh2yjxjmx.png"
-          }
-        },
-        {
-          "id": 17,
-          "name": {
-            "full": "Naruto Uzumaki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b17-phjcWCkRuIhu.png"
-          }
-        },
-        {
-          "id": 13,
-          "name": {
-            "full": "Sasuke Uchiha"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13-SISLEw1oAD7a.png"
-          }
-        },
-        {
-          "id": 2007,
-          "name": {
-            "full": "Shikamaru Nara"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2007-QaesJlIZDifj.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Chainsaw Man",
       "romaji": "Chainsaw Man"
     },
@@ -1450,6 +1394,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b148740-ceAibPxLW8rR.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Naruto: Shippuden",
+      "romaji": "NARUTO: Shippuuden"
+    },
+    "id": 1735,
+    "characters": {
+      "nodes": [
+        {
+          "id": 14,
+          "name": {
+            "full": "Itachi Uchiha"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b14-9Kb1E5oel1ke.png"
+          }
+        },
+        {
+          "id": 85,
+          "name": {
+            "full": "Kakashi Hatake"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b85-mkVBh2yjxjmx.png"
+          }
+        },
+        {
+          "id": 17,
+          "name": {
+            "full": "Naruto Uzumaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b17-phjcWCkRuIhu.png"
+          }
+        },
+        {
+          "id": 13,
+          "name": {
+            "full": "Sasuke Uchiha"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13-SISLEw1oAD7a.png"
+          }
+        },
+        {
+          "id": 2007,
+          "name": {
+            "full": "Shikamaru Nara"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2007-QaesJlIZDifj.jpg"
           }
         }
       ]
@@ -1961,62 +1961,6 @@
   },
   {
     "title": {
-      "english": "No Game, No Life",
-      "romaji": "No Game No Life"
-    },
-    "id": 19815,
-    "characters": {
-      "nodes": [
-        {
-          "id": 82525,
-          "name": {
-            "full": "Shiro"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82525-sKk2FGRKN4aK.png"
-          }
-        },
-        {
-          "id": 82523,
-          "name": {
-            "full": "Sora"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82523-JB9oevKyXWfc.png"
-          }
-        },
-        {
-          "id": 87887,
-          "name": {
-            "full": "Jibril"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87887-3QKmvQM5LTwY.png"
-          }
-        },
-        {
-          "id": 82527,
-          "name": {
-            "full": "Stephanie Dola"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82527-uwdWwl1qhzqC.png"
-          }
-        },
-        {
-          "id": 88003,
-          "name": {
-            "full": "Izuna Hatsuse"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88003-tZKsjjzDWV8e.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Violet Evergarden",
       "romaji": "Violet Evergarden"
     },
@@ -2066,6 +2010,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124799-htaqVGZd83GW.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "No Game, No Life",
+      "romaji": "No Game No Life"
+    },
+    "id": 19815,
+    "characters": {
+      "nodes": [
+        {
+          "id": 82525,
+          "name": {
+            "full": "Shiro"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82525-sKk2FGRKN4aK.png"
+          }
+        },
+        {
+          "id": 82523,
+          "name": {
+            "full": "Sora"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82523-JB9oevKyXWfc.png"
+          }
+        },
+        {
+          "id": 87887,
+          "name": {
+            "full": "Jibril"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87887-3QKmvQM5LTwY.png"
+          }
+        },
+        {
+          "id": 82527,
+          "name": {
+            "full": "Stephanie Dola"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82527-uwdWwl1qhzqC.png"
+          }
+        },
+        {
+          "id": 88003,
+          "name": {
+            "full": "Izuna Hatsuse"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88003-tZKsjjzDWV8e.png"
           }
         }
       ]
@@ -2929,21 +2929,21 @@
           }
         },
         {
-          "id": 130716,
-          "name": {
-            "full": "Iris"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n130716-5564jUgQxK9a.png"
-          }
-        },
-        {
           "id": 120462,
           "name": {
             "full": "Shinra Kusakabe"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/n120462-oSWdz2MhkbDE.png"
+          }
+        },
+        {
+          "id": 130716,
+          "name": {
+            "full": "Iris"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n130716-5564jUgQxK9a.png"
           }
         },
         {
@@ -3404,12 +3404,12 @@
           }
         },
         {
-          "id": 122698,
+          "id": 122777,
           "name": {
-            "full": "Runa Yomozuki"
+            "full": "Ririka Momobami"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/122698-8UvXcLs1LGYY.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122777-pdh3z3WbnvlL.png"
           }
         }
       ]
@@ -3641,62 +3641,6 @@
   },
   {
     "title": {
-      "english": "Tokyo Revengers",
-      "romaji": "Tokyo Revengers"
-    },
-    "id": 120120,
-    "characters": {
-      "nodes": [
-        {
-          "id": 145341,
-          "name": {
-            "full": "Manjirou Sano"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145341-CuPldCLZMvvf.png"
-          }
-        },
-        {
-          "id": 145344,
-          "name": {
-            "full": "Chifuyu Matsuno"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145344-q4BqRljEBYNc.png"
-          }
-        },
-        {
-          "id": 145345,
-          "name": {
-            "full": "Ken Ryuuguji"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145345-zyirrSsKIDCb.png"
-          }
-        },
-        {
-          "id": 145343,
-          "name": {
-            "full": "Keisuke Baji"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145343-vRrkdWEUXwYM.jpg"
-          }
-        },
-        {
-          "id": 167841,
-          "name": {
-            "full": "Takashi Mitsuya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b167841-Pp08TBnzGhK4.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "That Time I Got Reincarnated as a Slime",
       "romaji": "Tensei Shitara Slime Datta Ken"
     },
@@ -3753,6 +3697,62 @@
   },
   {
     "title": {
+      "english": "Tokyo Revengers",
+      "romaji": "Tokyo Revengers"
+    },
+    "id": 120120,
+    "characters": {
+      "nodes": [
+        {
+          "id": 145341,
+          "name": {
+            "full": "Manjirou Sano"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145341-CuPldCLZMvvf.png"
+          }
+        },
+        {
+          "id": 145344,
+          "name": {
+            "full": "Chifuyu Matsuno"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145344-q4BqRljEBYNc.png"
+          }
+        },
+        {
+          "id": 145345,
+          "name": {
+            "full": "Ken Ryuuguji"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145345-zyirrSsKIDCb.png"
+          }
+        },
+        {
+          "id": 145343,
+          "name": {
+            "full": "Keisuke Baji"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145343-vRrkdWEUXwYM.jpg"
+          }
+        },
+        {
+          "id": 167841,
+          "name": {
+            "full": "Takashi Mitsuya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b167841-Pp08TBnzGhK4.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
       "english": "Frieren: Beyond Journey’s End",
       "romaji": "Sousou no Frieren"
     },
@@ -3802,62 +3802,6 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b246057-ixvDfpng6I1S.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "english": "Kaguya-sama: Love is War?",
-      "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen"
-    },
-    "id": 112641,
-    "characters": {
-      "nodes": [
-        {
-          "id": 120649,
-          "name": {
-            "full": "Kaguya Shinomiya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b120649-NPaWaIpWy60E.png"
-          }
-        },
-        {
-          "id": 121103,
-          "name": {
-            "full": "Chika Fujiwara"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121103-UGLxT8utLPnq.png"
-          }
-        },
-        {
-          "id": 125886,
-          "name": {
-            "full": "Miko Iino"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b125886-TQbmqAaSgBLS.png"
-          }
-        },
-        {
-          "id": 121102,
-          "name": {
-            "full": "Yuu Ishigami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121102-tiQFxnSEIAwm.png"
-          }
-        },
-        {
-          "id": 121104,
-          "name": {
-            "full": "Ai Hayasaka"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121104-7TYRl3EEsDYU.png"
           }
         }
       ]
@@ -3977,6 +3921,62 @@
   },
   {
     "title": {
+      "english": "Kaguya-sama: Love is War?",
+      "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen"
+    },
+    "id": 112641,
+    "characters": {
+      "nodes": [
+        {
+          "id": 120649,
+          "name": {
+            "full": "Kaguya Shinomiya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b120649-NPaWaIpWy60E.png"
+          }
+        },
+        {
+          "id": 121103,
+          "name": {
+            "full": "Chika Fujiwara"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121103-UGLxT8utLPnq.png"
+          }
+        },
+        {
+          "id": 125886,
+          "name": {
+            "full": "Miko Iino"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b125886-TQbmqAaSgBLS.png"
+          }
+        },
+        {
+          "id": 121102,
+          "name": {
+            "full": "Yuu Ishigami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121102-tiQFxnSEIAwm.png"
+          }
+        },
+        {
+          "id": 121104,
+          "name": {
+            "full": "Ai Hayasaka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121104-7TYRl3EEsDYU.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
       "english": "The Future Diary",
       "romaji": "Mirai Nikki"
     },
@@ -4033,62 +4033,6 @@
   },
   {
     "title": {
-      "english": null,
-      "romaji": "Charlotte"
-    },
-    "id": 20997,
-    "characters": {
-      "nodes": [
-        {
-          "id": 88951,
-          "name": {
-            "full": "Nao Tomori"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88951-bRm610RrrXp9.jpg"
-          }
-        },
-        {
-          "id": 22369,
-          "name": {
-            "full": "Kanade Tachibana"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22369-zC7OgGbfO7b6.jpg"
-          }
-        },
-        {
-          "id": 88950,
-          "name": {
-            "full": "Yuu Otosaka"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88950-0ER2ke5pswxq.png"
-          }
-        },
-        {
-          "id": 88955,
-          "name": {
-            "full": "Ayumi Otosaka"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88955-iKYbTaBsmIF0.jpg"
-          }
-        },
-        {
-          "id": 88954,
-          "name": {
-            "full": "Misa Kurobane"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88954-Mc5TurYknYTn.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Attack on Titan Final Season Part 2",
       "romaji": "Shingeki no Kyojin: The Final Season Part 2"
     },
@@ -4138,6 +4082,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71121-7R7CnQd3lHgt.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": null,
+      "romaji": "Charlotte"
+    },
+    "id": 20997,
+    "characters": {
+      "nodes": [
+        {
+          "id": 88951,
+          "name": {
+            "full": "Nao Tomori"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88951-bRm610RrrXp9.jpg"
+          }
+        },
+        {
+          "id": 22369,
+          "name": {
+            "full": "Kanade Tachibana"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22369-zC7OgGbfO7b6.jpg"
+          }
+        },
+        {
+          "id": 88950,
+          "name": {
+            "full": "Yuu Otosaka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88950-0ER2ke5pswxq.png"
+          }
+        },
+        {
+          "id": 88955,
+          "name": {
+            "full": "Ayumi Otosaka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88955-iKYbTaBsmIF0.jpg"
+          }
+        },
+        {
+          "id": 88954,
+          "name": {
+            "full": "Misa Kurobane"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88954-Mc5TurYknYTn.jpg"
           }
         }
       ]
@@ -4761,62 +4761,6 @@
   },
   {
     "title": {
-      "english": "The Devil is a Part-Timer!",
-      "romaji": "Hataraku Maou-sama!"
-    },
-    "id": 15809,
-    "characters": {
-      "nodes": [
-        {
-          "id": 70733,
-          "name": {
-            "full": "Satan Jacob"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70733-d564H7iUj7Y2.png"
-          }
-        },
-        {
-          "id": 70735,
-          "name": {
-            "full": "Emilia Justina"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70735-DmmbHRLKpS0E.png"
-          }
-        },
-        {
-          "id": 83103,
-          "name": {
-            "full": "Lucifer"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83103-fksjOXqJCmxd.png"
-          }
-        },
-        {
-          "id": 70737,
-          "name": {
-            "full": "Alciel"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70737-lDeBmECttJCK.png"
-          }
-        },
-        {
-          "id": 70739,
-          "name": {
-            "full": "Chiho Sasaki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70739-rJpfVU2YH5nS.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Overlord",
       "romaji": "Overlord"
     },
@@ -4866,6 +4810,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89155-yVyhseUF82s9.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "The Devil is a Part-Timer!",
+      "romaji": "Hataraku Maou-sama!"
+    },
+    "id": 15809,
+    "characters": {
+      "nodes": [
+        {
+          "id": 70733,
+          "name": {
+            "full": "Satan Jacob"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70733-d564H7iUj7Y2.png"
+          }
+        },
+        {
+          "id": 70735,
+          "name": {
+            "full": "Emilia Justina"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70735-DmmbHRLKpS0E.png"
+          }
+        },
+        {
+          "id": 83103,
+          "name": {
+            "full": "Lucifer"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83103-fksjOXqJCmxd.png"
+          }
+        },
+        {
+          "id": 70737,
+          "name": {
+            "full": "Alciel"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70737-lDeBmECttJCK.png"
+          }
+        },
+        {
+          "id": 70739,
+          "name": {
+            "full": "Chiho Sasaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70739-rJpfVU2YH5nS.png"
           }
         }
       ]
