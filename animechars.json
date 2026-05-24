@@ -1177,62 +1177,6 @@
   },
   {
     "title": {
-      "english": "Your lie in April",
-      "romaji": "Shigatsu wa Kimi no Uso"
-    },
-    "id": 20665,
-    "characters": {
-      "nodes": [
-        {
-          "id": 69411,
-          "name": {
-            "full": "Kaori Miyazono"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b69411-lxM0FRvWHqlv.png"
-          }
-        },
-        {
-          "id": 69407,
-          "name": {
-            "full": "Kousei Arima"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b69407-eyIvpsFPeARS.png"
-          }
-        },
-        {
-          "id": 69405,
-          "name": {
-            "full": "Ryouta Watari"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/69405-IpsjziJkHrHj.png"
-          }
-        },
-        {
-          "id": 85841,
-          "name": {
-            "full": "Emi Igawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b85841-728eVWAvzifr.png"
-          }
-        },
-        {
-          "id": 88786,
-          "name": {
-            "full": "Hiroko Seto"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88786-toDBw77jbCTx.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Chainsaw Man",
       "romaji": "Chainsaw Man"
     },
@@ -1289,55 +1233,55 @@
   },
   {
     "title": {
-      "english": "Attack on Titan Season 3 Part 2",
-      "romaji": "Shingeki no Kyojin Season 3 Part 2"
+      "english": "Your lie in April",
+      "romaji": "Shigatsu wa Kimi no Uso"
     },
-    "id": 104578,
+    "id": 20665,
     "characters": {
       "nodes": [
         {
-          "id": 45627,
+          "id": 69411,
           "name": {
-            "full": "Levi"
+            "full": "Kaori Miyazono"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b45627-CR68RyZmddGG.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b69411-lxM0FRvWHqlv.png"
           }
         },
         {
-          "id": 40882,
+          "id": 69407,
           "name": {
-            "full": "Eren Yeager"
+            "full": "Kousei Arima"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b40882-dsj7IP943WFF.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b69407-eyIvpsFPeARS.png"
           }
         },
         {
-          "id": 40881,
+          "id": 69405,
           "name": {
-            "full": "Mikasa Ackerman"
+            "full": "Ryouta Watari"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b40881-F3gr1PkreDvj.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/69405-IpsjziJkHrHj.png"
           }
         },
         {
-          "id": 46494,
+          "id": 85841,
           "name": {
-            "full": "Armin Arlert"
+            "full": "Emi Igawa"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b46494-g7xYYuBtYPnO.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b85841-728eVWAvzifr.png"
           }
         },
         {
-          "id": 71121,
+          "id": 88786,
           "name": {
-            "full": "Hange Zoe"
+            "full": "Hiroko Seto"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71121-7R7CnQd3lHgt.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88786-toDBw77jbCTx.png"
           }
         }
       ]
@@ -1394,6 +1338,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88576-NWkotUiJ3mK3.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Attack on Titan Season 3 Part 2",
+      "romaji": "Shingeki no Kyojin Season 3 Part 2"
+    },
+    "id": 104578,
+    "characters": {
+      "nodes": [
+        {
+          "id": 45627,
+          "name": {
+            "full": "Levi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b45627-CR68RyZmddGG.png"
+          }
+        },
+        {
+          "id": 40882,
+          "name": {
+            "full": "Eren Yeager"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b40882-dsj7IP943WFF.jpg"
+          }
+        },
+        {
+          "id": 40881,
+          "name": {
+            "full": "Mikasa Ackerman"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b40881-F3gr1PkreDvj.png"
+          }
+        },
+        {
+          "id": 46494,
+          "name": {
+            "full": "Armin Arlert"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b46494-g7xYYuBtYPnO.png"
+          }
+        },
+        {
+          "id": 71121,
+          "name": {
+            "full": "Hange Zoe"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71121-7R7CnQd3lHgt.png"
           }
         }
       ]
@@ -1681,62 +1681,6 @@
   },
   {
     "title": {
-      "english": "Rascal Does Not Dream of Bunny Girl Senpai",
-      "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"
-    },
-    "id": 101291,
-    "characters": {
-      "nodes": [
-        {
-          "id": 127222,
-          "name": {
-            "full": "Mai Sakurajima"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127222-Jh5hhP7vZ7s1.png"
-          }
-        },
-        {
-          "id": 127221,
-          "name": {
-            "full": "Sakuta Azusagawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n127221-Wxg4xFtW4kaJ.png"
-          }
-        },
-        {
-          "id": 127633,
-          "name": {
-            "full": "Rio Futaba"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127633-FcCwWK5sQRhK.png"
-          }
-        },
-        {
-          "id": 127613,
-          "name": {
-            "full": "Kaede Azusagawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127613-LBtFkMJfUWpg.png"
-          }
-        },
-        {
-          "id": 127840,
-          "name": {
-            "full": "Tomoe Koga"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127840-z2LUox2R2Ivg.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Black Clover",
       "romaji": "Black Clover"
     },
@@ -1786,6 +1730,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124435-gXFVXWrCcieK.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Rascal Does Not Dream of Bunny Girl Senpai",
+      "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"
+    },
+    "id": 101291,
+    "characters": {
+      "nodes": [
+        {
+          "id": 127222,
+          "name": {
+            "full": "Mai Sakurajima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127222-Jh5hhP7vZ7s1.png"
+          }
+        },
+        {
+          "id": 127221,
+          "name": {
+            "full": "Sakuta Azusagawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n127221-Wxg4xFtW4kaJ.png"
+          }
+        },
+        {
+          "id": 127633,
+          "name": {
+            "full": "Rio Futaba"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127633-FcCwWK5sQRhK.png"
+          }
+        },
+        {
+          "id": 127613,
+          "name": {
+            "full": "Kaede Azusagawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127613-LBtFkMJfUWpg.png"
+          }
+        },
+        {
+          "id": 127840,
+          "name": {
+            "full": "Tomoe Koga"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127840-z2LUox2R2Ivg.jpg"
           }
         }
       ]
@@ -2577,62 +2577,6 @@
   },
   {
     "title": {
-      "english": "Parasyte -the maxim-",
-      "romaji": "Kiseijuu: Sei no Kakuritsu"
-    },
-    "id": 20623,
-    "characters": {
-      "nodes": [
-        {
-          "id": 12323,
-          "name": {
-            "full": "Shinichi Izumi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12323-NAoqDYOn2RSo.png"
-          }
-        },
-        {
-          "id": 13773,
-          "name": {
-            "full": "Migi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13773-Kuak0WTeTU9z.png"
-          }
-        },
-        {
-          "id": 19215,
-          "name": {
-            "full": "Kana Kimishima"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19215-oei5N1hu9w9w.png"
-          }
-        },
-        {
-          "id": 16586,
-          "name": {
-            "full": "Ryouko Tamiya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b16586-5BBzHsx1GLGC.jpg"
-          }
-        },
-        {
-          "id": 19436,
-          "name": {
-            "full": "Satomi Murano"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19436-d9ImDTVNQPKt.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Bleach",
       "romaji": "BLEACH"
     },
@@ -2682,6 +2626,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1086-qR9218BjZTC0.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Parasyte -the maxim-",
+      "romaji": "Kiseijuu: Sei no Kakuritsu"
+    },
+    "id": 20623,
+    "characters": {
+      "nodes": [
+        {
+          "id": 12323,
+          "name": {
+            "full": "Shinichi Izumi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12323-NAoqDYOn2RSo.png"
+          }
+        },
+        {
+          "id": 13773,
+          "name": {
+            "full": "Migi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13773-Kuak0WTeTU9z.png"
+          }
+        },
+        {
+          "id": 19215,
+          "name": {
+            "full": "Kana Kimishima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19215-oei5N1hu9w9w.png"
+          }
+        },
+        {
+          "id": 16586,
+          "name": {
+            "full": "Ryouko Tamiya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b16586-5BBzHsx1GLGC.jpg"
+          }
+        },
+        {
+          "id": 19436,
+          "name": {
+            "full": "Satomi Murano"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19436-d9ImDTVNQPKt.jpg"
           }
         }
       ]
@@ -2969,62 +2969,6 @@
   },
   {
     "title": {
-      "english": "JoJo's Bizarre Adventure (TV)",
-      "romaji": "JoJo no Kimyou na Bouken (TV)"
-    },
-    "id": 14719,
-    "characters": {
-      "nodes": [
-        {
-          "id": 6356,
-          "name": {
-            "full": "Joseph Joestar"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b6356-RImEfUfHpC58.png"
-          }
-        },
-        {
-          "id": 4003,
-          "name": {
-            "full": "Joutarou Kuujou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4003-gWDSEGbeOAll.png"
-          }
-        },
-        {
-          "id": 4004,
-          "name": {
-            "full": "Dio Brando"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4004-w0OtWuvjhftG.png"
-          }
-        },
-        {
-          "id": 8087,
-          "name": {
-            "full": "Jonathan Joestar"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8087-GTrObHQvujB5.png"
-          }
-        },
-        {
-          "id": 21959,
-          "name": {
-            "full": "Caesar Zeppeli"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b21959-Cm9Rlh0EFAQw.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
       "romaji": "Kimetsu no Yaiba: Yuukaku-hen"
     },
@@ -3074,6 +3018,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130050-qsLThJs5VIbz.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "JoJo's Bizarre Adventure (TV)",
+      "romaji": "JoJo no Kimyou na Bouken (TV)"
+    },
+    "id": 14719,
+    "characters": {
+      "nodes": [
+        {
+          "id": 6356,
+          "name": {
+            "full": "Joseph Joestar"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b6356-RImEfUfHpC58.png"
+          }
+        },
+        {
+          "id": 4003,
+          "name": {
+            "full": "Joutarou Kuujou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4003-gWDSEGbeOAll.png"
+          }
+        },
+        {
+          "id": 4004,
+          "name": {
+            "full": "Dio Brando"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4004-w0OtWuvjhftG.png"
+          }
+        },
+        {
+          "id": 8087,
+          "name": {
+            "full": "Jonathan Joestar"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8087-GTrObHQvujB5.png"
+          }
+        },
+        {
+          "id": 21959,
+          "name": {
+            "full": "Caesar Zeppeli"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b21959-Cm9Rlh0EFAQw.png"
           }
         }
       ]
@@ -3529,6 +3529,62 @@
   },
   {
     "title": {
+      "english": "Frieren: Beyond Journey’s End",
+      "romaji": "Sousou no Frieren"
+    },
+    "id": 154587,
+    "characters": {
+      "nodes": [
+        {
+          "id": 176754,
+          "name": {
+            "full": "Frieren"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b176754-PCnpqIOkjhFk.png"
+          }
+        },
+        {
+          "id": 183965,
+          "name": {
+            "full": "Fern"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b183965-uGFohBjlFoTp.png"
+          }
+        },
+        {
+          "id": 184313,
+          "name": {
+            "full": "Stark"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184313-CQl6GSt4RSny.jpg"
+          }
+        },
+        {
+          "id": 184311,
+          "name": {
+            "full": "Himmel"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184311-wQFySqYXEqf1.png"
+          }
+        },
+        {
+          "id": 246057,
+          "name": {
+            "full": "Übel"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b246057-ixvDfpng6I1S.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
       "english": "That Time I Got Reincarnated as a Slime",
       "romaji": "Tensei Shitara Slime Datta Ken"
     },
@@ -3634,62 +3690,6 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "english": "Frieren: Beyond Journey’s End",
-      "romaji": "Sousou no Frieren"
-    },
-    "id": 154587,
-    "characters": {
-      "nodes": [
-        {
-          "id": 176754,
-          "name": {
-            "full": "Frieren"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b176754-PCnpqIOkjhFk.png"
-          }
-        },
-        {
-          "id": 183965,
-          "name": {
-            "full": "Fern"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b183965-uGFohBjlFoTp.png"
-          }
-        },
-        {
-          "id": 184313,
-          "name": {
-            "full": "Stark"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184313-CQl6GSt4RSny.jpg"
-          }
-        },
-        {
-          "id": 184311,
-          "name": {
-            "full": "Himmel"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184311-wQFySqYXEqf1.png"
-          }
-        },
-        {
-          "id": 246057,
-          "name": {
-            "full": "Übel"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b246057-ixvDfpng6I1S.png"
           }
         }
       ]
@@ -3977,62 +3977,6 @@
   },
   {
     "title": {
-      "english": "The Future Diary",
-      "romaji": "Mirai Nikki"
-    },
-    "id": 10620,
-    "characters": {
-      "nodes": [
-        {
-          "id": 4963,
-          "name": {
-            "full": "Yuno Gasai"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4963-7ZMcCtXW5hkY.png"
-          }
-        },
-        {
-          "id": 4966,
-          "name": {
-            "full": "Minene Uryuu"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4966-Bb0hjxjJtidY.jpg"
-          }
-        },
-        {
-          "id": 8306,
-          "name": {
-            "full": "Aru Akise"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8306-1plj927kFBCf.jpg"
-          }
-        },
-        {
-          "id": 4962,
-          "name": {
-            "full": "Yukiteru Amano"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4962-CpqPBVJngbq2.png"
-          }
-        },
-        {
-          "id": 4965,
-          "name": {
-            "full": "Mur Mur"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4965-kfp8cXLa4n6y.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Attack on Titan Final Season Part 2",
       "romaji": "Shingeki no Kyojin: The Final Season Part 2"
     },
@@ -4082,6 +4026,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71121-7R7CnQd3lHgt.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "The Future Diary",
+      "romaji": "Mirai Nikki"
+    },
+    "id": 10620,
+    "characters": {
+      "nodes": [
+        {
+          "id": 4963,
+          "name": {
+            "full": "Yuno Gasai"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4963-7ZMcCtXW5hkY.png"
+          }
+        },
+        {
+          "id": 4966,
+          "name": {
+            "full": "Minene Uryuu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4966-Bb0hjxjJtidY.jpg"
+          }
+        },
+        {
+          "id": 8306,
+          "name": {
+            "full": "Aru Akise"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8306-1plj927kFBCf.jpg"
+          }
+        },
+        {
+          "id": 4962,
+          "name": {
+            "full": "Yukiteru Amano"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4962-CpqPBVJngbq2.png"
+          }
+        },
+        {
+          "id": 4965,
+          "name": {
+            "full": "Mur Mur"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4965-kfp8cXLa4n6y.png"
           }
         }
       ]
@@ -4145,62 +4145,6 @@
   },
   {
     "title": {
-      "english": "JUJUTSU KAISEN 0",
-      "romaji": "Jujutsu Kaisen 0"
-    },
-    "id": 131573,
-    "characters": {
-      "nodes": [
-        {
-          "id": 127691,
-          "name": {
-            "full": "Satoru Gojou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127691-9zqh1xpIubn7.png"
-          }
-        },
-        {
-          "id": 133704,
-          "name": {
-            "full": "Kento Nanami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133704-8wLTGjc234q2.png"
-          }
-        },
-        {
-          "id": 134167,
-          "name": {
-            "full": "Maki Zenin"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b134167-5TCytk45YByD.png"
-          }
-        },
-        {
-          "id": 129571,
-          "name": {
-            "full": "Yuuta Okkotsu"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129571-GHJk7gviHOOw.jpg"
-          }
-        },
-        {
-          "id": 157115,
-          "name": {
-            "full": "Toge Inumaki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157115-kdhRYQdVhH95.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Solo Leveling",
       "romaji": "Ore dake Level Up na Ken"
     },
@@ -4250,6 +4194,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136074-pLyumEnxjL7P.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "JUJUTSU KAISEN 0",
+      "romaji": "Jujutsu Kaisen 0"
+    },
+    "id": 131573,
+    "characters": {
+      "nodes": [
+        {
+          "id": 127691,
+          "name": {
+            "full": "Satoru Gojou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127691-9zqh1xpIubn7.png"
+          }
+        },
+        {
+          "id": 133704,
+          "name": {
+            "full": "Kento Nanami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133704-8wLTGjc234q2.png"
+          }
+        },
+        {
+          "id": 134167,
+          "name": {
+            "full": "Maki Zenin"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b134167-5TCytk45YByD.png"
+          }
+        },
+        {
+          "id": 129571,
+          "name": {
+            "full": "Yuuta Okkotsu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129571-GHJk7gviHOOw.jpg"
+          }
+        },
+        {
+          "id": 157115,
+          "name": {
+            "full": "Toge Inumaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157115-kdhRYQdVhH95.png"
           }
         }
       ]
@@ -5321,62 +5321,6 @@
   },
   {
     "title": {
-      "english": "Assassination Classroom Second Season",
-      "romaji": "Ansatsu Kyoushitsu 2nd Season"
-    },
-    "id": 21170,
-    "characters": {
-      "nodes": [
-        {
-          "id": 90107,
-          "name": {
-            "full": "Kusuo Saiki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90107-ZULW5HlPX1uU.png"
-          }
-        },
-        {
-          "id": 71933,
-          "name": {
-            "full": "Karma Akabane"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71933-HQ1TSjlrJ8Hv.jpg"
-          }
-        },
-        {
-          "id": 65643,
-          "name": {
-            "full": "Koro-sensei"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65643-jimrOw0RGtoB.png"
-          }
-        },
-        {
-          "id": 65645,
-          "name": {
-            "full": "Nagisa Shiota"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65645-nWH4mBMW5lYw.png"
-          }
-        },
-        {
-          "id": 18769,
-          "name": {
-            "full": "Tetsuya Kuroko"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b18769-7ms6XKt8jCzU.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Re:ZERO -Starting Life in Another World- Season 2",
       "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season"
     },
@@ -5426,6 +5370,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90181-wRPm0OEaucmw.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Assassination Classroom Second Season",
+      "romaji": "Ansatsu Kyoushitsu 2nd Season"
+    },
+    "id": 21170,
+    "characters": {
+      "nodes": [
+        {
+          "id": 90107,
+          "name": {
+            "full": "Kusuo Saiki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90107-ZULW5HlPX1uU.png"
+          }
+        },
+        {
+          "id": 71933,
+          "name": {
+            "full": "Karma Akabane"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71933-HQ1TSjlrJ8Hv.jpg"
+          }
+        },
+        {
+          "id": 65643,
+          "name": {
+            "full": "Koro-sensei"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65643-jimrOw0RGtoB.png"
+          }
+        },
+        {
+          "id": 65645,
+          "name": {
+            "full": "Nagisa Shiota"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65645-nWH4mBMW5lYw.png"
+          }
+        },
+        {
+          "id": 18769,
+          "name": {
+            "full": "Tetsuya Kuroko"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b18769-7ms6XKt8jCzU.png"
           }
         }
       ]
@@ -5489,62 +5489,6 @@
   },
   {
     "title": {
-      "english": "HAIKYU!! 3rd Season",
-      "romaji": "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou"
-    },
-    "id": 21698,
-    "characters": {
-      "nodes": [
-        {
-          "id": 64769,
-          "name": {
-            "full": "Shouyou Hinata"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64769-WoWlCMLLgJ14.png"
-          }
-        },
-        {
-          "id": 64771,
-          "name": {
-            "full": "Tobio Kageyama"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64771-BuCVs7B8bBdh.png"
-          }
-        },
-        {
-          "id": 67327,
-          "name": {
-            "full": "Yuu Nishinoya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67327-zQb1dlC7joPb.jpg"
-          }
-        },
-        {
-          "id": 71267,
-          "name": {
-            "full": "Kenma Kozume"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71267-q44J2MXMinXD.jpg"
-          }
-        },
-        {
-          "id": 71611,
-          "name": {
-            "full": "Tooru Oikawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71611-cUZwVfzeNXD9.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "DAN DA DAN",
       "romaji": "Dandadan"
     },
@@ -5594,6 +5538,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b258506-mMMInKyQq7ib.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "HAIKYU!! 3rd Season",
+      "romaji": "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou"
+    },
+    "id": 21698,
+    "characters": {
+      "nodes": [
+        {
+          "id": 64769,
+          "name": {
+            "full": "Shouyou Hinata"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64769-WoWlCMLLgJ14.png"
+          }
+        },
+        {
+          "id": 64771,
+          "name": {
+            "full": "Tobio Kageyama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64771-BuCVs7B8bBdh.png"
+          }
+        },
+        {
+          "id": 67327,
+          "name": {
+            "full": "Yuu Nishinoya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67327-zQb1dlC7joPb.jpg"
+          }
+        },
+        {
+          "id": 71267,
+          "name": {
+            "full": "Kenma Kozume"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71267-q44J2MXMinXD.jpg"
+          }
+        },
+        {
+          "id": 71611,
+          "name": {
+            "full": "Tooru Oikawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71611-cUZwVfzeNXD9.png"
           }
         }
       ]
