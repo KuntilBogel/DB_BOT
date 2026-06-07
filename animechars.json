@@ -393,62 +393,6 @@
   },
   {
     "title": {
-      "english": "Tokyo Ghoul",
-      "romaji": "Tokyo Ghoul"
-    },
-    "id": 20605,
-    "characters": {
-      "nodes": [
-        {
-          "id": 87275,
-          "name": {
-            "full": "Ken Kaneki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87275-mb13EWZBdbh3.png"
-          }
-        },
-        {
-          "id": 87277,
-          "name": {
-            "full": "Touka Kirishima"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87277-oUaqrI1iBzu6.png"
-          }
-        },
-        {
-          "id": 88412,
-          "name": {
-            "full": "Juuzou Suzuya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88412-sIOJUnIkyFRe.png"
-          }
-        },
-        {
-          "id": 88421,
-          "name": {
-            "full": "Hideyoshi Nagachika"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88421-F8yaeVfHjwYn.png"
-          }
-        },
-        {
-          "id": 88946,
-          "name": {
-            "full": "Kishou Arima"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88946-YbTQAGJAdpoH.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "ONE PIECE",
       "romaji": "ONE PIECE"
     },
@@ -498,6 +442,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13767-U604OJN9dxCn.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Tokyo Ghoul",
+      "romaji": "Tokyo Ghoul"
+    },
+    "id": 20605,
+    "characters": {
+      "nodes": [
+        {
+          "id": 87275,
+          "name": {
+            "full": "Ken Kaneki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87275-mb13EWZBdbh3.png"
+          }
+        },
+        {
+          "id": 87277,
+          "name": {
+            "full": "Touka Kirishima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87277-oUaqrI1iBzu6.png"
+          }
+        },
+        {
+          "id": 88412,
+          "name": {
+            "full": "Juuzou Suzuya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88412-sIOJUnIkyFRe.png"
+          }
+        },
+        {
+          "id": 88421,
+          "name": {
+            "full": "Hideyoshi Nagachika"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88421-F8yaeVfHjwYn.png"
+          }
+        },
+        {
+          "id": 88946,
+          "name": {
+            "full": "Kishou Arima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88946-YbTQAGJAdpoH.jpg"
           }
         }
       ]
@@ -595,21 +595,21 @@
           }
         },
         {
-          "id": 70,
-          "name": {
-            "full": "Riza Hawkeye"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70-k4bCgDspyOdI.png"
-          }
-        },
-        {
           "id": 63,
           "name": {
             "full": "Winry Rockbell"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/63-xloedtYxiJ2E.jpg"
+          }
+        },
+        {
+          "id": 70,
+          "name": {
+            "full": "Riza Hawkeye"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70-k4bCgDspyOdI.png"
           }
         }
       ]
@@ -3529,62 +3529,6 @@
   },
   {
     "title": {
-      "english": "Sword Art Online II",
-      "romaji": "Sword Art Online II"
-    },
-    "id": 20594,
-    "characters": {
-      "nodes": [
-        {
-          "id": 36828,
-          "name": {
-            "full": "Asuna Yuuki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36828-j5ib0adAzGMx.png"
-          }
-        },
-        {
-          "id": 36765,
-          "name": {
-            "full": "Kazuto Kirigaya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36765-BnLbXg0Tzzh9.png"
-          }
-        },
-        {
-          "id": 55147,
-          "name": {
-            "full": "Shino Asada"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b55147-1fCU8lONEuZQ.png"
-          }
-        },
-        {
-          "id": 64523,
-          "name": {
-            "full": "Yuuki Konno"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64523-LPeAiw8Yx517.jpg"
-          }
-        },
-        {
-          "id": 43892,
-          "name": {
-            "full": "Yui"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43892-Ig6ZMdUbQDO2.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "That Time I Got Reincarnated as a Slime",
       "romaji": "Tensei Shitara Slime Datta Ken"
     },
@@ -3634,6 +3578,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b128040-QOhtFHgfOT5O.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Sword Art Online II",
+      "romaji": "Sword Art Online II"
+    },
+    "id": 20594,
+    "characters": {
+      "nodes": [
+        {
+          "id": 36828,
+          "name": {
+            "full": "Asuna Yuuki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36828-j5ib0adAzGMx.png"
+          }
+        },
+        {
+          "id": 36765,
+          "name": {
+            "full": "Kazuto Kirigaya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36765-BnLbXg0Tzzh9.png"
+          }
+        },
+        {
+          "id": 55147,
+          "name": {
+            "full": "Shino Asada"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b55147-1fCU8lONEuZQ.png"
+          }
+        },
+        {
+          "id": 64523,
+          "name": {
+            "full": "Yuuki Konno"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64523-LPeAiw8Yx517.jpg"
+          }
+        },
+        {
+          "id": 43892,
+          "name": {
+            "full": "Yui"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43892-Ig6ZMdUbQDO2.jpg"
           }
         }
       ]
@@ -4369,62 +4369,6 @@
   },
   {
     "title": {
-      "english": "My Hero Academia Season 5",
-      "romaji": "Boku no Hero Academia 5"
-    },
-    "id": 117193,
-    "characters": {
-      "nodes": [
-        {
-          "id": 89220,
-          "name": {
-            "full": "Shouto Todoroki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89220-KNBwaVFAR8FD.png"
-          }
-        },
-        {
-          "id": 88892,
-          "name": {
-            "full": "Katsuki Bakugou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88892-bdOha3lNcaN6.png"
-          }
-        },
-        {
-          "id": 89028,
-          "name": {
-            "full": "Izuku Midoriya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89028-8w1I9o1ISHMg.png"
-          }
-        },
-        {
-          "id": 89225,
-          "name": {
-            "full": "Shouta Aizawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89225-XBgvUhI9naVI.png"
-          }
-        },
-        {
-          "id": 89243,
-          "name": {
-            "full": "Eijirou Kirishima"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89243-QLmUyyZk5K2l.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "My Dress-Up Darling",
       "romaji": "Sono Bisque Doll wa Koi wo Suru"
     },
@@ -4474,6 +4418,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b207937-ytYjcNtNX77K.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "My Hero Academia Season 5",
+      "romaji": "Boku no Hero Academia 5"
+    },
+    "id": 117193,
+    "characters": {
+      "nodes": [
+        {
+          "id": 89220,
+          "name": {
+            "full": "Shouto Todoroki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89220-KNBwaVFAR8FD.png"
+          }
+        },
+        {
+          "id": 88892,
+          "name": {
+            "full": "Katsuki Bakugou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88892-bdOha3lNcaN6.png"
+          }
+        },
+        {
+          "id": 89028,
+          "name": {
+            "full": "Izuku Midoriya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89028-8w1I9o1ISHMg.png"
+          }
+        },
+        {
+          "id": 89225,
+          "name": {
+            "full": "Shouta Aizawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89225-XBgvUhI9naVI.png"
+          }
+        },
+        {
+          "id": 89243,
+          "name": {
+            "full": "Eijirou Kirishima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89243-QLmUyyZk5K2l.png"
           }
         }
       ]
@@ -5433,62 +5433,6 @@
   },
   {
     "title": {
-      "english": "I Want to Eat Your Pancreas",
-      "romaji": "Kimi no Suizou wo Tabetai"
-    },
-    "id": 99750,
-    "characters": {
-      "nodes": [
-        {
-          "id": 127118,
-          "name": {
-            "full": "Sakura Yamauchi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127118-XEvgt4yHSkQv.jpg"
-          }
-        },
-        {
-          "id": 127116,
-          "name": {
-            "full": "Haruki Shiga"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127116-u2fIKMSYDdVj.png"
-          }
-        },
-        {
-          "id": 133276,
-          "name": {
-            "full": "Issei Miyata"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133276-4KX7vtZ6oQfN.png"
-          }
-        },
-        {
-          "id": 134461,
-          "name": {
-            "full": "Kyoko Takimoto"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b134461-0JqcCi30rN45.png"
-          }
-        },
-        {
-          "id": 134460,
-          "name": {
-            "full": "Haruki no Haha"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b134460-PVwi6xwYXqTS.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "DAN DA DAN",
       "romaji": "Dandadan"
     },
@@ -5545,55 +5489,111 @@
   },
   {
     "title": {
-      "english": "HAIKYU!! 3rd Season",
-      "romaji": "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou"
+      "english": "I Want to Eat Your Pancreas",
+      "romaji": "Kimi no Suizou wo Tabetai"
     },
-    "id": 21698,
+    "id": 99750,
     "characters": {
       "nodes": [
         {
-          "id": 64769,
+          "id": 127118,
           "name": {
-            "full": "Shouyou Hinata"
+            "full": "Sakura Yamauchi"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64769-WoWlCMLLgJ14.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127118-XEvgt4yHSkQv.jpg"
           }
         },
         {
-          "id": 64771,
+          "id": 127116,
           "name": {
-            "full": "Tobio Kageyama"
+            "full": "Haruki Shiga"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64771-BuCVs7B8bBdh.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127116-u2fIKMSYDdVj.png"
           }
         },
         {
-          "id": 67327,
+          "id": 133276,
           "name": {
-            "full": "Yuu Nishinoya"
+            "full": "Issei Miyata"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67327-zQb1dlC7joPb.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133276-4KX7vtZ6oQfN.png"
           }
         },
         {
-          "id": 71267,
+          "id": 134461,
           "name": {
-            "full": "Kenma Kozume"
+            "full": "Kyoko Takimoto"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71267-q44J2MXMinXD.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b134461-0JqcCi30rN45.png"
           }
         },
         {
-          "id": 71611,
+          "id": 134460,
           "name": {
-            "full": "Tooru Oikawa"
+            "full": "Haruki no Haha"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71611-cUZwVfzeNXD9.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b134460-PVwi6xwYXqTS.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Cyberpunk: Edgerunners",
+      "romaji": "Cyberpunk: Edgerunners"
+    },
+    "id": 120377,
+    "characters": {
+      "nodes": [
+        {
+          "id": 284157,
+          "name": {
+            "full": "Lucy"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284157-cqYawN7XCNJx.jpg"
+          }
+        },
+        {
+          "id": 284163,
+          "name": {
+            "full": "Rebecca"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284163-tt8smoAXl24x.jpg"
+          }
+        },
+        {
+          "id": 284158,
+          "name": {
+            "full": "David Martinez"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284158-z1uGKC3IYVa1.png"
+          }
+        },
+        {
+          "id": 284159,
+          "name": {
+            "full": "Maine"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284159-RvuKShSpDOS5.png"
+          }
+        },
+        {
+          "id": 284161,
+          "name": {
+            "full": "Kiwi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284161-QlVuoXKKONLM.jpg"
           }
         }
       ]
