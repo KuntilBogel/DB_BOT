@@ -595,21 +595,21 @@
           }
         },
         {
-          "id": 63,
-          "name": {
-            "full": "Winry Rockbell"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/63-xloedtYxiJ2E.jpg"
-          }
-        },
-        {
           "id": 70,
           "name": {
             "full": "Riza Hawkeye"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70-k4bCgDspyOdI.png"
+          }
+        },
+        {
+          "id": 63,
+          "name": {
+            "full": "Winry Rockbell"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/63-xloedtYxiJ2E.jpg"
           }
         }
       ]
@@ -1233,62 +1233,6 @@
   },
   {
     "title": {
-      "english": "Your lie in April",
-      "romaji": "Shigatsu wa Kimi no Uso"
-    },
-    "id": 20665,
-    "characters": {
-      "nodes": [
-        {
-          "id": 69411,
-          "name": {
-            "full": "Kaori Miyazono"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b69411-lxM0FRvWHqlv.png"
-          }
-        },
-        {
-          "id": 69407,
-          "name": {
-            "full": "Kousei Arima"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b69407-eyIvpsFPeARS.png"
-          }
-        },
-        {
-          "id": 69405,
-          "name": {
-            "full": "Ryouta Watari"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/69405-IpsjziJkHrHj.png"
-          }
-        },
-        {
-          "id": 85841,
-          "name": {
-            "full": "Emi Igawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b85841-728eVWAvzifr.png"
-          }
-        },
-        {
-          "id": 88786,
-          "name": {
-            "full": "Hiroko Seto"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88786-toDBw77jbCTx.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Re:ZERO -Starting Life in Another World-",
       "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu"
     },
@@ -1338,6 +1282,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88576-NWkotUiJ3mK3.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Your lie in April",
+      "romaji": "Shigatsu wa Kimi no Uso"
+    },
+    "id": 20665,
+    "characters": {
+      "nodes": [
+        {
+          "id": 69411,
+          "name": {
+            "full": "Kaori Miyazono"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b69411-lxM0FRvWHqlv.png"
+          }
+        },
+        {
+          "id": 69407,
+          "name": {
+            "full": "Kousei Arima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b69407-eyIvpsFPeARS.png"
+          }
+        },
+        {
+          "id": 69405,
+          "name": {
+            "full": "Ryouta Watari"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/69405-IpsjziJkHrHj.png"
+          }
+        },
+        {
+          "id": 85841,
+          "name": {
+            "full": "Emi Igawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b85841-728eVWAvzifr.png"
+          }
+        },
+        {
+          "id": 88786,
+          "name": {
+            "full": "Hiroko Seto"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88786-toDBw77jbCTx.png"
           }
         }
       ]
@@ -3025,62 +3025,6 @@
   },
   {
     "title": {
-      "english": "JoJo's Bizarre Adventure (TV)",
-      "romaji": "JoJo no Kimyou na Bouken (TV)"
-    },
-    "id": 14719,
-    "characters": {
-      "nodes": [
-        {
-          "id": 6356,
-          "name": {
-            "full": "Joseph Joestar"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b6356-RImEfUfHpC58.png"
-          }
-        },
-        {
-          "id": 4003,
-          "name": {
-            "full": "Joutarou Kuujou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4003-gWDSEGbeOAll.png"
-          }
-        },
-        {
-          "id": 4004,
-          "name": {
-            "full": "Dio Brando"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4004-w0OtWuvjhftG.png"
-          }
-        },
-        {
-          "id": 8087,
-          "name": {
-            "full": "Jonathan Joestar"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8087-GTrObHQvujB5.png"
-          }
-        },
-        {
-          "id": 21959,
-          "name": {
-            "full": "Caesar Zeppeli"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b21959-Cm9Rlh0EFAQw.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "JUJUTSU KAISEN Season 2",
       "romaji": "Jujutsu Kaisen 2nd Season"
     },
@@ -3130,6 +3074,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133704-8wLTGjc234q2.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "JoJo's Bizarre Adventure (TV)",
+      "romaji": "JoJo no Kimyou na Bouken (TV)"
+    },
+    "id": 14719,
+    "characters": {
+      "nodes": [
+        {
+          "id": 6356,
+          "name": {
+            "full": "Joseph Joestar"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b6356-RImEfUfHpC58.png"
+          }
+        },
+        {
+          "id": 4003,
+          "name": {
+            "full": "Joutarou Kuujou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4003-gWDSEGbeOAll.png"
+          }
+        },
+        {
+          "id": 4004,
+          "name": {
+            "full": "Dio Brando"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4004-w0OtWuvjhftG.png"
+          }
+        },
+        {
+          "id": 8087,
+          "name": {
+            "full": "Jonathan Joestar"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8087-GTrObHQvujB5.png"
+          }
+        },
+        {
+          "id": 21959,
+          "name": {
+            "full": "Caesar Zeppeli"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b21959-Cm9Rlh0EFAQw.png"
           }
         }
       ]
@@ -3361,62 +3361,6 @@
   },
   {
     "title": {
-      "english": "Kakegurui",
-      "romaji": "Kakegurui"
-    },
-    "id": 98314,
-    "characters": {
-      "nodes": [
-        {
-          "id": 121889,
-          "name": {
-            "full": "Yumeko Jabami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121889-ABsurpy5SjOW.png"
-          }
-        },
-        {
-          "id": 122687,
-          "name": {
-            "full": "Mary Saotome"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122687-jl1wk9rjO57e.png"
-          }
-        },
-        {
-          "id": 122691,
-          "name": {
-            "full": "Midari Ikishima"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122691-ze4qKEiCv2Lz.jpg"
-          }
-        },
-        {
-          "id": 122693,
-          "name": {
-            "full": "Kirari Momobami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122693-qg2NIaq5h1VD.png"
-          }
-        },
-        {
-          "id": 122698,
-          "name": {
-            "full": "Runa Yomozuki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/122698-8UvXcLs1LGYY.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "The Rising of the Shield Hero",
       "romaji": "Tate no Yuusha no Nariagari"
     },
@@ -3466,6 +3410,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135198-ImEXzNG3srwI.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Kakegurui",
+      "romaji": "Kakegurui"
+    },
+    "id": 98314,
+    "characters": {
+      "nodes": [
+        {
+          "id": 121889,
+          "name": {
+            "full": "Yumeko Jabami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121889-ABsurpy5SjOW.png"
+          }
+        },
+        {
+          "id": 122687,
+          "name": {
+            "full": "Mary Saotome"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122687-jl1wk9rjO57e.png"
+          }
+        },
+        {
+          "id": 122691,
+          "name": {
+            "full": "Midari Ikishima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122691-ze4qKEiCv2Lz.jpg"
+          }
+        },
+        {
+          "id": 122693,
+          "name": {
+            "full": "Kirari Momobami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122693-qg2NIaq5h1VD.png"
+          }
+        },
+        {
+          "id": 122698,
+          "name": {
+            "full": "Runa Yomozuki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/122698-8UvXcLs1LGYY.jpg"
           }
         }
       ]
@@ -5377,62 +5377,6 @@
   },
   {
     "title": {
-      "english": "Assassination Classroom Second Season",
-      "romaji": "Ansatsu Kyoushitsu 2nd Season"
-    },
-    "id": 21170,
-    "characters": {
-      "nodes": [
-        {
-          "id": 90107,
-          "name": {
-            "full": "Kusuo Saiki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90107-ZULW5HlPX1uU.png"
-          }
-        },
-        {
-          "id": 71933,
-          "name": {
-            "full": "Karma Akabane"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71933-HQ1TSjlrJ8Hv.jpg"
-          }
-        },
-        {
-          "id": 65643,
-          "name": {
-            "full": "Koro-sensei"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65643-jimrOw0RGtoB.png"
-          }
-        },
-        {
-          "id": 65645,
-          "name": {
-            "full": "Nagisa Shiota"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65645-nWH4mBMW5lYw.png"
-          }
-        },
-        {
-          "id": 18769,
-          "name": {
-            "full": "Tetsuya Kuroko"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b18769-7ms6XKt8jCzU.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "DAN DA DAN",
       "romaji": "Dandadan"
     },
@@ -5482,6 +5426,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b258506-mMMInKyQq7ib.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Assassination Classroom Second Season",
+      "romaji": "Ansatsu Kyoushitsu 2nd Season"
+    },
+    "id": 21170,
+    "characters": {
+      "nodes": [
+        {
+          "id": 90107,
+          "name": {
+            "full": "Kusuo Saiki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90107-ZULW5HlPX1uU.png"
+          }
+        },
+        {
+          "id": 71933,
+          "name": {
+            "full": "Karma Akabane"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71933-HQ1TSjlrJ8Hv.jpg"
+          }
+        },
+        {
+          "id": 65643,
+          "name": {
+            "full": "Koro-sensei"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65643-jimrOw0RGtoB.png"
+          }
+        },
+        {
+          "id": 65645,
+          "name": {
+            "full": "Nagisa Shiota"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65645-nWH4mBMW5lYw.png"
+          }
+        },
+        {
+          "id": 18769,
+          "name": {
+            "full": "Tetsuya Kuroko"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b18769-7ms6XKt8jCzU.png"
           }
         }
       ]
