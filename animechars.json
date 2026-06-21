@@ -2353,62 +2353,6 @@
   },
   {
     "title": {
-      "english": "The Seven Deadly Sins",
-      "romaji": "Nanatsu no Taizai"
-    },
-    "id": 20789,
-    "characters": {
-      "nodes": [
-        {
-          "id": 77605,
-          "name": {
-            "full": "Ban"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b77605-NrjhQwZwgJ3l.png"
-          }
-        },
-        {
-          "id": 72921,
-          "name": {
-            "full": "Meliodas"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b72921-XDHNd1wflN6P.png"
-          }
-        },
-        {
-          "id": 83801,
-          "name": {
-            "full": "King"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83801-52RnDXQDZ1I7.png"
-          }
-        },
-        {
-          "id": 36309,
-          "name": {
-            "full": "Narrator"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
-          }
-        },
-        {
-          "id": 74653,
-          "name": {
-            "full": "Diane"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b74653-XpMcsLVZBnkZ.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Horimiya",
       "romaji": "Horimiya"
     },
@@ -2458,6 +2402,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89726-NS2ZmYjp1Mnr.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "The Seven Deadly Sins",
+      "romaji": "Nanatsu no Taizai"
+    },
+    "id": 20789,
+    "characters": {
+      "nodes": [
+        {
+          "id": 77605,
+          "name": {
+            "full": "Ban"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b77605-NrjhQwZwgJ3l.png"
+          }
+        },
+        {
+          "id": 72921,
+          "name": {
+            "full": "Meliodas"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b72921-XDHNd1wflN6P.png"
+          }
+        },
+        {
+          "id": 83801,
+          "name": {
+            "full": "King"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83801-52RnDXQDZ1I7.png"
+          }
+        },
+        {
+          "id": 36309,
+          "name": {
+            "full": "Narrator"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
+          }
+        },
+        {
+          "id": 74653,
+          "name": {
+            "full": "Diane"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b74653-XpMcsLVZBnkZ.jpg"
           }
         }
       ]
@@ -3361,6 +3361,62 @@
   },
   {
     "title": {
+      "english": "Frieren: Beyond Journey’s End",
+      "romaji": "Sousou no Frieren"
+    },
+    "id": 154587,
+    "characters": {
+      "nodes": [
+        {
+          "id": 176754,
+          "name": {
+            "full": "Frieren"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b176754-PCnpqIOkjhFk.png"
+          }
+        },
+        {
+          "id": 183965,
+          "name": {
+            "full": "Fern"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b183965-uGFohBjlFoTp.png"
+          }
+        },
+        {
+          "id": 184313,
+          "name": {
+            "full": "Stark"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184313-CQl6GSt4RSny.jpg"
+          }
+        },
+        {
+          "id": 184311,
+          "name": {
+            "full": "Himmel"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184311-wQFySqYXEqf1.png"
+          }
+        },
+        {
+          "id": 246057,
+          "name": {
+            "full": "Übel"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b246057-ixvDfpng6I1S.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
       "english": "The Rising of the Shield Hero",
       "romaji": "Tate no Yuusha no Nariagari"
     },
@@ -3466,62 +3522,6 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/122698-8UvXcLs1LGYY.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "english": "Frieren: Beyond Journey’s End",
-      "romaji": "Sousou no Frieren"
-    },
-    "id": 154587,
-    "characters": {
-      "nodes": [
-        {
-          "id": 176754,
-          "name": {
-            "full": "Frieren"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b176754-PCnpqIOkjhFk.png"
-          }
-        },
-        {
-          "id": 183965,
-          "name": {
-            "full": "Fern"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b183965-uGFohBjlFoTp.png"
-          }
-        },
-        {
-          "id": 184313,
-          "name": {
-            "full": "Stark"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184313-CQl6GSt4RSny.jpg"
-          }
-        },
-        {
-          "id": 184311,
-          "name": {
-            "full": "Himmel"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184311-wQFySqYXEqf1.png"
-          }
-        },
-        {
-          "id": 246057,
-          "name": {
-            "full": "Übel"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b246057-ixvDfpng6I1S.png"
           }
         }
       ]
@@ -3921,62 +3921,6 @@
   },
   {
     "title": {
-      "english": "Kaguya-sama: Love is War?",
-      "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen"
-    },
-    "id": 112641,
-    "characters": {
-      "nodes": [
-        {
-          "id": 120649,
-          "name": {
-            "full": "Kaguya Shinomiya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b120649-NPaWaIpWy60E.png"
-          }
-        },
-        {
-          "id": 121103,
-          "name": {
-            "full": "Chika Fujiwara"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121103-UGLxT8utLPnq.png"
-          }
-        },
-        {
-          "id": 125886,
-          "name": {
-            "full": "Miko Iino"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b125886-TQbmqAaSgBLS.png"
-          }
-        },
-        {
-          "id": 121102,
-          "name": {
-            "full": "Yuu Ishigami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121102-tiQFxnSEIAwm.png"
-          }
-        },
-        {
-          "id": 121104,
-          "name": {
-            "full": "Ai Hayasaka"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121104-7TYRl3EEsDYU.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Attack on Titan Final Season Part 2",
       "romaji": "Shingeki no Kyojin: The Final Season Part 2"
     },
@@ -4026,6 +3970,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71121-7R7CnQd3lHgt.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Kaguya-sama: Love is War?",
+      "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen"
+    },
+    "id": 112641,
+    "characters": {
+      "nodes": [
+        {
+          "id": 120649,
+          "name": {
+            "full": "Kaguya Shinomiya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b120649-NPaWaIpWy60E.png"
+          }
+        },
+        {
+          "id": 121103,
+          "name": {
+            "full": "Chika Fujiwara"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121103-UGLxT8utLPnq.png"
+          }
+        },
+        {
+          "id": 125886,
+          "name": {
+            "full": "Miko Iino"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b125886-TQbmqAaSgBLS.png"
+          }
+        },
+        {
+          "id": 121102,
+          "name": {
+            "full": "Yuu Ishigami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121102-tiQFxnSEIAwm.png"
+          }
+        },
+        {
+          "id": 121104,
+          "name": {
+            "full": "Ai Hayasaka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121104-7TYRl3EEsDYU.png"
           }
         }
       ]
@@ -4313,62 +4313,6 @@
   },
   {
     "title": {
-      "english": "Kill la Kill",
-      "romaji": "Kill la Kill"
-    },
-    "id": 18679,
-    "characters": {
-      "nodes": [
-        {
-          "id": 83797,
-          "name": {
-            "full": "Ryuuko Matoi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83797-ix0Cl5OMfV22.png"
-          }
-        },
-        {
-          "id": 87511,
-          "name": {
-            "full": "Mako Mankanshoku"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87511-T8lwlQKd6SoK.png"
-          }
-        },
-        {
-          "id": 83799,
-          "name": {
-            "full": "Satsuki Kiryuuin"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83799-oPxSwMA9XAvu.png"
-          }
-        },
-        {
-          "id": 87606,
-          "name": {
-            "full": "Nonon Jakuzure"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/87606-3A51LUnRuyHf.png"
-          }
-        },
-        {
-          "id": 87510,
-          "name": {
-            "full": "Senketsu"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87510-ZH2qoBYc6XNH.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "My Dress-Up Darling",
       "romaji": "Sono Bisque Doll wa Koi wo Suru"
     },
@@ -4418,6 +4362,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b207937-ytYjcNtNX77K.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Kill la Kill",
+      "romaji": "Kill la Kill"
+    },
+    "id": 18679,
+    "characters": {
+      "nodes": [
+        {
+          "id": 83797,
+          "name": {
+            "full": "Ryuuko Matoi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83797-ix0Cl5OMfV22.png"
+          }
+        },
+        {
+          "id": 87511,
+          "name": {
+            "full": "Mako Mankanshoku"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87511-T8lwlQKd6SoK.png"
+          }
+        },
+        {
+          "id": 83799,
+          "name": {
+            "full": "Satsuki Kiryuuin"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83799-oPxSwMA9XAvu.png"
+          }
+        },
+        {
+          "id": 87606,
+          "name": {
+            "full": "Nonon Jakuzure"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/87606-3A51LUnRuyHf.png"
+          }
+        },
+        {
+          "id": 87510,
+          "name": {
+            "full": "Senketsu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87510-ZH2qoBYc6XNH.jpg"
           }
         }
       ]
