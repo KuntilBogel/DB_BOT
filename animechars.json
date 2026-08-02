@@ -2073,62 +2073,6 @@
   },
   {
     "title": {
-      "english": "Toradora!",
-      "romaji": "Toradora!"
-    },
-    "id": 4224,
-    "characters": {
-      "nodes": [
-        {
-          "id": 12064,
-          "name": {
-            "full": "Taiga Aisaka"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12064-7PDN3ylIeAZn.png"
-          }
-        },
-        {
-          "id": 12295,
-          "name": {
-            "full": "Ryuuji Takasu"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12295-d45uTNeJHuus.png"
-          }
-        },
-        {
-          "id": 13725,
-          "name": {
-            "full": "Ami Kawashima"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13725-Vk30kjvVT82z.png"
-          }
-        },
-        {
-          "id": 12305,
-          "name": {
-            "full": "Minori Kushieda"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12305-AdKOcp0az9mq.jpg"
-          }
-        },
-        {
-          "id": 12307,
-          "name": {
-            "full": "Yasuko Takasu"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12307-MfkPmovIGCm9.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Vinland Saga",
       "romaji": "VINLAND SAGA"
     },
@@ -2178,6 +2122,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13021-XJAVDHwMWek2.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Toradora!",
+      "romaji": "Toradora!"
+    },
+    "id": 4224,
+    "characters": {
+      "nodes": [
+        {
+          "id": 12064,
+          "name": {
+            "full": "Taiga Aisaka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12064-7PDN3ylIeAZn.png"
+          }
+        },
+        {
+          "id": 12295,
+          "name": {
+            "full": "Ryuuji Takasu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12295-d45uTNeJHuus.png"
+          }
+        },
+        {
+          "id": 13725,
+          "name": {
+            "full": "Ami Kawashima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13725-Vk30kjvVT82z.png"
+          }
+        },
+        {
+          "id": 12305,
+          "name": {
+            "full": "Minori Kushieda"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12305-AdKOcp0az9mq.jpg"
+          }
+        },
+        {
+          "id": 12307,
+          "name": {
+            "full": "Yasuko Takasu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12307-MfkPmovIGCm9.png"
           }
         }
       ]
@@ -3585,62 +3585,6 @@
   },
   {
     "title": {
-      "english": "Sword Art Online II",
-      "romaji": "Sword Art Online II"
-    },
-    "id": 20594,
-    "characters": {
-      "nodes": [
-        {
-          "id": 36828,
-          "name": {
-            "full": "Asuna Yuuki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36828-j5ib0adAzGMx.png"
-          }
-        },
-        {
-          "id": 36765,
-          "name": {
-            "full": "Kazuto Kirigaya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36765-BnLbXg0Tzzh9.png"
-          }
-        },
-        {
-          "id": 55147,
-          "name": {
-            "full": "Shino Asada"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b55147-1fCU8lONEuZQ.png"
-          }
-        },
-        {
-          "id": 64523,
-          "name": {
-            "full": "Yuuki Konno"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64523-LPeAiw8Yx517.jpg"
-          }
-        },
-        {
-          "id": 43892,
-          "name": {
-            "full": "Yui"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43892-Ig6ZMdUbQDO2.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Mushoku Tensei: Jobless Reincarnation",
       "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu"
     },
@@ -3690,6 +3634,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88351-grqY44xz6bvP.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Sword Art Online II",
+      "romaji": "Sword Art Online II"
+    },
+    "id": 20594,
+    "characters": {
+      "nodes": [
+        {
+          "id": 36828,
+          "name": {
+            "full": "Asuna Yuuki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36828-j5ib0adAzGMx.png"
+          }
+        },
+        {
+          "id": 36765,
+          "name": {
+            "full": "Kazuto Kirigaya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36765-BnLbXg0Tzzh9.png"
+          }
+        },
+        {
+          "id": 55147,
+          "name": {
+            "full": "Shino Asada"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b55147-1fCU8lONEuZQ.png"
+          }
+        },
+        {
+          "id": 64523,
+          "name": {
+            "full": "Yuuki Konno"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64523-LPeAiw8Yx517.jpg"
+          }
+        },
+        {
+          "id": 43892,
+          "name": {
+            "full": "Yui"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43892-Ig6ZMdUbQDO2.jpg"
           }
         }
       ]
@@ -3753,62 +3753,6 @@
   },
   {
     "title": {
-      "english": "Tokyo Revengers",
-      "romaji": "Tokyo Revengers"
-    },
-    "id": 120120,
-    "characters": {
-      "nodes": [
-        {
-          "id": 145341,
-          "name": {
-            "full": "Manjirou Sano"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145341-CuPldCLZMvvf.png"
-          }
-        },
-        {
-          "id": 145344,
-          "name": {
-            "full": "Chifuyu Matsuno"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145344-q4BqRljEBYNc.png"
-          }
-        },
-        {
-          "id": 145345,
-          "name": {
-            "full": "Ken Ryuuguji"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145345-zyirrSsKIDCb.png"
-          }
-        },
-        {
-          "id": 145343,
-          "name": {
-            "full": "Keisuke Baji"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145343-vRrkdWEUXwYM.jpg"
-          }
-        },
-        {
-          "id": 167841,
-          "name": {
-            "full": "Takashi Mitsuya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b167841-Pp08TBnzGhK4.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Classroom of the Elite",
       "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
     },
@@ -3858,6 +3802,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124691-S9GyfwMAkkJ9.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Tokyo Revengers",
+      "romaji": "Tokyo Revengers"
+    },
+    "id": 120120,
+    "characters": {
+      "nodes": [
+        {
+          "id": 145341,
+          "name": {
+            "full": "Manjirou Sano"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145341-CuPldCLZMvvf.png"
+          }
+        },
+        {
+          "id": 145344,
+          "name": {
+            "full": "Chifuyu Matsuno"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145344-q4BqRljEBYNc.png"
+          }
+        },
+        {
+          "id": 145345,
+          "name": {
+            "full": "Ken Ryuuguji"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145345-zyirrSsKIDCb.png"
+          }
+        },
+        {
+          "id": 145343,
+          "name": {
+            "full": "Keisuke Baji"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145343-vRrkdWEUXwYM.jpg"
+          }
+        },
+        {
+          "id": 167841,
+          "name": {
+            "full": "Takashi Mitsuya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b167841-Pp08TBnzGhK4.jpg"
           }
         }
       ]
@@ -5153,62 +5153,6 @@
   },
   {
     "title": {
-      "english": "DAN DA DAN",
-      "romaji": "Dandadan"
-    },
-    "id": 171018,
-    "characters": {
-      "nodes": [
-        {
-          "id": 222594,
-          "name": {
-            "full": "Momo Ayase"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b222594-24Jn7qlI5spH.png"
-          }
-        },
-        {
-          "id": 245466,
-          "name": {
-            "full": "Aira Shiratori"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b245466-rd5I5mchZ3bv.png"
-          }
-        },
-        {
-          "id": 222593,
-          "name": {
-            "full": "Ken Takakura"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b222593-qBqUvpodooAI.png"
-          }
-        },
-        {
-          "id": 234824,
-          "name": {
-            "full": "Seiko Ayase"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b234824-i3s64ueaBqGq.png"
-          }
-        },
-        {
-          "id": 258506,
-          "name": {
-            "full": "Jin Enjouji"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b258506-mMMInKyQq7ib.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Cyberpunk: Edgerunners",
       "romaji": "Cyberpunk: Edgerunners"
     },
@@ -5258,6 +5202,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284161-QlVuoXKKONLM.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "DAN DA DAN",
+      "romaji": "Dandadan"
+    },
+    "id": 171018,
+    "characters": {
+      "nodes": [
+        {
+          "id": 222594,
+          "name": {
+            "full": "Momo Ayase"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b222594-24Jn7qlI5spH.png"
+          }
+        },
+        {
+          "id": 245466,
+          "name": {
+            "full": "Aira Shiratori"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b245466-rd5I5mchZ3bv.png"
+          }
+        },
+        {
+          "id": 222593,
+          "name": {
+            "full": "Ken Takakura"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b222593-qBqUvpodooAI.png"
+          }
+        },
+        {
+          "id": 234824,
+          "name": {
+            "full": "Seiko Ayase"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b234824-i3s64ueaBqGq.png"
+          }
+        },
+        {
+          "id": 258506,
+          "name": {
+            "full": "Jin Enjouji"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b258506-mMMInKyQq7ib.png"
           }
         }
       ]
