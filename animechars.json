@@ -273,7 +273,7 @@
             "full": "Eijirou Kirishima"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89243-QLmUyyZk5K2l.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89243-R2WJlNuj3aEs.jpg"
           }
         }
       ]
@@ -945,7 +945,7 @@
             "full": "Eijirou Kirishima"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89243-QLmUyyZk5K2l.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89243-R2WJlNuj3aEs.jpg"
           }
         }
       ]
@@ -1561,7 +1561,7 @@
             "full": "Eijirou Kirishima"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89243-QLmUyyZk5K2l.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89243-R2WJlNuj3aEs.jpg"
           }
         }
       ]
@@ -2017,62 +2017,6 @@
   },
   {
     "title": {
-      "english": "No Game, No Life",
-      "romaji": "No Game No Life"
-    },
-    "id": 19815,
-    "characters": {
-      "nodes": [
-        {
-          "id": 82525,
-          "name": {
-            "full": "Shiro"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82525-sKk2FGRKN4aK.png"
-          }
-        },
-        {
-          "id": 82523,
-          "name": {
-            "full": "Sora"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82523-JB9oevKyXWfc.png"
-          }
-        },
-        {
-          "id": 87887,
-          "name": {
-            "full": "Jibril"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87887-3QKmvQM5LTwY.png"
-          }
-        },
-        {
-          "id": 82527,
-          "name": {
-            "full": "Stephanie Dola"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82527-uwdWwl1qhzqC.png"
-          }
-        },
-        {
-          "id": 88003,
-          "name": {
-            "full": "Izuna Hatsuse"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88003-tZKsjjzDWV8e.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Vinland Saga",
       "romaji": "VINLAND SAGA"
     },
@@ -2122,6 +2066,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13021-XJAVDHwMWek2.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "No Game, No Life",
+      "romaji": "No Game No Life"
+    },
+    "id": 19815,
+    "characters": {
+      "nodes": [
+        {
+          "id": 82525,
+          "name": {
+            "full": "Shiro"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82525-sKk2FGRKN4aK.png"
+          }
+        },
+        {
+          "id": 82523,
+          "name": {
+            "full": "Sora"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82523-JB9oevKyXWfc.png"
+          }
+        },
+        {
+          "id": 87887,
+          "name": {
+            "full": "Jibril"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87887-3QKmvQM5LTwY.png"
+          }
+        },
+        {
+          "id": 82527,
+          "name": {
+            "full": "Stephanie Dola"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82527-uwdWwl1qhzqC.png"
+          }
+        },
+        {
+          "id": 88003,
+          "name": {
+            "full": "Izuna Hatsuse"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88003-tZKsjjzDWV8e.png"
           }
         }
       ]
@@ -2401,7 +2401,7 @@
             "full": "Eijirou Kirishima"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89243-QLmUyyZk5K2l.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89243-R2WJlNuj3aEs.jpg"
           }
         }
       ]
@@ -4089,62 +4089,6 @@
   },
   {
     "title": {
-      "english": null,
-      "romaji": "Charlotte"
-    },
-    "id": 20997,
-    "characters": {
-      "nodes": [
-        {
-          "id": 88951,
-          "name": {
-            "full": "Nao Tomori"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88951-bRm610RrrXp9.jpg"
-          }
-        },
-        {
-          "id": 22369,
-          "name": {
-            "full": "Kanade Tachibana"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22369-zC7OgGbfO7b6.jpg"
-          }
-        },
-        {
-          "id": 88950,
-          "name": {
-            "full": "Yuu Otosaka"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88950-0ER2ke5pswxq.png"
-          }
-        },
-        {
-          "id": 88955,
-          "name": {
-            "full": "Ayumi Otosaka"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88955-iKYbTaBsmIF0.jpg"
-          }
-        },
-        {
-          "id": 88954,
-          "name": {
-            "full": "Misa Kurobane"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88954-Mc5TurYknYTn.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "JUJUTSU KAISEN 0",
       "romaji": "Jujutsu Kaisen 0"
     },
@@ -4194,6 +4138,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157115-kdhRYQdVhH95.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": null,
+      "romaji": "Charlotte"
+    },
+    "id": 20997,
+    "characters": {
+      "nodes": [
+        {
+          "id": 88951,
+          "name": {
+            "full": "Nao Tomori"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88951-bRm610RrrXp9.jpg"
+          }
+        },
+        {
+          "id": 22369,
+          "name": {
+            "full": "Kanade Tachibana"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22369-zC7OgGbfO7b6.jpg"
+          }
+        },
+        {
+          "id": 88950,
+          "name": {
+            "full": "Yuu Otosaka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88950-0ER2ke5pswxq.png"
+          }
+        },
+        {
+          "id": 88955,
+          "name": {
+            "full": "Ayumi Otosaka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88955-iKYbTaBsmIF0.jpg"
+          }
+        },
+        {
+          "id": 88954,
+          "name": {
+            "full": "Misa Kurobane"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88954-Mc5TurYknYTn.jpg"
           }
         }
       ]
@@ -4473,7 +4473,7 @@
             "full": "Eijirou Kirishima"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89243-QLmUyyZk5K2l.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89243-R2WJlNuj3aEs.jpg"
           }
         }
       ]
@@ -4829,7 +4829,7 @@
             "full": "Ais Wallenstein"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87655-7QjpIyyZuqyp.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87655-50i1Y554Vs3z.png"
           }
         },
         {
@@ -5041,118 +5041,6 @@
   },
   {
     "title": {
-      "english": "My Teen Romantic Comedy SNAFU",
-      "romaji": "Yahari Ore no Seishun Love Come wa Machigatteiru."
-    },
-    "id": 14813,
-    "characters": {
-      "nodes": [
-        {
-          "id": 67065,
-          "name": {
-            "full": "Hachiman Hikigaya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png"
-          }
-        },
-        {
-          "id": 67067,
-          "name": {
-            "full": "Yukino Yukinoshita"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67067-gqhgjlni0Bcf.png"
-          }
-        },
-        {
-          "id": 67069,
-          "name": {
-            "full": "Yui Yuigahama"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67069-6B3xnHfJUO0F.png"
-          }
-        },
-        {
-          "id": 67077,
-          "name": {
-            "full": "Shizuka Hiratsuka"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67077-NaBvItxCYPon.png"
-          }
-        },
-        {
-          "id": 67071,
-          "name": {
-            "full": "Saika Totsuka"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67071-3tO9QQA9x0hV.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "english": "Fairy Tail",
-      "romaji": "FAIRY TAIL"
-    },
-    "id": 6702,
-    "characters": {
-      "nodes": [
-        {
-          "id": 5189,
-          "name": {
-            "full": "Erza Scarlet"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5189-GR1xdok9SFsN.jpg"
-          }
-        },
-        {
-          "id": 5187,
-          "name": {
-            "full": "Natsu Dragneel"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5187-y1OEdRu9sPN2.png"
-          }
-        },
-        {
-          "id": 5186,
-          "name": {
-            "full": "Lucy Heartfilia"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5186-izgXf2S86K9u.png"
-          }
-        },
-        {
-          "id": 4839,
-          "name": {
-            "full": "Gray Fullbuster"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4839-p2SBgjdTxHxk.png"
-          }
-        },
-        {
-          "id": 9719,
-          "name": {
-            "full": "Juvia Lockser"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b9719-xh4xqTV6byNl.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Cyberpunk: Edgerunners",
       "romaji": "Cyberpunk: Edgerunners"
     },
@@ -5209,6 +5097,62 @@
   },
   {
     "title": {
+      "english": "My Teen Romantic Comedy SNAFU",
+      "romaji": "Yahari Ore no Seishun Love Come wa Machigatteiru."
+    },
+    "id": 14813,
+    "characters": {
+      "nodes": [
+        {
+          "id": 67065,
+          "name": {
+            "full": "Hachiman Hikigaya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png"
+          }
+        },
+        {
+          "id": 67067,
+          "name": {
+            "full": "Yukino Yukinoshita"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67067-gqhgjlni0Bcf.png"
+          }
+        },
+        {
+          "id": 67069,
+          "name": {
+            "full": "Yui Yuigahama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67069-6B3xnHfJUO0F.png"
+          }
+        },
+        {
+          "id": 67077,
+          "name": {
+            "full": "Shizuka Hiratsuka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67077-NaBvItxCYPon.png"
+          }
+        },
+        {
+          "id": 67071,
+          "name": {
+            "full": "Saika Totsuka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67071-3tO9QQA9x0hV.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
       "english": "DAN DA DAN",
       "romaji": "Dandadan"
     },
@@ -5258,6 +5202,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b258506-mMMInKyQq7ib.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Fairy Tail",
+      "romaji": "FAIRY TAIL"
+    },
+    "id": 6702,
+    "characters": {
+      "nodes": [
+        {
+          "id": 5189,
+          "name": {
+            "full": "Erza Scarlet"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5189-GR1xdok9SFsN.jpg"
+          }
+        },
+        {
+          "id": 5187,
+          "name": {
+            "full": "Natsu Dragneel"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5187-y1OEdRu9sPN2.png"
+          }
+        },
+        {
+          "id": 5186,
+          "name": {
+            "full": "Lucy Heartfilia"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5186-izgXf2S86K9u.png"
+          }
+        },
+        {
+          "id": 4839,
+          "name": {
+            "full": "Gray Fullbuster"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4839-p2SBgjdTxHxk.png"
+          }
+        },
+        {
+          "id": 9719,
+          "name": {
+            "full": "Juvia Lockser"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b9719-xh4xqTV6byNl.png"
           }
         }
       ]
@@ -5525,7 +5525,7 @@
         {
           "id": 134461,
           "name": {
-            "full": "Kyoko Takimoto"
+            "full": "Kyouko Takimoto"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b134461-0JqcCi30rN45.png"
@@ -5545,55 +5545,55 @@
   },
   {
     "title": {
-      "english": "Assassination Classroom Second Season",
-      "romaji": "Ansatsu Kyoushitsu 2nd Season"
+      "english": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
+      "romaji": "Kimetsu no Yaiba: Katanakaji no Sato-hen"
     },
-    "id": 21170,
+    "id": 145139,
     "characters": {
       "nodes": [
         {
-          "id": 90107,
+          "id": 126071,
           "name": {
-            "full": "Kusuo Saiki"
+            "full": "Tanjirou Kamado"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90107-ZULW5HlPX1uU.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126071-BTNEc1nRIv68.png"
           }
         },
         {
-          "id": 71933,
+          "id": 127518,
           "name": {
-            "full": "Karma Akabane"
+            "full": "Nezuko Kamado"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71933-HQ1TSjlrJ8Hv.jpg"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127518-NRlq1CQ1v1ro.png"
           }
         },
         {
-          "id": 65643,
+          "id": 129130,
           "name": {
-            "full": "Koro-sensei"
+            "full": "Inosuke Hashibira"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65643-jimrOw0RGtoB.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n129130-SJC0Kn1DU39E.jpg"
           }
         },
         {
-          "id": 65645,
+          "id": 129131,
           "name": {
-            "full": "Nagisa Shiota"
+            "full": "Zenitsu Agatsuma"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65645-nWH4mBMW5lYw.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129131-FZrQ7lSlxmEr.png"
           }
         },
         {
-          "id": 18769,
+          "id": 129133,
           "name": {
-            "full": "Tetsuya Kuroko"
+            "full": "Kyoujurou Rengoku"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b18769-7ms6XKt8jCzU.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129133-VlTPowwt68rJ.png"
           }
         }
       ]
