@@ -1065,62 +1065,6 @@
   },
   {
     "title": {
-      "english": "Assassination Classroom",
-      "romaji": "Ansatsu Kyoushitsu"
-    },
-    "id": 20755,
-    "characters": {
-      "nodes": [
-        {
-          "id": 71933,
-          "name": {
-            "full": "Karma Akabane"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71933-HQ1TSjlrJ8Hv.jpg"
-          }
-        },
-        {
-          "id": 65643,
-          "name": {
-            "full": "Koro-sensei"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65643-jimrOw0RGtoB.png"
-          }
-        },
-        {
-          "id": 65645,
-          "name": {
-            "full": "Nagisa Shiota"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65645-nWH4mBMW5lYw.png"
-          }
-        },
-        {
-          "id": 73881,
-          "name": {
-            "full": "Tadaomi Karasuma"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/73881-Ukr6cBzK8dsi.png"
-          }
-        },
-        {
-          "id": 73883,
-          "name": {
-            "full": "Irina Jelavic"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73883-ajlj28kkjxlb.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Chainsaw Man",
       "romaji": "Chainsaw Man"
     },
@@ -1170,6 +1114,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b148740-ceAibPxLW8rR.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Assassination Classroom",
+      "romaji": "Ansatsu Kyoushitsu"
+    },
+    "id": 20755,
+    "characters": {
+      "nodes": [
+        {
+          "id": 71933,
+          "name": {
+            "full": "Karma Akabane"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71933-HQ1TSjlrJ8Hv.jpg"
+          }
+        },
+        {
+          "id": 65643,
+          "name": {
+            "full": "Koro-sensei"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65643-jimrOw0RGtoB.png"
+          }
+        },
+        {
+          "id": 65645,
+          "name": {
+            "full": "Nagisa Shiota"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65645-nWH4mBMW5lYw.png"
+          }
+        },
+        {
+          "id": 73881,
+          "name": {
+            "full": "Tadaomi Karasuma"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/73881-Ukr6cBzK8dsi.png"
+          }
+        },
+        {
+          "id": 73883,
+          "name": {
+            "full": "Irina Jelavic"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73883-ajlj28kkjxlb.jpg"
           }
         }
       ]
@@ -2073,62 +2073,6 @@
   },
   {
     "title": {
-      "english": "No Game, No Life",
-      "romaji": "No Game No Life"
-    },
-    "id": 19815,
-    "characters": {
-      "nodes": [
-        {
-          "id": 82525,
-          "name": {
-            "full": "Shiro"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82525-sKk2FGRKN4aK.png"
-          }
-        },
-        {
-          "id": 82523,
-          "name": {
-            "full": "Sora"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82523-JB9oevKyXWfc.png"
-          }
-        },
-        {
-          "id": 87887,
-          "name": {
-            "full": "Jibril"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87887-3QKmvQM5LTwY.png"
-          }
-        },
-        {
-          "id": 82527,
-          "name": {
-            "full": "Stephanie Dola"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82527-uwdWwl1qhzqC.png"
-          }
-        },
-        {
-          "id": 88003,
-          "name": {
-            "full": "Izuna Hatsuse"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88003-tZKsjjzDWV8e.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Toradora!",
       "romaji": "Toradora!"
     },
@@ -2178,6 +2122,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12307-MfkPmovIGCm9.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "No Game, No Life",
+      "romaji": "No Game No Life"
+    },
+    "id": 19815,
+    "characters": {
+      "nodes": [
+        {
+          "id": 82525,
+          "name": {
+            "full": "Shiro"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82525-sKk2FGRKN4aK.png"
+          }
+        },
+        {
+          "id": 82523,
+          "name": {
+            "full": "Sora"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82523-JB9oevKyXWfc.png"
+          }
+        },
+        {
+          "id": 87887,
+          "name": {
+            "full": "Jibril"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87887-3QKmvQM5LTwY.png"
+          }
+        },
+        {
+          "id": 82527,
+          "name": {
+            "full": "Stephanie Dola"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82527-uwdWwl1qhzqC.png"
+          }
+        },
+        {
+          "id": 88003,
+          "name": {
+            "full": "Izuna Hatsuse"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88003-tZKsjjzDWV8e.png"
           }
         }
       ]
@@ -2710,7 +2710,7 @@
             "full": "Zero Two"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124381-pkTKi6HHNuVR.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124381-aoGWQW1GjgpO.png"
           }
         },
         {
@@ -3417,62 +3417,6 @@
   },
   {
     "title": {
-      "english": "The Rising of the Shield Hero",
-      "romaji": "Tate no Yuusha no Nariagari"
-    },
-    "id": 99263,
-    "characters": {
-      "nodes": [
-        {
-          "id": 88889,
-          "name": {
-            "full": "Raphtalia"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88889-CWYytVbCOPsV.png"
-          }
-        },
-        {
-          "id": 88817,
-          "name": {
-            "full": "Naofumi Iwatani"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88817-Aku5CuN6wO2z.png"
-          }
-        },
-        {
-          "id": 126828,
-          "name": {
-            "full": "Filo"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126828-nZDnMK4Bw7f9.png"
-          }
-        },
-        {
-          "id": 129813,
-          "name": {
-            "full": "Melty Q Melromarc"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129813-quaY4dr807yx.png"
-          }
-        },
-        {
-          "id": 135198,
-          "name": {
-            "full": "Mirellia Q Melromarc"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135198-ImEXzNG3srwI.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "That Time I Got Reincarnated as a Slime",
       "romaji": "Tensei Shitara Slime Datta Ken"
     },
@@ -3522,6 +3466,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b128034-Gg5MrpTFNSv8.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "The Rising of the Shield Hero",
+      "romaji": "Tate no Yuusha no Nariagari"
+    },
+    "id": 99263,
+    "characters": {
+      "nodes": [
+        {
+          "id": 88889,
+          "name": {
+            "full": "Raphtalia"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88889-CWYytVbCOPsV.png"
+          }
+        },
+        {
+          "id": 88817,
+          "name": {
+            "full": "Naofumi Iwatani"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88817-Aku5CuN6wO2z.png"
+          }
+        },
+        {
+          "id": 126828,
+          "name": {
+            "full": "Filo"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126828-nZDnMK4Bw7f9.png"
+          }
+        },
+        {
+          "id": 129813,
+          "name": {
+            "full": "Melty Q Melromarc"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129813-quaY4dr807yx.png"
+          }
+        },
+        {
+          "id": 135198,
+          "name": {
+            "full": "Mirellia Q Melromarc"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135198-ImEXzNG3srwI.png"
           }
         }
       ]
@@ -4761,62 +4761,6 @@
   },
   {
     "title": {
-      "english": "The Devil is a Part-Timer!",
-      "romaji": "Hataraku Maou-sama!"
-    },
-    "id": 15809,
-    "characters": {
-      "nodes": [
-        {
-          "id": 70733,
-          "name": {
-            "full": "Satan Jacob"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70733-d564H7iUj7Y2.png"
-          }
-        },
-        {
-          "id": 70735,
-          "name": {
-            "full": "Emilia Justina"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70735-DmmbHRLKpS0E.png"
-          }
-        },
-        {
-          "id": 83103,
-          "name": {
-            "full": "Lucifer"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83103-fksjOXqJCmxd.png"
-          }
-        },
-        {
-          "id": 70737,
-          "name": {
-            "full": "Alciel"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70737-lDeBmECttJCK.png"
-          }
-        },
-        {
-          "id": 70739,
-          "name": {
-            "full": "Chiho Sasaki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70739-rJpfVU2YH5nS.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
       "romaji": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
     },
@@ -4866,6 +4810,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88897-2xey5UG7Qr2S.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "The Devil is a Part-Timer!",
+      "romaji": "Hataraku Maou-sama!"
+    },
+    "id": 15809,
+    "characters": {
+      "nodes": [
+        {
+          "id": 70733,
+          "name": {
+            "full": "Satan Jacob"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70733-d564H7iUj7Y2.png"
+          }
+        },
+        {
+          "id": 70735,
+          "name": {
+            "full": "Emilia Justina"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70735-DmmbHRLKpS0E.png"
+          }
+        },
+        {
+          "id": 83103,
+          "name": {
+            "full": "Lucifer"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83103-fksjOXqJCmxd.png"
+          }
+        },
+        {
+          "id": 70737,
+          "name": {
+            "full": "Alciel"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70737-lDeBmECttJCK.png"
+          }
+        },
+        {
+          "id": 70739,
+          "name": {
+            "full": "Chiho Sasaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70739-rJpfVU2YH5nS.png"
           }
         }
       ]
@@ -5097,62 +5097,6 @@
   },
   {
     "title": {
-      "english": "My Teen Romantic Comedy SNAFU",
-      "romaji": "Yahari Ore no Seishun Love Come wa Machigatteiru."
-    },
-    "id": 14813,
-    "characters": {
-      "nodes": [
-        {
-          "id": 67065,
-          "name": {
-            "full": "Hachiman Hikigaya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png"
-          }
-        },
-        {
-          "id": 67067,
-          "name": {
-            "full": "Yukino Yukinoshita"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67067-gqhgjlni0Bcf.png"
-          }
-        },
-        {
-          "id": 67069,
-          "name": {
-            "full": "Yui Yuigahama"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67069-6B3xnHfJUO0F.png"
-          }
-        },
-        {
-          "id": 67077,
-          "name": {
-            "full": "Shizuka Hiratsuka"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67077-NaBvItxCYPon.png"
-          }
-        },
-        {
-          "id": 67071,
-          "name": {
-            "full": "Saika Totsuka"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67071-3tO9QQA9x0hV.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "DAN DA DAN",
       "romaji": "Dandadan"
     },
@@ -5202,6 +5146,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b258506-mMMInKyQq7ib.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "My Teen Romantic Comedy SNAFU",
+      "romaji": "Yahari Ore no Seishun Love Come wa Machigatteiru."
+    },
+    "id": 14813,
+    "characters": {
+      "nodes": [
+        {
+          "id": 67065,
+          "name": {
+            "full": "Hachiman Hikigaya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png"
+          }
+        },
+        {
+          "id": 67067,
+          "name": {
+            "full": "Yukino Yukinoshita"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67067-gqhgjlni0Bcf.png"
+          }
+        },
+        {
+          "id": 67069,
+          "name": {
+            "full": "Yui Yuigahama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67069-6B3xnHfJUO0F.png"
+          }
+        },
+        {
+          "id": 67077,
+          "name": {
+            "full": "Shizuka Hiratsuka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67077-NaBvItxCYPon.png"
+          }
+        },
+        {
+          "id": 67071,
+          "name": {
+            "full": "Saika Totsuka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67071-3tO9QQA9x0hV.jpg"
           }
         }
       ]
