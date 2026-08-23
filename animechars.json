@@ -2241,62 +2241,6 @@
   },
   {
     "title": {
-      "english": "Akame ga Kill!",
-      "romaji": "Akame ga Kill!"
-    },
-    "id": 20613,
-    "characters": {
-      "nodes": [
-        {
-          "id": 63351,
-          "name": {
-            "full": "Akame"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b63351-0WmsDENpiscp.png"
-          }
-        },
-        {
-          "id": 65239,
-          "name": {
-            "full": "Esdeath"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65239-2S3t2vSyUew9.png"
-          }
-        },
-        {
-          "id": 65229,
-          "name": {
-            "full": "Mine"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65229-hYOZtUlIpd5G.png"
-          }
-        },
-        {
-          "id": 65227,
-          "name": {
-            "full": "Leone"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65227-PWmfiEVJbCwQ.png"
-          }
-        },
-        {
-          "id": 64749,
-          "name": {
-            "full": "Tatsumi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/64749-a2ZdRWW1D5TR.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Horimiya",
       "romaji": "Horimiya"
     },
@@ -2346,6 +2290,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89726-NS2ZmYjp1Mnr.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Akame ga Kill!",
+      "romaji": "Akame ga Kill!"
+    },
+    "id": 20613,
+    "characters": {
+      "nodes": [
+        {
+          "id": 63351,
+          "name": {
+            "full": "Akame"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b63351-0WmsDENpiscp.png"
+          }
+        },
+        {
+          "id": 65239,
+          "name": {
+            "full": "Esdeath"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65239-2S3t2vSyUew9.png"
+          }
+        },
+        {
+          "id": 65229,
+          "name": {
+            "full": "Mine"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65229-hYOZtUlIpd5G.png"
+          }
+        },
+        {
+          "id": 65227,
+          "name": {
+            "full": "Leone"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65227-PWmfiEVJbCwQ.png"
+          }
+        },
+        {
+          "id": 64749,
+          "name": {
+            "full": "Tatsumi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/64749-a2ZdRWW1D5TR.jpg"
           }
         }
       ]
@@ -2710,7 +2710,7 @@
             "full": "Zero Two"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124381-aoGWQW1GjgpO.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124381-2gAVq76HPfL2.png"
           }
         },
         {
@@ -4033,62 +4033,6 @@
   },
   {
     "title": {
-      "english": "Kaguya-sama: Love is War?",
-      "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen"
-    },
-    "id": 112641,
-    "characters": {
-      "nodes": [
-        {
-          "id": 120649,
-          "name": {
-            "full": "Kaguya Shinomiya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b120649-NPaWaIpWy60E.png"
-          }
-        },
-        {
-          "id": 121103,
-          "name": {
-            "full": "Chika Fujiwara"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121103-UGLxT8utLPnq.png"
-          }
-        },
-        {
-          "id": 125886,
-          "name": {
-            "full": "Miko Iino"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b125886-TQbmqAaSgBLS.png"
-          }
-        },
-        {
-          "id": 121102,
-          "name": {
-            "full": "Yuu Ishigami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121102-tiQFxnSEIAwm.png"
-          }
-        },
-        {
-          "id": 121104,
-          "name": {
-            "full": "Ai Hayasaka"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121104-7TYRl3EEsDYU.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "JUJUTSU KAISEN 0",
       "romaji": "Jujutsu Kaisen 0"
     },
@@ -4138,6 +4082,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157115-kdhRYQdVhH95.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Kaguya-sama: Love is War?",
+      "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen"
+    },
+    "id": 112641,
+    "characters": {
+      "nodes": [
+        {
+          "id": 120649,
+          "name": {
+            "full": "Kaguya Shinomiya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b120649-NPaWaIpWy60E.png"
+          }
+        },
+        {
+          "id": 121103,
+          "name": {
+            "full": "Chika Fujiwara"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121103-UGLxT8utLPnq.png"
+          }
+        },
+        {
+          "id": 125886,
+          "name": {
+            "full": "Miko Iino"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b125886-TQbmqAaSgBLS.png"
+          }
+        },
+        {
+          "id": 121102,
+          "name": {
+            "full": "Yuu Ishigami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121102-tiQFxnSEIAwm.png"
+          }
+        },
+        {
+          "id": 121104,
+          "name": {
+            "full": "Ai Hayasaka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121104-7TYRl3EEsDYU.png"
           }
         }
       ]
@@ -4593,62 +4593,6 @@
   },
   {
     "title": {
-      "english": "Food Wars!",
-      "romaji": "Shokugeki no Souma"
-    },
-    "id": 20923,
-    "characters": {
-      "nodes": [
-        {
-          "id": 75216,
-          "name": {
-            "full": "Souma Yukihira"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b75216-KDU8333eIcqf.jpg"
-          }
-        },
-        {
-          "id": 75284,
-          "name": {
-            "full": "Erina Nakiri"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b75284-4Hiyq7DOwvy7.png"
-          }
-        },
-        {
-          "id": 88956,
-          "name": {
-            "full": "Alice Nakiri"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88956-RbwleCQc741G.png"
-          }
-        },
-        {
-          "id": 76026,
-          "name": {
-            "full": "Megumi Tadokoro"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b76026-cQAQTlZFfG2e.png"
-          }
-        },
-        {
-          "id": 78475,
-          "name": {
-            "full": "Satoshi Isshiki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b78475-pcxfAMiGe6xf.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Overlord",
       "romaji": "Overlord"
     },
@@ -4698,6 +4642,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89155-yVyhseUF82s9.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Food Wars!",
+      "romaji": "Shokugeki no Souma"
+    },
+    "id": 20923,
+    "characters": {
+      "nodes": [
+        {
+          "id": 75216,
+          "name": {
+            "full": "Souma Yukihira"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b75216-KDU8333eIcqf.jpg"
+          }
+        },
+        {
+          "id": 75284,
+          "name": {
+            "full": "Erina Nakiri"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b75284-4Hiyq7DOwvy7.png"
+          }
+        },
+        {
+          "id": 88956,
+          "name": {
+            "full": "Alice Nakiri"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88956-RbwleCQc741G.png"
+          }
+        },
+        {
+          "id": 76026,
+          "name": {
+            "full": "Megumi Tadokoro"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b76026-cQAQTlZFfG2e.png"
+          }
+        },
+        {
+          "id": 78475,
+          "name": {
+            "full": "Satoshi Isshiki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b78475-mMDe3GSAgP6V.png"
           }
         }
       ]
