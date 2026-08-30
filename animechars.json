@@ -2185,62 +2185,6 @@
   },
   {
     "title": {
-      "english": "Noragami",
-      "romaji": "Noragami"
-    },
-    "id": 20447,
-    "characters": {
-      "nodes": [
-        {
-          "id": 84677,
-          "name": {
-            "full": "Yato"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b84677-PFmohzIXD1ud.png"
-          }
-        },
-        {
-          "id": 84679,
-          "name": {
-            "full": "Hiyori Iki"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b84679-GdMxvYy36M9H.png"
-          }
-        },
-        {
-          "id": 84681,
-          "name": {
-            "full": "Yukine"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b84681-vFMPNxeDkoqt.png"
-          }
-        },
-        {
-          "id": 88239,
-          "name": {
-            "full": "Bishamon"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88239-aiUFUPNjmAh7.jpg"
-          }
-        },
-        {
-          "id": 88241,
-          "name": {
-            "full": "Kofuku Ebisu"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88241-3NQSKNgaQRNC.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Horimiya",
       "romaji": "Horimiya"
     },
@@ -2290,6 +2234,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89726-NS2ZmYjp1Mnr.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Noragami",
+      "romaji": "Noragami"
+    },
+    "id": 20447,
+    "characters": {
+      "nodes": [
+        {
+          "id": 84677,
+          "name": {
+            "full": "Yato"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b84677-PFmohzIXD1ud.png"
+          }
+        },
+        {
+          "id": 84679,
+          "name": {
+            "full": "Hiyori Iki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b84679-GdMxvYy36M9H.png"
+          }
+        },
+        {
+          "id": 84681,
+          "name": {
+            "full": "Yukine"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b84681-vFMPNxeDkoqt.png"
+          }
+        },
+        {
+          "id": 88239,
+          "name": {
+            "full": "Bishamon"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88239-aiUFUPNjmAh7.jpg"
+          }
+        },
+        {
+          "id": 88241,
+          "name": {
+            "full": "Kofuku Ebisu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88241-3NQSKNgaQRNC.png"
           }
         }
       ]
@@ -2465,62 +2465,6 @@
   },
   {
     "title": {
-      "english": "KONOSUBA -God's blessing on this wonderful world!",
-      "romaji": "Kono Subarashii Sekai ni Shukufuku wo!"
-    },
-    "id": 21202,
-    "characters": {
-      "nodes": [
-        {
-          "id": 89361,
-          "name": {
-            "full": "Megumin"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89361-tq8PQQ4MmF0M.png"
-          }
-        },
-        {
-          "id": 89364,
-          "name": {
-            "full": "Kazuma Satou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89364-7Th8Tv1XKJtt.png"
-          }
-        },
-        {
-          "id": 89362,
-          "name": {
-            "full": "Aqua"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89362-ibkc0eoECaW1.png"
-          }
-        },
-        {
-          "id": 89363,
-          "name": {
-            "full": "Darkness"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89363-mm21Ll4NegUD.png"
-          }
-        },
-        {
-          "id": 120652,
-          "name": {
-            "full": "Yunyun"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b120652-YxrBBPbmJno2.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Bleach",
       "romaji": "BLEACH"
     },
@@ -2570,6 +2514,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1086-qR9218BjZTC0.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "KONOSUBA -God's blessing on this wonderful world!",
+      "romaji": "Kono Subarashii Sekai ni Shukufuku wo!"
+    },
+    "id": 21202,
+    "characters": {
+      "nodes": [
+        {
+          "id": 89361,
+          "name": {
+            "full": "Megumin"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89361-tq8PQQ4MmF0M.png"
+          }
+        },
+        {
+          "id": 89364,
+          "name": {
+            "full": "Kazuma Satou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89364-7Th8Tv1XKJtt.png"
+          }
+        },
+        {
+          "id": 89362,
+          "name": {
+            "full": "Aqua"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89362-ibkc0eoECaW1.png"
+          }
+        },
+        {
+          "id": 89363,
+          "name": {
+            "full": "Darkness"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89363-mm21Ll4NegUD.png"
+          }
+        },
+        {
+          "id": 120652,
+          "name": {
+            "full": "Yunyun"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b120652-YxrBBPbmJno2.png"
           }
         }
       ]
@@ -3865,62 +3865,6 @@
   },
   {
     "title": {
-      "english": "Angel Beats!",
-      "romaji": "Angel Beats!"
-    },
-    "id": 6547,
-    "characters": {
-      "nodes": [
-        {
-          "id": 22369,
-          "name": {
-            "full": "Kanade Tachibana"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22369-zC7OgGbfO7b6.jpg"
-          }
-        },
-        {
-          "id": 22370,
-          "name": {
-            "full": "Yuri Nakamura"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22370-pNQxFEv1K7lS.jpg"
-          }
-        },
-        {
-          "id": 24515,
-          "name": {
-            "full": "Yui Yoshioka"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24515-4v85Z9CqCe0Y.png"
-          }
-        },
-        {
-          "id": 24502,
-          "name": {
-            "full": "Yuzuru Otonashi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24502-TJE8JeOERvj0.jpg"
-          }
-        },
-        {
-          "id": 24503,
-          "name": {
-            "full": "Hideki Hinata"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24503-aMw9BnXmEVrP.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Solo Leveling",
       "romaji": "Ore dake Level Up na Ken"
     },
@@ -3970,6 +3914,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136074-pLyumEnxjL7P.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Angel Beats!",
+      "romaji": "Angel Beats!"
+    },
+    "id": 6547,
+    "characters": {
+      "nodes": [
+        {
+          "id": 22369,
+          "name": {
+            "full": "Kanade Tachibana"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22369-zC7OgGbfO7b6.jpg"
+          }
+        },
+        {
+          "id": 22370,
+          "name": {
+            "full": "Yuri Nakamura"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22370-pNQxFEv1K7lS.jpg"
+          }
+        },
+        {
+          "id": 24515,
+          "name": {
+            "full": "Yui Yoshioka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24515-4v85Z9CqCe0Y.png"
+          }
+        },
+        {
+          "id": 24502,
+          "name": {
+            "full": "Yuzuru Otonashi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24502-TJE8JeOERvj0.jpg"
+          }
+        },
+        {
+          "id": 24503,
+          "name": {
+            "full": "Hideki Hinata"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24503-aMw9BnXmEVrP.png"
           }
         }
       ]
