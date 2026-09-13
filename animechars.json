@@ -2689,62 +2689,6 @@
   },
   {
     "title": {
-      "english": "DARLING in the FRANXX",
-      "romaji": "Darling in the Franxx"
-    },
-    "id": 99423,
-    "characters": {
-      "nodes": [
-        {
-          "id": 124381,
-          "name": {
-            "full": "Zero Two"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124381-2gAVq76HPfL2.png"
-          }
-        },
-        {
-          "id": 124382,
-          "name": {
-            "full": "Ichigo"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124382-bSBkjtYjJQtr.png"
-          }
-        },
-        {
-          "id": 124380,
-          "name": {
-            "full": "Hiro"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124380-ct1wJHIl9BY1.jpg"
-          }
-        },
-        {
-          "id": 124386,
-          "name": {
-            "full": "Kokoro"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124386-vc248g43ap3m.jpg"
-          }
-        },
-        {
-          "id": 124383,
-          "name": {
-            "full": "Goro"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n124383-I6ZsEBQoETj3.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Code Geass: Lelouch of the Rebellion",
       "romaji": "Code Geass: Hangyaku no Lelouch"
     },
@@ -2794,6 +2738,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b559-KRvTdc6zdCuU.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "DARLING in the FRANXX",
+      "romaji": "Darling in the Franxx"
+    },
+    "id": 99423,
+    "characters": {
+      "nodes": [
+        {
+          "id": 124381,
+          "name": {
+            "full": "Zero Two"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124381-2gAVq76HPfL2.png"
+          }
+        },
+        {
+          "id": 124382,
+          "name": {
+            "full": "Ichigo"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124382-bSBkjtYjJQtr.png"
+          }
+        },
+        {
+          "id": 124380,
+          "name": {
+            "full": "Hiro"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124380-ct1wJHIl9BY1.jpg"
+          }
+        },
+        {
+          "id": 124386,
+          "name": {
+            "full": "Kokoro"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124386-vc248g43ap3m.jpg"
+          }
+        },
+        {
+          "id": 124383,
+          "name": {
+            "full": "Goro"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n124383-I6ZsEBQoETj3.jpg"
           }
         }
       ]
@@ -3193,62 +3193,6 @@
   },
   {
     "title": {
-      "english": "Death Parade",
-      "romaji": "Death Parade"
-    },
-    "id": 20931,
-    "characters": {
-      "nodes": [
-        {
-          "id": 80,
-          "name": {
-            "full": "Light Yagami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b80-26EhwSsSqQ50.png"
-          }
-        },
-        {
-          "id": 81853,
-          "name": {
-            "full": "Decim"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b81853-CY99xwoziDG4.png"
-          }
-        },
-        {
-          "id": 82037,
-          "name": {
-            "full": "Kurokami no Onna"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82037-xvKHWk4AE4df.png"
-          }
-        },
-        {
-          "id": 88681,
-          "name": {
-            "full": "Nona"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88681-tTuJXN5ds3gy.png"
-          }
-        },
-        {
-          "id": 88780,
-          "name": {
-            "full": "Clavis"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88780-76uJe60Gkw70.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Cowboy Bebop",
       "romaji": "Cowboy Bebop"
     },
@@ -3354,6 +3298,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b81931-fmouMoprPVbV.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Death Parade",
+      "romaji": "Death Parade"
+    },
+    "id": 20931,
+    "characters": {
+      "nodes": [
+        {
+          "id": 80,
+          "name": {
+            "full": "Light Yagami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b80-26EhwSsSqQ50.png"
+          }
+        },
+        {
+          "id": 81853,
+          "name": {
+            "full": "Decim"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b81853-CY99xwoziDG4.png"
+          }
+        },
+        {
+          "id": 82037,
+          "name": {
+            "full": "Kurokami no Onna"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82037-xvKHWk4AE4df.png"
+          }
+        },
+        {
+          "id": 88681,
+          "name": {
+            "full": "Nona"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88681-tTuJXN5ds3gy.png"
+          }
+        },
+        {
+          "id": 88780,
+          "name": {
+            "full": "Clavis"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88780-76uJe60Gkw70.png"
           }
         }
       ]
@@ -3809,62 +3809,6 @@
   },
   {
     "title": {
-      "english": "Tokyo Revengers",
-      "romaji": "Tokyo Revengers"
-    },
-    "id": 120120,
-    "characters": {
-      "nodes": [
-        {
-          "id": 145341,
-          "name": {
-            "full": "Manjirou Sano"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145341-CuPldCLZMvvf.png"
-          }
-        },
-        {
-          "id": 145344,
-          "name": {
-            "full": "Chifuyu Matsuno"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145344-q4BqRljEBYNc.png"
-          }
-        },
-        {
-          "id": 145345,
-          "name": {
-            "full": "Ken Ryuuguji"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145345-zyirrSsKIDCb.png"
-          }
-        },
-        {
-          "id": 145343,
-          "name": {
-            "full": "Keisuke Baji"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145343-vRrkdWEUXwYM.jpg"
-          }
-        },
-        {
-          "id": 167841,
-          "name": {
-            "full": "Takashi Mitsuya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b167841-Pp08TBnzGhK4.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Solo Leveling",
       "romaji": "Ore dake Level Up na Ken"
     },
@@ -3914,6 +3858,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136074-pLyumEnxjL7P.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Tokyo Revengers",
+      "romaji": "Tokyo Revengers"
+    },
+    "id": 120120,
+    "characters": {
+      "nodes": [
+        {
+          "id": 145341,
+          "name": {
+            "full": "Manjirou Sano"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145341-CuPldCLZMvvf.png"
+          }
+        },
+        {
+          "id": 145344,
+          "name": {
+            "full": "Chifuyu Matsuno"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145344-q4BqRljEBYNc.png"
+          }
+        },
+        {
+          "id": 145345,
+          "name": {
+            "full": "Ken Ryuuguji"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145345-zyirrSsKIDCb.png"
+          }
+        },
+        {
+          "id": 145343,
+          "name": {
+            "full": "Keisuke Baji"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145343-vRrkdWEUXwYM.jpg"
+          }
+        },
+        {
+          "id": 167841,
+          "name": {
+            "full": "Takashi Mitsuya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b167841-Pp08TBnzGhK4.jpg"
           }
         }
       ]
