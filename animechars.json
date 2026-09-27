@@ -1009,62 +1009,6 @@
   },
   {
     "title": {
-      "english": "The Promised Neverland",
-      "romaji": "Yakusoku no Neverland"
-    },
-    "id": 101759,
-    "characters": {
-      "nodes": [
-        {
-          "id": 121724,
-          "name": {
-            "full": "Ray"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121724-SJTdODjeO7e6.jpg"
-          }
-        },
-        {
-          "id": 121700,
-          "name": {
-            "full": "Norman"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121700-CRwKIlcBcjbv.jpg"
-          }
-        },
-        {
-          "id": 121725,
-          "name": {
-            "full": "Emma"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121725-LQciVJOjnMVh.png"
-          }
-        },
-        {
-          "id": 126475,
-          "name": {
-            "full": "Phil"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126475-EqxsU9P6ajKE.jpg"
-          }
-        },
-        {
-          "id": 121701,
-          "name": {
-            "full": "Isabella"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121701-hP5hanKRUH9u.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Chainsaw Man",
       "romaji": "Chainsaw Man"
     },
@@ -1114,6 +1058,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b148740-ceAibPxLW8rR.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "The Promised Neverland",
+      "romaji": "Yakusoku no Neverland"
+    },
+    "id": 101759,
+    "characters": {
+      "nodes": [
+        {
+          "id": 121724,
+          "name": {
+            "full": "Ray"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121724-SJTdODjeO7e6.jpg"
+          }
+        },
+        {
+          "id": 121700,
+          "name": {
+            "full": "Norman"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121700-CRwKIlcBcjbv.jpg"
+          }
+        },
+        {
+          "id": 121725,
+          "name": {
+            "full": "Emma"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121725-LQciVJOjnMVh.png"
+          }
+        },
+        {
+          "id": 126475,
+          "name": {
+            "full": "Phil"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126475-EqxsU9P6ajKE.jpg"
+          }
+        },
+        {
+          "id": 121701,
+          "name": {
+            "full": "Isabella"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121701-hP5hanKRUH9u.png"
           }
         }
       ]
@@ -2633,62 +2633,6 @@
   },
   {
     "title": {
-      "english": "Parasyte -the maxim-",
-      "romaji": "Kiseijuu: Sei no Kakuritsu"
-    },
-    "id": 20623,
-    "characters": {
-      "nodes": [
-        {
-          "id": 12323,
-          "name": {
-            "full": "Shinichi Izumi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12323-NAoqDYOn2RSo.png"
-          }
-        },
-        {
-          "id": 13773,
-          "name": {
-            "full": "Migi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13773-Kuak0WTeTU9z.png"
-          }
-        },
-        {
-          "id": 19215,
-          "name": {
-            "full": "Kana Kimishima"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19215-oei5N1hu9w9w.png"
-          }
-        },
-        {
-          "id": 16586,
-          "name": {
-            "full": "Ryouko Tamiya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b16586-5BBzHsx1GLGC.jpg"
-          }
-        },
-        {
-          "id": 19436,
-          "name": {
-            "full": "Satomi Murano"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19436-d9ImDTVNQPKt.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Code Geass: Lelouch of the Rebellion",
       "romaji": "Code Geass: Hangyaku no Lelouch"
     },
@@ -2738,6 +2682,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b559-KRvTdc6zdCuU.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Parasyte -the maxim-",
+      "romaji": "Kiseijuu: Sei no Kakuritsu"
+    },
+    "id": 20623,
+    "characters": {
+      "nodes": [
+        {
+          "id": 12323,
+          "name": {
+            "full": "Shinichi Izumi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12323-NAoqDYOn2RSo.png"
+          }
+        },
+        {
+          "id": 13773,
+          "name": {
+            "full": "Migi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13773-Kuak0WTeTU9z.png"
+          }
+        },
+        {
+          "id": 19215,
+          "name": {
+            "full": "Kana Kimishima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19215-oei5N1hu9w9w.png"
+          }
+        },
+        {
+          "id": 16586,
+          "name": {
+            "full": "Ryouko Tamiya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b16586-5BBzHsx1GLGC.jpg"
+          }
+        },
+        {
+          "id": 19436,
+          "name": {
+            "full": "Satomi Murano"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19436-d9ImDTVNQPKt.jpg"
           }
         }
       ]
@@ -4369,62 +4369,6 @@
   },
   {
     "title": {
-      "english": "Kill la Kill",
-      "romaji": "Kill la Kill"
-    },
-    "id": 18679,
-    "characters": {
-      "nodes": [
-        {
-          "id": 83797,
-          "name": {
-            "full": "Ryuuko Matoi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83797-ix0Cl5OMfV22.png"
-          }
-        },
-        {
-          "id": 87511,
-          "name": {
-            "full": "Mako Mankanshoku"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87511-T8lwlQKd6SoK.png"
-          }
-        },
-        {
-          "id": 83799,
-          "name": {
-            "full": "Satsuki Kiryuuin"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83799-oPxSwMA9XAvu.png"
-          }
-        },
-        {
-          "id": 87606,
-          "name": {
-            "full": "Nonon Jakuzure"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/87606-3A51LUnRuyHf.png"
-          }
-        },
-        {
-          "id": 87510,
-          "name": {
-            "full": "Senketsu"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87510-ZH2qoBYc6XNH.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "My Hero Academia Season 5",
       "romaji": "Boku no Hero Academia 5"
     },
@@ -4474,6 +4418,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89224-K6KEuQAuYKzq.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Kill la Kill",
+      "romaji": "Kill la Kill"
+    },
+    "id": 18679,
+    "characters": {
+      "nodes": [
+        {
+          "id": 83797,
+          "name": {
+            "full": "Ryuuko Matoi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83797-ix0Cl5OMfV22.png"
+          }
+        },
+        {
+          "id": 87511,
+          "name": {
+            "full": "Mako Mankanshoku"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87511-T8lwlQKd6SoK.png"
+          }
+        },
+        {
+          "id": 83799,
+          "name": {
+            "full": "Satsuki Kiryuuin"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b83799-oPxSwMA9XAvu.png"
+          }
+        },
+        {
+          "id": 87606,
+          "name": {
+            "full": "Nonon Jakuzure"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/87606-3A51LUnRuyHf.png"
+          }
+        },
+        {
+          "id": 87510,
+          "name": {
+            "full": "Senketsu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87510-ZH2qoBYc6XNH.jpg"
           }
         }
       ]
@@ -5265,62 +5265,6 @@
   },
   {
     "title": {
-      "english": "Fairy Tail",
-      "romaji": "FAIRY TAIL"
-    },
-    "id": 6702,
-    "characters": {
-      "nodes": [
-        {
-          "id": 5189,
-          "name": {
-            "full": "Erza Scarlet"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5189-GR1xdok9SFsN.jpg"
-          }
-        },
-        {
-          "id": 5187,
-          "name": {
-            "full": "Natsu Dragneel"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5187-y1OEdRu9sPN2.png"
-          }
-        },
-        {
-          "id": 5186,
-          "name": {
-            "full": "Lucy Heartfilia"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5186-izgXf2S86K9u.png"
-          }
-        },
-        {
-          "id": 4839,
-          "name": {
-            "full": "Gray Fullbuster"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4839-p2SBgjdTxHxk.png"
-          }
-        },
-        {
-          "id": 9719,
-          "name": {
-            "full": "Juvia Lockser"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b9719-xh4xqTV6byNl.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Gurren Lagann",
       "romaji": "Tengen Toppa Gurren Lagann"
     },
@@ -5370,6 +5314,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2761-FmSJGaW9WzYZ.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Fairy Tail",
+      "romaji": "FAIRY TAIL"
+    },
+    "id": 6702,
+    "characters": {
+      "nodes": [
+        {
+          "id": 5189,
+          "name": {
+            "full": "Erza Scarlet"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5189-GR1xdok9SFsN.jpg"
+          }
+        },
+        {
+          "id": 5187,
+          "name": {
+            "full": "Natsu Dragneel"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5187-y1OEdRu9sPN2.png"
+          }
+        },
+        {
+          "id": 5186,
+          "name": {
+            "full": "Lucy Heartfilia"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5186-izgXf2S86K9u.png"
+          }
+        },
+        {
+          "id": 4839,
+          "name": {
+            "full": "Gray Fullbuster"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4839-p2SBgjdTxHxk.png"
+          }
+        },
+        {
+          "id": 9719,
+          "name": {
+            "full": "Juvia Lockser"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b9719-xh4xqTV6byNl.png"
           }
         }
       ]
