@@ -362,21 +362,21 @@
           }
         },
         {
-          "id": 89277,
-          "name": {
-            "full": "Garou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89277-xBGb4B5YISXg.png"
-          }
-        },
-        {
           "id": 73979,
           "name": {
             "full": "Genos"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73979-tVi9maPID881.jpg"
+          }
+        },
+        {
+          "id": 89277,
+          "name": {
+            "full": "Garou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89277-xBGb4B5YISXg.png"
           }
         },
         {
@@ -698,21 +698,21 @@
           }
         },
         {
-          "id": 36831,
-          "name": {
-            "full": "Suguha Kirigaya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36831-JfyFU7gPPVmr.png"
-          }
-        },
-        {
           "id": 43892,
           "name": {
             "full": "Yui"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43892-Ig6ZMdUbQDO2.jpg"
+          }
+        },
+        {
+          "id": 36831,
+          "name": {
+            "full": "Suguha Kirigaya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36831-JfyFU7gPPVmr.png"
           }
         },
         {
@@ -1961,62 +1961,6 @@
   },
   {
     "title": {
-      "english": "Violet Evergarden",
-      "romaji": "Violet Evergarden"
-    },
-    "id": 21827,
-    "characters": {
-      "nodes": [
-        {
-          "id": 90169,
-          "name": {
-            "full": "Violet Evergarden"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90169-4wr1Zehnsac8.png"
-          }
-        },
-        {
-          "id": 124790,
-          "name": {
-            "full": "Gilbert Bougainvillea"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124790-QR7zyemTK0zq.png"
-          }
-        },
-        {
-          "id": 124788,
-          "name": {
-            "full": "Benedict Blue"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124788-upZ5vtGwndzt.jpg"
-          }
-        },
-        {
-          "id": 124787,
-          "name": {
-            "full": "Cattleya Baudelaire"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124787-1HuZGawvoejp.jpg"
-          }
-        },
-        {
-          "id": 124799,
-          "name": {
-            "full": "Claudia Hodgins"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124799-htaqVGZd83GW.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Vinland Saga",
       "romaji": "VINLAND SAGA"
     },
@@ -2066,6 +2010,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13021-XJAVDHwMWek2.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Violet Evergarden",
+      "romaji": "Violet Evergarden"
+    },
+    "id": 21827,
+    "characters": {
+      "nodes": [
+        {
+          "id": 90169,
+          "name": {
+            "full": "Violet Evergarden"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90169-4wr1Zehnsac8.png"
+          }
+        },
+        {
+          "id": 124790,
+          "name": {
+            "full": "Gilbert Bougainvillea"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124790-QR7zyemTK0zq.png"
+          }
+        },
+        {
+          "id": 124788,
+          "name": {
+            "full": "Benedict Blue"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124788-upZ5vtGwndzt.jpg"
+          }
+        },
+        {
+          "id": 124787,
+          "name": {
+            "full": "Cattleya Baudelaire"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124787-1HuZGawvoejp.jpg"
+          }
+        },
+        {
+          "id": 124799,
+          "name": {
+            "full": "Claudia Hodgins"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124799-htaqVGZd83GW.jpg"
           }
         }
       ]
@@ -2689,62 +2689,6 @@
   },
   {
     "title": {
-      "english": "Parasyte -the maxim-",
-      "romaji": "Kiseijuu: Sei no Kakuritsu"
-    },
-    "id": 20623,
-    "characters": {
-      "nodes": [
-        {
-          "id": 12323,
-          "name": {
-            "full": "Shinichi Izumi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12323-NAoqDYOn2RSo.png"
-          }
-        },
-        {
-          "id": 13773,
-          "name": {
-            "full": "Migi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13773-Kuak0WTeTU9z.png"
-          }
-        },
-        {
-          "id": 19215,
-          "name": {
-            "full": "Kana Kimishima"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19215-oei5N1hu9w9w.png"
-          }
-        },
-        {
-          "id": 16586,
-          "name": {
-            "full": "Ryouko Tamiya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b16586-5BBzHsx1GLGC.jpg"
-          }
-        },
-        {
-          "id": 19436,
-          "name": {
-            "full": "Satomi Murano"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19436-d9ImDTVNQPKt.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "DARLING in the FRANXX",
       "romaji": "Darling in the Franxx"
     },
@@ -2794,6 +2738,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/n124383-I6ZsEBQoETj3.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Parasyte -the maxim-",
+      "romaji": "Kiseijuu: Sei no Kakuritsu"
+    },
+    "id": 20623,
+    "characters": {
+      "nodes": [
+        {
+          "id": 12323,
+          "name": {
+            "full": "Shinichi Izumi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12323-NAoqDYOn2RSo.png"
+          }
+        },
+        {
+          "id": 13773,
+          "name": {
+            "full": "Migi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13773-Kuak0WTeTU9z.png"
+          }
+        },
+        {
+          "id": 19215,
+          "name": {
+            "full": "Kana Kimishima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19215-oei5N1hu9w9w.png"
+          }
+        },
+        {
+          "id": 16586,
+          "name": {
+            "full": "Ryouko Tamiya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b16586-5BBzHsx1GLGC.jpg"
+          }
+        },
+        {
+          "id": 19436,
+          "name": {
+            "full": "Satomi Murano"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19436-d9ImDTVNQPKt.jpg"
           }
         }
       ]
@@ -3274,21 +3274,21 @@
           }
         },
         {
-          "id": 89277,
-          "name": {
-            "full": "Garou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89277-xBGb4B5YISXg.png"
-          }
-        },
-        {
           "id": 73979,
           "name": {
             "full": "Genos"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73979-tVi9maPID881.jpg"
+          }
+        },
+        {
+          "id": 89277,
+          "name": {
+            "full": "Garou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89277-xBGb4B5YISXg.png"
           }
         },
         {
@@ -3417,62 +3417,6 @@
   },
   {
     "title": {
-      "english": "The Rising of the Shield Hero",
-      "romaji": "Tate no Yuusha no Nariagari"
-    },
-    "id": 99263,
-    "characters": {
-      "nodes": [
-        {
-          "id": 88889,
-          "name": {
-            "full": "Raphtalia"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88889-CWYytVbCOPsV.png"
-          }
-        },
-        {
-          "id": 88817,
-          "name": {
-            "full": "Naofumi Iwatani"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88817-Aku5CuN6wO2z.png"
-          }
-        },
-        {
-          "id": 126828,
-          "name": {
-            "full": "Filo"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126828-nZDnMK4Bw7f9.png"
-          }
-        },
-        {
-          "id": 129813,
-          "name": {
-            "full": "Melty Q Melromarc"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129813-quaY4dr807yx.png"
-          }
-        },
-        {
-          "id": 135198,
-          "name": {
-            "full": "Mirellia Q Melromarc"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135198-ImEXzNG3srwI.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Mushoku Tensei: Jobless Reincarnation",
       "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu"
     },
@@ -3522,6 +3466,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88351-grqY44xz6bvP.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "The Rising of the Shield Hero",
+      "romaji": "Tate no Yuusha no Nariagari"
+    },
+    "id": 99263,
+    "characters": {
+      "nodes": [
+        {
+          "id": 88889,
+          "name": {
+            "full": "Raphtalia"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88889-CWYytVbCOPsV.png"
+          }
+        },
+        {
+          "id": 88817,
+          "name": {
+            "full": "Naofumi Iwatani"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88817-Aku5CuN6wO2z.png"
+          }
+        },
+        {
+          "id": 126828,
+          "name": {
+            "full": "Filo"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126828-nZDnMK4Bw7f9.png"
+          }
+        },
+        {
+          "id": 129813,
+          "name": {
+            "full": "Melty Q Melromarc"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129813-quaY4dr807yx.png"
+          }
+        },
+        {
+          "id": 135198,
+          "name": {
+            "full": "Mirellia Q Melromarc"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135198-ImEXzNG3srwI.png"
           }
         }
       ]
@@ -3684,12 +3684,12 @@
           }
         },
         {
-          "id": 36831,
+          "id": 43892,
           "name": {
-            "full": "Suguha Kirigaya"
+            "full": "Yui"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36831-JfyFU7gPPVmr.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43892-Ig6ZMdUbQDO2.jpg"
           }
         }
       ]
@@ -5489,62 +5489,6 @@
   },
   {
     "title": {
-      "english": "Dororo",
-      "romaji": "Dororo"
-    },
-    "id": 101347,
-    "characters": {
-      "nodes": [
-        {
-          "id": 14864,
-          "name": {
-            "full": "Hyakkimaru"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b14864-MMntDWi2EkyR.png"
-          }
-        },
-        {
-          "id": 36309,
-          "name": {
-            "full": "Narrator"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
-          }
-        },
-        {
-          "id": 18130,
-          "name": {
-            "full": "Dororo"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b18130-qD7dREeDAkLE.png"
-          }
-        },
-        {
-          "id": 133825,
-          "name": {
-            "full": "Mio"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133825-zCFpsLLRJnPm.jpg"
-          }
-        },
-        {
-          "id": 24843,
-          "name": {
-            "full": "Biwamaru"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n24843-aemlGiDa6lk8.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
       "romaji": "Kimetsu no Yaiba: Katanakaji no Sato-hen"
     },
@@ -5594,6 +5538,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b129133-VlTPowwt68rJ.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Dororo",
+      "romaji": "Dororo"
+    },
+    "id": 101347,
+    "characters": {
+      "nodes": [
+        {
+          "id": 14864,
+          "name": {
+            "full": "Hyakkimaru"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b14864-MMntDWi2EkyR.png"
+          }
+        },
+        {
+          "id": 36309,
+          "name": {
+            "full": "Narrator"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
+          }
+        },
+        {
+          "id": 18130,
+          "name": {
+            "full": "Dororo"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b18130-qD7dREeDAkLE.png"
+          }
+        },
+        {
+          "id": 133825,
+          "name": {
+            "full": "Mio"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133825-zCFpsLLRJnPm.jpg"
+          }
+        },
+        {
+          "id": 24843,
+          "name": {
+            "full": "Biwamaru"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n24843-aemlGiDa6lk8.png"
           }
         }
       ]
