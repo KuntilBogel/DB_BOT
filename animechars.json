@@ -2801,62 +2801,6 @@
   },
   {
     "title": {
-      "english": "Neon Genesis Evangelion",
-      "romaji": "Shin Seiki Evangelion"
-    },
-    "id": 30,
-    "characters": {
-      "nodes": [
-        {
-          "id": 94,
-          "name": {
-            "full": "Asuka Langley Souryuu"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b94-d631a3Z2KPvd.png"
-          }
-        },
-        {
-          "id": 86,
-          "name": {
-            "full": "Rei Ayanami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/86-cA1zL7fyls8E.jpg"
-          }
-        },
-        {
-          "id": 89,
-          "name": {
-            "full": "Shinji Ikari"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89-ZtZhXkh1rITn.png"
-          }
-        },
-        {
-          "id": 1259,
-          "name": {
-            "full": "Misato Katsuragi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1259-afTQkZ5SVMOn.png"
-          }
-        },
-        {
-          "id": 1261,
-          "name": {
-            "full": "Kaworu Nagisa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1261-HYRv3HpsSL92.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "JUJUTSU KAISEN Season 2",
       "romaji": "Jujutsu Kaisen 2nd Season"
     },
@@ -2906,6 +2850,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133700-f6sOO3TcgLV6.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Neon Genesis Evangelion",
+      "romaji": "Shin Seiki Evangelion"
+    },
+    "id": 30,
+    "characters": {
+      "nodes": [
+        {
+          "id": 94,
+          "name": {
+            "full": "Asuka Langley Souryuu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b94-d631a3Z2KPvd.png"
+          }
+        },
+        {
+          "id": 86,
+          "name": {
+            "full": "Rei Ayanami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/86-cA1zL7fyls8E.jpg"
+          }
+        },
+        {
+          "id": 89,
+          "name": {
+            "full": "Shinji Ikari"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89-ZtZhXkh1rITn.png"
+          }
+        },
+        {
+          "id": 1259,
+          "name": {
+            "full": "Misato Katsuragi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1259-afTQkZ5SVMOn.png"
+          }
+        },
+        {
+          "id": 1261,
+          "name": {
+            "full": "Kaworu Nagisa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1261-HYRv3HpsSL92.jpg"
           }
         }
       ]
@@ -3305,62 +3305,6 @@
   },
   {
     "title": {
-      "english": "Death Parade",
-      "romaji": "Death Parade"
-    },
-    "id": 20931,
-    "characters": {
-      "nodes": [
-        {
-          "id": 80,
-          "name": {
-            "full": "Light Yagami"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b80-26EhwSsSqQ50.png"
-          }
-        },
-        {
-          "id": 81853,
-          "name": {
-            "full": "Decim"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b81853-CY99xwoziDG4.png"
-          }
-        },
-        {
-          "id": 82037,
-          "name": {
-            "full": "Kurokami no Onna"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82037-xvKHWk4AE4df.png"
-          }
-        },
-        {
-          "id": 88681,
-          "name": {
-            "full": "Nona"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88681-tTuJXN5ds3gy.png"
-          }
-        },
-        {
-          "id": 88780,
-          "name": {
-            "full": "Clavis"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88780-76uJe60Gkw70.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "That Time I Got Reincarnated as a Slime",
       "romaji": "Tensei Shitara Slime Datta Ken"
     },
@@ -3410,6 +3354,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b128034-Gg5MrpTFNSv8.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Death Parade",
+      "romaji": "Death Parade"
+    },
+    "id": 20931,
+    "characters": {
+      "nodes": [
+        {
+          "id": 80,
+          "name": {
+            "full": "Light Yagami"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b80-26EhwSsSqQ50.png"
+          }
+        },
+        {
+          "id": 81853,
+          "name": {
+            "full": "Decim"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b81853-CY99xwoziDG4.png"
+          }
+        },
+        {
+          "id": 82037,
+          "name": {
+            "full": "Kurokami no Onna"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82037-xvKHWk4AE4df.png"
+          }
+        },
+        {
+          "id": 88681,
+          "name": {
+            "full": "Nona"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88681-tTuJXN5ds3gy.png"
+          }
+        },
+        {
+          "id": 88780,
+          "name": {
+            "full": "Clavis"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88780-76uJe60Gkw70.png"
           }
         }
       ]
@@ -3753,62 +3753,6 @@
   },
   {
     "title": {
-      "english": "Mob Psycho 100 II",
-      "romaji": "Mob Psycho 100 II"
-    },
-    "id": 101338,
-    "characters": {
-      "nodes": [
-        {
-          "id": 89334,
-          "name": {
-            "full": "Arataka Reigen"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89334-OPj1hCzvrt7X.png"
-          }
-        },
-        {
-          "id": 89616,
-          "name": {
-            "full": "Shigeo Kageyama"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89616-dXmdOc7L6SDi.png"
-          }
-        },
-        {
-          "id": 89617,
-          "name": {
-            "full": "Ekubo"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89617-HHZ1kziYxc0q.png"
-          }
-        },
-        {
-          "id": 89621,
-          "name": {
-            "full": "Teruki Hanazawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89621-3uLnmhFOGYFv.png"
-          }
-        },
-        {
-          "id": 36309,
-          "name": {
-            "full": "Narrator"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Classroom of the Elite",
       "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
     },
@@ -3858,6 +3802,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124691-S9GyfwMAkkJ9.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Mob Psycho 100 II",
+      "romaji": "Mob Psycho 100 II"
+    },
+    "id": 101338,
+    "characters": {
+      "nodes": [
+        {
+          "id": 89334,
+          "name": {
+            "full": "Arataka Reigen"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89334-OPj1hCzvrt7X.png"
+          }
+        },
+        {
+          "id": 89616,
+          "name": {
+            "full": "Shigeo Kageyama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89616-dXmdOc7L6SDi.png"
+          }
+        },
+        {
+          "id": 89617,
+          "name": {
+            "full": "Ekubo"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89617-HHZ1kziYxc0q.png"
+          }
+        },
+        {
+          "id": 89621,
+          "name": {
+            "full": "Teruki Hanazawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89621-3uLnmhFOGYFv.png"
+          }
+        },
+        {
+          "id": 36309,
+          "name": {
+            "full": "Narrator"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
           }
         }
       ]
@@ -4537,62 +4537,6 @@
   },
   {
     "title": {
-      "english": "Made in Abyss",
-      "romaji": "Made in Abyss"
-    },
-    "id": 97986,
-    "characters": {
-      "nodes": [
-        {
-          "id": 122445,
-          "name": {
-            "full": "Nanachi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122445-5uDu8wMy8Jxi.png"
-          }
-        },
-        {
-          "id": 122463,
-          "name": {
-            "full": "Bondrewd"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122463-p4o7qOTJ2Lba.jpg"
-          }
-        },
-        {
-          "id": 122444,
-          "name": {
-            "full": "Reg"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122444-9rGUpcjwygHD.png"
-          }
-        },
-        {
-          "id": 122464,
-          "name": {
-            "full": "Ouzen"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122464-xnYajKbuEa29.jpg"
-          }
-        },
-        {
-          "id": 36309,
-          "name": {
-            "full": "Narrator"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Overlord",
       "romaji": "Overlord"
     },
@@ -4649,6 +4593,62 @@
   },
   {
     "title": {
+      "english": "Made in Abyss",
+      "romaji": "Made in Abyss"
+    },
+    "id": 97986,
+    "characters": {
+      "nodes": [
+        {
+          "id": 122445,
+          "name": {
+            "full": "Nanachi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122445-5uDu8wMy8Jxi.png"
+          }
+        },
+        {
+          "id": 122463,
+          "name": {
+            "full": "Bondrewd"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122463-p4o7qOTJ2Lba.jpg"
+          }
+        },
+        {
+          "id": 122444,
+          "name": {
+            "full": "Reg"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122444-9rGUpcjwygHD.png"
+          }
+        },
+        {
+          "id": 122464,
+          "name": {
+            "full": "Ouzen"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122464-xnYajKbuEa29.jpg"
+          }
+        },
+        {
+          "id": 36309,
+          "name": {
+            "full": "Narrator"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
       "english": "Food Wars!",
       "romaji": "Shokugeki no Souma"
     },
@@ -4692,12 +4692,68 @@
           }
         },
         {
-          "id": 78475,
+          "id": 78935,
           "name": {
-            "full": "Satoshi Isshiki"
+            "full": "Ikumi Mito"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b78475-mMDe3GSAgP6V.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b78935-21Ac5ydcrLCj.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "Cyberpunk: Edgerunners",
+      "romaji": "Cyberpunk: Edgerunners"
+    },
+    "id": 120377,
+    "characters": {
+      "nodes": [
+        {
+          "id": 284157,
+          "name": {
+            "full": "Lucy"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284157-cqYawN7XCNJx.jpg"
+          }
+        },
+        {
+          "id": 284158,
+          "name": {
+            "full": "David Martinez"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284158-z1uGKC3IYVa1.png"
+          }
+        },
+        {
+          "id": 284163,
+          "name": {
+            "full": "Rebecca"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284163-tt8smoAXl24x.jpg"
+          }
+        },
+        {
+          "id": 284159,
+          "name": {
+            "full": "Maine"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284159-RvuKShSpDOS5.png"
+          }
+        },
+        {
+          "id": 284161,
+          "name": {
+            "full": "Kiwi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284161-QlVuoXKKONLM.jpg"
           }
         }
       ]
@@ -4810,62 +4866,6 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88897-2xey5UG7Qr2S.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "english": "Cyberpunk: Edgerunners",
-      "romaji": "Cyberpunk: Edgerunners"
-    },
-    "id": 120377,
-    "characters": {
-      "nodes": [
-        {
-          "id": 284157,
-          "name": {
-            "full": "Lucy"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284157-cqYawN7XCNJx.jpg"
-          }
-        },
-        {
-          "id": 284158,
-          "name": {
-            "full": "David Martinez"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284158-z1uGKC3IYVa1.png"
-          }
-        },
-        {
-          "id": 284163,
-          "name": {
-            "full": "Rebecca"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284163-tt8smoAXl24x.jpg"
-          }
-        },
-        {
-          "id": 284159,
-          "name": {
-            "full": "Maine"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284159-RvuKShSpDOS5.png"
-          }
-        },
-        {
-          "id": 284161,
-          "name": {
-            "full": "Kiwi"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284161-QlVuoXKKONLM.jpg"
           }
         }
       ]
@@ -5153,62 +5153,6 @@
   },
   {
     "title": {
-      "english": "My Teen Romantic Comedy SNAFU",
-      "romaji": "Yahari Ore no Seishun Love Come wa Machigatteiru."
-    },
-    "id": 14813,
-    "characters": {
-      "nodes": [
-        {
-          "id": 67065,
-          "name": {
-            "full": "Hachiman Hikigaya"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png"
-          }
-        },
-        {
-          "id": 67067,
-          "name": {
-            "full": "Yukino Yukinoshita"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67067-gqhgjlni0Bcf.png"
-          }
-        },
-        {
-          "id": 67069,
-          "name": {
-            "full": "Yui Yuigahama"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67069-6B3xnHfJUO0F.png"
-          }
-        },
-        {
-          "id": 67077,
-          "name": {
-            "full": "Shizuka Hiratsuka"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67077-NaBvItxCYPon.png"
-          }
-        },
-        {
-          "id": 67071,
-          "name": {
-            "full": "Saika Totsuka"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67071-3tO9QQA9x0hV.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "Re:ZERO -Starting Life in Another World- Season 2",
       "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season"
     },
@@ -5258,6 +5202,62 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90181-wRPm0OEaucmw.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "english": "My Teen Romantic Comedy SNAFU",
+      "romaji": "Yahari Ore no Seishun Love Come wa Machigatteiru."
+    },
+    "id": 14813,
+    "characters": {
+      "nodes": [
+        {
+          "id": 67065,
+          "name": {
+            "full": "Hachiman Hikigaya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png"
+          }
+        },
+        {
+          "id": 67067,
+          "name": {
+            "full": "Yukino Yukinoshita"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67067-gqhgjlni0Bcf.png"
+          }
+        },
+        {
+          "id": 67069,
+          "name": {
+            "full": "Yui Yuigahama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67069-6B3xnHfJUO0F.png"
+          }
+        },
+        {
+          "id": 67077,
+          "name": {
+            "full": "Shizuka Hiratsuka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67077-NaBvItxCYPon.png"
+          }
+        },
+        {
+          "id": 67071,
+          "name": {
+            "full": "Saika Totsuka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b67071-3tO9QQA9x0hV.jpg"
           }
         }
       ]
