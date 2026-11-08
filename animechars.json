@@ -73,21 +73,21 @@
           }
         },
         {
-          "id": 127518,
-          "name": {
-            "full": "Nezuko Kamado"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127518-NRlq1CQ1v1ro.png"
-          }
-        },
-        {
           "id": 129130,
           "name": {
             "full": "Inosuke Hashibira"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/n129130-SJC0Kn1DU39E.jpg"
+          }
+        },
+        {
+          "id": 127518,
+          "name": {
+            "full": "Nezuko Kamado"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127518-NRlq1CQ1v1ro.png"
           }
         },
         {
@@ -2593,21 +2593,21 @@
           }
         },
         {
-          "id": 127518,
-          "name": {
-            "full": "Nezuko Kamado"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127518-NRlq1CQ1v1ro.png"
-          }
-        },
-        {
           "id": 129130,
           "name": {
             "full": "Inosuke Hashibira"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/n129130-SJC0Kn1DU39E.jpg"
+          }
+        },
+        {
+          "id": 127518,
+          "name": {
+            "full": "Nezuko Kamado"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127518-NRlq1CQ1v1ro.png"
           }
         },
         {
@@ -2985,21 +2985,21 @@
           }
         },
         {
-          "id": 127518,
-          "name": {
-            "full": "Nezuko Kamado"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127518-NRlq1CQ1v1ro.png"
-          }
-        },
-        {
           "id": 129130,
           "name": {
             "full": "Inosuke Hashibira"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/n129130-SJC0Kn1DU39E.jpg"
+          }
+        },
+        {
+          "id": 127518,
+          "name": {
+            "full": "Nezuko Kamado"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127518-NRlq1CQ1v1ro.png"
           }
         },
         {
@@ -4089,6 +4089,62 @@
   },
   {
     "title": {
+      "english": "My Dress-Up Darling",
+      "romaji": "Sono Bisque Doll wa Koi wo Suru"
+    },
+    "id": 132405,
+    "characters": {
+      "nodes": [
+        {
+          "id": 133676,
+          "name": {
+            "full": "Marin Kitagawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133676-kV2czE3C8Qls.png"
+          }
+        },
+        {
+          "id": 133678,
+          "name": {
+            "full": "Wakana Gojou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133678-IitCgjDxQGgu.png"
+          }
+        },
+        {
+          "id": 36309,
+          "name": {
+            "full": "Narrator"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
+          }
+        },
+        {
+          "id": 133677,
+          "name": {
+            "full": "Sajuna Inui"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133677-PqshvUeVFB7u.jpg"
+          }
+        },
+        {
+          "id": 207937,
+          "name": {
+            "full": "Shinju Inui"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b207937-ytYjcNtNX77K.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
       "english": "Kaguya-sama: Love is War?",
       "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen"
     },
@@ -4194,62 +4250,6 @@
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/88954-Mc5TurYknYTn.jpg"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "english": "My Dress-Up Darling",
-      "romaji": "Sono Bisque Doll wa Koi wo Suru"
-    },
-    "id": 132405,
-    "characters": {
-      "nodes": [
-        {
-          "id": 133676,
-          "name": {
-            "full": "Marin Kitagawa"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133676-kV2czE3C8Qls.png"
-          }
-        },
-        {
-          "id": 133678,
-          "name": {
-            "full": "Wakana Gojou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133678-IitCgjDxQGgu.png"
-          }
-        },
-        {
-          "id": 36309,
-          "name": {
-            "full": "Narrator"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
-          }
-        },
-        {
-          "id": 133677,
-          "name": {
-            "full": "Sajuna Inui"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133677-PqshvUeVFB7u.jpg"
-          }
-        },
-        {
-          "id": 207937,
-          "name": {
-            "full": "Shinju Inui"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b207937-ytYjcNtNX77K.png"
           }
         }
       ]
@@ -4692,12 +4692,12 @@
           }
         },
         {
-          "id": 78935,
+          "id": 78475,
           "name": {
-            "full": "Ikumi Mito"
+            "full": "Satoshi Isshiki"
           },
           "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b78935-21Ac5ydcrLCj.png"
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b78475-mMDe3GSAgP6V.png"
           }
         }
       ]
@@ -5299,21 +5299,21 @@
           }
         },
         {
-          "id": 36309,
-          "name": {
-            "full": "Narrator"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
-          }
-        },
-        {
           "id": 2761,
           "name": {
             "full": "Nia Teppelin"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2761-FmSJGaW9WzYZ.png"
+          }
+        },
+        {
+          "id": 36309,
+          "name": {
+            "full": "Narrator"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
           }
         }
       ]
@@ -5377,62 +5377,6 @@
   },
   {
     "title": {
-      "english": "KONOSUBA -God's blessing on this wonderful world! 2",
-      "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2"
-    },
-    "id": 21699,
-    "characters": {
-      "nodes": [
-        {
-          "id": 89361,
-          "name": {
-            "full": "Megumin"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89361-tq8PQQ4MmF0M.png"
-          }
-        },
-        {
-          "id": 89364,
-          "name": {
-            "full": "Kazuma Satou"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89364-7Th8Tv1XKJtt.png"
-          }
-        },
-        {
-          "id": 89362,
-          "name": {
-            "full": "Aqua"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89362-ibkc0eoECaW1.png"
-          }
-        },
-        {
-          "id": 89363,
-          "name": {
-            "full": "Darkness"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89363-mm21Ll4NegUD.png"
-          }
-        },
-        {
-          "id": 120652,
-          "name": {
-            "full": "Yunyun"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b120652-YxrBBPbmJno2.png"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
       "english": "I Want to Eat Your Pancreas",
       "romaji": "Kimi no Suizou wo Tabetai"
     },
@@ -5489,6 +5433,62 @@
   },
   {
     "title": {
+      "english": "KONOSUBA -God's blessing on this wonderful world! 2",
+      "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2"
+    },
+    "id": 21699,
+    "characters": {
+      "nodes": [
+        {
+          "id": 89361,
+          "name": {
+            "full": "Megumin"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89361-tq8PQQ4MmF0M.png"
+          }
+        },
+        {
+          "id": 89364,
+          "name": {
+            "full": "Kazuma Satou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89364-7Th8Tv1XKJtt.png"
+          }
+        },
+        {
+          "id": 89362,
+          "name": {
+            "full": "Aqua"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89362-ibkc0eoECaW1.png"
+          }
+        },
+        {
+          "id": 89363,
+          "name": {
+            "full": "Darkness"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89363-mm21Ll4NegUD.png"
+          }
+        },
+        {
+          "id": 120652,
+          "name": {
+            "full": "Yunyun"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b120652-YxrBBPbmJno2.png"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
       "english": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
       "romaji": "Kimetsu no Yaiba: Katanakaji no Sato-hen"
     },
@@ -5505,21 +5505,21 @@
           }
         },
         {
-          "id": 127518,
-          "name": {
-            "full": "Nezuko Kamado"
-          },
-          "image": {
-            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127518-NRlq1CQ1v1ro.png"
-          }
-        },
-        {
           "id": 129130,
           "name": {
             "full": "Inosuke Hashibira"
           },
           "image": {
             "large": "https://s4.anilist.co/file/anilistcdn/character/large/n129130-SJC0Kn1DU39E.jpg"
+          }
+        },
+        {
+          "id": 127518,
+          "name": {
+            "full": "Nezuko Kamado"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127518-NRlq1CQ1v1ro.png"
           }
         },
         {
